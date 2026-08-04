@@ -383,9 +383,14 @@ const DATA_CANDIDATES = [
 ];
 
 const FILTERS = [
-  "jurisdiction","country_or_region","subnational_area","hierarchy_level",
-  "targeting_category","language","once_technology_label_used_in_text","policy_status"
+  "jurisdiction","country_or_region","subnational_area","language",
+  "document_type","legal_force","implementation_status","cdr_relevance",
+  "mechanism_family","method_group","intervention_type","instrument_type","policy_orientation"
 ];
+const MULTI_VALUE_FIELDS = new Set([
+  "mechanism_family","method_group","method_subtype","habitat_or_medium",
+  "intervention_type","storage_pathway","technology_components","instrument_type"
+]);
 
 const VALUE_MAP_EN = {
   "中国": "China",
@@ -407,11 +412,147 @@ const VALUE_MAP_EN = {
   "答复": "Official reply"
 };
 
+const CONTROLLED_LABELS_ZH = {
+  "bill_or_draft": "法案或草案",
+  "consultation": "咨询或征求意见",
+  "cop_or_party_decision": "缔约方大会决定/声明",
+  "funding_or_programme": "资助或实施项目",
+  "guidance_or_standard": "指南或标准",
+  "law": "法律",
+  "ndc_or_climate_commitment": "NDC或气候承诺",
+  "permit_or_project_decision": "项目许可或审批决定",
+  "regulation": "法规或规章",
+  "report_or_assessment": "报告或评估",
+  "strategy_plan_roadmap": "战略、规划或路线图",
+  "treaty_or_amendment": "条约或修正案",
+  "binding": "有约束力",
+  "mixed": "混合效力",
+  "non_binding": "无约束力",
+  "adopted_not_yet_in_force": "已通过但尚未生效",
+  "draft": "草案阶段",
+  "ended": "已结束",
+  "in_force_or_active": "已生效或正在实施",
+  "planned": "已规划",
+  "under_review": "审查或评估中",
+  "avoided_emissions_or_stock_protection": "避免排放或既有碳库保护",
+  "enabling_or_non_cdr": "支撑性活动或非CDR",
+  "mixed_removal_and_avoidance": "移除与避免排放并存",
+  "potential_cdr": "潜在CDR",
+  "strict_cdr": "严格意义CDR",
+  "abiotic": "非生物型",
+  "biotic": "生物型",
+  "unspecified": "未具体说明",
+  "artificial_downwelling": "人工下降流",
+  "artificial_upwelling": "人工上升流",
+  "biomass_sinking": "生物质沉降与深海储存",
+  "coastal_blue_carbon_management": "海岸蓝碳生态系统管理",
+  "direct_ocean_capture_and_storage": "海水直接捕集与储存",
+  "macroalgae_cultivation": "大型海藻培养",
+  "marine_biological_carbon_management": "海洋生物碳管理",
+  "nutrient_fertilization": "营养物或铁施肥",
+  "ocean_alkalinity_enhancement": "海洋增碱",
+  "seabed_sediment_carbon_management": "海床沉积物碳管理",
+  "unspecified_mCDR": "未具体说明的mCDR",
+  "alkaline_dosing": "碱性物质投加",
+  "calcium_based_dosing": "钙基物质投加",
+  "direct_ocean_capture_with_storage": "海水直接捕集并储存",
+  "electrochemical_alkalinity_enhancement": "电化学增碱",
+  "electrochemical_direct_ocean_capture": "电化学海水直接捕集",
+  "industrial_byproduct_leaching": "工业副产物浸出增碱",
+  "iron_fertilization": "海洋铁施肥",
+  "macroalgal_forest_restoration": "大型海藻林恢复",
+  "modular_continuous_dosing": "模块化连续投加",
+  "coastal_ecosystem_unspecified": "未具体说明的海岸生态系统",
+  "coastal_wetland": "滨海湿地",
+  "deep_ocean": "深海",
+  "macroalgae": "大型海藻",
+  "mangrove": "红树林",
+  "marine_biota": "海洋生物",
+  "open_ocean": "开放海洋",
+  "salt_marsh": "盐沼",
+  "seabed_sediment": "海床沉积物",
+  "seagrass": "海草床",
+  "seawater": "海水",
+  "surface_ocean": "表层海洋",
+  "tidal_flat": "潮滩",
+  "unspecified_marine": "未具体说明的海洋介质",
+  "afforestation_or_expansion": "营造或扩展",
+  "alkalinity_addition": "增碱物质投加",
+  "biomass_cultivation": "生物质培养",
+  "carbon_accounting_or_mrv": "碳核算或MRV",
+  "co2_extraction": "CO₂提取",
+  "conservation_or_protection": "保护或养护",
+  "ecosystem_restoration": "生态系统恢复",
+  "electrochemical_treatment": "电化学处理",
+  "finance_or_crediting": "融资或碳信用",
+  "mapping_or_inventory": "制图或清单调查",
+  "nutrient_addition": "营养物添加",
+  "permit_or_regulatory_control": "许可或监管控制",
+  "policy_or_market_development": "政策或市场机制建设",
+  "research_or_assessment": "研究或评估",
+  "water_mass_downwelling": "水团下降输送",
+  "water_mass_upwelling": "水团上升输送",
+  "coastal_biomass_and_sediment": "海岸生物量与沉积物",
+  "deep_ocean_biomass_storage": "深海生物质储存",
+  "deep_ocean_dissolved_inorganic_carbon": "深海溶解无机碳",
+  "external_durable_storage_unspecified": "外部持久储存（未具体说明）",
+  "marine_biomass_and_sediment": "海洋生物量与沉积物",
+  "ocean_dissolved_inorganic_carbon": "海洋溶解无机碳",
+  "unknown_or_unspecified": "未知或未具体说明",
+  "accounting_methodology": "核算方法学",
+  "community_or_social_safeguard": "社区或社会保障",
+  "compliance_market_integration": "纳入履约市场",
+  "crediting_mechanism": "碳信用机制",
+  "demonstration_support": "示范支持",
+  "ecosystem_restoration_or_conservation_programme": "生态恢复或保护项目",
+  "environmental_impact_assessment": "环境影响评价",
+  "international_coordination": "国际协调",
+  "mapping_inventory_or_monitoring": "制图、清单或监测",
+  "moratorium_or_prohibition": "暂停或禁止",
+  "mrv_standard": "MRV标准",
+  "other_or_unspecified": "其他或未具体说明",
+  "permit_or_authorization": "许可或授权",
+  "policy_planning_and_coordination": "政策规划与协调",
+  "public_consultation": "公众咨询",
+  "public_procurement": "公共采购",
+  "regulatory_safeguard": "监管保障",
+  "research_and_development_funding": "研发资助",
+  "research_strategy": "研究战略",
+  "target_or_commitment": "目标或承诺",
+  "authorizing_permissive": "授权许可型",
+  "enabling_supportive": "支持促进型",
+  "evidence_building": "证据建设型",
+  "mixed_or_conditional": "混合或附条件型",
+  "precautionary_restrictive": "预防限制型",
+  "prohibitive": "禁止型"
+};
+function humanizeCode(value){
+  const raw = norm(value);
+  if(!raw) return lang === "zh" ? "（空）" : "(Empty)";
+  return raw.replace(/_/g, " ").replace(/mcd(r)?/ig, "mCDR").replace(/co2/ig, "CO₂").replace(/mrv/ig, "MRV").replace(/^./, c => c.toUpperCase());
+}
+function displayControlledValue(value){
+  const raw = norm(value);
+  if(!raw || raw === "（空）") return lang === "zh" ? "（空）" : "(Empty)";
+  if(lang === "zh") return CONTROLLED_LABELS_ZH[raw] || maybeTranslate(raw) || raw;
+  return humanizeCode(VALUE_MAP_EN[raw] || raw);
+}
+function valuesOf(value){
+  if(Array.isArray(value)) return value.map(norm).filter(Boolean);
+  const raw = norm(value);
+  if(!raw) return [];
+  return raw.split(";").map(norm).filter(Boolean);
+}
+function displayField(value){
+  const vals = valuesOf(value);
+  return vals.length ? vals.map(displayControlledValue).join(lang === "zh" ? "；" : "; ") : "—";
+}
+
 const I18N = {
   zh: {
     pageTitle: "海洋负排放（ONCE）政策文本数据库",
     titleBadge: "ONCE技术分类",
-    sub: "支持按海水碱化、海水直接捕集、海洋施肥、海洋生物质及蓝碳生态系统等具体ONCE路径检索，并提供年份筛选、动态计数、分页、排序、表格视图和CSV导出。",
+    sub: "按照CDR属性、技术机制、具体方法、干预方式、政策工具、法律效力与实施状态检索ONCE政策，并提供动态计数、分页、排序、表格视图和CSV导出。",
     loading: "正在载入数据…",
     loadingTitle: "正在加载",
     loadingTitleEn: "Loading",
@@ -431,7 +572,7 @@ const I18N = {
     loadingDoneEn: "Completed",
     loaded: (n, path) => `已加载 ${n} 条ONCE政策记录（${path}）`,
     langBtn: "English",
-    searchPlaceholder: "搜索政策标题、国家、ONCE技术、功能、状态、治理影响、备注…",
+    searchPlaceholder: "搜索政策标题、国家、技术方法、CDR属性、政策工具、实施状态、备注…",
     clear: "清空",
     yearRange: "年份范围",
     selectedNone: "当前未选择额外筛选条件。",
@@ -460,14 +601,9 @@ const I18N = {
     next: "下一页",
     page: (p, total) => `第 ${p} / ${total} 页`,
     labels: {
-      jurisdiction: "适用层级",
-      country_or_region: "国家/地区",
-      subnational_area: "细分区域",
-      hierarchy_level: "法律/制度层级",
-      targeting_category: "政策成熟度分级",
-      language: "语种",
-      once_technology_label_used_in_text: "ONCE具体技术/生态系统",
-      policy_status: "政策状态"
+      jurisdiction: "适用层级", country_or_region: "国家/地区", subnational_area: "细分区域", language: "语种",
+      document_type: "政策文件类型", legal_force: "法律效力", implementation_status: "实施状态", cdr_relevance: "CDR属性",
+      mechanism_family: "移除机理", method_group: "规范技术方法", intervention_type: "干预方式", instrument_type: "政策工具", policy_orientation: "治理取向"
     },
     sortOptions: {
       year_desc: "按年份（新→旧）",
@@ -477,144 +613,13 @@ const I18N = {
       region_asc: "按地区（A→Z）"
     },
     card: {
-      hierarchy_level: "层级",
-      targeting_category: "政策分级",
-      function_type: "政策功能",
-      once_technology_label_used_in_text: "ONCE技术/生态系统",
-      policy_status: "政策状态",
-      governance_effect: "治理影响",
-      source: "发布/来源机构",
-      nexus1: "一级关联议题",
-      nexus2: "二级治理工具/联结",
-      source_url: "原文链接",
-      notes: "备注：",
-      open: "打开原文",
-      noTitle: "（无标题）",
-      noYear: "年份未注明"
+      document_type: "政策文件类型", legal_force: "法律效力", implementation_status: "实施状态", status_note: "状态说明",
+      cdr_relevance: "CDR属性", mechanism_family: "移除机理", method_group: "规范技术方法", method_subtype: "技术子类型",
+      habitat_or_medium: "生态对象/介质", intervention_type: "干预方式", storage_pathway: "储存路径", technology_components: "组合技术构成",
+      instrument_type: "政策工具", policy_orientation: "治理取向", source: "发布/来源机构", source_url: "原文链接",
+      notes: "备注：", open: "打开原文", noTitle: "（无标题）", noYear: "年份未注明"
     },
-    table: {
-      title: "标题",
-      region: "地区",
-      year: "年份",
-      technology: "ONCE技术/生态系统",
-      level: "层级",
-      targeting: "政策分级",
-      source: "发布/来源机构"
-    },
-    targetingMap: {
-      A: "A｜正式法律/监管、许可或核算",
-      B: "B｜正式战略、计划、目标或部署支持",
-      C: "C｜研究、MRV、标准、试点或市场准备",
-      D: "D｜拟议、草案、咨询或尚未采纳",
-      "A | Formal law/regulation, permitting or accounting": "A｜正式法律/监管、许可或核算",
-      "B | Formal strategy, plan, target or deployment support": "B｜正式战略、计划、目标或部署支持",
-      "C | Research, MRV, standards, pilots or market preparation": "C｜研究、MRV、标准、试点或市场准备",
-      "D | Proposed, draft, consultation or not adopted": "D｜拟议、草案、咨询或尚未采纳"
-    }
-  },
-  en: {
-    pageTitle: "Ocean Negative Emissions (ONCE) Policy Text Database",
-    titleBadge: "ONCE Technology Taxonomy",
-    sub: "Search specific ONCE pathways including ocean alkalinity enhancement, direct ocean capture, ocean fertilization, marine biomass, and blue-carbon ecosystems, with year filters, dynamic counts, pagination, sorting, table view, and CSV export.",
-    loading: "Loading data…",
-    loadingTitle: "Loading",
-    loadingTitleEn: "正在加载",
-    loadingSub: "Loading page and data, please wait…",
-    loadingSubEn: "正在读取页面与数据，请稍候…",
-    loadingPreparing: "Preparing…",
-    loadingPreparingEn: "准备中",
-    loadingPageReady: "Interface ready",
-    loadingPageReadyEn: "页面已就绪",
-    loadingFetchingData: "Reading data file",
-    loadingFetchingDataEn: "正在读取数据文件",
-    loadingParsingData: "Parsing data file",
-    loadingParsingDataEn: "正在解析数据文件",
-    loadingRendering: "Rendering content",
-    loadingRenderingEn: "正在渲染内容",
-    loadingDone: "Completed",
-    loadingDoneEn: "加载完成",
-    loaded: (n, path) => `Loaded ${n} ONCE policy records (${path})`,
-    langBtn: "中文",
-    searchPlaceholder: "Search policy title, country, ONCE technology, function, status, governance effect, notes…",
-    clear: "Clear",
-    yearRange: "Year range",
-    selectedNone: "No additional filters selected.",
-    searchChip: "Keyword",
-    yearCount: "Count",
-    stats: (shown, total) => `Showing ${shown} records (total ${total})`,
-    openSankey: "Visualize",
-    openMap: "Map",
-    openSankeyOption: "Sankey",
-    openChangePoint: "Change-point",
-    sourceEntry: "Data Source",
-    export: "Export current results as CSV",
-    footerPrefix: "Data citation:",
-    footerLoading: "Latest update time (Beijing Time / UTC): loading…",
-    footerError: "Latest update time (Beijing Time / UTC): failed to load",
-    footerTemplate: (cn, en) => `最新更新时间（北京时间 / UTC）：${cn} ｜ Latest update time (Beijing Time / UTC): ${en}`,
-    empty: "No matching records. Try clearing filters or widening the year range.",
-    loadFail: "Data load failed: ",
-    loadFailTip: 'Unable to load data. Place this page in the same folder as an ONCE-structured <code>data.json</code>.',
-    noMatchOption: "No matching options",
-    filterSearchPlaceholder: "Filter options in this group",
-    toggle: "Expand / collapse",
-    viewCard: "Card view",
-    viewTable: "Table view",
-    prev: "Previous",
-    next: "Next",
-    page: (p, total) => `Page ${p} / ${total}`,
-    labels: {
-      jurisdiction: "Jurisdiction",
-      country_or_region: "Country / Region",
-      subnational_area: "Subnational area",
-      hierarchy_level: "Legal / institutional level",
-      targeting_category: "Policy maturity category",
-      language: "Language",
-      once_technology_label_used_in_text: "Specific ONCE technology / ecosystem",
-      policy_status: "Policy status"
-    },
-    sortOptions: {
-      year_desc: "Sort by year (new → old)",
-      year_asc: "Sort by year (old → new)",
-      title_asc: "Sort by title (A → Z)",
-      title_desc: "Sort by title (Z → A)",
-      region_asc: "Sort by region (A → Z)"
-    },
-    card: {
-      hierarchy_level: "Level",
-      targeting_category: "Policy category",
-      function_type: "Policy function",
-      once_technology_label_used_in_text: "ONCE technology / ecosystem",
-      policy_status: "Policy status",
-      governance_effect: "Governance effect",
-      source: "Issuing / source institution",
-      nexus1: "Primary nexus",
-      nexus2: "Secondary instrument / linkage",
-      source_url: "Source link",
-      notes: "Notes:",
-      open: "Open source",
-      noTitle: "(Untitled)",
-      noYear: "Year not specified"
-    },
-    table: {
-      title: "Title",
-      region: "Region",
-      year: "Year",
-      technology: "ONCE technology / ecosystem",
-      level: "Level",
-      targeting: "Policy category",
-      source: "Issuing / source institution"
-    },
-    targetingMap: {
-      A: "A | Formal law/regulation, permitting or accounting",
-      B: "B | Formal strategy, plan, target or deployment support",
-      C: "C | Research, MRV, standards, pilots or market preparation",
-      D: "D | Proposed, draft, consultation or not adopted",
-      "A｜正式法律/监管、许可或核算": "A | Formal law/regulation, permitting or accounting",
-      "B｜正式战略、计划、目标或部署支持": "B | Formal strategy, plan, target or deployment support",
-      "C｜研究、MRV、标准、试点或市场准备": "C | Research, MRV, standards, pilots or market preparation",
-      "D｜拟议、草案、咨询或尚未采纳": "D | Proposed, draft, consultation or not adopted"
-    }
+    table: { title: "Title", region: "Region", year: "Year", technology: "Standardized method", level: "Document type", targeting: "Implementation status", source: "Issuing / source institution" }
   }
 };
 
@@ -757,39 +762,13 @@ function maybeTranslate(value){
   if(lang === "zh") return v;
   return VALUE_MAP_EN[v] || v;
 }
-function displayTargeting(v){
-  const key = norm(v);
-  return t().targetingMap[key] || maybeTranslate(key) || "—";
+function getFilterRawValues(r, key){
+  const vals = valuesOf(r?.[key]);
+  return vals.length ? Array.from(new Set(vals)) : ["（空）"];
 }
-function getFilterRawValue(r, key){
-  return norm(r?.[key]) || "（空）";
-}
-function getFilterDisplayValue(key, rawValue){
-  const v = norm(rawValue) || "（空）";
-  if(key === "targeting_category") return displayTargeting(v);
-  return maybeTranslate(v);
-}
-function normalizeSelectionValue(key, value){
-  const raw = norm(value);
-  if(!raw) return raw;
-  if(key === "targeting_category") {
-    const zhMap = I18N.zh?.targetingMap || {};
-    const enMap = I18N.en?.targetingMap || {};
-    if(Object.prototype.hasOwnProperty.call(zhMap, raw) || Object.prototype.hasOwnProperty.call(enMap, raw)) return raw;
-    const reverseMaps = [zhMap, enMap];
-    for(const mapping of reverseMaps){
-      for(const [k, label] of Object.entries(mapping)){
-        if(norm(label) === raw) return k;
-      }
-    }
-  }
-  const translated = maybeTranslate(raw);
-  if(translated === raw) return raw;
-  for(const candidate of Object.keys(VALUE_MAP_EN)){
-    if(norm(candidate) === raw || norm(VALUE_MAP_EN[candidate]) === raw) return candidate;
-  }
-  return raw;
-}
+function getFilterRawValue(r, key){ return getFilterRawValues(r, key)[0] || "（空）"; }
+function getFilterDisplayValue(key, rawValue){ return displayControlledValue(rawValue); }
+function normalizeSelectionValue(key, value){ return norm(value); }
 function normalizeAllSelections(){
   for(const key of FILTERS){
     const current = Array.from(selections.get(key) || []);
@@ -855,9 +834,10 @@ async function loadDataWithProgress(){
 }
 const REQUIRED_ONCE_FIELDS = [
   "id","jurisdiction","country_or_region","subnational_area","language","year",
-  "document_title","hierarchy_level","targeting_category","function_type",
-  "once_technology_label_used_in_text","source_url","notes","source",
-  "policy_status","governance_effect","nexus1","nexus2"
+  "document_title","document_type","legal_force","implementation_status","status_note",
+  "cdr_relevance","mechanism_family","method_group","method_subtype","habitat_or_medium",
+  "intervention_type","storage_pathway","technology_components","instrument_type",
+  "policy_orientation","notes","source","source_url"
 ];
 
 function validateOnceSchema(data){
@@ -941,24 +921,20 @@ function relabelFilterHeads(){
   });
 }
 function getComparableValue(r, key){
-  return getFilterDisplayValue(key, getFilterRawValue(r, key));
+  return getFilterRawValues(r, key).map(v => getFilterDisplayValue(key, v)).join("; ");
 }
 function getUniqueValues(key){
   const set = new Set();
-  rows.forEach(r => set.add(getFilterRawValue(r, key)));
+  rows.forEach(r => getFilterRawValues(r, key).forEach(v => set.add(v)));
   return Array.from(set).sort((a,b)=>getFilterDisplayValue(key, a).localeCompare(getFilterDisplayValue(key, b), lang === 'zh' ? 'zh-CN' : 'en'));
 }
 function rowMatchesSearch(r){
   const q = norm(el.q.value).toLowerCase();
   if(!q) return true;
-  const pool = [
-    r.id, r.jurisdiction, r.country_or_region, r.subnational_area, r.language, r.year,
-    r.document_title, r.hierarchy_level, r.targeting_category, displayTargeting(r.targeting_category),
-    r.function_type, r.once_technology_label_used_in_text, r.source_url, r.notes, r.source,
-    r.policy_status, r.governance_effect, r.nexus1, r.nexus2,
-    maybeTranslate(r.country_or_region), maybeTranslate(r.subnational_area),
-    maybeTranslate(r.hierarchy_level), maybeTranslate(r.language), maybeTranslate(r.policy_status)
-  ].map(v => norm(v).toLowerCase()).join(" | ");
+  const pool = REQUIRED_ONCE_FIELDS.flatMap(key => {
+    const vals = valuesOf(r?.[key]);
+    return vals.concat(vals.map(displayControlledValue));
+  }).concat([maybeTranslate(r.country_or_region), maybeTranslate(r.subnational_area), maybeTranslate(r.language)]).map(v => norm(v).toLowerCase()).join(" | ");
   return pool.includes(q);
 }
 function rowMatchesYear(r){
@@ -971,8 +947,8 @@ function rowMatchesSelections(r, ignoreKey=null){
     if(key === ignoreKey) continue;
     const sel = selections.get(key);
     if(!sel || sel.size === 0) continue;
-    const val = getFilterRawValue(r, key);
-    if(!sel.has(val)) return false;
+    const vals = getFilterRawValues(r, key);
+    if(!vals.some(v => sel.has(v))) return false;
   }
   return true;
 }
@@ -1026,10 +1002,9 @@ function renderFilters(){
     const counts = new Map(values.map(v => [v,0]));
     rows.forEach(r => {
       if(!rowMatchesSearch(r) || !rowMatchesYear(r) || !rowMatchesSelections(r, key)) return;
-      const v = getFilterRawValue(r, key);
-      counts.set(v, (counts.get(v) || 0) + 1);
+      getFilterRawValues(r, key).forEach(v => counts.set(v, (counts.get(v) || 0) + 1));
     });
-    container.innerHTML = values.filter(v => !searchText || v.toLowerCase().includes(searchText)).map(v => {
+    container.innerHTML = values.filter(v => !searchText || v.toLowerCase().includes(searchText) || getFilterDisplayValue(key, v).toLowerCase().includes(searchText)).map(v => {
       const count = counts.get(v) || 0;
       const checked = selections.get(key).has(v);
       const disabled = count === 0 && !checked;
@@ -1065,54 +1040,40 @@ function getPageRows(){
 }
 function renderCards(){
   const pageRows = getPageRows();
-  if(!filtered.length){
-    el.cards.innerHTML = `<div class="empty">${escapeHtml(t().empty)}</div>`;
-    return;
-  }
+  if(!filtered.length){ el.cards.innerHTML = `<div class="empty">${escapeHtml(t().empty)}</div>`; return; }
+  const fieldRow = (label, value) => `<div class="field"><b>${escapeHtml(label + labelSep())}</b>${escapeHtml(displayField(value))}</div>`;
   el.cards.innerHTML = pageRows.map(r => {
-    const metaVals = [
-      maybeTranslate(r.jurisdiction), maybeTranslate(r.country_or_region), maybeTranslate(r.subnational_area),
-      maybeTranslate(r.language), r.year ? String(r.year) : t().card.noYear, displayTargeting(r.targeting_category)
-    ].filter(v => norm(v));
-    const meta = metaVals.map(v => `<span class="pill">${escapeHtml(v)}</span>`).join("");
-    return `
-      <article class="card">
-        <div class="title">${escapeHtml(r.document_title || t().card.noTitle)}</div>
-        <div class="meta">${meta}</div>
-        <div class="grid">
-          <div class="field"><b>${escapeHtml(t().card.hierarchy_level + labelSep())}</b>${escapeHtml(maybeTranslate(r.hierarchy_level) || "—")}</div>
-          <div class="field"><b>${escapeHtml(t().card.targeting_category + labelSep())}</b>${escapeHtml(displayTargeting(r.targeting_category) || "—")}</div>
-          <div class="field"><b>${escapeHtml(t().card.function_type + labelSep())}</b>${escapeHtml(maybeTranslate(r.function_type) || "—")}</div>
-          <div class="field"><b>${escapeHtml(t().card.once_technology_label_used_in_text + labelSep())}</b>${escapeHtml(maybeTranslate(r.once_technology_label_used_in_text) || "—")}</div>
-          <div class="field"><b>${escapeHtml(t().card.policy_status + labelSep())}</b>${escapeHtml(maybeTranslate(r.policy_status) || "—")}</div>
-          <div class="field"><b>${escapeHtml(t().card.governance_effect + labelSep())}</b>${escapeHtml(maybeTranslate(r.governance_effect) || "—")}</div>
-          <div class="field"><b>${escapeHtml(t().card.source + labelSep())}</b>${escapeHtml(maybeTranslate(r.source) || "—")}</div>
-          <div class="field"><b>${escapeHtml(t().card.nexus1 + labelSep())}</b>${escapeHtml(maybeTranslate(r.nexus1) || "—")}</div>
-          <div class="field"><b>${escapeHtml(t().card.nexus2 + labelSep())}</b>${escapeHtml(maybeTranslate(r.nexus2) || "—")}</div>
-          <div class="field"><b>${escapeHtml(t().card.source_url + labelSep())}</b>${r.source_url ? `<a href="${escapeHtml(r.source_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(t().card.open)}</a>` : "—"}</div>
-        </div>
-        ${norm(r.notes) ? `<div class="desc"><b style="color:var(--muted);font-weight:600">${escapeHtml(t().card.notes)}</b>${escapeHtml(r.notes)}</div>` : ""}
-      </article>
-    `;
+    const metaVals = [maybeTranslate(r.jurisdiction), maybeTranslate(r.country_or_region), maybeTranslate(r.subnational_area), maybeTranslate(r.language), r.year ? String(r.year) : t().card.noYear, displayControlledValue(r.cdr_relevance)].filter(v => norm(v));
+    return `<article class="card">
+      <div class="title">${escapeHtml(r.document_title || t().card.noTitle)}</div>
+      <div class="meta">${metaVals.map(v => `<span class="pill">${escapeHtml(v)}</span>`).join("")}</div>
+      <div class="grid">
+        ${fieldRow(t().card.document_type,r.document_type)}${fieldRow(t().card.legal_force,r.legal_force)}
+        ${fieldRow(t().card.implementation_status,r.implementation_status)}${fieldRow(t().card.status_note,r.status_note)}
+        ${fieldRow(t().card.cdr_relevance,r.cdr_relevance)}${fieldRow(t().card.mechanism_family,r.mechanism_family)}
+        ${fieldRow(t().card.method_group,r.method_group)}${fieldRow(t().card.method_subtype,r.method_subtype)}
+        ${fieldRow(t().card.habitat_or_medium,r.habitat_or_medium)}${fieldRow(t().card.intervention_type,r.intervention_type)}
+        ${fieldRow(t().card.storage_pathway,r.storage_pathway)}${fieldRow(t().card.technology_components,r.technology_components)}
+        ${fieldRow(t().card.instrument_type,r.instrument_type)}${fieldRow(t().card.policy_orientation,r.policy_orientation)}
+        ${fieldRow(t().card.source,r.source)}
+        <div class="field"><b>${escapeHtml(t().card.source_url + labelSep())}</b>${r.source_url ? `<a href="${escapeHtml(r.source_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(t().card.open)}</a>` : "—"}</div>
+      </div>
+      ${norm(r.notes) ? `<div class="desc"><b style="color:var(--muted);font-weight:600">${escapeHtml(t().card.notes)}</b>${escapeHtml(r.notes)}</div>` : ""}
+    </article>`;
   }).join("");
 }
 function renderTable(){
   const pageRows = getPageRows();
-  if(!filtered.length){
-    el.tableBody.innerHTML = `<tr><td colspan="7">${escapeHtml(t().empty)}</td></tr>`;
-    return;
-  }
-  el.tableBody.innerHTML = pageRows.map(r => `
-    <tr>
-      <td>${escapeHtml(r.document_title || t().card.noTitle)}</td>
-      <td>${escapeHtml([maybeTranslate(r.country_or_region), maybeTranslate(r.subnational_area)].filter(Boolean).join(" / "))}</td>
-      <td>${escapeHtml(r.year || "")}</td>
-      <td>${escapeHtml(maybeTranslate(r.once_technology_label_used_in_text) || "—")}</td>
-      <td>${escapeHtml(maybeTranslate(r.hierarchy_level) || "—")}</td>
-      <td>${escapeHtml(displayTargeting(r.targeting_category) || "—")}</td>
-      <td>${r.source_url ? `<a href="${escapeHtml(r.source_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(maybeTranslate(r.source) || t().card.open)}</a>` : escapeHtml(maybeTranslate(r.source) || "—")}</td>
-    </tr>
-  `).join("");
+  if(!filtered.length){ el.tableBody.innerHTML = `<tr><td colspan="7">${escapeHtml(t().empty)}</td></tr>`; return; }
+  el.tableBody.innerHTML = pageRows.map(r => `<tr>
+    <td>${escapeHtml(r.document_title || t().card.noTitle)}</td>
+    <td>${escapeHtml([maybeTranslate(r.country_or_region), maybeTranslate(r.subnational_area)].filter(Boolean).join(" / "))}</td>
+    <td>${escapeHtml(r.year || "")}</td>
+    <td>${escapeHtml(displayField(r.method_group))}</td>
+    <td>${escapeHtml(displayControlledValue(r.document_type))}</td>
+    <td>${escapeHtml(displayControlledValue(r.implementation_status))}</td>
+    <td>${r.source_url ? `<a href="${escapeHtml(r.source_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(r.source || t().card.open)}</a>` : escapeHtml(r.source || "—")}</td>
+  </tr>`).join("");
 }
 function renderPagination(){
   const totalPages = Math.max(1, Math.ceil(filtered.length / pageSize));
@@ -1411,13 +1372,13 @@ function openChangePointView(){
 
 function exportCsv(){
   const cols = [
-    "id","jurisdiction","country_or_region","subnational_area","language","year",
-    "document_title","hierarchy_level","targeting_category","function_type",
-    "once_technology_label_used_in_text","source_url","notes","source",
-    "policy_status","governance_effect","nexus1","nexus2"
+    "id","jurisdiction","country_or_region","subnational_area","language","year","document_title",
+    "document_type","legal_force","implementation_status","status_note","cdr_relevance","mechanism_family",
+    "method_group","method_subtype","habitat_or_medium","intervention_type","storage_pathway",
+    "technology_components","instrument_type","policy_orientation","notes","source","source_url"
   ];
   const esc = v => {
-    const s = norm(v);
+    const s = Array.isArray(v) ? v.join("; ") : norm(v);
     if(/[",\n]/.test(s)) return '"' + s.replace(/"/g,'""') + '"';
     return s;
   };
