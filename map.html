@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>海洋负排放（ONCE）政策地图</title>
+<title>Global ONCE国际大科学计划政策地图</title>
 <style>
 :root{
   --bg:#f4fbff; --card:#ffffff; --line:#d7e5ef; --muted:#5b7285; --text:#10212f;
@@ -396,12 +396,14 @@ const ONCE_OVERLAY_STYLES = {};
 let onceOverlayGeoJsons = {};
 const FILTERS = [
   "jurisdiction","country_or_region","subnational_area","language",
-  "document_type","legal_force","implementation_status","cdr_relevance",
-  "mechanism_family","method_group","intervention_type","instrument_type","policy_orientation"
+  "once_relevance","once_component","once_application_domain","carbon_pump_basis",
+  "pump_integration_type","once_approach","certification_approach","triple_real_dimension",
+  "document_type","legal_force","implementation_status","instrument_type","policy_orientation"
 ];
 const MULTI_VALUE_FIELDS = new Set([
-  "mechanism_family","method_group","method_subtype","habitat_or_medium",
-  "intervention_type","storage_pathway","technology_components","instrument_type"
+  "once_component","once_application_domain","carbon_pump_basis","once_approach",
+  "carbon_form","carbon_phase","storage_compartment","certification_approach",
+  "triple_real_dimension","instrument_type"
 ]);
 const VALUE_MAP_EN = {
   "中国": "China",
@@ -445,71 +447,6 @@ const CONTROLLED_LABELS_ZH = {
   "in_force_or_active": "已生效或正在实施",
   "planned": "已规划",
   "under_review": "审查或评估中",
-  "avoided_emissions_or_stock_protection": "避免排放或既有碳库保护",
-  "enabling_or_non_cdr": "支撑性活动或非CDR",
-  "mixed_removal_and_avoidance": "移除与避免排放并存",
-  "potential_cdr": "潜在CDR",
-  "strict_cdr": "严格意义CDR",
-  "abiotic": "非生物型",
-  "biotic": "生物型",
-  "unspecified": "未具体说明",
-  "artificial_downwelling": "人工下降流",
-  "artificial_upwelling": "人工上升流",
-  "biomass_sinking": "生物质沉降与深海储存",
-  "coastal_blue_carbon_management": "海岸蓝碳生态系统管理",
-  "direct_ocean_capture_and_storage": "海水直接捕集与储存",
-  "macroalgae_cultivation": "大型海藻培养",
-  "marine_biological_carbon_management": "海洋生物碳管理",
-  "nutrient_fertilization": "营养物或铁施肥",
-  "ocean_alkalinity_enhancement": "海洋增碱",
-  "seabed_sediment_carbon_management": "海床沉积物碳管理",
-  "unspecified_mCDR": "未具体说明的mCDR",
-  "alkaline_dosing": "碱性物质投加",
-  "calcium_based_dosing": "钙基物质投加",
-  "direct_ocean_capture_with_storage": "海水直接捕集并储存",
-  "electrochemical_alkalinity_enhancement": "电化学增碱",
-  "electrochemical_direct_ocean_capture": "电化学海水直接捕集",
-  "industrial_byproduct_leaching": "工业副产物浸出增碱",
-  "iron_fertilization": "海洋铁施肥",
-  "macroalgal_forest_restoration": "大型海藻林恢复",
-  "modular_continuous_dosing": "模块化连续投加",
-  "coastal_ecosystem_unspecified": "未具体说明的海岸生态系统",
-  "coastal_wetland": "滨海湿地",
-  "deep_ocean": "深海",
-  "macroalgae": "大型海藻",
-  "mangrove": "红树林",
-  "marine_biota": "海洋生物",
-  "open_ocean": "开放海洋",
-  "salt_marsh": "盐沼",
-  "seabed_sediment": "海床沉积物",
-  "seagrass": "海草床",
-  "seawater": "海水",
-  "surface_ocean": "表层海洋",
-  "tidal_flat": "潮滩",
-  "unspecified_marine": "未具体说明的海洋介质",
-  "afforestation_or_expansion": "营造或扩展",
-  "alkalinity_addition": "增碱物质投加",
-  "biomass_cultivation": "生物质培养",
-  "carbon_accounting_or_mrv": "碳核算或MRV",
-  "co2_extraction": "CO₂提取",
-  "conservation_or_protection": "保护或养护",
-  "ecosystem_restoration": "生态系统恢复",
-  "electrochemical_treatment": "电化学处理",
-  "finance_or_crediting": "融资或碳信用",
-  "mapping_or_inventory": "制图或清单调查",
-  "nutrient_addition": "营养物添加",
-  "permit_or_regulatory_control": "许可或监管控制",
-  "policy_or_market_development": "政策或市场机制建设",
-  "research_or_assessment": "研究或评估",
-  "water_mass_downwelling": "水团下降输送",
-  "water_mass_upwelling": "水团上升输送",
-  "coastal_biomass_and_sediment": "海岸生物量与沉积物",
-  "deep_ocean_biomass_storage": "深海生物质储存",
-  "deep_ocean_dissolved_inorganic_carbon": "深海溶解无机碳",
-  "external_durable_storage_unspecified": "外部持久储存（未具体说明）",
-  "marine_biomass_and_sediment": "海洋生物量与沉积物",
-  "ocean_dissolved_inorganic_carbon": "海洋溶解无机碳",
-  "unknown_or_unspecified": "未知或未具体说明",
   "accounting_methodology": "核算方法学",
   "community_or_social_safeguard": "社区或社会保障",
   "compliance_market_integration": "纳入履约市场",
@@ -535,12 +472,114 @@ const CONTROLLED_LABELS_ZH = {
   "evidence_building": "证据建设型",
   "mixed_or_conditional": "混合或附条件型",
   "precautionary_restrictive": "预防限制型",
-  "prohibitive": "禁止型"
+  "prohibitive": "禁止型",
+  "core_once_eco_engineering": "ONCE核心生态工程",
+  "once_scientific_foundation": "ONCE科学基础",
+  "once_monitoring_and_accounting": "ONCE监测、核算与核查",
+  "once_standardization_and_certification": "ONCE标准化与认证",
+  "once_market_and_compensation": "ONCE市场与生态补偿",
+  "once_governance_and_safeguards": "ONCE治理、法律与保障",
+  "once_research_coordination": "ONCE科研协调与能力建设",
+  "adjacent_ocean_climate_policy": "ONCE邻近海洋气候政策",
+  "scientific_mechanism": "科学机制",
+  "eco_engineering": "生态工程",
+  "monitoring_accounting_and_verification": "监测、核算与核查",
+  "standardization_and_certification": "标准化与认证",
+  "carbon_market_and_ecological_compensation": "碳市场与生态补偿",
+  "governance_law_and_ethics": "治理、法律与伦理",
+  "research_coordination_and_capacity_building": "科研协调与能力建设",
+  "land_sea_coordination": "陆海统筹减排增汇",
+  "eutrophic_estuary_and_coastal_water": "富营养化河口与近岸海域",
+  "hypoxic_anoxic_acidified_water": "缺氧、厌氧与酸化海域",
+  "sea_farming_and_mariculture": "海水养殖与海洋牧场",
+  "coastal_wetland": "滨海湿地",
+  "coral_reef_and_island_system": "珊瑚礁与岛礁生态系统",
+  "open_ocean_and_deep_ocean": "外海与深海",
+  "seabed_and_geological_storage": "海床与海洋地质储存",
+  "cross_system_or_unspecified": "跨系统或未明确场景",
+  "MCP": "微型生物碳泵（MCP）",
+  "BCP": "生物碳泵（BCP）",
+  "CCP": "碳酸盐反向泵（CCP）",
+  "SCP": "溶解度泵（SCP）",
+  "BCMS_integrated": "BCMS四泵综合",
+  "MCP_BCP": "MCP–BCP耦合",
+  "CCP_SCP": "CCP–SCP耦合",
+  "BCP_CCP_SCP": "BCP–CCP–SCP耦合",
+  "MCP_BCP_CCP": "MCP–BCP–CCP耦合",
+  "MCP_BCP_SCP": "MCP–BCP–SCP耦合",
+  "not_specified": "未具体说明",
+  "land_sea_nutrient_management": "陆海统筹营养盐管理",
+  "eutrophic_coastal_sink_enhancement": "富营养化近岸增汇与环境修复",
+  "ocean_fertilization": "海洋施肥（邻近路径）",
+  "alkalinity_management": "海洋碱度调控",
+  "electrochemical_alkalinity_management": "电化学碱度调控",
+  "direct_ocean_capture": "海水直接捕集（邻近路径）",
+  "artificial_upwelling": "人工上升流",
+  "artificial_downwelling": "人工下降流",
+  "integrated_mariculture": "海水综合养殖",
+  "macroalgae_cultivation": "大型海藻养殖",
+  "seaweed_forest_restoration": "海藻林恢复",
+  "shellfish_algae_integrated_farming": "贝藻综合养殖",
+  "marine_ranching_sink_enhancement": "海洋牧场与碳汇渔业增汇",
+  "biomass_sinking_and_carbon_burial": "生物质沉降与碳埋藏",
+  "seabed_sediment_carbon_management": "海床沉积物碳管理",
+  "marine_geological_storage": "海洋地质碳封存",
+  "mangrove_restoration": "红树林恢复",
+  "mangrove_conservation": "红树林保护",
+  "mangrove_afforestation_or_expansion": "红树林营造或扩展",
+  "seagrass_restoration": "海草床恢复",
+  "seagrass_conservation": "海草床保护",
+  "salt_marsh_restoration": "盐沼恢复",
+  "salt_marsh_conservation": "盐沼保护",
+  "tidal_flat_restoration": "潮滩恢复",
+  "tidal_flat_conservation": "潮滩保护",
+  "coastal_wetland_sink_enhancement": "滨海湿地增汇",
+  "coral_reef_restoration_and_carbon_management": "珊瑚礁恢复与碳管理",
+  "carbon_sink_mapping_and_inventory": "海洋碳汇制图与清单",
+  "carbon_sink_accounting_and_mrv": "海洋碳汇核算与MRV",
+  "carbon_sink_standardization_and_certification": "海洋碳汇标准化与认证",
+  "process_based_certification": "过程型认证",
+  "carbon_crediting_trading_and_compensation": "碳信用、交易与生态补偿",
+  "research_and_demonstration": "科研、试验与示范",
+  "permitting_and_environmental_safeguards": "许可、环境评估与保障",
+  "international_rulemaking_and_coordination": "国际规则与协调",
+  "broad_once_portfolio": "ONCE综合路径（未细分）",
+  "organic_carbon": "有机碳",
+  "inorganic_carbon": "无机碳",
+  "mixed_organic_inorganic": "有机—无机混合碳",
+  "particulate": "颗粒态",
+  "dissolved": "溶解态",
+  "carbonate_mineral": "碳酸盐矿物态",
+  "biomass": "生物量",
+  "water_column": "水体",
+  "deep_ocean": "深海",
+  "coastal_sediment": "滨海沉积物",
+  "seabed_sediment": "海床沉积物",
+  "subseabed_geological_formation": "海床下地质构造",
+  "harvested_product": "收获产品",
+  "external_geological_or_durable_storage": "外部地质或持久储存",
+  "carbonate_reef_structure": "碳酸盐礁体",
+  "outcome_based_carbon_accounting": "结果型碳核算",
+  "activity_whitelist": "负排放活动白名单",
+  "hybrid_process_and_outcome": "过程—结果混合认证",
+  "not_applicable": "不适用",
+  "3R_realistic": "3R—Realistic（现实可实施）",
+  "3R_reliable_iso_certified": "3R—Reliable/ISO-certified（可靠与ISO认证）",
+  "3R_reproducible": "3R—Reproducible（可复制）",
+  "3E_ecological": "3E—Ecological（生态）",
+  "3E_ethical": "3E—Ethical（伦理）",
+  "3E_equity": "3E—Equity（公平）",
+  "3A_ambitious": "3A—Ambitious（有雄心）",
+  "3A_actionable": "3A—Actionable（可行动）",
+  "3A_achievable": "3A—Achievable（可实现）",
+  "3L_legal": "3L—Legal（合法）",
+  "3L_london_protocol": "3L—London Protocol（伦敦议定书）",
+  "3L_liability": "3L—Liability（责任机制）"
 };
 function humanizeCode(value){
   const raw = norm(value);
   if(!raw) return lang === "zh" ? "（空）" : "(Empty)";
-  return raw.replace(/_/g, " ").replace(/mcd(r)?/ig, "mCDR").replace(/co2/ig, "CO₂").replace(/mrv/ig, "MRV").replace(/^./, c => c.toUpperCase());
+  return raw.replace(/_/g, " ").replace(/\bmcd(r)?\b/ig, "mCDR").replace(/\bco2\b/ig, "CO₂").replace(/\bmrv\b/ig, "MRV").replace(/^./, c => c.toUpperCase());
 }
 function displayControlledValue(value){
   const raw = norm(value);
@@ -735,8 +774,8 @@ const CHINA_CLUSTER_MAP = {
 
 const I18N = {
   zh: {
-    pageTitle: "海洋负排放（ONCE）政策地图",
-    sub: "左侧采用规范化ONCE分类筛选；右侧按国家/地区聚合，并展示CDR属性、规范技术方法、文件类型、实施状态和政策工具。",
+    pageTitle: "Global ONCE国际大科学计划政策地图",
+    sub: "以Global ONCE国际大科学计划为中心，按国家/地区展示计划组成、问题海域、BCMS四泵机制、生态工程路径、认证与Triple REAL治理维度。",
     loadingTitle: "正在加载", loadingTitleEn: "Loading",
     loadingSub: "正在读取页面、ONCE政策数据与地图底图，请稍候…", loadingSubEn: "Loading page, ONCE policy data and basemap, please wait…",
     loadingPreparing: "准备中", loadingPreparingEn: "Preparing…",
@@ -748,7 +787,7 @@ const I18N = {
     loadingDone: "加载完成", loadingDoneEn: "Completed",
     loaded: (n, path) => `已加载 ${n} 条ONCE政策记录，数据源：${path}`,
     langBtn: "English",
-    searchPlaceholder: "搜索政策标题、国家、规范技术方法、CDR属性、政策工具、实施状态、来源或备注…",
+    searchPlaceholder: "搜索政策标题、国家、ONCE组成、问题海域、BCMS碳泵、生态工程路径、Triple REAL、状态或备注…",
     clear: "清空", yearRange: "年份范围", selectedNone: "当前未选择额外筛选条件。", searchChip: "关键词", yearCount: "数量",
     stats: (shown, total) => `当前筛选后共有 ${shown} 条ONCE政策记录（总计 ${total} 条）`,
     resetFocus: "清除聚焦", export: "导出国家/地区ONCE统计 CSV",
@@ -772,27 +811,29 @@ const I18N = {
     zipfSeriesPoints: "实际点迹", zipfSeriesFit: "Zipf拟合", zipfEmpty: "至少需要2个有记录的国家/地区，才能进行Zipf拟合。",
     rankTitle: "ONCE政策数量排行", focusTitle: "当前聚焦",
     focusAll: "当前显示全部国家/地区。", focusAllCity: "当前显示全部已映射中国地级市。",
-    focusEmpty: "点击上方国家/地区卡片，查看该地区的规范技术方法、CDR属性、实施状态和原文链接。",
+    focusEmpty: "点击上方国家/地区卡片，查看该地区的ONCE关联类型、问题海域、BCMS碳泵、生态工程路径、实施状态和原文链接。",
     focusEmptyCity: "点击中国地级市地图中的城市，查看该市对应的ONCE政策记录。",
     focusSummary: (name, count, share) => `${name}：${count} 条，占当前筛选结果 ${share}%`,
     focusExamples: "政策文本", focusItems: "条目", focusPage: "页", focusPrev: "上一页", focusNext: "下一页",
     focusRange: (start, end, total) => `显示第 ${start}–${end} 条，共 ${total} 条`, focusNoExamples: "暂无政策文本。",
-    profileTitle: "政策与技术构成", profileSub: "显示所选国家/地区记录中的CDR属性和规范技术方法构成。",
+    profileTitle: "Global ONCE构成画像", profileSub: "显示所选国家/地区记录中的ONCE关联类型、问题海域、BCMS碳泵和生态工程路径。",
     topN: (n) => `前 ${n} 位国家/地区`, topNCities: (n) => `前 ${n} 位地级市`,
     fallbackTitle: "未检测到地图底图文件，已自动改用国家/地区卡片视图。",
     fallbackTip: "如需正式地图效果，请放入经审核的 world_china_compliant.geojson 或兼容世界地图GeoJSON。",
     empty: "没有符合条件的ONCE政策。试试清空筛选或放宽年份范围。",
     labels: {
       jurisdiction: "适用层级", country_or_region: "国家/地区", subnational_area: "细分区域", language: "语种",
-      document_type: "政策文件类型", legal_force: "法律效力", implementation_status: "实施状态", cdr_relevance: "CDR属性",
-      mechanism_family: "移除机理", method_group: "规范技术方法", intervention_type: "干预方式", instrument_type: "政策工具", policy_orientation: "治理取向"
+      once_relevance: "与Global ONCE的关系", once_component: "ONCE计划组成", once_application_domain: "问题海域/应用场景",
+      carbon_pump_basis: "BCMS碳泵基础", pump_integration_type: "碳泵耦合类型", once_approach: "ONCE生态工程路径",
+      certification_approach: "核算/认证方式", triple_real_dimension: "Triple REAL维度", document_type: "政策文件类型",
+      legal_force: "法律效力", implementation_status: "实施状态", instrument_type: "政策工具", policy_orientation: "治理取向"
     },
     sortOptions: { count_desc: "按数量（高→低）", count_asc: "按数量（低→高）", name_asc: "按地区（A→Z）", name_desc: "按地区（Z→A）" },
     noCountry: "未标注国家/地区"
   },
   en: {
-    pageTitle: "Ocean Negative Emissions (ONCE) Policy Map",
-    sub: "The left filters use the standardized ONCE taxonomy; the right side aggregates policies by country/region and summarizes CDR relevance, standardized methods, document types, implementation status, and policy instruments.",
+    pageTitle: "Global ONCE International Big-Science Program Policy Map",
+    sub: "Organized around the Global ONCE international big-science program, the map summarizes program components, problem marine areas, BCMS four-pump mechanisms, eco-engineering pathways, certification, and Triple REAL governance dimensions by country or region.",
     loadingTitle: "Loading", loadingTitleEn: "正在加载",
     loadingSub: "Loading page, ONCE policy data and basemap, please wait…", loadingSubEn: "正在读取页面、ONCE政策数据与地图底图，请稍候…",
     loadingPreparing: "Preparing…", loadingPreparingEn: "准备中", loadingPageReady: "Interface ready", loadingPageReadyEn: "页面已就绪",
@@ -801,7 +842,7 @@ const I18N = {
     loadingFetchingMap: "Reading basemap", loadingFetchingMapEn: "正在读取地图底图",
     loadingRendering: "Rendering content", loadingRenderingEn: "正在渲染内容", loadingDone: "Completed", loadingDoneEn: "加载完成",
     loaded: (n, path) => `Loaded ${n} ONCE policy records. Source: ${path}`,
-    langBtn: "中文", searchPlaceholder: "Search policy title, country, method, CDR relevance, instrument, implementation status, source, or notes…",
+    langBtn: "中文", searchPlaceholder: "Search title, country, ONCE component, problem area, BCMS pump, eco-engineering pathway, Triple REAL, status, source, or notes…",
     clear: "Clear", yearRange: "Year range", selectedNone: "No additional filters selected.", searchChip: "Keyword", yearCount: "Count",
     stats: (shown, total) => `${shown} ONCE policy records in the current filter set (${total} total)`,
     resetFocus: "Reset focus", export: "Export country/region ONCE stats CSV",
@@ -823,20 +864,22 @@ const I18N = {
     zipfSeriesPoints: "Observed points", zipfSeriesFit: "Zipf fit", zipfEmpty: "At least 2 countries/regions with non-zero counts are needed for Zipf fitting.",
     rankTitle: "ONCE policy count ranking", focusTitle: "Current focus", focusAll: "Currently showing all countries / regions.",
     focusAllCity: "Currently showing all mapped prefecture-level cities in China.",
-    focusEmpty: "Click a country/region card above to inspect its standardized methods, CDR relevance, implementation status, and source links.",
+    focusEmpty: "Click a country/region card to inspect its ONCE relevance, problem areas, BCMS pumps, eco-engineering pathways, implementation status, and source links.",
     focusEmptyCity: "Click a city on the China prefecture-level map to inspect its ONCE policy records.",
     focusSummary: (name, count, share) => `${name}: ${count} records, ${share}% of the current filtered set`,
     focusExamples: "Policy texts", focusItems: "Items", focusPage: "Page", focusPrev: "Previous", focusNext: "Next",
     focusRange: (start, end, total) => `Showing ${start}–${end} of ${total}`, focusNoExamples: "No policy texts available.",
-    profileTitle: "Policy and technology profile", profileSub: "Shows the distribution of CDR relevance and standardized methods within the selected country or region.",
+    profileTitle: "Global ONCE profile", profileSub: "Shows ONCE relevance, problem marine areas, BCMS pumps, and eco-engineering pathways within the selected country or region.",
     topN: (n) => `Top ${n} countries / regions`, topNCities: (n) => `Top ${n} prefecture-level cities`,
     fallbackTitle: "No basemap file detected. Switched to the country/region card fallback view.",
     fallbackTip: "For a formal map view, add a reviewed world_china_compliant.geojson or compatible world GeoJSON file.",
     empty: "No matching ONCE policies. Try clearing filters or widening the year range.",
     labels: {
       jurisdiction: "Jurisdiction", country_or_region: "Country / Region", subnational_area: "Subnational area", language: "Language",
-      document_type: "Document type", legal_force: "Legal force", implementation_status: "Implementation status", cdr_relevance: "CDR relevance",
-      mechanism_family: "Mechanism family", method_group: "Standardized method", intervention_type: "Intervention type", instrument_type: "Policy instrument", policy_orientation: "Policy orientation"
+      once_relevance: "Relationship to Global ONCE", once_component: "ONCE program component", once_application_domain: "Problem marine area / application domain",
+      carbon_pump_basis: "BCMS pump basis", pump_integration_type: "Pump integration", once_approach: "ONCE eco-engineering pathway",
+      certification_approach: "Accounting / certification", triple_real_dimension: "Triple REAL dimension", document_type: "Document type",
+      legal_force: "Legal force", implementation_status: "Implementation status", instrument_type: "Policy instrument", policy_orientation: "Policy orientation"
     },
     sortOptions: { count_desc: "Sort by count (high → low)", count_asc: "Sort by count (low → high)", name_asc: "Sort by region (A → Z)", name_desc: "Sort by region (Z → A)" },
     noCountry: "Country / region not specified"
@@ -1773,11 +1816,14 @@ function countValues(items, key){
   return Array.from(counts.entries()).sort((a,b) => b[1]-a[1] || displayControlledValue(a[0]).localeCompare(displayControlledValue(b[0])));
 }
 function renderClassificationCard(items){
-  const relevance = countValues(items, 'cdr_relevance').slice(0,5);
-  const methods = countValues(items, 'method_group').slice(0,6);
-  const max = Math.max(1, ...relevance.map(x=>x[1]), ...methods.map(x=>x[1]));
-  const list = (title, values) => `<div style="margin-top:10px"><div style="font-weight:800;font-size:12px;color:var(--muted);margin-bottom:6px">${escapeHtml(title)}</div>${values.map(([v,n]) => `<div class="summaryItem"><div class="summaryItemName"><span class="summaryDot"></span><span class="summaryItemText">${escapeHtml(displayControlledValue(v))}</span></div><div class="summaryItemMeta"><span class="summaryBar"><span class="summaryBarFill" style="width:${(100*n/max).toFixed(1)}%"></span></span><span class="summaryCount">${n}</span></div></div>`).join('')}</div>`;
-  return `<div class="profileCard"><div class="profileCardTitle">${escapeHtml(t().profileTitle)}</div><div class="profileCardSub">${escapeHtml(t().profileSub)}</div>${list(lang==='zh'?'CDR属性':'CDR relevance', relevance)}${list(lang==='zh'?'规范技术方法':'Standardized methods', methods)}</div>`;
+  const relevance = countValues(items, 'once_relevance').slice(0,5);
+  const domains = countValues(items, 'once_application_domain').slice(0,6);
+  const pumps = countValues(items, 'carbon_pump_basis').slice(0,5);
+  const approaches = countValues(items, 'once_approach').slice(0,6);
+  const all=[...relevance,...domains,...pumps,...approaches];
+  const max = Math.max(1, ...all.map(x=>x[1]));
+  const list = (title, values) => `<div style="margin-top:10px"><div style="font-weight:800;font-size:12px;color:var(--muted);margin-bottom:6px">${escapeHtml(title)}</div>${values.length?values.map(([v,n]) => `<div class="summaryItem"><div class="summaryItemName"><span class="summaryDot"></span><span class="summaryItemText">${escapeHtml(displayControlledValue(v))}</span></div><div class="summaryItemMeta"><span class="summaryBar"><span class="summaryBarFill" style="width:${(100*n/max).toFixed(1)}%"></span></span><span class="summaryCount">${n}</span></div></div>`).join(''):`<div class="focusEmpty">—</div>`}</div>`;
+  return `<div class="profileCard"><div class="profileCardTitle">${escapeHtml(t().profileTitle)}</div><div class="profileCardSub">${escapeHtml(t().profileSub)}</div>${list(lang==='zh'?'ONCE关联类型':'ONCE relevance', relevance)}${list(lang==='zh'?'问题海域/应用场景':'Problem marine areas', domains)}${list(lang==='zh'?'BCMS碳泵基础':'BCMS pump basis', pumps)}${list(lang==='zh'?'ONCE生态工程路径':'ONCE eco-engineering pathways', approaches)}</div>`;
 }
 function renderFocusPanel(){
   const { focus, total } = currentFocusItems();
@@ -1807,7 +1853,7 @@ function renderFocusPanel(){
     return `
       <div class="focusItem">
         <div class="focusItemTitle">${titleHtml}</div>
-        <div class="focusItemSub">${escapeHtml([item.year || '—', displayField(item.method_group), displayControlledValue(item.implementation_status)].join(' ｜ '))}</div>
+        <div class="focusItemSub">${escapeHtml([item.year || '—', displayField(item.once_application_domain), displayField(item.carbon_pump_basis), displayField(item.once_approach), displayControlledValue(item.implementation_status)].join(' ｜ '))}</div>
       </div>
     `;
   }).join('') || `<div class="focusEmpty">${escapeHtml(t().focusNoExamples)}</div>`;
@@ -2113,7 +2159,7 @@ function renderStats(){
 }
 function exportCountryCsv(){
   const groups = countryGroups();
-  const cols = ['country_or_region','count','year_min','year_max','method_groups','cdr_relevance','implementation_statuses'];
+  const cols = ['country_or_region','count','year_min','year_max','once_relevance','once_application_domains','carbon_pump_basis','once_approaches','implementation_statuses'];
   const esc = v => {
     const s = norm(v);
     if(/[",\n]/.test(s)) return '"' + s.replace(/"/g, '""') + '"';
@@ -2121,10 +2167,12 @@ function exportCountryCsv(){
   };
   const rowsCsv = groups.map(g => {
     const years = g.years;
-    const technologies = Array.from(new Set(g.items.flatMap(x => valuesOf(x.method_group)))).sort().join('; ');
-    const categories = Array.from(new Set(g.items.map(x => norm(x.cdr_relevance)).filter(Boolean))).sort().join('; ');
+    const relevance = Array.from(new Set(g.items.map(x => norm(x.once_relevance)).filter(Boolean))).sort().join('; ');
+    const domains = Array.from(new Set(g.items.flatMap(x => valuesOf(x.once_application_domain)))).sort().join('; ');
+    const pumps = Array.from(new Set(g.items.flatMap(x => valuesOf(x.carbon_pump_basis)))).sort().join('; ');
+    const approaches = Array.from(new Set(g.items.flatMap(x => valuesOf(x.once_approach)))).sort().join('; ');
     const statuses = Array.from(new Set(g.items.map(x => norm(x.implementation_status)).filter(Boolean))).sort().join('; ');
-    return [g.name, g.count, years.length ? Math.min(...years) : '', years.length ? Math.max(...years) : '', technologies, categories, statuses].map(esc).join(',');
+    return [g.name, g.count, years.length ? Math.min(...years) : '', years.length ? Math.max(...years) : '', relevance, domains, pumps, approaches, statuses].map(esc).join(',');
   });
   const csv = [cols.join(',')].concat(rowsCsv).join('\n');
   const blob = new Blob(['\ufeff' + csv], { type:'text/csv;charset=utf-8;' });
@@ -2144,10 +2192,11 @@ function populateSortSelect(){
 }
 const REQUIRED_ONCE_FIELDS = [
   "id","jurisdiction","country_or_region","subnational_area","language","year",
-  "document_title","document_type","legal_force","implementation_status","status_note",
-  "cdr_relevance","mechanism_family","method_group","method_subtype","habitat_or_medium",
-  "intervention_type","storage_pathway","technology_components","instrument_type",
-  "policy_orientation","notes","source","source_url"
+  "document_title","source_url","notes","source","document_type","legal_force",
+  "implementation_status","status_note","instrument_type","policy_orientation",
+  "once_relevance","once_component","once_application_domain","carbon_pump_basis",
+  "pump_integration_type","once_approach","carbon_form","carbon_phase",
+  "storage_compartment","certification_approach","triple_real_dimension"
 ];
 function validateOnceSchema(data){
   if(!Array.isArray(data) || !data.length) throw new Error('data.json must be a non-empty array');
