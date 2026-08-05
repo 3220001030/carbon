@@ -395,15 +395,29 @@ const ONCE_OVERLAY_FILES = {};
 const ONCE_OVERLAY_STYLES = {};
 let onceOverlayGeoJsons = {};
 const FILTERS = [
-  "jurisdiction","country_or_region","subnational_area","language",
-  "once_relevance","once_component","once_application_domain","carbon_pump_basis",
-  "pump_integration_type","once_approach","certification_approach","triple_real_dimension",
-  "document_type","legal_force","implementation_status","instrument_type","policy_orientation"
+  "jurisdiction",
+  "country_or_region",
+  "subnational_area",
+  "language",
+  "book_primary_part",
+  "book_primary_chapter",
+  "book_parts",
+  "book_chapters",
+  "book_topics",
+  "book_alignment",
+  "carbon_pump_mechanism",
+  "document_type",
+  "legal_force",
+  "implementation_status",
+  "instrument_type",
+  "policy_orientation"
 ];
 const MULTI_VALUE_FIELDS = new Set([
-  "once_component","once_application_domain","carbon_pump_basis","once_approach",
-  "carbon_form","carbon_phase","storage_compartment","certification_approach",
-  "triple_real_dimension","instrument_type"
+  "book_parts",
+  "book_chapters",
+  "book_topics",
+  "carbon_pump_mechanism",
+  "instrument_type"
 ]);
 const VALUE_MAP_EN = {
   "中国": "China",
@@ -473,108 +487,219 @@ const CONTROLLED_LABELS_ZH = {
   "mixed_or_conditional": "混合或附条件型",
   "precautionary_restrictive": "预防限制型",
   "prohibitive": "禁止型",
-  "core_once_eco_engineering": "ONCE核心生态工程",
-  "once_scientific_foundation": "ONCE科学基础",
-  "once_monitoring_and_accounting": "ONCE监测、核算与核查",
-  "once_standardization_and_certification": "ONCE标准化与认证",
-  "once_market_and_compensation": "ONCE市场与生态补偿",
-  "once_governance_and_safeguards": "ONCE治理、法律与保障",
-  "once_research_coordination": "ONCE科研协调与能力建设",
-  "adjacent_ocean_climate_policy": "ONCE邻近海洋气候政策",
-  "scientific_mechanism": "科学机制",
-  "eco_engineering": "生态工程",
-  "monitoring_accounting_and_verification": "监测、核算与核查",
-  "standardization_and_certification": "标准化与认证",
-  "carbon_market_and_ecological_compensation": "碳市场与生态补偿",
-  "governance_law_and_ethics": "治理、法律与伦理",
-  "research_coordination_and_capacity_building": "科研协调与能力建设",
-  "land_sea_coordination": "陆海统筹减排增汇",
-  "eutrophic_estuary_and_coastal_water": "富营养化河口与近岸海域",
-  "hypoxic_anoxic_acidified_water": "缺氧、厌氧与酸化海域",
-  "sea_farming_and_mariculture": "海水养殖与海洋牧场",
-  "coastal_wetland": "滨海湿地",
-  "coral_reef_and_island_system": "珊瑚礁与岛礁生态系统",
-  "open_ocean_and_deep_ocean": "外海与深海",
-  "seabed_and_geological_storage": "海床与海洋地质储存",
-  "cross_system_or_unspecified": "跨系统或未明确场景",
+  "P0": "绪论与综合",
+  "P1": "第一部分　基础理论",
+  "P2": "第二部分　生态修复增汇工程",
+  "P3": "第三部分　渔业碳汇",
+  "P4": "第四部分　海洋负排放地球工程",
+  "P5": "第五部分　其他负排放工程",
+  "P6": "第六部分　标准、政策与碳交易",
+  "C01": "第一章　绪论／海洋负排放综述",
+  "C02": "第二章　海洋生态系统及其元素循环",
+  "C03": "第三章　滨海湿地生态系统碳循环",
+  "C04": "第四章　陆架边缘海生态系统碳循环",
+  "C05": "第五章　深海典型生态系统碳循环",
+  "C06": "第六章　滨海盐沼湿地生态修复增汇工程",
+  "C07": "第七章　红树林生态修复增汇",
+  "C08": "第八章　海草床生态修复增汇",
+  "C09": "第九章　珊瑚礁碳循环与生态增汇",
+  "C10": "第十章　大型海藻养殖碳汇",
+  "C11": "第十一章　海洋贝类养殖碳汇",
+  "C12": "第十二章　贝藻综合养殖增汇",
+  "C13": "第十三章　陆海统筹负排放工程",
+  "C14": "第十四章　污水处理厂尾水碱化海洋负排放",
+  "C15": "第十五章　微藻碳减排工程",
+  "C16": "第十六章　海洋二氧化碳地质封存",
+  "C17": "第十七章　极地和亚极地海洋碳汇",
+  "C18": "第十八章　海洋微生物矿化",
+  "C19": "第十九章　海洋碳汇计量与经济价值核算",
+  "C20": "第二十章　海洋碳汇交易理论与政策",
+  "direct_chapter_match": "与教材专章直接对应",
+  "overview_level_match": "教材绪论层面的技术对应",
+  "cross_cutting_support": "跨章节治理或支撑内容",
+  "adjacent_to_book_scope": "与教材范围相邻",
   "MCP": "微型生物碳泵（MCP）",
   "BCP": "生物碳泵（BCP）",
-  "CCP": "碳酸盐反向泵（CCP）",
+  "CCP": "碳酸盐泵（CCP）",
   "SCP": "溶解度泵（SCP）",
-  "BCMS_integrated": "BCMS四泵综合",
-  "MCP_BCP": "MCP–BCP耦合",
-  "CCP_SCP": "CCP–SCP耦合",
-  "BCP_CCP_SCP": "BCP–CCP–SCP耦合",
-  "MCP_BCP_CCP": "MCP–BCP–CCP耦合",
-  "MCP_BCP_SCP": "MCP–BCP–SCP耦合",
   "not_specified": "未具体说明",
-  "land_sea_nutrient_management": "陆海统筹营养盐管理",
-  "eutrophic_coastal_sink_enhancement": "富营养化近岸增汇与环境修复",
-  "ocean_fertilization": "海洋施肥（邻近路径）",
-  "alkalinity_management": "海洋碱度调控",
-  "electrochemical_alkalinity_management": "电化学碱度调控",
-  "direct_ocean_capture": "海水直接捕集（邻近路径）",
-  "artificial_upwelling": "人工上升流",
-  "artificial_downwelling": "人工下降流",
-  "integrated_mariculture": "海水综合养殖",
-  "macroalgae_cultivation": "大型海藻养殖",
-  "seaweed_forest_restoration": "海藻林恢复",
-  "shellfish_algae_integrated_farming": "贝藻综合养殖",
-  "marine_ranching_sink_enhancement": "海洋牧场与碳汇渔业增汇",
-  "biomass_sinking_and_carbon_burial": "生物质沉降与碳埋藏",
-  "seabed_sediment_carbon_management": "海床沉积物碳管理",
-  "marine_geological_storage": "海洋地质碳封存",
-  "mangrove_restoration": "红树林恢复",
-  "mangrove_conservation": "红树林保护",
-  "mangrove_afforestation_or_expansion": "红树林营造或扩展",
-  "seagrass_restoration": "海草床恢复",
-  "seagrass_conservation": "海草床保护",
-  "salt_marsh_restoration": "盐沼恢复",
-  "salt_marsh_conservation": "盐沼保护",
-  "tidal_flat_restoration": "潮滩恢复",
-  "tidal_flat_conservation": "潮滩保护",
+  "mangrove_carbon_cycle": "红树林湿地碳循环",
+  "mangrove_restoration_and_sink_enhancement": "红树林生态修复与增汇",
+  "seagrass_carbon_storage": "海草床碳封存",
+  "seagrass_restoration_and_sink_enhancement": "海草床生态修复与增汇",
+  "general_once_and_ocean_negative_emissions": "海洋负排放综合政策与治理",
+  "carbon_baseline_and_physical_accounting": "海洋碳汇基线与实物量核算",
+  "carbon_trading_policy_and_practice": "海洋碳汇交易政策与实践",
   "coastal_wetland_sink_enhancement": "滨海湿地增汇",
-  "coral_reef_restoration_and_carbon_management": "珊瑚礁恢复与碳管理",
-  "carbon_sink_mapping_and_inventory": "海洋碳汇制图与清单",
-  "carbon_sink_accounting_and_mrv": "海洋碳汇核算与MRV",
-  "carbon_sink_standardization_and_certification": "海洋碳汇标准化与认证",
-  "process_based_certification": "过程型认证",
-  "carbon_crediting_trading_and_compensation": "碳信用、交易与生态补偿",
-  "research_and_demonstration": "科研、试验与示范",
-  "permitting_and_environmental_safeguards": "许可、环境评估与保障",
-  "international_rulemaking_and_coordination": "国际规则与协调",
-  "broad_once_portfolio": "ONCE综合路径（未细分）",
-  "organic_carbon": "有机碳",
-  "inorganic_carbon": "无机碳",
-  "mixed_organic_inorganic": "有机—无机混合碳",
-  "particulate": "颗粒态",
-  "dissolved": "溶解态",
-  "carbonate_mineral": "碳酸盐矿物态",
-  "biomass": "生物量",
-  "water_column": "水体",
-  "deep_ocean": "深海",
-  "coastal_sediment": "滨海沉积物",
-  "seabed_sediment": "海床沉积物",
-  "subseabed_geological_formation": "海床下地质构造",
-  "harvested_product": "收获产品",
-  "external_geological_or_durable_storage": "外部地质或持久储存",
-  "carbonate_reef_structure": "碳酸盐礁体",
-  "outcome_based_carbon_accounting": "结果型碳核算",
-  "activity_whitelist": "负排放活动白名单",
-  "hybrid_process_and_outcome": "过程—结果混合认证",
-  "not_applicable": "不适用",
-  "3R_realistic": "3R—Realistic（现实可实施）",
-  "3R_reliable_iso_certified": "3R—Reliable/ISO-certified（可靠与ISO认证）",
-  "3R_reproducible": "3R—Reproducible（可复制）",
-  "3E_ecological": "3E—Ecological（生态）",
-  "3E_ethical": "3E—Ethical（伦理）",
-  "3E_equity": "3E—Equity（公平）",
-  "3A_ambitious": "3A—Ambitious（有雄心）",
-  "3A_actionable": "3A—Actionable（可行动）",
-  "3A_achievable": "3A—Achievable（可实现）",
-  "3L_legal": "3L—Legal（合法）",
-  "3L_london_protocol": "3L—London Protocol（伦敦议定书）",
-  "3L_liability": "3L—Liability（责任机制）"
+  "salt_marsh_and_tidal_wetland_restoration": "盐沼与潮滩湿地生态修复",
+  "ocean_fertilization_overview": "海洋施肥（绪论层面）",
+  "ocean_alkalinity_enhancement": "海洋碱度增强",
+  "carbon_accounting_methodology_and_standard": "碳汇核算方法学与标准",
+  "macroalgae_carbon_sink": "大型海藻养殖碳汇",
+  "macroalgae_deep_ocean_export": "大型海藻有机碳深远海输送",
+  "macroalgae_sedimentary_and_dissolved_carbon": "大型海藻沉积态与溶解态碳汇",
+  "coastal_wetland_carbon_cycle": "滨海湿地碳循环",
+  "coastal_wetland_carbon_input_output_burial": "滨海湿地碳输入、输出与埋藏",
+  "direct_ocean_capture_overview": "海水直接捕集（绪论层面）",
+  "cross_ecosystem_blue_carbon": "跨生态系统蓝碳",
+  "artificial_upwelling_overview": "人工上升流（绪论层面）",
+  "carbon_trading_standards_and_mechanisms": "海洋碳汇交易标准与机制",
+  "integrated_mariculture_carbon_flow": "贝藻综合养殖碳流途径",
+  "integrated_mariculture_environmental_effects": "贝藻综合养殖环境效应",
+  "general_marine_ecosystem_carbon_sink": "一般海洋生态系统碳汇",
+  "marine_ecosystem_and_element_cycles": "海洋生态系统及其元素循环",
+  "shelf_marginal_sea_carbon_cycle": "陆架边缘海碳循环",
+  "shelf_marginal_sea_sediment_carbon_pool": "陆架边缘海沉积物碳库",
+  "biomass_sinking_overview": "生物质沉降（绪论层面）",
+  "artificial_downwelling_overview": "人工下降流（绪论层面）",
+  "microalgae_carbon_fixation": "微藻固碳机制",
+  "microalgae_cultivation_and_carbon_neutrality": "微藻养殖与碳中和技术",
+  "shellfish_biomineralization_and_carbon_budget": "贝类生物矿化与碳收支",
+  "shellfish_removable_carbon_sink": "贝类可移出碳汇",
+  "land_sea_aquatic_continuum": "陆地—海洋水生连续体",
+  "land_source_nutrient_control": "陆源营养盐控制",
+  "land_sea_carbon_model_and_decision_support": "陆海统筹碳循环模型与决策支持",
+  "wastewater_effluent_alkalinization": "污水处理厂尾水碱化",
+  "effluent_alkalinization_ecological_effects": "尾水碱化生态环境效应",
+  "marine_geological_co2_storage": "海洋二氧化碳地质封存",
+  "geological_storage_monitoring_and_potential": "地质封存监测与潜力评估",
+  "polar_and_subpolar_carbon_sink": "极地和亚极地海洋碳汇",
+  "polar_multi_pump_integration": "极地海洋多泵整合",
+  "polar_ocean_fertilization": "极地海洋加铁增汇",
+  "marine_microbial_mineralization": "海洋微生物矿化",
+  "microbial_carbonate_mineralization_mechanism": "微生物碳酸盐矿化机制",
+  "marine_carbon_sink_economic_valuation": "海洋碳汇经济价值核算"
+};
+const CONTROLLED_LABELS_EN = {
+  "bill_or_draft": "Bill or draft",
+  "consultation": "Consultation / call for evidence",
+  "cop_or_party_decision": "COP or party decision / statement",
+  "funding_or_programme": "Funding or implementation programme",
+  "guidance_or_standard": "Guidance or standard",
+  "law": "Law",
+  "ndc_or_climate_commitment": "NDC or climate commitment",
+  "permit_or_project_decision": "Project permit or decision",
+  "regulation": "Regulation",
+  "report_or_assessment": "Report or assessment",
+  "strategy_plan_roadmap": "Strategy, plan or roadmap",
+  "treaty_or_amendment": "Treaty or amendment",
+  "binding": "Binding",
+  "mixed": "Mixed legal force",
+  "non_binding": "Non-binding",
+  "adopted_not_yet_in_force": "Adopted, not yet in force",
+  "draft": "Draft",
+  "ended": "Ended",
+  "in_force_or_active": "In force or active",
+  "planned": "Planned",
+  "under_review": "Under review",
+  "accounting_methodology": "Accounting methodology",
+  "community_or_social_safeguard": "Community or social safeguard",
+  "compliance_market_integration": "Compliance-market integration",
+  "crediting_mechanism": "Crediting mechanism",
+  "demonstration_support": "Demonstration support",
+  "ecosystem_restoration_or_conservation_programme": "Ecosystem restoration or conservation programme",
+  "environmental_impact_assessment": "Environmental impact assessment",
+  "international_coordination": "International coordination",
+  "mapping_inventory_or_monitoring": "Mapping, inventory or monitoring",
+  "moratorium_or_prohibition": "Moratorium or prohibition",
+  "mrv_standard": "MRV standard",
+  "other_or_unspecified": "Other or unspecified",
+  "permit_or_authorization": "Permit or authorization",
+  "policy_planning_and_coordination": "Policy planning and coordination",
+  "public_consultation": "Public consultation",
+  "public_procurement": "Public procurement",
+  "regulatory_safeguard": "Regulatory safeguard",
+  "research_and_development_funding": "R&D funding",
+  "research_strategy": "Research strategy",
+  "target_or_commitment": "Target or commitment",
+  "authorizing_permissive": "Authorizing / permissive",
+  "enabling_supportive": "Enabling / supportive",
+  "evidence_building": "Evidence-building",
+  "mixed_or_conditional": "Mixed or conditional",
+  "precautionary_restrictive": "Precautionary / restrictive",
+  "prohibitive": "Prohibitive",
+  "P0": "Introduction and synthesis",
+  "P1": "Part I — Basic theory",
+  "P2": "Part II — Ecological restoration and sink-enhancement engineering",
+  "P3": "Part III — Fishery carbon sinks",
+  "P4": "Part IV — Ocean negative-emission geoengineering",
+  "P5": "Part V — Other negative-emission engineering",
+  "P6": "Part VI — Standards, policy and carbon trading",
+  "C01": "Chapter 1 — Introduction / overview of ocean negative emissions",
+  "C02": "Chapter 2 — Marine ecosystems and elemental cycles",
+  "C03": "Chapter 3 — Carbon cycling in coastal wetlands",
+  "C04": "Chapter 4 — Carbon cycling in shelf marginal seas",
+  "C05": "Chapter 5 — Carbon cycling in typical deep-sea ecosystems",
+  "C06": "Chapter 6 — Salt-marsh wetland restoration and sink enhancement",
+  "C07": "Chapter 7 — Mangrove restoration and sink enhancement",
+  "C08": "Chapter 8 — Seagrass restoration and sink enhancement",
+  "C09": "Chapter 9 — Coral-reef carbon cycling and ecological sink enhancement",
+  "C10": "Chapter 10 — Carbon-sink functions of macroalgal aquaculture",
+  "C11": "Chapter 11 — Carbon-sink functions of marine shellfish aquaculture",
+  "C12": "Chapter 12 — Integrated shellfish–algae aquaculture",
+  "C13": "Chapter 13 — Land–sea coordinated negative-emission engineering",
+  "C14": "Chapter 14 — Wastewater-effluent alkalinization for ocean negative emissions",
+  "C15": "Chapter 15 — Microalgal carbon-mitigation engineering",
+  "C16": "Chapter 16 — Offshore geological CO₂ storage",
+  "C17": "Chapter 17 — Polar and subpolar ocean carbon sinks",
+  "C18": "Chapter 18 — Carbon-sink functions of marine microbial mineralization",
+  "C19": "Chapter 19 — Measurement and economic valuation of marine carbon sinks",
+  "C20": "Chapter 20 — Marine carbon-sink trading theory and policy",
+  "direct_chapter_match": "Direct match to a dedicated chapter",
+  "overview_level_match": "Technology covered at the introductory overview level",
+  "cross_cutting_support": "Cross-cutting governance or enabling content",
+  "adjacent_to_book_scope": "Adjacent to the book’s scope",
+  "MCP": "Microbial carbon pump (MCP)",
+  "BCP": "Biological carbon pump (BCP)",
+  "CCP": "Carbonate pump (CCP)",
+  "SCP": "Solubility pump (SCP)",
+  "not_specified": "Not specified",
+  "mangrove_carbon_cycle": "Mangrove carbon cycle",
+  "mangrove_restoration_and_sink_enhancement": "Mangrove restoration and sink enhancement",
+  "seagrass_carbon_storage": "Seagrass carbon storage",
+  "seagrass_restoration_and_sink_enhancement": "Seagrass restoration and sink enhancement",
+  "general_once_and_ocean_negative_emissions": "General once and ocean negative emissions",
+  "carbon_baseline_and_physical_accounting": "Carbon baseline and physical accounting",
+  "carbon_trading_policy_and_practice": "Carbon trading policy and practice",
+  "coastal_wetland_sink_enhancement": "Coastal wetland sink enhancement",
+  "salt_marsh_and_tidal_wetland_restoration": "Salt marsh and tidal wetland restoration",
+  "ocean_fertilization_overview": "Ocean fertilization overview",
+  "ocean_alkalinity_enhancement": "Ocean alkalinity enhancement",
+  "carbon_accounting_methodology_and_standard": "Carbon accounting methodology and standard",
+  "macroalgae_carbon_sink": "Macroalgae carbon sink",
+  "macroalgae_deep_ocean_export": "Macroalgae deep ocean export",
+  "macroalgae_sedimentary_and_dissolved_carbon": "Macroalgae sedimentary and dissolved carbon",
+  "coastal_wetland_carbon_cycle": "Coastal wetland carbon cycle",
+  "coastal_wetland_carbon_input_output_burial": "Coastal wetland carbon input output burial",
+  "direct_ocean_capture_overview": "Direct ocean capture overview",
+  "cross_ecosystem_blue_carbon": "Cross ecosystem blue carbon",
+  "artificial_upwelling_overview": "Artificial upwelling overview",
+  "carbon_trading_standards_and_mechanisms": "Carbon trading standards and mechanisms",
+  "integrated_mariculture_carbon_flow": "Integrated mariculture carbon flow",
+  "integrated_mariculture_environmental_effects": "Integrated mariculture environmental effects",
+  "general_marine_ecosystem_carbon_sink": "General marine ecosystem carbon sink",
+  "marine_ecosystem_and_element_cycles": "Marine ecosystem and element cycles",
+  "shelf_marginal_sea_carbon_cycle": "Shelf marginal sea carbon cycle",
+  "shelf_marginal_sea_sediment_carbon_pool": "Shelf marginal sea sediment carbon pool",
+  "biomass_sinking_overview": "Biomass sinking overview",
+  "artificial_downwelling_overview": "Artificial downwelling overview",
+  "microalgae_carbon_fixation": "Microalgae carbon fixation",
+  "microalgae_cultivation_and_carbon_neutrality": "Microalgae cultivation and carbon neutrality",
+  "shellfish_biomineralization_and_carbon_budget": "Shellfish biomineralization and carbon budget",
+  "shellfish_removable_carbon_sink": "Shellfish removable carbon sink",
+  "land_sea_aquatic_continuum": "Land sea aquatic continuum",
+  "land_source_nutrient_control": "Land source nutrient control",
+  "land_sea_carbon_model_and_decision_support": "Land sea carbon model and decision support",
+  "wastewater_effluent_alkalinization": "Wastewater effluent alkalinization",
+  "effluent_alkalinization_ecological_effects": "Effluent alkalinization ecological effects",
+  "marine_geological_co2_storage": "Marine geological co₂ storage",
+  "geological_storage_monitoring_and_potential": "Geological storage monitoring and potential",
+  "polar_and_subpolar_carbon_sink": "Polar and subpolar carbon sink",
+  "polar_multi_pump_integration": "Polar multi pump integration",
+  "polar_ocean_fertilization": "Polar ocean fertilization",
+  "marine_microbial_mineralization": "Marine microbial mineralization",
+  "microbial_carbonate_mineralization_mechanism": "Microbial carbonate mineralization mechanism",
+  "marine_carbon_sink_economic_valuation": "Marine carbon sink economic valuation"
 };
 function humanizeCode(value){
   const raw = norm(value);
@@ -585,7 +710,7 @@ function displayControlledValue(value){
   const raw = norm(value);
   if(!raw || raw === "（空）") return lang === "zh" ? "（空）" : "(Empty)";
   if(lang === "zh") return CONTROLLED_LABELS_ZH[raw] || maybeTranslate(raw) || raw;
-  return humanizeCode(VALUE_MAP_EN[raw] || raw);
+  return CONTROLLED_LABELS_EN[raw] || humanizeCode(VALUE_MAP_EN[raw] || raw);
 }
 function valuesOf(value){
   if(Array.isArray(value)) return value.map(norm).filter(Boolean);
@@ -775,7 +900,7 @@ const CHINA_CLUSTER_MAP = {
 const I18N = {
   zh: {
     pageTitle: "Global ONCE国际大科学计划政策地图",
-    sub: "以Global ONCE国际大科学计划为中心，按国家/地区展示计划组成、问题海域、BCMS四泵机制、生态工程路径、认证与Triple REAL治理维度。",
+    sub: "以《海洋碳汇与碳中和》的六部分、二十章为分类框架，按国家/地区展示教材主部分、主章节、主题标签、碳泵机制与政策状态。",
     loadingTitle: "正在加载", loadingTitleEn: "Loading",
     loadingSub: "正在读取页面、ONCE政策数据与地图底图，请稍候…", loadingSubEn: "Loading page, ONCE policy data and basemap, please wait…",
     loadingPreparing: "准备中", loadingPreparingEn: "Preparing…",
@@ -787,7 +912,7 @@ const I18N = {
     loadingDone: "加载完成", loadingDoneEn: "Completed",
     loaded: (n, path) => `已加载 ${n} 条ONCE政策记录，数据源：${path}`,
     langBtn: "English",
-    searchPlaceholder: "搜索政策标题、国家、ONCE组成、问题海域、BCMS碳泵、生态工程路径、Triple REAL、状态或备注…",
+    searchPlaceholder: "搜索政策标题、国家、教材部分、教材章节、主题标签、碳泵机制、政策状态或备注…",
     clear: "清空", yearRange: "年份范围", selectedNone: "当前未选择额外筛选条件。", searchChip: "关键词", yearCount: "数量",
     stats: (shown, total) => `当前筛选后共有 ${shown} 条ONCE政策记录（总计 ${total} 条）`,
     resetFocus: "清除聚焦", export: "导出国家/地区ONCE统计 CSV",
@@ -797,7 +922,7 @@ const I18N = {
     loadFailTip: '未能加载ONCE数据或地图底图。请把本页与规范化字段结构的 <code>data.json</code> 以及经审核的世界地图 GeoJSON 放在同一目录。',
     noMatchOption: "无匹配选项", filterSearchPlaceholder: "筛选本组选项", toggle: "展开/收起",
     countryTabsTitle: "国家 / 地区ONCE政策分布",
-    countryTabsSub: "显示当前筛选结果下各国家/地区的政策记录数量。点击卡片可聚焦地图、技术路径和政策文本。",
+    countryTabsSub: "显示当前筛选结果下各国家/地区的政策记录数量。点击卡片可聚焦地图、教材分类画像和政策文本。",
     tabsHint: "颜色越深，记录越多",
     mapTitle: "ONCE政策空间分布地图",
     mapSub: "优先读取本地经审核的世界地图GeoJSON；未提供底图时回退为国家/地区卡片栅格。",
@@ -811,29 +936,40 @@ const I18N = {
     zipfSeriesPoints: "实际点迹", zipfSeriesFit: "Zipf拟合", zipfEmpty: "至少需要2个有记录的国家/地区，才能进行Zipf拟合。",
     rankTitle: "ONCE政策数量排行", focusTitle: "当前聚焦",
     focusAll: "当前显示全部国家/地区。", focusAllCity: "当前显示全部已映射中国地级市。",
-    focusEmpty: "点击上方国家/地区卡片，查看该地区的ONCE关联类型、问题海域、BCMS碳泵、生态工程路径、实施状态和原文链接。",
+    focusEmpty: "点击上方国家/地区卡片，查看该地区的教材主部分、主章节、主题标签、碳泵机制、实施状态和原文链接。",
     focusEmptyCity: "点击中国地级市地图中的城市，查看该市对应的ONCE政策记录。",
     focusSummary: (name, count, share) => `${name}：${count} 条，占当前筛选结果 ${share}%`,
     focusExamples: "政策文本", focusItems: "条目", focusPage: "页", focusPrev: "上一页", focusNext: "下一页",
     focusRange: (start, end, total) => `显示第 ${start}–${end} 条，共 ${total} 条`, focusNoExamples: "暂无政策文本。",
-    profileTitle: "Global ONCE构成画像", profileSub: "显示所选国家/地区记录中的ONCE关联类型、问题海域、BCMS碳泵和生态工程路径。",
+    profileTitle: "教材分类画像", profileSub: "显示所选国家/地区记录对应的教材主部分、主章节、主题标签和碳泵机制。",
     topN: (n) => `前 ${n} 位国家/地区`, topNCities: (n) => `前 ${n} 位地级市`,
     fallbackTitle: "未检测到地图底图文件，已自动改用国家/地区卡片视图。",
     fallbackTip: "如需正式地图效果，请放入经审核的 world_china_compliant.geojson 或兼容世界地图GeoJSON。",
     empty: "没有符合条件的ONCE政策。试试清空筛选或放宽年份范围。",
     labels: {
-      jurisdiction: "适用层级", country_or_region: "国家/地区", subnational_area: "细分区域", language: "语种",
-      once_relevance: "与Global ONCE的关系", once_component: "ONCE计划组成", once_application_domain: "问题海域/应用场景",
-      carbon_pump_basis: "BCMS碳泵基础", pump_integration_type: "碳泵耦合类型", once_approach: "ONCE生态工程路径",
-      certification_approach: "核算/认证方式", triple_real_dimension: "Triple REAL维度", document_type: "政策文件类型",
-      legal_force: "法律效力", implementation_status: "实施状态", instrument_type: "政策工具", policy_orientation: "治理取向"
-    },
+      "jurisdiction": "适用层级",
+      "country_or_region": "国家/地区",
+      "subnational_area": "细分区域",
+      "language": "语种",
+      "book_primary_part": "教材主部分",
+      "book_primary_chapter": "教材主章节",
+      "book_parts": "关联部分",
+      "book_chapters": "关联章节",
+      "book_topics": "教材主题标签",
+      "book_alignment": "与教材的对应方式",
+      "carbon_pump_mechanism": "碳泵机制",
+      "document_type": "政策文件类型",
+      "legal_force": "法律效力",
+      "implementation_status": "实施状态",
+      "instrument_type": "政策工具",
+      "policy_orientation": "治理取向"
+},
     sortOptions: { count_desc: "按数量（高→低）", count_asc: "按数量（低→高）", name_asc: "按地区（A→Z）", name_desc: "按地区（Z→A）" },
     noCountry: "未标注国家/地区"
   },
   en: {
     pageTitle: "Global ONCE International Big-Science Program Policy Map",
-    sub: "Organized around the Global ONCE international big-science program, the map summarizes program components, problem marine areas, BCMS four-pump mechanisms, eco-engineering pathways, certification, and Triple REAL governance dimensions by country or region.",
+    sub: "Classified by the six parts and twenty chapters of Ocean Carbon Sinks and Carbon Neutrality, the map summarizes book parts, chapters, topic tags, carbon-pump mechanisms and policy status by country or region.",
     loadingTitle: "Loading", loadingTitleEn: "正在加载",
     loadingSub: "Loading page, ONCE policy data and basemap, please wait…", loadingSubEn: "正在读取页面、ONCE政策数据与地图底图，请稍候…",
     loadingPreparing: "Preparing…", loadingPreparingEn: "准备中", loadingPageReady: "Interface ready", loadingPageReadyEn: "页面已就绪",
@@ -842,7 +978,7 @@ const I18N = {
     loadingFetchingMap: "Reading basemap", loadingFetchingMapEn: "正在读取地图底图",
     loadingRendering: "Rendering content", loadingRenderingEn: "正在渲染内容", loadingDone: "Completed", loadingDoneEn: "加载完成",
     loaded: (n, path) => `Loaded ${n} ONCE policy records. Source: ${path}`,
-    langBtn: "中文", searchPlaceholder: "Search title, country, ONCE component, problem area, BCMS pump, eco-engineering pathway, Triple REAL, status, source, or notes…",
+    langBtn: "中文", searchPlaceholder: "Search title, country, book part, chapter, topic tag, carbon pump, policy status, source, or notes…",
     clear: "Clear", yearRange: "Year range", selectedNone: "No additional filters selected.", searchChip: "Keyword", yearCount: "Count",
     stats: (shown, total) => `${shown} ONCE policy records in the current filter set (${total} total)`,
     resetFocus: "Reset focus", export: "Export country/region ONCE stats CSV",
@@ -852,7 +988,7 @@ const I18N = {
     loadFailTip: 'Unable to load the ONCE data or basemap. Place this page with an standardized ONCE <code>data.json</code> and a reviewed world GeoJSON in the same folder.',
     noMatchOption: "No matching options", filterSearchPlaceholder: "Filter options in this group", toggle: "Expand / collapse",
     countryTabsTitle: "Country / region ONCE policy distribution",
-    countryTabsSub: "Shows ONCE policy record counts by country/region under the current filters. Click a card to focus the map, technology pathways, and policy texts.",
+    countryTabsSub: "Shows ONCE policy record counts by country/region under the current filters. Click a card to focus the map, book-taxonomy profile, and policy texts.",
     tabsHint: "Darker means more records", mapTitle: "ONCE policy distribution map",
     mapSub: "This page first tries to load a reviewed local world GeoJSON. If none is provided, it falls back to a country/region card grid.",
     mapSubCities: "The China prefecture-level city view aggregates reliably mappable subnational_area values in data.json as a supplementary subnational policy view.",
@@ -875,12 +1011,23 @@ const I18N = {
     fallbackTip: "For a formal map view, add a reviewed world_china_compliant.geojson or compatible world GeoJSON file.",
     empty: "No matching ONCE policies. Try clearing filters or widening the year range.",
     labels: {
-      jurisdiction: "Jurisdiction", country_or_region: "Country / Region", subnational_area: "Subnational area", language: "Language",
-      once_relevance: "Relationship to Global ONCE", once_component: "ONCE program component", once_application_domain: "Problem marine area / application domain",
-      carbon_pump_basis: "BCMS pump basis", pump_integration_type: "Pump integration", once_approach: "ONCE eco-engineering pathway",
-      certification_approach: "Accounting / certification", triple_real_dimension: "Triple REAL dimension", document_type: "Document type",
-      legal_force: "Legal force", implementation_status: "Implementation status", instrument_type: "Policy instrument", policy_orientation: "Policy orientation"
-    },
+      "jurisdiction": "Jurisdiction",
+      "country_or_region": "Country / Region",
+      "subnational_area": "Subnational area",
+      "language": "Language",
+      "book_primary_part": "Primary book part",
+      "book_primary_chapter": "Primary book chapter",
+      "book_parts": "Associated book parts",
+      "book_chapters": "Associated chapters",
+      "book_topics": "Book topic tags",
+      "book_alignment": "Relationship to the book taxonomy",
+      "carbon_pump_mechanism": "Carbon-pump mechanism",
+      "document_type": "Document type",
+      "legal_force": "Legal force",
+      "implementation_status": "Implementation status",
+      "instrument_type": "Policy instrument",
+      "policy_orientation": "Policy orientation"
+},
     sortOptions: { count_desc: "Sort by count (high → low)", count_asc: "Sort by count (low → high)", name_asc: "Sort by region (A → Z)", name_desc: "Sort by region (Z → A)" },
     noCountry: "Country / region not specified"
   }
@@ -1816,14 +1963,14 @@ function countValues(items, key){
   return Array.from(counts.entries()).sort((a,b) => b[1]-a[1] || displayControlledValue(a[0]).localeCompare(displayControlledValue(b[0])));
 }
 function renderClassificationCard(items){
-  const relevance = countValues(items, 'once_relevance').slice(0,5);
-  const domains = countValues(items, 'once_application_domain').slice(0,6);
-  const pumps = countValues(items, 'carbon_pump_basis').slice(0,5);
-  const approaches = countValues(items, 'once_approach').slice(0,6);
-  const all=[...relevance,...domains,...pumps,...approaches];
+  const parts = countValues(items, 'book_primary_part').slice(0,7);
+  const chapters = countValues(items, 'book_primary_chapter').slice(0,8);
+  const topics = countValues(items, 'book_topics').slice(0,8);
+  const pumps = countValues(items, 'carbon_pump_mechanism').slice(0,5);
+  const all=[...parts,...chapters,...topics,...pumps];
   const max = Math.max(1, ...all.map(x=>x[1]));
   const list = (title, values) => `<div style="margin-top:10px"><div style="font-weight:800;font-size:12px;color:var(--muted);margin-bottom:6px">${escapeHtml(title)}</div>${values.length?values.map(([v,n]) => `<div class="summaryItem"><div class="summaryItemName"><span class="summaryDot"></span><span class="summaryItemText">${escapeHtml(displayControlledValue(v))}</span></div><div class="summaryItemMeta"><span class="summaryBar"><span class="summaryBarFill" style="width:${(100*n/max).toFixed(1)}%"></span></span><span class="summaryCount">${n}</span></div></div>`).join(''):`<div class="focusEmpty">—</div>`}</div>`;
-  return `<div class="profileCard"><div class="profileCardTitle">${escapeHtml(t().profileTitle)}</div><div class="profileCardSub">${escapeHtml(t().profileSub)}</div>${list(lang==='zh'?'ONCE关联类型':'ONCE relevance', relevance)}${list(lang==='zh'?'问题海域/应用场景':'Problem marine areas', domains)}${list(lang==='zh'?'BCMS碳泵基础':'BCMS pump basis', pumps)}${list(lang==='zh'?'ONCE生态工程路径':'ONCE eco-engineering pathways', approaches)}</div>`;
+  return `<div class="profileCard"><div class="profileCardTitle">${escapeHtml(t().profileTitle)}</div><div class="profileCardSub">${escapeHtml(t().profileSub)}</div>${list(lang==='zh'?'教材主部分':'Primary book parts', parts)}${list(lang==='zh'?'教材主章节':'Primary chapters', chapters)}${list(lang==='zh'?'教材主题标签':'Book topic tags', topics)}${list(lang==='zh'?'碳泵机制':'Carbon-pump mechanisms', pumps)}</div>`;
 }
 function renderFocusPanel(){
   const { focus, total } = currentFocusItems();
@@ -1853,7 +2000,7 @@ function renderFocusPanel(){
     return `
       <div class="focusItem">
         <div class="focusItemTitle">${titleHtml}</div>
-        <div class="focusItemSub">${escapeHtml([item.year || '—', displayField(item.once_application_domain), displayField(item.carbon_pump_basis), displayField(item.once_approach), displayControlledValue(item.implementation_status)].join(' ｜ '))}</div>
+        <div class="focusItemSub">${escapeHtml([item.year || '—', displayControlledValue(item.book_primary_part), displayControlledValue(item.book_primary_chapter), displayField(item.book_topics), displayField(item.carbon_pump_mechanism), displayControlledValue(item.implementation_status)].join(' ｜ '))}</div>
       </div>
     `;
   }).join('') || `<div class="focusEmpty">${escapeHtml(t().focusNoExamples)}</div>`;
@@ -2159,26 +2306,21 @@ function renderStats(){
 }
 function exportCountryCsv(){
   const groups = countryGroups();
-  const cols = ['country_or_region','count','year_min','year_max','once_relevance','once_application_domains','carbon_pump_basis','once_approaches','implementation_statuses'];
-  const esc = v => {
-    const s = norm(v);
-    if(/[",\n]/.test(s)) return '"' + s.replace(/"/g, '""') + '"';
-    return s;
-  };
+  const cols = ['country_or_region','count','year_min','year_max','primary_book_parts','primary_book_chapters','book_topics','carbon_pump_mechanisms','implementation_statuses'];
+  const esc = v => { const s = norm(v); if(/[",\n]/.test(s)) return '"' + s.replace(/"/g, '""') + '"'; return s; };
   const rowsCsv = groups.map(g => {
     const years = g.years;
-    const relevance = Array.from(new Set(g.items.map(x => norm(x.once_relevance)).filter(Boolean))).sort().join('; ');
-    const domains = Array.from(new Set(g.items.flatMap(x => valuesOf(x.once_application_domain)))).sort().join('; ');
-    const pumps = Array.from(new Set(g.items.flatMap(x => valuesOf(x.carbon_pump_basis)))).sort().join('; ');
-    const approaches = Array.from(new Set(g.items.flatMap(x => valuesOf(x.once_approach)))).sort().join('; ');
+    const parts = Array.from(new Set(g.items.map(x => norm(x.book_primary_part)).filter(Boolean))).sort().join('; ');
+    const chapters = Array.from(new Set(g.items.map(x => norm(x.book_primary_chapter)).filter(Boolean))).sort().join('; ');
+    const topics = Array.from(new Set(g.items.flatMap(x => valuesOf(x.book_topics)))).sort().join('; ');
+    const pumps = Array.from(new Set(g.items.flatMap(x => valuesOf(x.carbon_pump_mechanism)))).sort().join('; ');
     const statuses = Array.from(new Set(g.items.map(x => norm(x.implementation_status)).filter(Boolean))).sort().join('; ');
-    return [g.name, g.count, years.length ? Math.min(...years) : '', years.length ? Math.max(...years) : '', relevance, domains, pumps, approaches, statuses].map(esc).join(',');
+    return [g.name, g.count, years.length ? Math.min(...years) : '', years.length ? Math.max(...years) : '', parts, chapters, topics, pumps, statuses].map(esc).join(',');
   });
   const csv = [cols.join(',')].concat(rowsCsv).join('\n');
   const blob = new Blob(['\ufeff' + csv], { type:'text/csv;charset=utf-8;' });
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob);
-  a.download = lang === 'zh' ? 'ONCE国家地区政策统计.csv' : 'ONCE_country_region_policy_stats.csv';
+  const a = document.createElement('a'); a.href = URL.createObjectURL(blob);
+  a.download = lang === 'zh' ? '教材分类_ONCE国家地区政策统计.csv' : 'book_taxonomy_ONCE_country_region_stats.csv';
   document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(a.href);
 }
 function populateSortSelect(){
@@ -2191,12 +2333,29 @@ function populateSortSelect(){
   el.sortSelect.value = sortMode;
 }
 const REQUIRED_ONCE_FIELDS = [
-  "id","jurisdiction","country_or_region","subnational_area","language","year",
-  "document_title","source_url","notes","source","document_type","legal_force",
-  "implementation_status","status_note","instrument_type","policy_orientation",
-  "once_relevance","once_component","once_application_domain","carbon_pump_basis",
-  "pump_integration_type","once_approach","carbon_form","carbon_phase",
-  "storage_compartment","certification_approach","triple_real_dimension"
+  "id",
+  "jurisdiction",
+  "country_or_region",
+  "subnational_area",
+  "language",
+  "year",
+  "document_title",
+  "source_url",
+  "notes",
+  "source",
+  "document_type",
+  "legal_force",
+  "implementation_status",
+  "status_note",
+  "instrument_type",
+  "policy_orientation",
+  "book_primary_part",
+  "book_parts",
+  "book_primary_chapter",
+  "book_chapters",
+  "book_topics",
+  "book_alignment",
+  "carbon_pump_mechanism"
 ];
 function validateOnceSchema(data){
   if(!Array.isArray(data) || !data.length) throw new Error('data.json must be a non-empty array');
