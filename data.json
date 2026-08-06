@@ -46811,5 +46811,1439 @@
       "SCP",
       "CCP"
     ]
+  },
+  {
+    "id": 1061,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "BCR0012 Blue Carbon Methodology, Version 1.0",
+    "source_url": "https://biocarbonstandard.com/wp-content/uploads/BCR0012_Blue_Carbon_Methodology.pdf",
+    "notes": "BCR0012 provides a globally applicable voluntary methodology for quantifying greenhouse-gas emission reductions and removals from conservation, restoration and sustainable management of mangroves, tidal marshes and seagrass meadows. It defines eligible activities, project boundaries, baseline selection, additionality, mandatory and optional carbon pools, treatment of carbon dioxide, methane and nitrous oxide, uncertainty, leakage, reversal risk, monitoring and social and environmental safeguards. Projects must apply the wider BioCarbon Standard and applicable national law and undergo validation, verification and registry procedures. Version 1.0 creates an operational certification pathway but does not approve any particular project, authorize ecosystem intervention or guarantee credit issuance. Verified Carbon Credits can only be issued after project-specific conformity assessment and programme review.",
+    "source": "BioCarbon Standard / BioCarbon Cert",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Version 1.0 was issued on 7 November 2025 following public consultation and is available as an approved BioCarbon methodology.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "regulatory_safeguard",
+      "community_or_social_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "salt_marsh_and_tidal_wetland_restoration",
+      "seagrass_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1062,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Mangrove Breakthrough Submission to the COP30 Presidency Forest Roadmap",
+    "source_url": "https://unfccc.int/documents/656585",
+    "notes": "This formal Mangrove Breakthrough submission responds to the COP30 Presidency roadmap on halting and reversing deforestation and forest degradation by 2030. It identifies financial, institutional, technical and social barriers that prevent mangrove conservation and restoration from reaching scale and proposes stronger project pipelines, shared valuation frameworks, investment mechanisms, community transition finance, remote-sensing support and science-based restoration. The submission emphasizes ecosystem integrity, natural hydrological processes, biodiversity, Indigenous and local knowledge and protection of existing mangroves before restoration is considered. It is an external organization submission published through the UNFCCC document system rather than a negotiated COP decision. It does not bind Parties, approve projects, allocate finance, establish a crediting methodology or verify carbon outcomes.",
+    "source": "Mangrove Breakthrough / United Nations Framework Convention on Climate Change (UNFCCC)",
+    "document_type": "cop_or_party_decision",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published by the UNFCCC on 13 April 2026 as a formal contribution to the COP30 Presidency forest roadmap process.",
+    "instrument_type": [
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "research_strategy",
+      "community_or_social_safeguard"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_finance_and_ecological_compensation",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1063,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Conservation International SB64 Ocean and Climate Change Dialogue Plenary Statement",
+    "source_url": "https://unfccc.int/sites/default/files/resource/CI_SB64_Plenary_Statement_-_Ocean_Dialogue.pdf",
+    "notes": "Conservation International's formal statement to the 2026 UNFCCC Ocean and Climate Change Dialogue focuses on conservation and restoration of mangroves, seagrasses and salt marshes as coastal Nature-based Solutions. It recommends stronger blue-carbon ambition in Nationally Determined Contributions, better greenhouse-gas inventories, seagrass inclusion, improved finance access, policy coherence across climate and biodiversity processes and an Ocean Focal Point within the Standing Committee on Finance. The statement also calls for an implementation-oriented Ocean Dialogue roadmap and finance pathways for coastal nature-based and green-gray infrastructure solutions. It is an observer submission rather than an adopted UNFCCC decision. The document does not create national targets, distribute climate finance, approve restoration projects, establish project-level accounting or issue carbon credits.",
+    "source": "Conservation International / United Nations Framework Convention on Climate Change (UNFCCC)",
+    "document_type": "cop_or_party_decision",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Submitted as a written plenary statement on 30 June 2026 and published through the UNFCCC Ocean Dialogue process.",
+    "instrument_type": [
+      "target_or_commitment",
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "mapping_inventory_or_monitoring",
+      "research_strategy"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "carbon_finance_and_ecological_compensation",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1064,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Wetlands International Written Intervention for the 2026 Ocean and Climate Change Dialogue",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Written_intervention_Wetlands_International_for_the_Ocean_Climate_Dialogues_2026.pdf",
+    "notes": "Wetlands International's written intervention urges Parties to move coastal-wetland commitments from policy language into financed and monitored implementation. It addresses mangroves, salt marshes and seagrasses and highlights the need for baselines, targets, technical assistance, monitoring systems, investment-ready pipelines and landscape-scale country propositions. The intervention also recommends alignment of indicators and reporting across the UNFCCC, Convention on Biological Diversity and Ramsar Convention, stronger cooperation among national focal points and integrated national mangrove or coastal-wetland strategies. It is a formal observer contribution to the UNFCCC dialogue, not a treaty decision or binding reporting rule. It does not allocate funds, approve national strategies, establish a carbon-credit methodology, validate projects or demonstrate issued carbon units.",
+    "source": "Wetlands International / United Nations Framework Convention on Climate Change (UNFCCC)",
+    "document_type": "cop_or_party_decision",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Submitted to the 2026 Ocean and Climate Change Dialogue on 10 June 2026 as a non-binding written intervention.",
+    "instrument_type": [
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "mapping_inventory_or_monitoring",
+      "research_strategy"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_finance_and_ecological_compensation",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1065,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Ocean Conservancy Submission to the 2026 Ocean and Climate Change Dialogue",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Ocean%20%26%20Climate%20Change%20Dialogue%20Submission_June%202026.pdf",
+    "notes": "Ocean Conservancy's submission recommends strengthening the annual UNFCCC Ocean and Climate Change Dialogue as an implementation platform for ocean-related Nationally Determined Contributions. It calls for greater integration of ocean mitigation and adaptation, technology transfer, capacity building, equitable stakeholder engagement and predictable finance. Specific proposals include exploring dedicated blue-finance windows within multilateral climate funds, connecting Dialogue findings with the Standing Committee on Finance, technology and capacity-building bodies, advancing the Blue NDC Challenge and linking outputs with the second Global Stocktake and COP31. The submission is an observer policy recommendation rather than a Party decision or finance approval. It does not create a funding window, amend NDCs, authorize projects, establish a blue-carbon accounting method or issue carbon credits.",
+    "source": "Ocean Conservancy / United Nations Framework Convention on Climate Change (UNFCCC)",
+    "document_type": "cop_or_party_decision",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Submitted following the 10–11 June 2026 Ocean and Climate Change Dialogue and published by the UNFCCC on 30 June 2026.",
+    "instrument_type": [
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "research_strategy"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "integrated_once_research_and_coordination",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "carbon_finance_and_ecological_compensation",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1066,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Global Climate Action Agenda Activation Group 7 Ocean Dialogue Intervention",
+    "source_url": "https://unfccc.int/sites/default/files/resource/AG7_Ocean_Dialogue_Intervention_June_10.pdf",
+    "notes": "Activation Group 7's intervention presents the ocean component of the Global Climate Action Agenda and describes work to update the Blue Package with indicators and benchmarks through 2028. It calls for measurable mitigation and adaptation outcomes across marine conservation, aquatic food systems, shipping, ports, tourism and ocean renewable energy. For blue-carbon ecosystems, it explicitly includes seagrass, salt marsh, kelp and mangroves and promotes greater finance, improved governance, coastal and ocean planning and stronger integration of ocean actions into Nationally Determined Contributions and National Adaptation Plans. The intervention is a non-state action-agenda statement rather than a binding work programme. It does not establish project eligibility, authorize restoration, quantify additional removals, certify methods or issue credits.",
+    "source": "Global Climate Action Agenda Activation Group 7 / United Nations Framework Convention on Climate Change (UNFCCC)",
+    "document_type": "cop_or_party_decision",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Delivered during the 2026 Ocean and Climate Change Dialogue on 10 June 2026 as a non-binding action-agenda intervention.",
+    "instrument_type": [
+      "target_or_commitment",
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_finance_and_ecological_compensation",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1067,
+    "jurisdiction": "International",
+    "country_or_region": "Africa",
+    "subnational_area": "African coastal and island states",
+    "language": "English",
+    "year": 2026,
+    "document_title": "African Group of Negotiators Intervention at the 2026 Ocean and Climate Change Dialogue",
+    "source_url": "https://unfccc.int/sites/default/files/resource/AGN_Intervention_-_Oceans_Dialogue.pdf",
+    "notes": "The African Group of Negotiators intervention focuses on translating ocean-related Nationally Determined Contribution commitments into implementation across African coastal and island states. It describes priorities including integrated coastal management, marine spatial planning, remote sensing, seagrass protection, blue-carbon accounting, blue bonds, ocean observation and early warning. The statement emphasizes that many commitments are conditional on external support and calls for predictable concessional finance, dedicated funding channels, technical capacity, baseline integration into national greenhouse-gas inventories and resolution of fragmented marine governance. It is a formal negotiating-group intervention but not an adopted UNFCCC decision. It does not bind individual African governments, establish a common blue-carbon methodology, approve projects, verify removals or issue carbon units.",
+    "source": "African Group of Negotiators / United Nations Framework Convention on Climate Change (UNFCCC)",
+    "document_type": "cop_or_party_decision",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Delivered on behalf of the African Group during the June 2026 Ocean and Climate Change Dialogue.",
+    "instrument_type": [
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "mapping_inventory_or_monitoring",
+      "research_strategy"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "seagrass_conservation_restoration_and_sink_enhancement",
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "carbon_finance_and_ecological_compensation",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1068,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Ocean and Climate Change Dialogue 2026 Information Note by the Co-Facilitators",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Ocean_Dialogue_2026_Information_Note.pdf",
+    "notes": "This official information note defines the topics, guiding questions and implementation focus for the 2026 UNFCCC Ocean and Climate Change Dialogue. The three themes are ocean-based priorities in Nationally Determined Contributions, means of implementation and ocean-climate-biodiversity synergies and international cooperation. The note directs attention to restoration and protection of marine ecosystems, implementation barriers, regulatory and technical conditions, capacity building, multilateral finance, blue carbon and the potential and limitations of the Paris Agreement Crediting Mechanism. It also identifies the Blue NDC Challenge and other international initiatives as cooperation platforms. The note structures an official UNFCCC dialogue but is not itself a negotiated decision, crediting methodology, funding approval or authorization for marine or coastal projects.",
+    "source": "United Nations Framework Convention on Climate Change (UNFCCC) Ocean Dialogue Co-Facilitators",
+    "document_type": "cop_or_party_decision",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Issued on 22 May 2026 to guide the Ocean and Climate Change Dialogue held in Bonn on 10–11 June 2026.",
+    "instrument_type": [
+      "public_consultation",
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "research_strategy"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "carbon_accounting_and_methodology",
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1069,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Ocean Visions Statement to the 2026 Ocean and Climate Change Dialogue",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Statement_Ocean_and_Climate_Change_Dialogue_%E2%80%93_Ocean_Visions.pdf",
+    "notes": "Ocean Visions' statement calls for sustained research, development and demonstration capacity for ocean-based climate responses, including marine carbon dioxide removal, seaweed-based climate solutions and marine ecosystem repair. It argues that governments and international organizations need stronger monitoring, environmental assessment, governance, scientific cooperation and institutional readiness before emerging approaches can be evaluated responsibly or considered at meaningful scale. The statement highlights the Africa mCDR Road Map and emerging Africa mCDR Partnership as examples of regionally led scientific and policy capacity building. It is a formal observer statement advocating evidence development rather than deployment. The document does not endorse a specific mCDR technology, authorize field trials, establish crediting rules, quantify removals or report issued carbon credits.",
+    "source": "Ocean Visions / United Nations Framework Convention on Climate Change (UNFCCC)",
+    "document_type": "cop_or_party_decision",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published by the UNFCCC on 15 June 2026 as an Ocean and Climate Change Dialogue statement.",
+    "instrument_type": [
+      "research_strategy",
+      "research_and_development_funding",
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1070,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Climate Action Network Ecosystems Working Group Intervention at the 2026 Ocean and Climate Change Dialogue",
+    "source_url": "https://unfccc.int/sites/default/files/resource/CAN_Intervention_at_the_Ocean%26CCDialogue_2026.pdf",
+    "notes": "This Climate Action Network intervention advocates a precautionary distinction between established ocean-climate measures and unproven marine geoengineering. It prioritizes emissions reduction and restoration of blue-carbon ecosystems while warning that carbon capture, offsets and marine manipulation can create ecological and governance risks if treated as substitutes for fossil-fuel phaseout. The statement also calls for stronger UNFCCC treatment of ocean acidification, improved coordination among the Rio Conventions and a concrete COP31 roadmap for ocean policy. It is a civil-society intervention rather than a binding prohibition or negotiated decision. The document does not establish a legal moratorium, approve or reject an individual research project, define environmental assessment requirements, create a carbon market or verify blue-carbon outcomes.",
+    "source": "Climate Action Network Ecosystems Working Group / United Nations Framework Convention on Climate Change (UNFCCC)",
+    "document_type": "cop_or_party_decision",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Delivered and published during the June 2026 Ocean and Climate Change Dialogue as a non-binding civil-society intervention.",
+    "instrument_type": [
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "regulatory_safeguard",
+      "research_strategy"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1071,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Can Phytoplankton Help Close the Carbon Dioxide Removal Gap? Research and Development Plan",
+    "source_url": "https://oceanvisions.org/phytoplankton-report/",
+    "notes": "Ocean Visions' assessment and research plan evaluates whether phytoplankton-based marine carbon dioxide removal pathways could contribute safely and effectively at climate-relevant scale. It synthesizes available evidence and identifies priority work on net-removal quantification, uncertainty reduction, ocean biogeochemical models, biological carbon-pump response, environmental and social impacts and carefully designed field trials. The report recommends a coordinated research, development and demonstration programme using stage-gate decision points that can advance, refine, pause or stop individual approaches as evidence develops. It is an evidence-building roadmap rather than support for immediate commercial deployment. The report does not conclude that phytoplankton interventions are ready for scale, authorize ocean fertilization, establish project-crediting rules or verify any removal quantity.",
+    "source": "Ocean Visions",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Released on 3 February 2026 as an active research and development roadmap for phytoplankton-based mCDR assessment.",
+    "instrument_type": [
+      "research_strategy",
+      "research_and_development_funding",
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "environmental_impact_assessment",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "marine_ecosystem_and_element_cycles",
+      "carbon_pump_mechanisms_and_integration",
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "ocean_fertilization"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1072,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "New South Wales",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Delivering the NSW Blue Carbon Strategy — 2026 Implementation Update",
+    "source_url": "https://www.marine.nsw.gov.au/statewide-projects/climate-change/developing-and-delivering-blue-carbon-strategy",
+    "notes": "This New South Wales Government implementation update reports continued delivery of the NSW Blue Carbon Strategy 2022–2027. It describes work to conserve and restore seagrass, mangrove and salt-marsh ecosystems, support demonstration sites, embed blue carbon in coastal and marine planning, develop a research prospectus and seek additional funding. The update also explains that restoration projects may generate emissions reductions and may become eligible for carbon credits where applicable requirements are satisfied. It is a distinct implementation-stage update to the existing strategy rather than a new strategy or project permit. The page does not identify verified removal volumes, approve a particular restoration site, establish an Australian Carbon Credit Unit method or report that credits have been issued.",
+    "source": "New South Wales Government — Marine Estate Management Strategy",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Implementation page updated on 7 July 2026 and reports continued delivery of the NSW Blue Carbon Strategy through 2027.",
+    "instrument_type": [
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "policy_planning_and_coordination",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1073,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Blue Carbon Cost Tool",
+    "source_url": "https://www.nature.org/en-us/newsroom/blue-carbon-cost-tool/",
+    "notes": "The Blue Carbon Cost Tool is a publicly accessible project-development and finance decision-support resource created to estimate the costs, financing needs and potential carbon-revenue characteristics of blue-carbon conservation and restoration projects. It helps users compare development scenarios, identify where restoration or conservation may be needed, examine cost components and contribute additional data to improve future estimates. The tool is intended to make early project screening more transparent for communities, developers, buyers and investors and to support high-integrity capital mobilization. It is not a carbon-accounting methodology, registry or investment approval. Tool outputs do not establish additionality, permanence, legal rights, project eligibility or verified removals and cannot substitute for site assessment, safeguards, validation or independent verification.",
+    "source": "The Nature Conservancy / Vizzuality and project partners",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Publicly launched in 2025 as an active global planning and finance tool for blue-carbon project development.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "accounting_methodology",
+      "policy_planning_and_coordination",
+      "research_strategy"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "economic_value_accounting",
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "carbon_accounting_and_methodology",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1074,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "Notice Issuing the CCER Methodologies for Coastal Salt-Marsh Vegetation Restoration and Seagrass-Bed Vegetation Restoration",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202512/t20251203_1137023.html",
+    "notes": "This joint notice of the Ministry of Ecology and Environment and the Ministry of Natural Resources formally releases two methodologies for China's national voluntary greenhouse-gas emission-reduction market: CCER-14-003-V01 for coastal salt-marsh vegetation restoration and CCER-14-004-V01 for seagrass-bed vegetation restoration. It encourages eligible projects to seek registration and revenue from certified reductions, requires project proponents to attest to project uniqueness and documentary integrity, and establishes supervision by provincial and municipal environmental and natural-resource authorities. Multiple eligible mangrove, salt-marsh and seagrass restoration sites within one province may be combined in one registration application, subject to separate quantification and ownership authorization. The notice creates an operational market framework but does not register projects or issue reductions automatically.",
+    "source": "Ministry of Ecology and Environment and Ministry of Natural Resources, People's Republic of China",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Issued on 28 November 2025, published on 3 December 2025 and effective from the date of issuance.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mrv_standard",
+      "accounting_methodology",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "salt_marsh_and_tidal_wetland_restoration",
+      "seagrass_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1075,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "CCER-14-003-V01 — Methodology for Coastal Salt-Marsh Vegetation Restoration",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202512/W020251203583685760323.pdf",
+    "notes": "This official CCER methodology establishes eligibility, baseline, quantification, monitoring, validation and verification rules for artificial restoration of coastal salt-marsh vegetation on suitable unvegetated tidal flats or areas vacated after specified human uses. Project-area and emission-reduction ownership must be clear, planted areas must be at least 400 square metres and the crediting period must be between twenty and forty years. The methodology accounts for soil organic carbon and, where woody vegetation is used, biomass carbon, while deducting methane, nitrous-oxide and non-permanence risks. It allows additionality to be deemed for qualifying public-interest restoration and requires geospatial boundaries, field or remote-sensing monitoring and auditable records. The methodology enables certification but does not replace land, sea-use or environmental approvals and does not itself issue CCER units.",
+    "source": "Ministry of Ecology and Environment and Ministry of Natural Resources, People's Republic of China",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Final Version 01 was released in December 2025 and is active for eligible projects in China's national voluntary emission-reduction market.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "salt_marsh_and_tidal_wetland_restoration"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1076,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "CCER-14-004-V01 — Methodology for Seagrass-Bed Vegetation Restoration",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202512/W020251203583686710819.pdf",
+    "notes": "This official CCER methodology provides project-design and carbon-accounting rules for artificial seagrass restoration in suitable unvegetated intertidal or subtidal areas. It requires clear marine-area or land rights and emission-reduction ownership, compliance with applicable law and a minimum continuously planted area of 400 square metres. Eligible projects use a twenty- to forty-year crediting period and a baseline of continued absence of vegetation. The methodology quantifies changes in soil organic carbon, deducts methane and nitrous-oxide emissions and applies a non-permanence deduction, while allowing additionality to be deemed for qualifying public-interest restoration. Spatial boundaries and carbon strata must be tracked through high-resolution geospatial information and field monitoring. The document creates an accounting pathway but does not authorize planting, register a project or independently issue CCER credits.",
+    "source": "Ministry of Ecology and Environment and Ministry of Natural Resources, People's Republic of China",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Final Version 01 was released in December 2025 and is active for eligible seagrass-restoration projects in the national CCER market.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "seagrass_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1077,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "Public Consultation on Draft CCER Methodologies for Coastal Salt-Marsh and Seagrass-Bed Vegetation Restoration",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202509/t20250930_1128844.html",
+    "notes": "This Ministry of Ecology and Environment consultation formally invited public comments on three proposed CCER methodologies, including the draft coastal salt-marsh vegetation restoration and seagrass-bed vegetation restoration methodologies. The consultation was part of the national procedure for expanding the voluntary greenhouse-gas emission-reduction methodology system and covered project design, implementation, validation, emission-reduction calculation and verification. Government bodies, organizations, enterprises and individuals could submit comments before 15 October 2025. The document records a distinct rulemaking stage preceding final adoption and provides evidence of stakeholder participation and methodological review. It did not make the draft rules operational, authorize restoration or allow credit issuance. The consultation ended when comments closed and the two blue-carbon methodologies were subsequently finalized and released in December 2025.",
+    "source": "Ministry of Ecology and Environment, People's Republic of China",
+    "document_type": "consultation",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Public consultation opened on 30 September 2025, closed on 15 October 2025 and was followed by final methodology issuance in December 2025.",
+    "instrument_type": [
+      "public_consultation",
+      "mrv_standard",
+      "accounting_methodology",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "salt_marsh_and_tidal_wetland_restoration",
+      "seagrass_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1078,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "Draft CCER Methodology for Coastal Salt-Marsh Vegetation Restoration",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202509/W020250930730604170641.pdf",
+    "notes": "This consultation draft set out the proposed CCER eligibility, accounting and monitoring framework for artificial coastal salt-marsh vegetation restoration before final methodology adoption. It covered ownership, minimum planting area, project boundaries, carbon pools, methane and nitrous-oxide emissions, baseline conditions, additionality, non-permanence risk and periodic field and geospatial monitoring. The draft was a formal public rulemaking version and is therefore recorded separately from the final methodology because it documents the design exposed to stakeholder review. It did not have independent crediting force, approve a site or authorize issuance of CCER units. The consultation version was superseded by CCER-14-003-V01 in December 2025, and projects must use the final methodology and other applicable legal and registry requirements rather than this draft.",
+    "source": "Ministry of Ecology and Environment, People's Republic of China",
+    "document_type": "bill_or_draft",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Published for consultation on 30 September 2025 and superseded by final Methodology CCER-14-003-V01 in December 2025.",
+    "instrument_type": [
+      "public_consultation",
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "salt_marsh_and_tidal_wetland_restoration"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1079,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "Draft CCER Methodology for Seagrass-Bed Vegetation Restoration",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202509/W020250930730605696829.pdf",
+    "notes": "This official consultation draft proposed the project rules later used to establish China's seagrass-restoration CCER methodology. It addressed artificial planting in suitable intertidal and subtidal areas, ownership of marine areas and reductions, minimum project scale, project boundaries, baseline absence of vegetation, soil-carbon accounting, greenhouse-gas deductions, non-permanence and long-term monitoring. The draft was published for comments as a distinct formal version and helps document how the national blue-carbon crediting framework developed before adoption. It was not legally sufficient for project registration, did not constitute planting or environmental authorization and could not support credit issuance on its own. The document was superseded by final Methodology CCER-14-004-V01 in December 2025, which now governs eligible projects together with registry and verification rules.",
+    "source": "Ministry of Ecology and Environment, People's Republic of China",
+    "document_type": "bill_or_draft",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Published for consultation on 30 September 2025 and superseded by final Methodology CCER-14-004-V01 in December 2025.",
+    "instrument_type": [
+      "public_consultation",
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "seagrass_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1080,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Haikou, Hainan Province",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "Haikou Blue Carbon Economy Development Action Plan 2025–2035",
+    "source_url": "https://jdxq.haikou.gov.cn/xinwen/2025/show-9060.html",
+    "notes": "This municipal action plan sets a ten-year framework for building a blue-carbon economy in Haikou. Jointly issued by the municipal ecology and environment and natural-resources and planning authorities, it establishes a goal of forming a substantially developed blue-carbon economic system by the end of 2035. The plan contains twenty actions covering ecosystem protection and restoration, resource monitoring and accounting, research and technology, ecological-product value realization, finance and a proposed blue-carbon trading market. The implementation context includes extensive mangrove planting and restoration since 2020 and an earlier local blue-carbon ecological-product transaction. The plan is strategic rather than a project-level crediting methodology or permit. It does not establish additionality, verification or registry requirements and does not demonstrate that future restoration credits have been issued.",
+    "source": "Haikou Municipal Government and Haikou Jiangdong New Area Administration",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Jointly issued by the responsible Haikou municipal authorities in 2025 for implementation through 2035.",
+    "instrument_type": [
+      "target_or_commitment",
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "policy_planning_and_coordination",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "economic_value_accounting",
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1081,
+    "jurisdiction": "National",
+    "country_or_region": "Philippines",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "DENR Administrative Order No. 2026-30 — Institutionalization of the IUCN Global Standard for Nature-Based Solutions",
+    "source_url": "https://www.pna.gov.ph/articles/1278647",
+    "notes": "This Department of Environment and Natural Resources administrative order institutionalizes the IUCN Global Standard for Nature-based Solutions across current and future departmental policies, plans, programmes and budgets. It prioritizes rehabilitation of mangroves, coral reefs and wetlands, protection of seagrass beds and other ecosystem-based measures in climate-vulnerable coastal, watershed and urban areas. The order requires localized indicators and self-assessment, creates a technical working group, mandates a roadmap, monitoring and evaluation system, technical standards and a national Nature-based Solutions Registry, and promotes participation by local governments, Indigenous Peoples, civil society, academia and business. Funding may include public appropriations, development assistance, ecosystem-service payments and carbon or blue-carbon finance. The order does not automatically approve projects, determine carbon additionality or issue credits.",
+    "source": "Department of Environment and Natural Resources, Philippines",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Signed on 29 June 2026 and publicly announced by the Philippine Government on 3 July 2026.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "mrv_standard",
+      "mapping_inventory_or_monitoring",
+      "policy_planning_and_coordination",
+      "community_or_social_safeguard",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "seagrass_conservation_restoration_and_sink_enhancement",
+      "coastal_wetland_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "carbon_finance_and_ecological_compensation",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1082,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Philippines",
+    "subnational_area": "Northern Samar and Southern Leyte, Eastern Visayas",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Eastern Visayas Mangrove Climate-Risk Parametric Insurance Pilot",
+    "source_url": "https://www.pna.gov.ph/articles/1270606",
+    "notes": "The Philippine Crop Insurance Corporation and GIZ launched development of a pilot parametric climate-risk insurance product for mangrove ecosystems in Eastern Visayas. Local government units are intended to serve as policyholders, while storm-surge height and tropical-cyclone wind signals are being examined as index triggers representing damage and restoration costs. Product design, data assessment and simulation are planned for Northern Samar and Southern Leyte under the wider E4DR ecosystem-based adaptation programme. The mechanism seeks to finance rapid mangrove recovery after extreme events and reduce economic risks to coastal communities and livelihoods. It is an insurance-development pilot rather than a carbon-crediting scheme or restoration permit. The official announcement does not confirm final product approval, insurance payouts, quantified carbon benefits, verified removals or issued carbon credits.",
+    "source": "Philippine Crop Insurance Corporation / GIZ / Philippine Government",
+    "document_type": "funding_or_programme",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "A cooperation agreement was signed on 9 March 2026, with product development, simulation and a potential pilot launch planned during 2026.",
+    "instrument_type": [
+      "demonstration_support",
+      "research_and_development_funding",
+      "community_or_social_safeguard",
+      "policy_planning_and_coordination",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "environmental_risk_and_sustainability_assessment",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "carbon_finance_and_ecological_compensation",
+      "economic_value_accounting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1083,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "Great Barrier Reef region",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Great Barrier Reef Ecosystem Accounts, Experimental Estimates, 2022–23 Financial Year",
+    "source_url": "https://www.abs.gov.au/statistics/environment/environmental-accounts/great-barrier-reef-ecosystem-accounts-experimental-estimates/latest-release",
+    "notes": "These Australian Bureau of Statistics ecosystem accounts measure extent, condition and selected services across terrestrial, coastal and marine ecosystems of the Great Barrier Reef region using the System of Environmental-Economic Accounting–Ecosystem Accounting framework. The release reports seagrass extent and condition and estimates carbon retention and sequestration across mangroves, salt marshes and seagrass meadows. For 2021–22, the accounts estimate that blue-carbon ecosystems stored 196 million tonnes of carbon and sequestered 2.56 million tonnes of carbon-dioxide equivalent during the year, alongside monetary estimates and coastal-protection services. The statistics are explicitly experimental, combine multiple data sources and methods and may be revised. They support policy and natural-capital accounting but do not constitute national inventory certification, project-level baselines, verified removals or carbon credits.",
+    "source": "Australian Bureau of Statistics",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Released on 26 May 2026 as the first experimental Great Barrier Reef Ecosystem Accounts publication.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "accounting_methodology",
+      "research_strategy",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "shelf_and_marginal_sea_carbon_cycle",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "economic_value_accounting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1084,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "National Ecosystem Accounts, Experimental Estimates, 2022–23 Financial Year",
+    "source_url": "https://www.abs.gov.au/statistics/environment/environmental-accounts/national-ecosystem-accounts-experimental-estimates/latest-release",
+    "notes": "This Australian Bureau of Statistics release provides experimental national accounts for ecosystem extent, condition and selected services across terrestrial, freshwater, coastal and marine realms. Coastal components include salt-marsh land-use condition, mangrove canopy condition, coastal protection and carbon-retention services within the wider national accounting framework. The release reports that salt-marsh area associated with conservation or natural environments declined between 2010–11 and 2020–21, while the proportion of mangroves with high canopy cover increased. The accounts apply the international System of Environmental-Economic Accounting–Ecosystem Accounting framework and are designed to connect environmental information with policy and economic analysis. Estimates are experimental and methods may change, so the release does not establish project additionality, provide a mandatory blue-carbon inventory method, certify site-level removals or issue carbon credits.",
+    "source": "Australian Bureau of Statistics",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Released on 23 April 2026 as the current experimental national ecosystem-accounting publication.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "accounting_methodology",
+      "research_strategy",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "economic_value_accounting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1085,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "Australian coastal and marine ecosystems",
+    "language": "English",
+    "year": 2022,
+    "document_title": "National Ocean Account, Experimental Estimates, November 2022",
+    "source_url": "https://www.abs.gov.au/statistics/environment/environmental-accounts/national-ocean-account-experimental-estimates/latest-release",
+    "notes": "This Australian Bureau of Statistics publication consolidates experimental physical and ecosystem-service accounts for mangroves, salt marshes and seagrass. Phase Two added national estimates for salt-marsh and intertidal seagrass extent and updated coastal-protection measures, complementing earlier mangrove and broader seagrass accounts. The publication connects ecosystem extent with carbon storage and sequestration, coastal protection and economic replacement-value estimates using the System of Environmental-Economic Accounting approach and earth-observation and ecological datasets. It is a major national evidence resource for blue-carbon planning and economic accounting. The estimates are experimental, depend on mapped data coverage and generalized assumptions and are not directly equivalent to project-level greenhouse-gas accounting. The account does not establish additionality, permanence or ownership, certify national inventory submissions, validate projects or issue carbon credits.",
+    "source": "Australian Bureau of Statistics",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Released on 29 November 2022 as Phase Two of Australia's experimental National Ocean Account and retained as an active evidence resource.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "accounting_methodology",
+      "research_strategy",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "shelf_and_marginal_sea_carbon_cycle",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "economic_value_accounting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1086,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "BioCarbon Standard Version 4.1",
+    "source_url": "https://biocarbonstandard.com/wp-content/uploads/BCR_Standard.pdf",
+    "notes": "BioCarbon Standard Version 4.1 is the overarching normative framework governing certification, registration and ex-post issuance of Verified Carbon Credits under the BioCarbon greenhouse-gas crediting programme. It applies alongside approved methodologies, including the programme's blue-carbon methodology, and establishes requirements for legal compliance, baselines, additionality, uncertainty, leakage, permanence, validation, verification, registry operation and credit issuance. The revision strengthens safeguards for Indigenous Peoples and local communities, including participation, benefit sharing, grievance mechanisms, data sovereignty and Free, Prior and Informed Consent where applicable. It is a programme-wide standard rather than a marine methodology or government permit. A blue-carbon activity must still satisfy the applicable methodology, national rules and independent conformity assessment, and no credits are issued solely because the umbrella standard is published.",
+    "source": "BioCarbon Cert",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Version 4.1 took effect on 13 April 2026 and is the current umbrella standard for BioCarbon greenhouse-gas projects.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "regulatory_safeguard",
+      "community_or_social_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1087,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "BioCarbon Multi-Methodology Framework Version 1.0",
+    "source_url": "https://biocarbonstandard.com/wp-content/uploads/BioCarbon_Multi-Methodology_Framework_BCS.pdf",
+    "notes": "This normative BioCarbon framework governs use of two methodologies within one project document when both belong to the same BioCarbon sectoral scope. It requires distinct accounting units, baselines, causal mechanisms and greenhouse-gas outcomes, with consistent and traceable attribution and safeguards against overlapping quantification, double counting and double claiming. The framework is relevant to integrated coastal and blue-carbon projects that may combine qualifying activities under separate methodologies within the same sector, but it does not authorize cross-sector combinations or override the rules of either methodology. It is mandatory for projects choosing the multi-methodology structure, yet it is not a standalone carbon-removal methodology, project approval or environmental permit. Registration, validation, monitoring, verification and credit issuance remain subject to the underlying methods and full programme requirements.",
+    "source": "BioCarbon Cert",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Version 1.0 was published and became effective on 3 July 2026 for applicable BioCarbon projects.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1088,
+    "jurisdiction": "National",
+    "country_or_region": "Sri Lanka",
+    "subnational_area": "Sri Lankan coastal belt",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Sri Lanka Coast Guard Blue-Green Domain Mangrove and Coastal Plantation Programme",
+    "source_url": "https://coastguard.gov.lk/slcg-green-belt-project.html",
+    "notes": "The Sri Lanka Coast Guard's Blue-Green Domain initiative integrates coastal and marine ecosystem stewardship into operational activities and community engagement. Its plantation programme works with national research, coastal-conservation and forest authorities to establish mangrove and native coastal trees at selected sites, operate local nurseries and improve survival through location-appropriate species and management. The official programme page describes a partnership intended to plant 10,000 mangrove and 10,000 Mudilla trees annually, alongside community events, shoreline restoration and broader coral, turtle and pollution-control activities. The programme directly implements coastal habitat enhancement, but it is not registered as a carbon project. The source does not provide a blue-carbon baseline, additionality assessment, permanence buffer, independently verified removals or issued credits.",
+    "source": "Sri Lanka Coast Guard and national conservation partners",
+    "document_type": "funding_or_programme",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active institutional programme in 2026, with ongoing nursery, planting and community-engagement activities along Sri Lanka's coast.",
+    "instrument_type": [
+      "demonstration_support",
+      "community_or_social_safeguard",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "coastal_wetland_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1089,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Sri Lanka",
+    "subnational_area": "Mullaitivu and Kilinochchi Districts",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Training Workshop on Conservation, Restoration and Sustainable Use of Blue Carbon Ecosystems in Mullaitivu District",
+    "source_url": "https://env.gov.lk/web/index.php/en/announcements/campaigns/410-training-workshop-on-conservation-restoration-and-sustainable-use-of-blue-carbon-ecosystems",
+    "notes": "Sri Lanka's Ministry of Environment and Forest Department organized this two-day capacity-building programme for approximately eighty officers from stakeholder institutions in Mullaitivu and Kilinochchi. Classroom and field activities covered mangroves, salt marshes and seagrasses in the Nayaru Lagoon area and included a practical demonstration using the national guidelines for mangrove ecosystem restoration. Technical experts emphasized that mangrove projects must avoid damaging adjacent seagrass and salt-marsh ecosystems, reinforcing ecosystem-level planning and safeguards rather than single-habitat planting. The programme transferred approved restoration practice and improved institutional coordination, but it was not a restoration permit, funded landscape-scale intervention or carbon-credit project. It did not establish project baselines, quantify net removals, validate a methodology or issue credits.",
+    "source": "Ministry of Environment and Forest Department, Sri Lanka",
+    "document_type": "funding_or_programme",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Completed on 20–21 June 2025, with the official ministry record subsequently updated in July 2026.",
+    "instrument_type": [
+      "research_and_development_funding",
+      "demonstration_support",
+      "community_or_social_safeguard",
+      "policy_planning_and_coordination",
+      "research_strategy"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "technical_standards_and_certification",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
   }
 ]
