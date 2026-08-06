@@ -56325,5 +56325,668 @@
     "carbon_pump_mechanism": [
       "BCP"
     ]
+  },
+  {
+    "id": 1272,
+    "jurisdiction": "International",
+    "country_or_region": "European Union",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Enhancing Blue Carbon Considerations in the Marine Strategy Framework Directive",
+    "source_url": "https://jpi-oceans.eu/en/new-policy-brief-launched-enhancing-blue-carbon-considerations-marine-strategy-framework-directive",
+    "notes": "This JPI Oceans policy brief identifies practical entry points for integrating blue carbon ecosystems into implementation of the EU Marine Strategy Framework Directive. It recommends using national marine strategies, monitoring programmes, environmental-status assessments and programmes of measures to better recognize carbon storage and sequestration, seabed disturbance, cumulative pressures and restoration opportunities. The brief supports stronger links with the Nature Restoration Regulation, regional sea conventions and marine protected-area planning. It is non-binding guidance and does not itself establish mandatory monitoring criteria, authorize restoration projects or quantify verified additional carbon removals.",
+    "source": "JPI Oceans Blue Carbon Knowledge Hub",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published policy brief / active guidance",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "policy_planning_and_coordination",
+      "international_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1273,
+    "jurisdiction": "International",
+    "country_or_region": "European Union",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Pathways and Opportunities for Better Policy Integration of Blue Carbon Ecosystems under the EU LULUCF Regulation",
+    "source_url": "https://jpi-oceans.eu/en/integrating-blue-carbon-ecosystems-under-eu-lulucf-regulation-new-policy-brief",
+    "notes": "This JPI Oceans policy brief proposes pathways for integrating coastal and marine blue carbon ecosystems into EU and Member State implementation of the LULUCF Regulation. Recommendations include harmonized ecosystem definitions and spatial boundaries, stronger national datasets, progressive use of higher-tier greenhouse-gas inventory methods, better emission factors, EU and national blue carbon strategies, and alignment with compliance and certification systems. It also discusses capacity building, stakeholder participation and blended finance for restoration. The document is advisory: it does not amend the LULUCF Regulation, create a carbon-credit methodology, guarantee eligibility for compliance accounting or verify removals from individual projects.",
+    "source": "JPI Oceans Blue Carbon Knowledge Hub",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published policy brief / active guidance",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "accounting_methodology",
+      "research_strategy",
+      "policy_planning_and_coordination",
+      "international_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1274,
+    "jurisdiction": "International",
+    "country_or_region": "Europe",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Strengthening Europe’s Ocean CO₂ Monitoring",
+    "source_url": "https://jpi-oceans.eu/sites/jpi-oceans.eu/files/managed/Publications%20files/ocean_carbon_leaflet_4_pages.pdf",
+    "notes": "This JPI Oceans policy brief calls for a more resilient European surface-ocean CO₂ observing system. Its priority actions are to establish a European hub for certified seawater CO₂ reference materials, make fuller use of research and commercial vessels for observations, and introduce recurring audits of observation coverage, quality and data delivery. The proposed measures are intended to strengthen comparability, continuity, carbon-budget assessment and future evaluation of marine carbon dioxide removal. The brief is a call to action rather than an adopted monitoring obligation; it does not create the proposed hub, provide permanent funding or establish a binding MRV protocol for carbon-credit issuance.",
+    "source": "JPI Oceans Knowledge Hub on Ocean Carbon Capacities",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published policy brief / proposed monitoring improvements",
+    "instrument_type": [
+      "mrv_standard",
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "marine_ecosystem_and_element_cycles",
+      "monitoring_observation_and_modeling",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1275,
+    "jurisdiction": "International",
+    "country_or_region": "Europe",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Roadmap for Securing the Supply of Reference Materials for the Seawater CO₂ System",
+    "source_url": "https://jpi-oceans.eu/sites/jpi-oceans.eu/files/publications/occ_roadmap_july_2025.pdf",
+    "notes": "This roadmap provides an implementation concept for a European Ocean CO₂ Reference Materials Hub to reduce dependence on a single global supplier and improve continuity and comparability of seawater carbon measurements. It describes possible operating models, production and certification requirements, quality assurance, governance, phased implementation, budget considerations and links with European and international metrology initiatives. Reliable reference materials are presented as infrastructure for ocean-carbon observations and for evaluating marine carbon dioxide removal. The roadmap does not itself establish the hub, certify a particular product, commit governments to funding or create a legally binding technical standard.",
+    "source": "JPI Oceans Knowledge Hub on Ocean Carbon Capacities",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "planned",
+    "status_note": "Published roadmap / proposed European reference-material hub",
+    "instrument_type": [
+      "mrv_standard",
+      "research_strategy",
+      "policy_planning_and_coordination",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1276,
+    "jurisdiction": "International",
+    "country_or_region": "Europe",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "State of Europe’s Surface Ocean CO₂ Observations — Audit 2026",
+    "source_url": "https://jpi-oceans.eu/en/new-audit-state-europes-surface-ocean-co2-observations",
+    "notes": "This first JPI Oceans audit assesses Europe’s contribution to the surface-ocean CO₂ observation value chain at global, European, regional-sea and national levels. It documents uneven spatial coverage, declining participation by several countries, persistent gaps in the Mediterranean and Black Seas, reduced European observations in the Southern Ocean, and infrastructure vulnerability following closure of the European SOCAT hub. The audit recommends restoring sustained observations, strengthening data stewardship and repeating assessments to track progress. It is an evidence and accountability product, not a binding reporting rule, deployment authorization or project-level verification standard.",
+    "source": "JPI Oceans Knowledge Hub on Ocean Carbon Capacities",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published audit / baseline for recurring assessment",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "marine_ecosystem_and_element_cycles",
+      "monitoring_observation_and_modeling",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1277,
+    "jurisdiction": "International",
+    "country_or_region": "European Union",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Review of Marine Nature-Based Solutions",
+    "source_url": "https://www.eionet.europa.eu/etcs/etc-be/products/etc-be-products/etc-be-2026-2-review-of-marine-nature-based-solutions",
+    "notes": "This European Topic Centre report reviews 21 marine nature-based solutions across ecosystem protection, restoration, managed systems, artificial ecosystems, nature-inspired designs and geoengineering techniques. It compares implementation scales, maintenance needs, costs, environmental and socioeconomic benefits, trade-offs, stakeholder-engagement approaches and relevance to the Marine Strategy Framework Directive and Nature Restoration Regulation. The assessment includes blue carbon habitat restoration and selected carbon-removal interventions such as ocean fertilization, artificial upwelling and ocean alkalinity enhancement. It is a comparative evidence review and decision-support resource; it neither endorses every technique nor creates permission, funding, carbon credits or quantified removal claims.",
+    "source": "European Topic Centre on Biodiversity and Ecosystems / European Environment Agency",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published technical review / decision-support evidence",
+    "instrument_type": [
+      "environmental_impact_assessment",
+      "mapping_inventory_or_monitoring",
+      "research_strategy"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement",
+      "ocean_fertilization",
+      "artificial_upwelling",
+      "ocean_alkalinity_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "SCP"
+    ]
+  },
+  {
+    "id": 1278,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "The Coastal Carbon Library and Atlas: Open Source Soil Data and Tools Supporting Blue Carbon Research and Policy",
+    "source_url": "https://www.usgs.gov/publications/coastal-carbon-library-and-atlas-open-source-soil-data-and-tools-supporting-blue",
+    "notes": "This USGS-listed publication establishes the Coastal Carbon Library and Atlas as open, standardized infrastructure for blue carbon evidence. Version 1.0.0 compiles 6,723 soil profiles from marshes, mangroves, tidal freshwater forests and seagrass systems, with tools for querying, mapping and downloading data and for supporting carbon-stock, burial-rate and soil-formation analyses. The publication recommends disaggregated data, documented provenance, standardized vocabularies and reusable templates. It strengthens monitoring and accounting capacity but is not an official carbon-credit methodology, national inventory rule, restoration programme or verification of additional removals from any specific project.",
+    "source": "U.S. Geological Survey / Global Change Biology",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published open-data and methods resource",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "mrv_standard",
+      "accounting_methodology",
+      "research_strategy"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1279,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Monitoring, Reporting, and Verification of Marine Carbon Dioxide Removal: Exploring Scientific Consensus and Divergences Across Continents",
+    "source_url": "https://repository.library.noaa.gov/view/noaa/73538",
+    "notes": "This global policy-bridge study synthesizes regional consultations on marine carbon dioxide removal MRV across Africa, Asia, Europe, North America, Oceania and South America. It compares views on additionality, durability, environmental impacts, monitoring duration, governance, verification authority, data transparency and the relationship between project-level MRV and long-term global ocean observation. The study identifies areas of convergence while retaining regional differences relevant to legitimate governance of the ocean commons. It does not constitute a universally adopted MRV protocol, regulator-approved accounting methodology, carbon-credit standard or deployment authorization.",
+    "source": "NOAA Institutional Repository / Elementa: Science of the Anthropocene",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published global policy-bridge assessment",
+    "instrument_type": [
+      "mrv_standard",
+      "research_strategy",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1280,
+    "jurisdiction": "National",
+    "country_or_region": "United States",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Scaling Carbon Dioxide Removal in the Ocean: A US Federal Policy Roadmap",
+    "source_url": "https://carbon180.org/ocean-policy-roadmap/",
+    "notes": "This Carbon180 roadmap proposes a federal policy architecture for responsible expansion of marine carbon dioxide removal in the United States. It organizes recommendations around environmental impacts, efficacy and durability, social license, scaling and deployment, and responsible commercialization, with cross-cutting proposals on legislation, federal research, ocean observing, interagency coordination, permitting review, community engagement and infrastructure co-location. It explicitly covers ocean alkalinity enhancement, direct ocean capture and ocean fertilization. The roadmap is an NGO policy proposal rather than enacted federal policy; recommended bills, appropriations, programmes, permitting reforms and commercialization measures remain contingent on government action.",
+    "source": "Carbon180",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "planned",
+    "status_note": "Published NGO federal-policy roadmap / recommendations not enacted",
+    "instrument_type": [
+      "research_strategy",
+      "policy_planning_and_coordination",
+      "community_or_social_safeguard",
+      "international_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "ocean_alkalinity_enhancement",
+      "direct_ocean_capture",
+      "ocean_fertilization"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "SCP"
+    ]
+  },
+  {
+    "id": 1281,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Marine Carbon Dioxide Removal Technologies: Hopes and Threats",
+    "source_url": "https://ocean-climate.org/en/report-marine-carbon-dioxide-removal-technologies-hopes-and-threats/",
+    "notes": "This Ocean & Climate Platform report synthesizes scientific knowledge on major marine carbon dioxide removal approaches, their proposed mechanisms, maturity, potential scale, costs, monitoring challenges and environmental and social risks. It is designed to inform public debate and policy at the ocean-climate-biodiversity interface and emphasizes that rapid emissions reductions remain the priority. The report finds that evidence remains insufficient for safe large-scale deployment and highlights uncertainty concerning efficacy, durability, additionality, ecological effects and governance. It is a knowledge-dissemination assessment, not a technology approval, carbon-credit methodology, quantified removal guarantee or authorization for field trials.",
+    "source": "Ocean & Climate Platform",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published science-policy assessment",
+    "instrument_type": [
+      "environmental_impact_assessment",
+      "research_strategy",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "environmental_risk_and_sustainability_assessment",
+      "carbon_pump_mechanisms_and_integration",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering",
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink",
+      "ocean_alkalinity_enhancement",
+      "direct_ocean_capture",
+      "ocean_fertilization",
+      "artificial_upwelling",
+      "biomass_sinking_and_burial"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "SCP"
+    ]
+  },
+  {
+    "id": 1282,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Navigating Hopes and Threats: How Precaution Should Guide Marine Carbon Dioxide Removal Research and Governance",
+    "source_url": "https://ocean-climate.org/en/policy-brief-navigating-hopes-and-threats-how-precaution-should-guide-marine-carbon-dioxide-removal-research-and-governance-2/",
+    "notes": "This Ocean & Climate Platform policy brief applies a precautionary approach to marine carbon dioxide removal research and governance. It recommends that any research be scientifically justified, transparent, environmentally protective and socially equitable, while preventing premature deployment and preserving emissions reduction as the primary climate response. The brief calls for stronger international coordination, translation of international commitments into national law, robust environmental assessment, public participation and safeguards for affected communities. It is non-binding advocacy and does not prohibit all research, authorize a field trial, create an enforcement mechanism or certify any mCDR approach as safe or scalable.",
+    "source": "Ocean & Climate Platform",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published precautionary policy brief",
+    "instrument_type": [
+      "environmental_impact_assessment",
+      "regulatory_safeguard",
+      "community_or_social_safeguard",
+      "research_strategy",
+      "international_coordination"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1283,
+    "jurisdiction": "National",
+    "country_or_region": "Isle of Man",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Manx Blue Carbon Research Project Report",
+    "source_url": "https://www.netzero.im/media/1vumagxf/manx-blue-carbon-report-document.pdf",
+    "notes": "This report presents the results of a four-year government-led research programme on carbon storage and ecosystem services in Manx waters. The programme mapped approximately 50,000 hectares of offshore muddy seabed, 196 hectares of seagrass and 7.4 hectares of saltmarsh, and estimated that the assessed habitats store about 500,000 tonnes of carbon, equivalent to roughly 1.8 million tonnes of CO₂. It provides an evidence base for marine management, fisheries decisions and the subsequent Blue Carbon Action Plan. The figures describe existing stocks and research estimates rather than verified additional removals, issued credits or authorization for restoration or carbon-market projects.",
+    "source": "Isle of Man Department of Environment, Food and Agriculture",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Final report published after four-year research programme",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "research_strategy"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "shelf_and_marginal_sea_carbon_cycle",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1284,
+    "jurisdiction": "National",
+    "country_or_region": "Isle of Man",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Blue Carbon Action Plan 2026–2030",
+    "source_url": "https://www.netzero.im/media/r4hpheyq/blue-carbon-action-plan.pdf",
+    "notes": "This Isle of Man action plan converts findings from the Manx Blue Carbon Research Project into a 2026–2030 programme for protecting carbon stores and strengthening marine ecosystem resilience. It organizes action around regulatory protection, continued monitoring and evidence, adaptive management, integration of blue carbon into climate and marine policy, and capacity building and partnerships. The plan supports informed conservation and restoration while linking blue carbon evidence to wider Net Zero and marine-management decisions. It does not establish a carbon-credit registry, guarantee quantified new removals, replace project-specific environmental assessment or automatically authorize restoration and fisheries-management interventions.",
+    "source": "Isle of Man Department of Environment, Food and Agriculture",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active action plan for 2026–2030",
+    "instrument_type": [
+      "target_or_commitment",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard",
+      "research_strategy",
+      "policy_planning_and_coordination",
+      "international_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "shelf_and_marginal_sea_carbon_cycle",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1285,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Blue Carbon Projects Must Uphold the Land and Sea Rights of Coastal Peoples",
+    "source_url": "https://www.nature.com/articles/s41558-026-02643-8",
+    "notes": "This Nature Climate Change policy brief argues that blue carbon projects must recognize the land and sea rights, authority and agency of Indigenous peoples, coastal communities and small-scale fishers. Its policy recommendations call for guidance co-developed with rightsholders, recognition of the full bundle of tenure rights, free, prior and informed consent or culturally legitimate decision processes, and community leadership and control over benefits. The brief treats these safeguards as legal and ethical duties rather than merely conditions for investment or project approval. It is scholarly policy guidance and does not create a binding global tenure regime, approve specific projects or establish a carbon-credit standard.",
+    "source": "Nature Climate Change",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published scholarly policy brief",
+    "instrument_type": [
+      "community_or_social_safeguard",
+      "regulatory_safeguard",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "environmental_social_and_ecological_safeguards",
+      "law_regulation_and_permitting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
   }
 ]
