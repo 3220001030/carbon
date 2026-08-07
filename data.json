@@ -71036,5 +71036,3222 @@
     "carbon_pump_mechanism": [
       "not_specified"
     ]
+  },
+  {
+    "id": 1599,
+    "jurisdiction": "National",
+    "country_or_region": "Philippines",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "DENR Administrative Order No. 2026-05 — Guidelines Governing the Establishment, Registration, and Monitoring of Voluntary Forest Carbon Credit Projects",
+    "source_url": "https://apidb.denr.gov.ph/infores/uploads/DAO-2026-05.pdf",
+    "notes": "The order creates binding procedures for establishing, registering and monitoring voluntary forest carbon credit projects and expressly recognizes blue-carbon and wetland restoration projects covering mangroves, seagrasses and marshes. It requires project documentation and database registration, use of recognized methodologies, independent validation and verification, MRV, protected-area or tenure approvals where applicable, and community and free, prior and informed consent safeguards. International voluntary-market participation is allowed only subject to DENR determinations, while NDC eligibility, corresponding adjustments and transfers of internationally transferred mitigation outcomes remain subject to separate policy issuances. The order therefore enables regulated blue-carbon credit projects but does not itself certify or issue credits to a specific project.",
+    "source": "Department of Environment and Natural Resources (DENR), Philippines",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Promulgated on 24 February 2026 and applicable to new, pipeline and existing voluntary forest carbon credit projects within covered areas.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "community_or_social_safeguard"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1600,
+    "jurisdiction": "National",
+    "country_or_region": "Malaysia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Thirteenth Malaysia Plan, 2026–2030",
+    "source_url": "https://rmk13.ekonomi.gov.my/120925-main-document-e-book/",
+    "notes": "The Thirteenth Malaysia Plan makes blue carbon part of the 2026–2030 national development framework. It calls for exploring the mapping of locations with high carbon-dioxide absorption, developing a blue-carbon credit assessment mechanism, integrating blue-economy information through blue accounting, and exploring blue-carbon initiatives in mangrove and wetland areas to support climate mitigation and coastal protection. The plan also places this work alongside implementation of a national carbon-market policy. These provisions establish an official planning and evidence-building pathway, but they do not by themselves create an operational blue-carbon credit methodology, issue credits, authorize a specific project, or quantify a stand-alone marine carbon-removal target.",
+    "source": "Ministry of Economy, Malaysia",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Presented in 2025; the national plan is being implemented for the 2026–2030 period.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "carbon_accounting_and_methodology",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1601,
+    "jurisdiction": "National",
+    "country_or_region": "United Arab Emirates",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "The United Arab Emirates’ Third Nationally Determined Contribution (NDC 3.0)",
+    "source_url": "https://unfccc.int/sites/default/files/2024-11/UAE-NDC3.0.pdf",
+    "notes": "The UAE NDC 3.0 treats removals as an explicit part of the national 2035 pathway, targeting aggregate negative-emissions capacity of about 9.3 MtCO2e and identifying extensive mangrove afforestation among the nature-based contributions. It reiterates the target to plant an additional 160 million mangroves by 2030 and describes management and restoration of blue-carbon ecosystems, blue-carbon accounting, coastal carbon-stock data and MRV, and long-term monitoring. The NDC also discusses the feasibility of blue-carbon offset projects and a national carbon-registry platform under Article 6, but the offset work remains at feasibility and policy-development stage rather than constituting a project-specific credit authorization. The 9.3 MtCO2e figure is an aggregate negative-emissions capacity that also includes non-marine removal approaches, so it should not be treated as a quantified blue-carbon removal target.",
+    "source": "Government of the United Arab Emirates / UNFCCC",
+    "document_type": "ndc_or_climate_commitment",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active NDC 3.0 submitted to the UNFCCC on 6 November 2024.",
+    "instrument_type": [
+      "target_or_commitment",
+      "ecosystem_restoration_or_conservation_programme",
+      "mapping_inventory_or_monitoring",
+      "mrv_standard",
+      "accounting_methodology",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1602,
+    "jurisdiction": "National",
+    "country_or_region": "Japan",
+    "subnational_area": "",
+    "language": "Japanese",
+    "year": 2026,
+    "document_title": "J-Blue Credit Certification Application Guidelines — Climate Change Mitigation Utilizing Blue Carbon — Ver. 2.6",
+    "source_url": "https://www.blueeconomy.jp/credit/",
+    "notes": "Version 2.6 is the current Japanese application guide for seeking J-Blue Credit certification and issuance in fiscal year 2026. It provides the procedural and technical framework through which blue-carbon projects are documented, quantified, monitored and submitted for certification under the J-Blue Credit scheme, and the programme page confirms that applications for 2026 issuance are being accepted through the J-Blue Credit operating system. J-Blue Credit evaluates carbon dioxide removed from the atmosphere and stored for the long term in coastal and marine blue-carbon ecosystems using objective methodologies and independent committee review. The guide supports voluntary blue-carbon crediting rather than a statutory compliance market, and publication of the guide does not itself certify a project or guarantee credit issuance.",
+    "source": "Japan Blue Economy Association (JBE)",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Japanese Ver. 2.6 was issued in March 2026 and is being used for fiscal-year 2026 certification applications.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement",
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1603,
+    "jurisdiction": "National",
+    "country_or_region": "Costa Rica",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Host Party Participation Requirements for Article 6.4 Mechanism — Costa Rica",
+    "source_url": "https://unfccc.int/sites/default/files/resource/A6.4_HPPR_Costa_Rica.pdf",
+    "notes": "Costa Rica’s host-Party submission identifies blue-carbon removal activities involving protection and restoration of mangroves, seagrasses and tidal marshes as activity types that may be considered for national approval under the Paris Agreement Article 6.4 mechanism. It commits the national authorities to a regulatory and operational framework covering technical guidance, safeguards, environmental integrity, registration, MRV and controls against double counting and double issuance. Approval of an Article 6.4 activity does not automatically authorize international transfer: each internationally transferred mitigation outcome must be assessed case by case and formally authorized by the Ministry of Environment and Energy. The submission therefore establishes eligibility and governance direction, not blanket project approval or automatic credit issuance.",
+    "source": "FONAFIFO / Ministry of Environment and Energy (MINAE), Costa Rica / UNFCCC",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Submitted to the UNFCCC and published on 5 December 2025 as Costa Rica’s host-Party participation framework for Article 6.4.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mrv_standard",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1604,
+    "jurisdiction": "National",
+    "country_or_region": "Seychelles",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Seychelles NDC 3.0",
+    "source_url": "https://unfccc.int/sites/default/files/2025-09/ICTU%20Update%202025%20for%20Seychelles%20new%20NDC%203.0.pdf",
+    "notes": "Seychelles NDC 3.0 records a concrete blue-carbon evidence and accounting step: mapping blue-carbon seagrass and incorporating the associated carbon stock into the national greenhouse-gas inventory. The NDC also states that the blue economy is considered in national strategies and transparency reporting, while additional data are still needed before the sector can be fully integrated into target modelling. The ONCE relevance is therefore primarily inventory, monitoring and knowledge building rather than deployment. The document does not set a quantified seagrass-removal target, authorize a restoration project, or establish a blue-carbon crediting mechanism.",
+    "source": "Government of Seychelles / UNFCCC",
+    "document_type": "ndc_or_climate_commitment",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active NDC 3.0 submitted to the UNFCCC on 30 September 2025.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "mrv_standard",
+      "accounting_methodology",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1605,
+    "jurisdiction": "National",
+    "country_or_region": "Fiji",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Fiji’s Third Nationally Determined Contribution (NDC 3.0)",
+    "source_url": "https://www.unfccc.int/sites/default/files/2025-11/Fiji%20NDC3.0_Final.pdf",
+    "notes": "Fiji’s NDC 3.0 includes restoration of blue-carbon ecosystems among its national ocean and marine-resource commitments, alongside sustainable management of the entire exclusive economic zone by 2035 and a 30 percent marine-protected-area objective. The blue-carbon measure is framed principally as a nature-based resilience and ecosystem action with climate-mitigation co-benefits rather than as a stand-alone quantified carbon-removal target. The NDC therefore supports restoration deployment at policy level, but the commitment does not specify a separate blue-carbon carbon-dioxide-equivalent quantity, project-level authorization, or dedicated crediting methodology.",
+    "source": "Government of Fiji / UNFCCC",
+    "document_type": "ndc_or_climate_commitment",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active NDC 3.0 submitted to the UNFCCC on 6 November 2025; implementation period extends to 2035.",
+    "instrument_type": [
+      "target_or_commitment",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1606,
+    "jurisdiction": "National",
+    "country_or_region": "Panama",
+    "subnational_area": "",
+    "language": "Spanish",
+    "year": 2025,
+    "document_title": "Panama NDC 3.0",
+    "source_url": "https://unfccc.int/sites/default/files/2025-11/Pacto%20de%20Panam%C3%A1%20con%20la%20Naturaleza%20%28Nature%20Pledge%29.pdf",
+    "notes": "Panama’s third NDC commits the country to restore and reforest 100,000 hectares of ecosystems by 2035, explicitly including 2,500 hectares of mangroves, in support of increased national carbon-sink capacity and its longer-term objective of remaining carbon negative. The mangrove area is a concrete restoration component within a broader ecosystem target rather than a stand-alone blue-carbon credit programme. The NDC does not, for this commitment, provide a separate project-level authorization or dedicated blue-carbon crediting methodology, so the record treats the mangrove target as deployment and policy planning rather than an established marine crediting mechanism.",
+    "source": "Government of Panama / UNFCCC",
+    "document_type": "ndc_or_climate_commitment",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active NDC 3.0 submitted to the UNFCCC on 27 November 2025.",
+    "instrument_type": [
+      "target_or_commitment",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1607,
+    "jurisdiction": "National",
+    "country_or_region": "Colombia",
+    "subnational_area": "",
+    "language": "Spanish",
+    "year": 2025,
+    "document_title": "Colombia NDC 3.0 — Transformaciones para la Vida",
+    "source_url": "https://unfccc.int/sites/default/files/2025-12/NDC%203.0%20Transformaciones%20para%20la%20Vida%20%28Colombia%29.pdf",
+    "notes": "Colombia’s NDC 3.0 establishes a blue-carbon knowledge, accounting and implementation pathway that goes beyond general coastal adaptation. It assigns national research institutions to calculate the greenhouse-gas mitigation potential of mangroves, seagrasses and other priority ecosystems, account for reduced or absorbed carbon, and build a monitoring system for non-forest land covers so that emissions, absorptions, reductions and removals can enter national information systems. The NDC also links standardized data and methodologies to the future participation of nature-based projects in voluntary and regulated carbon markets and includes restoration actions for mangroves and seagrasses. These provisions build measurement and market readiness, but they do not by themselves issue credits or quantify one aggregate blue-carbon removal target.",
+    "source": "Government of Colombia / UNFCCC",
+    "document_type": "ndc_or_climate_commitment",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active NDC 3.0 submitted to the UNFCCC on 19 December 2025.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "mrv_standard",
+      "accounting_methodology",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1608,
+    "jurisdiction": "National",
+    "country_or_region": "Bangladesh",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Host Party Participation Requirements for Article 6.4 Mechanism — Bangladesh",
+    "source_url": "https://unfccc.int/sites/default/files/resource/A6.4_Form_AC_001_Bangladesh_Host-Party_fullfilment_form.pdf",
+    "notes": "Bangladesh’s Article 6.4 host-Party submission expressly lists mangrove reforestation and blue-carbon projects in marine and coastal ecosystems among the removal activities it would prioritize for consideration under the Paris Agreement Crediting Mechanism. Eligible activities must reduce or remove greenhouse-gas emissions, support sustainable development and contribute to implementation of the national NDC. The submission also records an Article 6 Designated National Authority governance structure and a national readiness roadmap, while noting that positive and negative project lists were still being prepared at the time of submission. It is therefore a formal eligibility and market-governance signal, not an approval of every blue-carbon project or an automatic authorization of internationally transferred credits.",
+    "source": "Department of Environment, Ministry of Environment, Forest and Climate Change, Bangladesh / UNFCCC",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published by the UNFCCC on 6 January 2025 as Bangladesh’s host-Party participation submission for the Article 6.4 mechanism.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "permit_or_authorization",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1609,
+    "jurisdiction": "National",
+    "country_or_region": "Costa Rica",
+    "subnational_area": "",
+    "language": "Spanish",
+    "year": 2025,
+    "document_title": "Costa Rica NDC 2025–2035",
+    "source_url": "https://unfccc.int/sites/default/files/2025-11/CND-2025-2035.pdf",
+    "notes": "Costa Rica’s NDC 2025–2035 contains a dedicated Blue Carbon axis that links wetland conservation and mangrove restoration directly to greenhouse-gas capture and avoided emissions. It establishes milestones for characterizing wetlands with carbon-capture potential, building coverage and condition baselines for marine wetlands, and placing 2,000 hectares of mangrove into restoration, with recovery of 500 hectares per year. The NDC estimates approximately 52.33 Gg CO2e of sequestration associated with the 2,000-hectare restoration and rehabilitation effort over the stated period, while also requiring stronger monitoring and carbon-accounting information. These are formal national targets and quantified estimates, but they do not by themselves issue carbon credits or constitute project permits.",
+    "source": "Ministry of Environment and Energy (MINAE), Costa Rica / UNFCCC",
+    "document_type": "ndc_or_climate_commitment",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active NDC 2025–2035 submitted to the UNFCCC on 14 November 2025.",
+    "instrument_type": [
+      "target_or_commitment",
+      "ecosystem_restoration_or_conservation_programme",
+      "mapping_inventory_or_monitoring",
+      "accounting_methodology",
+      "mrv_standard",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1610,
+    "jurisdiction": "National",
+    "country_or_region": "Republic of the Congo",
+    "subnational_area": "",
+    "language": "French",
+    "year": 2026,
+    "document_title": "Troisième Contribution Déterminée au niveau National (CDN 3.0) de la République du Congo",
+    "source_url": "https://unfccc.int/sites/default/files/2026-02/CDN%203.0%20de%20la%20R%C3%A9publique%20du%20Congo%20version%20finale.pdf",
+    "notes": "The Republic of the Congo’s NDC 3.0 recognizes mangroves and coastal wetlands as ecosystems that provide carbon-sequestration services and includes conditional 2026–2035 measures for sustainable management and for restoration and expansion of mangrove areas. These actions primarily serve coastal resilience and biodiversity while also reinforcing the country’s broader role as a net carbon sink. The NDC reports larger national net-removal figures for the overall sink pathway, but those figures combine multiple land and ecosystem measures and should not be attributed solely to mangroves. The mangrove component is therefore recorded as a formal restoration commitment without a stand-alone marine removal quantity or carbon-credit authorization.",
+    "source": "Government of the Republic of the Congo / UNFCCC",
+    "document_type": "ndc_or_climate_commitment",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active NDC 3.0 submitted to the UNFCCC on 12 February 2026; relevant measures extend through 2035.",
+    "instrument_type": [
+      "target_or_commitment",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1611,
+    "jurisdiction": "National",
+    "country_or_region": "Dominican Republic",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Host Party Participation Requirements for Article 6.4 Mechanism — Dominican Republic",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Article_6.4_host_Party_participation_requirements_Dominican_Republi.pdf",
+    "notes": "The Dominican Republic’s Article 6.4 host-Party participation submission establishes the national framework for screening and approving activities under the Paris Agreement Crediting Mechanism and identifies mangrove restoration among the priority activity types relevant to national participation. The framework links eligible activities to national climate commitments and sustainable-development benefits and places project approval within the authority of the national Designated National Authority. Subsequent UNFCCC reporting on the country’s Article 6 readiness confirms mangrove restoration as one of the priority project categories alongside other mitigation activities. The submission creates a formal route for considering such projects under Article 6.4, but it does not constitute approval of a specific mangrove project, quantify a blue-carbon removal volume, or automatically authorize transfer of credits.",
+    "source": "National Council for Climate Change and CDM, Dominican Republic / UNFCCC",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published by the UNFCCC on 14 July 2024 as the Dominican Republic’s host-Party participation requirements for Article 6.4.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "permit_or_authorization",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1612,
+    "jurisdiction": "National",
+    "country_or_region": "Seychelles",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Seychelles. 2024 National Inventory Document (NID)",
+    "source_url": "https://unfccc.int/sites/default/files/resource/SEYCHELLES%20NATIONAL%20INVENTORY%20REPORT%202020-2022.pdf",
+    "notes": "The national inventory document formally incorporates seagrass into Seychelles’ greenhouse-gas inventory and reports that this addition materially increases the estimated AFOLU sink relative to the previous biennial-update-report inventory. The document states that seagrass carbon-dioxide removal potential strongly influences the AFOLU results and provides the methodological and reporting basis for recognizing this coastal blue-carbon sink in the national inventory time series. This is an implemented national accounting and transparency step rather than a restoration or carbon-credit project: the document reports removals associated with the inventory and does not authorize new seagrass deployment, issue credits, or establish a project-specific additionality baseline.",
+    "source": "Government of Seychelles / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Submitted to the UNFCCC on 15 July 2025 as Seychelles’ 2024 National Inventory Document covering the national greenhouse-gas inventory.",
+    "instrument_type": [
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1613,
+    "jurisdiction": "National",
+    "country_or_region": "Nigeria",
+    "subnational_area": "National marine and coastal ecosystems",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Nigeria NDC 3.0 — Mangrove Conservation and Ocean/Coastal Ecosystem Removals",
+    "source_url": "https://www.unfccc.int/sites/default/files/2025-09/Nigeria%20NDC%203.0%20-%20Transimission%20Version%202.pdf",
+    "notes": "Nigeria's NDC 3.0 explicitly includes marine and coastal ecosystems in its mitigation portfolio. In the LULUCF package, the document calls for conservation of 13,000 hectares of mangroves alongside wider forest protection and restoration, and a separate measure calls for enhancing removals through preservation and restoration of oceans and coastal ecosystems, including mangroves, coastal wetlands and marine protected areas. The NDC reports a combined mitigation potential for the broader land-sector action that also contains the mangrove target, so that figure should not be interpreted as a stand-alone quantified marine or mangrove removal estimate. The commitment establishes national mitigation direction and restoration/protection actions, but it does not itself create a blue-carbon crediting methodology, issue credits, establish a project-specific baseline, or authorize a particular marine carbon-removal project.",
+    "source": "Federal Government of Nigeria / UNFCCC",
+    "document_type": "ndc_or_climate_commitment",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active NDC 3.0 submitted in 2025; marine and mangrove measures are implementation commitments, while project-level methods, finance and approvals require subsequent instruments.",
+    "instrument_type": [
+      "target_or_commitment",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "coastal_wetland_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1614,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2023,
+    "document_title": "关于印发《温室气体自愿减排项目方法学 造林碳汇（CCER-14-001-V01）》等4项方法学的通知",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202310/t20231024_1043877.html",
+    "notes": "This Ministry of Ecology and Environment notice formally issued four methodologies for China's national voluntary greenhouse-gas emission-reduction programme, including the mangrove afforestation methodology CCER-14-002-V01. The notice places the methodology into the national CCER framework and standardizes the basis on which eligible projects can be designed, validated, quantified and verified. For Global ONCE purposes, its importance is institutional rather than project-specific: it gives formal effect to a marine blue-carbon accounting and crediting methodology within the national voluntary market. The notice does not itself approve a mangrove project, establish ownership over a project site, issue CCER units, or quantify achieved removals; those outcomes depend on subsequent project registration, monitoring, verification and issuance procedures.",
+    "source": "Ministry of Ecology and Environment of the People's Republic of China",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Issued in October 2023 and operative within the national CCER methodology framework; no final 2026 replacement of the mangrove V01 methodology was confirmed as of 7 August 2026.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1615,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2023,
+    "document_title": "温室气体自愿减排项目方法学 红树林营造（CCER—14—002—V01）",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202310/W020231024631537753613.pdf",
+    "notes": "CCER-14-002-V01 is the national methodology for greenhouse-gas voluntary emission-reduction projects based on mangrove establishment. It sets eligibility conditions for project areas such as suitable unvegetated tidal flats and retired aquaculture ponds, requires clear land or sea-use rights and project emission-reduction rights, and specifies project-boundary, baseline, additionality, carbon-pool, monitoring, calculation, validation and verification rules. The methodology treats increased mangrove ecosystem carbon stocks as anthropogenic removals and covers biomass and soil-organic-carbon accounting while addressing relevant methane and nitrous-oxide effects. It is a crediting and accounting standard rather than a restoration permit: use of the methodology does not by itself authorize occupation of a tidal area, prove ecological compliance, register a project, or guarantee issuance or sale of CCER units.",
+    "source": "Ministry of Ecology and Environment of the People's Republic of China",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "National CCER mangrove methodology issued in 2023 and still the operative final version as of 7 August 2026, while a revised text remained in draft form.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1616,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "关于公开征求《温室气体自愿减排项目方法学 造林碳汇（修订征求意见稿）》和《温室气体自愿减排项目方法学 红树林营造（修订征求意见稿）》意见的函",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202606/t20260626_1160307.html",
+    "notes": "This Ministry of Ecology and Environment consultation launched public review of proposed revisions to the national CCER afforestation and mangrove methodologies. For the mangrove pathway, the consultation is evidence of an active rule-updating process covering project design, implementation, validation, emission-reduction accounting and verification within China's voluntary carbon market. The consultation period closed on 7 July 2026. It does not itself amend the operative 2023 methodology, approve projects, issue credits or create a new deployment authorization; unless and until a final revised methodology is formally issued, the consultation package should be treated as a proposed regulatory and methodological update rather than a final rule.",
+    "source": "Ministry of Ecology and Environment of the People's Republic of China",
+    "document_type": "consultation",
+    "legal_force": "non_binding",
+    "implementation_status": "under_review",
+    "status_note": "Public consultation opened in June 2026 and closed on 7 July 2026; final adoption of the proposed revised mangrove methodology was not confirmed as of 7 August 2026.",
+    "instrument_type": [
+      "public_consultation",
+      "mrv_standard",
+      "accounting_methodology",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1617,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "温室气体自愿减排项目方法学 红树林营造（修订征求意见稿）",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk06/202606/W020260626521921580104.pdf",
+    "notes": "This 2026 consultation draft proposes a revised national CCER methodology for mangrove establishment. It retains a project-based carbon-removal framework for suitable unvegetated tidal flats and retired aquaculture ponds, requires clear rights over the relevant sea or land area and the resulting emission reductions, sets a minimum continuous planted area, protects the intertidal character of eligible sites, and requires legal and policy compliance. The draft provides long-term crediting-period rules, spatial boundary and monitoring requirements, biomass and soil-organic-carbon accounting, baseline and project-emission calculations, and treatment of methane and nitrous oxide. Because the document is explicitly a consultation draft, it has no final methodological effect by itself and should not be interpreted as superseding CCER-14-002-V01, granting a restoration permit, registering a project or guaranteeing issuance of credits.",
+    "source": "Ministry of Ecology and Environment of the People's Republic of China",
+    "document_type": "bill_or_draft",
+    "legal_force": "non_binding",
+    "implementation_status": "draft",
+    "status_note": "Revision draft released for public consultation in June 2026; the consultation had closed, but a final revised methodology was not confirmed as of 7 August 2026.",
+    "instrument_type": [
+      "public_consultation",
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1618,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Guangdong Province",
+    "language": "Chinese",
+    "year": 2022,
+    "document_title": "广东省碳普惠交易管理办法",
+    "source_url": "https://gdee.gd.gov.cn/attachment/0/487/487047/3912526.pdf",
+    "notes": "The Guangdong Carbon-Inclusion Trading Management Measures establish the provincial institutional framework for carbon-inclusion reductions and trading. The measures expressly recognize marine carbon sinks, describing relevant resources and activities to include mangroves, seagrass beds, salt marshes, macroalgae and shellfish, and they provide a basis for cross-regional carbon-inclusion cooperation. Their ONCE relevance is therefore the legal and market-governance framework under which marine methodologies and projects can subsequently be developed and recognized. The measures do not themselves quantify marine removals, prescribe a single marine accounting formula, approve any specific blue-carbon project or prove that credits have been issued from every listed ecosystem or aquaculture pathway.",
+    "source": "Department of Ecology and Environment of Guangdong Province",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Provincial carbon-inclusion trading rules issued in 2022 with a five-year validity period; active as of 7 August 2026 unless replaced or repealed by a later formal instrument.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "regulatory_safeguard",
+      "international_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1619,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Guangdong Province excluding Shenzhen",
+    "language": "Chinese",
+    "year": 2023,
+    "document_title": "广东省红树林碳普惠方法学（编号2023001-V01）",
+    "source_url": "https://gdee.gd.gov.cn/attachment/0/517/517565/4148729.pdf",
+    "notes": "This Guangdong methodology provides a provincial carbon-inclusion accounting framework for greenhouse-gas reductions generated by mangrove ecological restoration and sink enhancement, with Shenzhen excluded from its geographic scope. It specifies the project-accounting process, eligibility and boundary rules, baseline and project scenarios, monitoring data and verification requirements that can be used to quantify eligible mangrove carbon benefits. The methodology connects mangrove restoration to Guangdong's carbon-inclusion system and therefore provides a subnational route from ecological restoration to quantified and potentially tradable reductions. It is a methodology rather than an individual administrative approval: it does not itself confer site-use rights, authorize ecological works, validate a project, issue reductions or guarantee a transaction.",
+    "source": "Department of Ecology and Environment of Guangdong Province",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Provincial mangrove carbon-inclusion methodology issued in 2023 and used within Guangdong's carbon-inclusion framework; Shenzhen is outside this methodology's stated geographic scope.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1620,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Shenzhen, Guangdong",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "深圳市规划和自然资源局关于印发《红树林保护碳汇项目方法学（V1.0）》的通知",
+    "source_url": "https://pnr.sz.gov.cn/ywzy/qt/bzgf/content/post_12629922.html",
+    "notes": "Shenzhen's Mangrove Conservation Carbon Sink Project Methodology (V1.0) standardizes the development and implementation of projects that maintain and enhance carbon-storage functions through mangrove conservation. The methodology supports ecological-product value realization by defining project boundaries, data requirements, carbon-sink accounting and monitoring expectations for conservation-oriented mangrove projects. It is especially relevant because it complements restoration-focused methodologies by addressing the carbon value of continued conservation and management. The document is a technical methodology, not a site-specific conservation approval or carbon-credit issuance decision, and it does not by itself establish that a project has generated verified or tradable units.",
+    "source": "Planning and Natural Resources Bureau of Shenzhen Municipality",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Version 1.0 formally released in February 2026 and active as a Shenzhen technical methodology; project-level validation, approval and any market use remain separate steps.",
+    "instrument_type": [
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1621,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Guangzhou, Guangdong",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "广州市红树林碳普惠方法学（2025年试行版）",
+    "source_url": "https://sthjj.gz.gov.cn/gkmlpt/content/10/10583/post_10583582.html",
+    "notes": "Guangzhou's 2025 trial mangrove carbon-inclusion methodology was registered after public solicitation and expert evaluation under the city's voluntary greenhouse-gas reduction framework. It creates a city-level technical basis for defining eligible mangrove projects, calculating reductions or removals, monitoring project performance and supporting verification for carbon-inclusion use. The methodology provides the accounting infrastructure subsequently used by project applications in Nansha and therefore represents an operational local standard rather than a general policy aspiration. Its trial status is important: the document does not itself approve a restoration site, certify a particular quantity of removals, issue GZCER units or guarantee that an application will pass review.",
+    "source": "Guangzhou Municipal Ecology and Environment Bureau",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Trial methodology registered and published in late 2025; active for applicable Guangzhou carbon-inclusion project development unless superseded by a later formal version.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1622,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Nansha Wetland, Guangzhou, Guangdong",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "南沙湿地红树林营造GZCER项目（一期）减排量申请公示",
+    "source_url": "https://sthjj.gz.gov.cn/gkmlpt/content/10/10831/post_10831608.html",
+    "notes": "This Guangzhou public notice concerns the Phase I Nansha Wetland mangrove afforestation GZCER project submitted by Guangzhou Nansha Wetland Tourism Development Co. The application uses Guangzhou's 2025 trial mangrove carbon-inclusion methodology and requests recognition of 554 tCO2e of emission reductions/removals. The notice is valuable as project-level evidence that the municipal methodology has moved from rulemaking into an actual credit application workflow. The figure is an amount requested in an application, not proof of final verification or issuance, and the public notice does not replace any separate ecological restoration, land/sea-use or environmental approvals that may be required for the underlying works. A later Guangzhou Ecology and Environment Bureau announcement confirmed that the 554 tCO2e requested for this afforestation component was subsequently issued; the present record is retained because it documents the distinct application and public-comment stage.",
+    "source": "Guangzhou Municipal Ecology and Environment Bureau",
+    "document_type": "consultation",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Application public-notice phase ran from 28 May to 3 June 2026 and is complete; a later Guangzhou official announcement confirmed issuance of the requested 554 tCO2e, which is recorded separately in this update.",
+    "instrument_type": [
+      "public_consultation",
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "carbon_crediting_and_trading",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1623,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Nansha Wetland, Guangzhou, Guangdong",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "南沙湿地红树林修复GZCER项目（一期）减排量申请公示",
+    "source_url": "https://sthjj.gz.gov.cn/gkmlpt/content/10/10831/post_10831615.html",
+    "notes": "This is a separate Phase I Nansha Wetland GZCER application covering mangrove restoration rather than the afforestation application recorded separately. The applicant submitted the project under Guangzhou's 2025 trial mangrove carbon-inclusion methodology and requested recognition of 697 tCO2e of emission reductions/removals. Because it is an independent project application with its own requested quantity and public notice, it is retained as a separate record rather than treated as a duplicate of the afforestation project. The 697 tCO2e figure remains an application-stage quantity: the notice does not by itself demonstrate final verification, registration, credit issuance, sale, or separate authorization for the ecological works. A later Guangzhou Ecology and Environment Bureau announcement confirmed that the 697 tCO2e requested for this restoration component was subsequently issued; the present record is retained because it documents the distinct application and public-comment stage.",
+    "source": "Guangzhou Municipal Ecology and Environment Bureau",
+    "document_type": "consultation",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Application public-notice phase ran from 28 May to 3 June 2026 and is complete; a later Guangzhou official announcement confirmed issuance of the requested 697 tCO2e, which is recorded separately in this update.",
+    "instrument_type": [
+      "public_consultation",
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "carbon_crediting_and_trading",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1624,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Shandong Province",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "山东省生态环境厅 山东省海洋局关于发布《山东省海草床碳汇碳普惠方法学》的通知",
+    "source_url": "http://xxgk.sdein.gov.cn/zfwj/lhz/202506/t20250609_4827059.html",
+    "notes": "Shandong's ecology and environment and ocean authorities jointly issued a provincial seagrass-bed carbon-sink carbon-inclusion methodology in 2025. The methodology is designed for voluntary carbon-inclusion seagrass projects in Shandong and provides rules for project design and application, baseline and project scenarios, carbon-sink or emission-reduction calculation, monitoring, reporting and verification. It converts seagrass restoration or management outcomes into a standardized quantification framework that can support provincial carbon-inclusion recognition. The methodology is not an individual project decision and does not by itself establish ownership of a seagrass site, authorize restoration works, certify a specific quantity of removals or prove that credits have been issued or traded.",
+    "source": "Department of Ecology and Environment of Shandong Province / Shandong Provincial Ocean Bureau",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Provincial methodology issued under document Lu Huan Zi [2025] No. 52 and effective from 29 May 2025; active unless superseded by a later formal version.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "seagrass_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1625,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Fujian Province",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "“十五五”“海上福建”建设规划",
+    "source_url": "https://fj.gov.cn/zwgk/zxwj/szfwj/202607/t20260701_7170237.htm",
+    "notes": "Fujian's 15th Five-Year Maritime Fujian Construction Plan contains a dedicated marine-carbon-sink policy package. It calls for provincial marine carbon-sink standards, monitoring, accounting and trading methods, development of methodologies for macroalgae-based marine carbon-sink trading, and a more complete marine and fishery carbon-sink accounting and transaction chain. The plan also links marine carbon sinks with judicial mechanisms, finance, pledge registration, funds and insurance, and promotes cross-strait cooperation and potential mutual recognition of standards. These are formal planning tasks and market-development directions, not proof that every proposed methodology, financial product or trading arrangement is already operational; the plan itself does not issue credits or authorize a specific sink-enhancement project.",
+    "source": "People's Government of Fujian Province",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Provincial 15th Five-Year maritime plan issued in 2026 and active for the 2026–2030 planning period; multiple marine-carbon market and methodology elements remain implementation tasks.",
+    "instrument_type": [
+      "target_or_commitment",
+      "research_strategy",
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1626,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Fujian Province",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "福建省“十五五”生态省建设暨生态环境保护规划",
+    "source_url": "https://www.fj.gov.cn/zwgk/ghjh/ghxx/202606/t20260610_7161322.htm",
+    "notes": "Fujian's 15th Five-Year ecological-province and environmental-protection plan includes a marine blue-carbon value-realization workstream. It directs continued development of mechanisms linking marine carbon-sink trading with ecological judicial, procuratorial and administrative enforcement, work on accounting standards for losses of marine ecosystem services, guidance for judicial ecological compensation and replicable cases that use marine carbon sinks in restoration or compensation arrangements. This places blue carbon within a broader environmental-governance and ecological-value framework rather than treating it solely as a voluntary offset product. The plan establishes policy tasks and institutional direction, but it is not itself a project methodology, a credit issuance decision, a court judgment or a quantified marine carbon-removal programme.",
+    "source": "People's Government of Fujian Province",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Provincial 15th Five-Year environmental plan issued in 2026 and active; the marine blue-carbon legal, accounting and compensation mechanisms described in it require subsequent implementing standards and cases.",
+    "instrument_type": [
+      "target_or_commitment",
+      "research_strategy",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "carbon_accounting_and_methodology",
+      "economic_value_accounting",
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "law_regulation_and_permitting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1627,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Fujian Province",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "福建省国民经济和社会发展第十五个五年规划纲要",
+    "source_url": "https://fj.gov.cn/zwgk/ghjh/zcqfzgh/202604/t20260402_7118825.htm",
+    "notes": "Fujian's provincial 15th Five-Year development outline explicitly includes marine carbon-sink institutional development. It calls for marine surveys, observation and monitoring, improvement of marine ecosystem-product value realization, and construction of a fuller marine and fishery carbon-sink accounting and trading chain. The outline therefore provides high-level authorization and planning support for the province's later, more detailed blue-carbon standards, methodologies and trading initiatives. It remains a strategic planning instrument: it does not supply a project-level accounting formula, issue a carbon credit, quantify achieved marine removals or authorize a named restoration or aquaculture project.",
+    "source": "People's Government of Fujian Province",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Provincial development outline for 2026–2030, active as the overarching 15th Five-Year framework; detailed marine carbon accounting and trading rules are to be implemented through follow-on instruments.",
+    "instrument_type": [
+      "target_or_commitment",
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "economic_value_accounting",
+      "carbon_crediting_and_trading",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1628,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Liaoning Province",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "辽宁省“十五五”海洋经济发展规划",
+    "source_url": "https://www.ln.gov.cn/web/zwgkx/zfxxgk1/zc/xzgfxwj/szf/szfwj/2026071515422042261/index.shtml",
+    "notes": "Liaoning's final 15th Five-Year marine-economy plan combines marine-carbon governance with research on offshore geological carbon storage. It calls for marine carbon-sink resource surveys and monitoring, stronger standards research, and exploration of accounting and trading mechanisms, while its marine technology programme also deploys research on carbon capture, liquefied transport, offshore storage, marine injection and integrated equipment. The plan therefore covers both evidence and standards for marine sinks and research-stage marine geological CO2 storage. It does not itself establish a provincial carbon-credit methodology, quantify verified removals, select a storage reservoir, grant an injection permit or authorize commercial-scale offshore CO2 storage.",
+    "source": "People's Government of Liaoning Province",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Final provincial marine-economy plan issued in 2026 and active for the 2026–2030 period; marine carbon accounting/trading and offshore CO2 storage elements are exploratory or research-stage tasks.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1629,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Liaoning Province",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "辽宁省“十五五”海洋经济发展规划（征求意见稿）",
+    "source_url": "https://www.ln.gov.cn/web/hdjl/yjzj/zfwj/2026052815025258203/index.shtml",
+    "notes": "This consultation draft preceded Liaoning's final 15th Five-Year marine-economy plan and exposed the proposed marine-carbon package to public comment. The draft called for surveys and monitoring of marine carbon-sink resources, standards research, exploration of carbon-sink accounting and trading, and research on carbon capture, liquefied transport, offshore storage and marine injection technologies. It is retained separately because it is a distinct formal consultation version and documents the policy-development process. The consultation closed on 12 June 2026 and the draft was subsequently superseded by the final provincial plan, so it has no independent current implementation effect and does not authorize carbon credits or offshore CO2 injection.",
+    "source": "Liaoning Provincial Development and Reform Commission",
+    "document_type": "consultation",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Public consultation ran from 28 May to 12 June 2026; this draft was superseded by the final Liaoning 15th Five-Year Marine Economy Development Plan issued later in 2026.",
+    "instrument_type": [
+      "public_consultation",
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1630,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Weihai, Shandong",
+    "language": "Chinese",
+    "year": 2022,
+    "document_title": "威海市人民政府办公室关于修改威海市蓝碳经济发展行动方案（2021—2025年）的通知",
+    "source_url": "https://www.weihai.gov.cn/art/2022/1/14/art_59451_3126085.html",
+    "notes": "This 2022 notice formally modified and reissued Weihai's 2021–2025 Blue Carbon Economy Development Action Plan, replacing the original 2021 notice. The amended plan continued the city's integrated programme for blue-carbon science, carbon-sink survey and evaluation, methodology and standards development, shellfish-algae carbon-sink research and marine negative-emissions technology demonstration. The document therefore provides the operative historical version for most of the plan period and shows how Weihai institutionalized blue carbon across research, engineering and market-governance functions. The plan period ended in 2025, and the notice itself did not create a site-specific deployment authorization, a stand-alone credit issuance rule or a verified quantity of marine carbon removals.",
+    "source": "People's Government of Weihai Municipality",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Modified and reissued in January 2022, superseding the 2021 version; the underlying 2021–2025 action-plan period has now ended.",
+    "instrument_type": [
+      "target_or_commitment",
+      "research_strategy",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "integrated_shellfish_algae_aquaculture"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ]
+  },
+  {
+    "id": 1631,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Weihai, Shandong",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "《威海市蓝碳经济发展行动方案（2021—2025年）》实施情况评估报告",
+    "source_url": "https://www.weihai.gov.cn/art/2025/12/29/art_59370_6048825.html",
+    "notes": "This official Weihai assessment reviews implementation of the city's 2021–2025 Blue Carbon Economy Development Action Plan after the end of its programme period. It reports on progress against the action plan's research, standards, institutional and blue-carbon development tasks and describes completion of the municipal blue-carbon policy and technical-system build-out. The report is useful evidence for distinguishing planned measures from activities that the city considers implemented or completed. It is retrospective assessment evidence rather than a new rule: it does not itself authorize a marine carbon-removal project, create a new crediting methodology, issue carbon units or extend the expired 2021–2025 action-plan period.",
+    "source": "Weihai Municipal Marine Development Bureau / People's Government of Weihai Municipality",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Official implementation assessment published in December 2025 after completion of the 2021–2025 action-plan period; it is a retrospective evaluation, not a successor policy.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1632,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Xiamen, Fujian",
+    "language": "Chinese",
+    "year": 2023,
+    "document_title": "厦门经济特区海洋经济促进规定",
+    "source_url": "https://www.xmrd.gov.cn/fgk/202312/t20231228_237167.htm",
+    "notes": "The Xiamen Special Economic Zone Provisions on Promoting the Marine Economy create a binding municipal legal basis for developing marine ecosystem-product value mechanisms and marine carbon-sink systems. The provisions direct the city to explore marine ecological-product trading rules and to build marine carbon-sink monitoring and accounting capacity through baseline surveys, observation plans, accounting standards and trading rules. They also support sink-enhancement pilots involving mariculture, coastal wetlands, mangroves and seagrass, connecting research and monitoring to practical ecosystem and aquaculture interventions. The law sets duties and policy direction but leaves detailed accounting formulas, project eligibility, credit issuance and individual ecological or sea-use approvals to subsequent implementing rules and project decisions.",
+    "source": "Standing Committee of the Xiamen Municipal People's Congress",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Adopted on 26 December 2023 and effective from 1 March 2024; active municipal legislation as of 7 August 2026.",
+    "instrument_type": [
+      "target_or_commitment",
+      "mapping_inventory_or_monitoring",
+      "demonstration_support",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_wetland_restoration_and_sink_enhancement",
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "seagrass_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "economic_value_accounting",
+      "carbon_crediting_and_trading",
+      "law_regulation_and_permitting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1633,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Xiamen, Fujian",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "厦门市人民政府关于印发加快推进海洋经济高质量发展若干措施的通知（厦府规〔2025〕9号）",
+    "source_url": "https://www.xm.gov.cn/zfxxgk/xxgkznml/szfgz/sgfxwj/szf/202506/t20250625_2941358.htm",
+    "notes": "Xiamen's 2025 measures for accelerating high-quality marine-economy development include a dedicated effort to deepen the city's marine carbon-sink trading infrastructure. The measures support the existing marine carbon-sink trading platform, conversion of monitoring and evaluation technologies, development of a methodology system, improved trading monitoring and verification, and expansion of cross-regional marine carbon-sink transactions. This makes the document a concrete municipal implementation policy for market and MRV capacity rather than a generic blue-economy statement. It does not itself validate a particular project, define every methodology formula, issue a carbon unit or authorize an ocean carbon-removal intervention; those functions remain with technical standards, project processes and market rules.",
+    "source": "People's Government of Xiamen Municipality",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Municipal normative policy issued in 2025 with a stated five-year validity period; active as of 7 August 2026.",
+    "instrument_type": [
+      "research_strategy",
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1634,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Xiamen, Fujian",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "厦门市海洋环境保护若干规定（修订草案）",
+    "source_url": "https://www.xmrd.gov.cn/xwzx/qwfb/202603/t20260317_415751.htm",
+    "notes": "The 2026 revision draft of Xiamen's marine environmental protection provisions contains a proposed blue-carbon governance clause. It would promote a marine carbon-sink trading mechanism, support research and standards for marine carbon sinks, and allow the purchase of marine carbon sinks or participation in marine carbon-sink projects to be considered in ecological-damage compensation arrangements. The draft therefore connects carbon-sink markets, technical standardization and environmental liability within a local legislative framework. Public consultation has ended, but the reviewed official material did not confirm final enactment of this revision; the draft should not be treated as binding current law, a crediting methodology, a project approval or evidence that compensation transactions have occurred.",
+    "source": "Standing Committee of the Xiamen Municipal People's Congress",
+    "document_type": "consultation",
+    "legal_force": "non_binding",
+    "implementation_status": "under_review",
+    "status_note": "Public consultation opened on 17 March 2026 and closed on 18 April 2026; final enactment of the revision was not confirmed as of 7 August 2026.",
+    "instrument_type": [
+      "public_consultation",
+      "research_strategy",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "law_regulation_and_permitting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1635,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "中华人民共和国国民经济和社会发展第十五个五年规划纲要",
+    "source_url": "https://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2026/2026_zt03/yw/202603/t20260314_1430877.html",
+    "notes": "China's national 15th Five-Year Plan Outline places marine carbon sinks within the country's broader ocean survey, ecological monitoring and carbon-accounting agenda. The outline calls for a new round of marine investigation, stronger ecological early-warning and monitoring capabilities, and exploration of marine carbon-sink accounting. This gives national strategic backing to the evidence and accounting infrastructure needed for later blue-carbon and marine carbon-sink policies. The wording is exploratory: the outline does not itself publish a marine accounting methodology, establish a marine crediting programme, quantify additional ocean removals, approve a project or authorize deployment of a marine carbon-removal technology.",
+    "source": "National People's Congress of China / Government of the People's Republic of China",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "National 15th Five-Year development outline approved in 2026 and active for 2026–2030; marine carbon-sink accounting remains an explicitly exploratory implementation task.",
+    "instrument_type": [
+      "target_or_commitment",
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1636,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "“十五五”生态环境监测规划",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk03/202607/t20260713_1161428.html",
+    "notes": "China's national 15th Five-Year ecological-environment monitoring plan explicitly advances a marine carbon-sink monitoring system. Official implementation material calls for establishing or improving monitoring and accounting work mechanisms for key coastal blue-carbon ecosystems including salt marshes, mangroves and seagrass beds. This is important evidence-building infrastructure for consistent inventories, long-term observation, accounting and later verification of marine sink outcomes. The plan is not a carbon-credit methodology or ecological restoration authorization and it does not claim quantified additional removals; its direct role is to strengthen monitoring, data and accounting capability across identified coastal ecosystems.",
+    "source": "Ministry of Ecology and Environment / National Development and Reform Commission of China",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "National monitoring plan issued in July 2026 and active for the 15th Five-Year period; marine blue-carbon monitoring and accounting mechanisms are implementation tasks under development.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "mrv_standard",
+      "accounting_methodology",
+      "research_strategy",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "salt_marsh_and_tidal_wetland_restoration",
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "seagrass_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1637,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "国家应对气候变化“十五五”规划",
+    "source_url": "https://www.mee.gov.cn/xxgk2018/xxgk/xxgk03/202607/t20260729_1163021.html",
+    "notes": "China's national 15th Five-Year climate-change plan includes ocean carbon-cycle research within a broader programme for climate science, ecosystem sinks and carbon-market governance. The plan calls for research on linkages between terrestrial and ocean carbon cycles and climate risks, while also strengthening ecosystem carbon-sink measurement, monitoring, accounting and carbon-stock surveys and improving the national voluntary greenhouse-gas reduction market's methodology and project-management system. The ocean-specific element is therefore primarily scientific and evidence-building rather than a deployment programme. The plan does not establish a dedicated ocean-removal methodology, authorize a marine geoengineering activity, quantify achieved marine removals or show that a specific ocean project has received credits.",
+    "source": "Ministry of Ecology and Environment of the People's Republic of China",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "National climate-change plan issued in July 2026 and active for the 15th Five-Year period; the ocean-carbon component is a research and monitoring priority rather than a deployment authorization.",
+    "instrument_type": [
+      "research_strategy",
+      "mapping_inventory_or_monitoring",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "marine_ecosystem_and_element_cycles",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1638,
+    "jurisdiction": "National",
+    "country_or_region": "Niue",
+    "subnational_area": "National marine territory",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Niue NDC 3.0 — Carbon Storage Capacity and Marine Territory Preservation",
+    "source_url": "https://unfccc.int/sites/default/files/2025-07/NIUE%20NDC%203.0.pdf",
+    "notes": "Niue's NDC 3.0 links its 2030 carbon-storage ambition with preservation of its extensive marine territory, placing ocean conservation within the country's mitigation and resilience narrative. The NDC commits to enhancing carbon-storage capacity through land and ecosystem initiatives and explicitly identifies preservation of the marine territory as part of that broader direction. The document does not provide a stand-alone quantified marine CO2-removal target, identify a mangrove or seagrass pathway, specify an ocean carbon accounting methodology, or establish a marine crediting mechanism. It is therefore recorded conservatively as a national climate commitment with marine carbon-storage relevance rather than as evidence of a deployed blue-carbon or marine CDR engineering project.",
+    "source": "Government of Niue / UNFCCC",
+    "document_type": "ndc_or_climate_commitment",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active NDC 3.0 submitted on 17 July 2025; marine preservation is part of the national carbon-storage and climate commitment, without a separate quantified marine-removal programme.",
+    "instrument_type": [
+      "target_or_commitment",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1639,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Hainan Province",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "海南低碳岛建设方案",
+    "source_url": "https://www.hainan.gov.cn/hainan/szfwj/202507/5b8fc216682c4195988d61e4198e3420.shtml?ddtab=true",
+    "notes": "Hainan's Low-Carbon Island Construction Plan creates a province-wide policy package for expanding both terrestrial and marine carbon sinks. Its marine component calls for stronger basic research on marine ecosystem carbon sinks, wider use of ecological carbon-sequestration and restoration technologies, systematic restoration of mangroves, coral reefs and seagrass beds, development of marine ranching and stronger fishery carbon-sink capacity. The plan sets an indicative 2030 mangrove-area objective of about 119,000 mu and a longer-term direction for a substantially larger blue-carbon contribution by 2045. These are strategic ecosystem and sink-enhancement objectives rather than verified additional removals: the plan does not provide a project-level baseline, a blue-carbon crediting methodology, a quantified tCO2e removal target for the marine package, or authorization for a named restoration or aquaculture project.",
+    "source": "People's Government of Hainan Province",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Provincial low-carbon island plan issued in 2025 and active; the marine blue-carbon actions are implementation and capacity-building objectives extending toward 2030 and 2045.",
+    "instrument_type": [
+      "target_or_commitment",
+      "research_strategy",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "seagrass_conservation_restoration_and_sink_enhancement",
+      "coral_reef_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1640,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Zhejiang Province",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "2026年度省自然科学基金拟资助项目清单 — ONCE-relevant marine carbon research",
+    "source_url": "https://zjnsf.kjt.zj.gov.cn/isp/staticfiles/ueditor/202511/2026%E5%B9%B4%E5%BA%A6%E6%B5%99%E6%B1%9F%E7%9C%81%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6%E5%9F%BA%E9%87%91%E6%8B%9F%E8%B5%84%E5%8A%A9%E9%A1%B9%E7%9B%AE%E6%B8%85%E5%8D%95.pdf",
+    "notes": "Zhejiang's 2026 provincial natural-science funding list contains several distinct projects directly relevant to Global ONCE research. The proposed portfolio includes continuous observation of how the biological carbon pump in the Yangtze Estuary responds to typhoons (QK26D060003, Second Institute of Oceanography), research on the evolution and controls of marine particulate organic-carbon burial in hypoxic coastal waters of Zhejiang (QK26D060007, Second Institute of Oceanography), and a continuing distinguished-young-scholar project on the carbon-sink efficiency and enhancement mechanisms of emerging blue-carbon macroalgal beds (RG26D060001, Zhejiang University). Together these projects strengthen observation, process understanding and sink-enhancement science across coastal carbon burial, BCP dynamics and macroalgal blue carbon. The source is a proposed-funding list, so it should not be interpreted as evidence of completed research outcomes, quantified anthropogenic removals, operational carbon-credit methodologies or deployment authorization.",
+    "source": "Natural Science Foundation of Zhejiang Province / Zhejiang Provincial Department of Science and Technology",
+    "document_type": "funding_or_programme",
+    "legal_force": "non_binding",
+    "implementation_status": "planned",
+    "status_note": "Included in the official list of projects proposed for 2026 provincial natural-science funding; project-level research results and any later deployment outcomes were not yet established by this funding list.",
+    "instrument_type": [
+      "research_and_development_funding",
+      "mapping_inventory_or_monitoring",
+      "research_strategy"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "marine_ecosystem_and_element_cycles",
+      "shelf_and_marginal_sea_carbon_cycle",
+      "carbon_pump_mechanisms_and_integration",
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1641,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Xiapu County, Ningde, Fujian",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "福建省霞浦县自然资源局霞浦县盐田乡和长春镇红树林植被修复项目 — CCER Registration",
+    "source_url": "https://zrzyt.fujian.gov.cn/zwgk/xwdt/zrzyyw/202603/t20260325_7115468.htm",
+    "notes": "The Xiapu County mangrove vegetation restoration project in Yantian Township and Changchun Town completed registration in China's national voluntary greenhouse-gas reduction registration system in March 2026, becoming the country's first registered marine-sector CCER project. The project was developed through cooperation between Xiapu County and the Third Institute of Oceanography and is based on mangrove restoration work undertaken in local coastal waters. Official information states a 40-year crediting period and an expected total of 32,466 tonnes of CO2 reductions/removals over that period. Registration is a major market-access milestone but is not the same as final issuance: the projected 32,466 tonnes are ex-ante expectations, and actual CCER units require subsequent monitoring, verification and issuance under the national system. The registration also does not replace ecological restoration, sea-use or other legal approvals applicable to the underlying project activities.",
+    "source": "Department of Natural Resources of Fujian Province / Xiapu County People's Government / Third Institute of Oceanography",
+    "document_type": "permit_or_project_decision",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "National CCER project registration completed in March 2026; 40-year crediting period and 32,466 tCO2 expected total are project projections, with monitoring and issuance still required for realized credits.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1642,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Nansha Wetland, Guangzhou, Guangdong",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "广州首个海洋碳汇项目首期减排量签发 — Nansha Mangrove GZCER",
+    "source_url": "https://sthjj.gz.gov.cn/gkmlpt/content/10/10886/post_10886687.html",
+    "notes": "Guangzhou's Ecology and Environment Bureau officially reported successful first-period issuance for the city's first marine carbon-sink project in Nansha Wetland. The issuance totals 1,251 tCO2e and corresponds exactly to the two previously publicized Phase I applications: 554 tCO2e from the mangrove afforestation component and 697 tCO2e from the mangrove restoration component. The projects used Guangzhou's 2025 trial mangrove carbon-inclusion methodology, clarified project carbon rights and underwent third-party verification before issuance. The official announcement states that the issued reductions are planned for transaction through the Guangzhou Emissions Exchange using negotiated or auction-based approaches, so issuance is confirmed while completion of a subsequent market sale should not be assumed from this document alone. Project revenues are intended to support continued mangrove establishment, restoration, monitoring, management and ecosystem improvement.",
+    "source": "Guangzhou Municipal Ecology and Environment Bureau",
+    "document_type": "permit_or_project_decision",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First-period GZCER issuance confirmed in 2026 for a total of 1,251 tCO2e, split between 554 tCO2e afforestation and 697 tCO2e restoration; subsequent exchange trading was planned rather than confirmed completed in this source.",
+    "instrument_type": [
+      "crediting_mechanism",
+      "mrv_standard",
+      "accounting_methodology",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1643,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "人力资源社会保障部办公厅 生态环境部办公厅 国家林草局办公室关于颁布碳汇计量评估师国家职业标准的通知",
+    "source_url": "https://www.mohrss.gov.cn/xxgk2020/fdzdgknr/rcrs_4225/jnrc/202604/t20260420_574221.html",
+    "notes": "The Ministry of Human Resources and Social Security, the Ministry of Ecology and Environment and the National Forestry and Grassland Administration jointly promulgated the national occupational standard for Carbon Sink Measurement Evaluators in April 2026. The standard professionalizes competency requirements for personnel engaged in carbon-sink investigation, monitoring, measurement, accounting, verification-related evaluation and technical assessment across ecosystem sink activities, providing a national workforce and quality-control foundation that is relevant to marine and coastal carbon-sink measurement as part of the broader carbon-sink profession. For the Global ONCE database, its principal significance is standardization and measurement capacity rather than authorization of a specific marine intervention. It does not establish a mangrove, seagrass, seaweed, ocean-alkalinity or geological-storage project methodology, does not issue carbon credits, does not quantify additional marine removals and does not itself approve deployment. Its practical effect is to standardize professional capabilities that can support more consistent carbon-sink data and assessment.",
+    "source": "Ministry of Human Resources and Social Security / Ministry of Ecology and Environment / National Forestry and Grassland Administration, China",
+    "document_type": "guidance_or_standard",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "National occupational standard formally promulgated for implementation by joint ministerial notice dated 7 April 2026 and published in April 2026.",
+    "instrument_type": [
+      "mrv_standard",
+      "accounting_methodology"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1644,
+    "jurisdiction": "National",
+    "country_or_region": "Japan",
+    "subnational_area": "",
+    "language": "Japanese",
+    "year": 2026,
+    "document_title": "令和8年版 環境・循環型社会・生物多様性白書",
+    "source_url": "https://www.env.go.jp/policy/hakusyo/r08/html/hj26030101.html",
+    "notes": "Japan's 2026 Environment, Sound Material-Cycle Society and Biodiversity White Paper reports and sets out government measures for advancing blue-carbon action. It promotes conservation, restoration and creation of blue-carbon ecosystems including mangroves, salt marshes and tidal flats, seagrass meadows and seaweed beds, while also identifying offshore blue carbon as an emerging policy and research area. The white paper specifically discusses producing and growing seaweed to absorb greenhouse gases, storing or fixing the resulting carbon in the deep sea, and examining how such removals could be calculated and evaluated in light of ongoing IPCC work on carbon-dioxide-removal and CCUS inventory guidance. It calls for inter-ministerial and public-private coordination to examine these pathways. This is a significant policy-planning and evidence-building step, but the offshore and deep-sea concepts remain under study: the white paper does not itself authorize biomass sinking, establish a project baseline, issue credits, quantify verified removals or create a new permitting regime.",
+    "source": "Ministry of the Environment, Japan",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Cabinet-approved 2026 annual environment white paper published on 5 June 2026; reported measures are active while offshore blue-carbon accounting and deep-sea storage concepts remain under examination.",
+    "instrument_type": [
+      "research_strategy",
+      "policy_planning_and_coordination",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "environmental_risk_and_sustainability_assessment",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "fishery_carbon_sink_engineering",
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement",
+      "macroalgae_aquaculture_and_carbon_sink",
+      "biomass_sinking_and_burial"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1645,
+    "jurisdiction": "National",
+    "country_or_region": "Belize",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Belize NDC 3.0 Update",
+    "source_url": "https://unfccc.int/sites/default/files/2025-06/BELIZE%20FINAL%20NDC%203.0.pdf",
+    "notes": "Belize's NDC 3.0, submitted to the UNFCCC in June 2025, updates the country's medium-term climate commitments and maintains coastal and marine ecosystems as part of its mitigation and resilience strategy. The document strengthens actions for mangrove conservation and restoration and places coastal and marine resource preservation within the national climate framework, building on the previous commitment to enhance mangrove and seagrass carbon-sink capacity. The NDC links ecosystem protection and restoration with climate mitigation, coastal protection, biodiversity and sustainable development and provides the formal national commitment context for continued implementation through 2035. This record is kept separate from Belize's 2021 updated NDC because it is a new formal NDC version. The NDC is a national commitment rather than a project-level crediting methodology: it does not by itself certify individual mangrove removals, issue blue-carbon credits, establish additionality for a specific project or replace the detailed MRV and accounting rules needed for verified market issuance.",
+    "source": "Government of Belize / UNFCCC",
+    "document_type": "ndc_or_climate_commitment",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active NDC 3.0 submitted to the UNFCCC on 14 June 2025, superseding the earlier 2021 updated NDC as Belize’s latest formal contribution.",
+    "instrument_type": [
+      "target_or_commitment",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1646,
+    "jurisdiction": "National",
+    "country_or_region": "Bahrain",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Bahrain NDC 3.0",
+    "source_url": "https://unfccc.int/sites/default/files/2025-12/30112025_Bahrain_2025NDC3.0_vSubmitted.pdf",
+    "notes": "Bahrain's NDC 3.0 converts the country's mangrove ambition into a quantified 2035 contribution with a defined reference indicator. It commits to planting 1.6 million mangrove seedlings by 2035, uses 2021 as the reference year with a zero-seedling reference point for this contribution, and identifies the Ministry of Municipalities Affairs and Agriculture and the Supreme Council for Environment among the relevant data providers. The NDC treats mangrove planting as an adaptation action with mitigation co-benefits, including coastal resilience, and states that implementation of the overall NDC is conditional on sufficient means of implementation and may draw on financing sources including carbon markets. This is a formal national climate commitment and a stronger reporting basis than a general mangrove policy statement. It does not, however, establish a blue-carbon crediting methodology, determine project-level additionality, quantify verified tonnes of CO2 removed by the seedlings, or guarantee that planting outcomes will generate tradable carbon units.",
+    "source": "Kingdom of Bahrain / UNFCCC",
+    "document_type": "ndc_or_climate_commitment",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Active NDC 3.0 submitted to the UNFCCC on 1 December 2025; mangrove contribution runs from 2022 to 2035 and is conditional on adequate means of implementation.",
+    "instrument_type": [
+      "target_or_commitment",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "carbon_finance_and_ecological_compensation",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1647,
+    "jurisdiction": "National",
+    "country_or_region": "Bahrain",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "National Adaptation Investment Plan – Bahrain",
+    "source_url": "https://unfccc.int/documents/655118",
+    "notes": "Bahrain's National Adaptation Investment Plan translates national adaptation priorities into a portfolio of investment concept notes and explicitly includes restoration of mangrove ecosystems for climate resilience. The mangrove concept combines stronger policy and institutional arrangements for mangrove management, restoration and sustainable management of mangrove ecosystems, and development of a blue-carbon market. The plan assigns an estimated investment envelope to the mangrove concept and identifies possible financing instruments that include grants, concessional finance, government resources and potential sales of blue-carbon credits. It therefore links ecosystem restoration with an intended market and finance architecture rather than treating mangroves solely as coastal protection. The plan also sets out project-management arrangements and responsible institutional roles. The market element is still an investment and implementation concept: this document does not itself create an operating blue-carbon registry, approve a crediting methodology, issue credits, establish verified baselines or demonstrate quantified additional removals from the proposed restoration activities.",
+    "source": "Kingdom of Bahrain / UNFCCC",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "National adaptation investment plan published by the UNFCCC on 30 November 2025; the prioritized concept notes are implementation and financing plans rather than completed projects or an already operational blue-carbon market.",
+    "instrument_type": [
+      "policy_planning_and_coordination",
+      "ecosystem_restoration_or_conservation_programme",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1648,
+    "jurisdiction": "National",
+    "country_or_region": "Bahrain",
+    "subnational_area": "Tubli Bay and Ras Sanad",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Bahrain. 2024 Biennial Transparency Report (BTR). BTR1.",
+    "source_url": "https://unfccc.int/sites/default/files/resource/30112025_Bahrain%27s_BTR1_2024_to_the_UNFCCC_vSubmitted.pdf",
+    "notes": "Bahrain's first Biennial Transparency Report provides formal progress reporting on the national mangrove contribution and clarifies the status of several blue-carbon-related activities. It reports that Bahrain prioritized the Mangrove Transplantation Project, focused on Tubli Bay and Ras Sanad, with a target of planting 1.6 million mangrove seedlings by 2035 and implementation beginning in 2022. The report also records other strategies that had been under consideration, including an observatory in Tubli Bay, creation of a blue-carbon inventory consistent with international methodological guidance to estimate and document carbon pools and fluxes, and economic valuation of mangrove ecosystem services. The BTR is important because it distinguishes implemented restoration from proposed evidence and accounting measures. It does not indicate that the blue-carbon inventory or valuation system is already complete, and the transparency report itself does not establish a crediting mechanism, issue credits or provide project-level verified removal quantities for the mangrove transplantation programme.",
+    "source": "Kingdom of Bahrain / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR submitted on 30 November 2025; mangrove transplantation is reported as in progress, while the Tubli Bay blue-carbon inventory and ecosystem-valuation concepts are described as strategies considered alongside the prioritized restoration project.",
+    "instrument_type": [
+      "target_or_commitment",
+      "mapping_inventory_or_monitoring",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "economic_value_accounting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1649,
+    "jurisdiction": "National",
+    "country_or_region": "Seychelles",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Seychelles. 2024 Biennial Transparency Report (BTR). BTR1. National Communication (NC). NC4.",
+    "source_url": "https://unfccc.int/sites/default/files/resource/SEYCHELLES%20FIRST%20BIENNIAL%20TRANSPARENCY%20REPORT%20%28BTR1%29%20AND%20FOURTH%20COMMUNICATION%20%28NC4%29.pdf",
+    "notes": "Seychelles' first Biennial Transparency Report and fourth National Communication documents the country's first attempt to bring seagrass blue carbon directly into its national greenhouse-gas inventory. Using the national seagrass blue-carbon assessment and IPCC inventory software, the report finds that inclusion of seagrass materially changes the LULUCF sink and key-category analysis compared with the previous inventory. It states that the underlying carbon-estimation sampling followed the Coastal Blue Carbon manual and the IPCC coastal-wetlands accounting framework, while also documenting important data limitations and methodological assumptions. This makes the BTR a formal transparency and accounting milestone that complements, but is distinct from, the separate National Inventory Document already in the database. The report does not convert the estimated national sink into project credits, does not authorize seagrass restoration deployment, and does not establish project-specific additionality or permanence rules; its primary role is national reporting, methodological transparency and evidence building.",
+    "source": "Government of Seychelles / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR and fourth National Communication submitted to the UNFCCC on 15 July 2025; seagrass inclusion is implemented in national reporting but remains constrained by data and methodological uncertainty.",
+    "instrument_type": [
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1650,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Australia's first Biennial Transparency Report",
+    "source_url": "https://unfccc.int/sites/default/files/resource/01.%20Australia%27s%20first%20Biennial%20Transparency%20Report%20%28BTR%29.pdf",
+    "notes": "Australia's first Biennial Transparency Report provides a formal national progress account of the Blue Carbon Conservation, Restoration and Accounting Program. It reports Australian Government investment of AUD 9.5 million over four years from 2021–22 to 2024–25 for five on-ground projects restoring degraded mangrove, saltmarsh and seagrass ecosystems. The projects are intended to demonstrate, measure and account for climate, biodiversity, Indigenous and community benefits and to build a trusted approach capable of supporting greater private investment through carbon and environmental markets. The report states that four of the five restoration projects may be eligible to register under the ACCU Scheme blue-carbon method and that one project became the first registered project under that method on 5 June 2024. The BTR therefore documents both deployment and linkage to an operating national crediting framework, but registration is not the same as issuance: the report does not state that all five projects have generated credits or that their future removal quantities are guaranteed.",
+    "source": "Australian Government / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR submitted for the 2024 transparency cycle; the four-year restoration and accounting programme ran through 2024–25, with one project reported as registered under the ACCU blue-carbon method on 5 June 2024.",
+    "instrument_type": [
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "carbon_crediting_and_trading",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1651,
+    "jurisdiction": "National",
+    "country_or_region": "Singapore",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Singapore's First Biennial Transparency Report 2024",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Singapore%20BTR1%202024.pdf",
+    "notes": "Singapore's first Biennial Transparency Report records completion of a dedicated Blue Carbon Policy and Finance Capacity Building Workshop under the Singapore–United Kingdom Third Country Training Programme. The workshop, held on 17–18 October 2023 and co-organized with the United Kingdom, the National University of Singapore Centre for Nature-based Climate Solutions and Conservation International, brought together 25 participants from ASEAN and AOSIS member States. It provided technical knowledge on policy and finance tools for conserving and restoring coastal blue-carbon ecosystems and strengthened participants' understanding of implementation potential for national mitigation and adaptation actions. The BTR therefore documents an implemented international capacity-building and policy-support activity directly relevant to blue-carbon governance and finance. It does not describe a Singapore blue-carbon removal project, quantify domestic removals, create a carbon-credit methodology or establish a regional market. Its ONCE value lies in formal reporting of completed cross-border knowledge, policy and finance capacity building.",
+    "source": "Government of Singapore / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR submitted on 4 December 2024; the blue-carbon policy and finance workshop reported in the document was completed in October 2023.",
+    "instrument_type": [
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "carbon_finance_and_ecological_compensation",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1652,
+    "jurisdiction": "National",
+    "country_or_region": "Japan",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Japan's First Biennial Transparency Report under the Paris Agreement",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Japan%27s%20First%20Biennial%20Transparency%20Report_250402r.pdf",
+    "notes": "Japan's first Biennial Transparency Report formally identifies blue-carbon initiatives as part of the policy package supporting implementation of Japan's NDC. The report states that initiatives related to blue carbon will be promoted alongside other carbon-sink measures and, in its detailed policy discussion, recognizes seaweed beds, seagrass beds and tidal flats as relevant blue-carbon ecosystems while noting that calculation methods are not yet fully established for all components. It reports continuing research aimed at establishing robust calculation approaches and contributing to future IPCC inventory guidance, together with conservation, creation and restoration activities. The document therefore links national mitigation policy, ecosystem restoration and methodological development within the Paris Agreement transparency system. It does not mean that every blue-carbon ecosystem is already counted in the national inventory, does not create a new J-Credit methodology by itself, and does not provide verified project-level removal quantities or authorize a specific deployment.",
+    "source": "Government of Japan / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR for the 2024 transparency cycle; the UNFCCC-hosted report has a revised file dated 2025, while the underlying submission remains Japan’s first BTR under the Paris Agreement.",
+    "instrument_type": [
+      "research_strategy",
+      "mapping_inventory_or_monitoring",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1653,
+    "jurisdiction": "National",
+    "country_or_region": "Bangladesh",
+    "subnational_area": "Sundarbans and national coastal plantations",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Bangladesh. 2024 Biennial Transparency Report (BTR). BTR1.",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Bangladesh_BTR1_Interim.pdf",
+    "notes": "Bangladesh's first Biennial Transparency Report provides a formal greenhouse-gas inventory treatment of forest and other land uses that explicitly includes the Sundarbans mangrove forest and coastal plantations. The report describes use of IPCC inventory software, national land-cover mapping, national forest-inventory data, biomass and soil-organic-carbon factors, and a forest definition adapted to national mangrove conditions, including the low-stature Ceriops decandra areas of the Sundarbans. It reports that the Sundarbans mangrove resource is in good condition and that coastal plantations show an increasing trend while setting out the data and methodological basis used to estimate emissions and removals in the forest and land-use sector. This is directly relevant to coastal carbon accounting and MRV, but it is a national inventory report rather than a blue-carbon project methodology. It does not establish additionality, issue credits, authorize new mangrove planting or provide a stand-alone verified marine-removal quantity.",
+    "source": "Government of Bangladesh / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR submitted to the UNFCCC on 31 December 2025 and published in January 2026; national mangrove and coastal-plantation data are incorporated into the land-use inventory framework.",
+    "instrument_type": [
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1654,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "The People's Republic of China First Biennial Transparency Report on Climate Change",
+    "source_url": "https://unfccc.int/sites/default/files/resource/The%20People%E2%80%99s%20Republic%20of%20China%20First%20Biennial%20Transparency%20Report%20on%20Climate%20Change.pdf",
+    "notes": "China's first Biennial Transparency Report records national policy implementation relevant to coastal blue carbon within the Paris Agreement transparency framework. The report states that guidance has been provided for social investment in blue-carbon protection and restoration projects covering mangroves, seagrass beds, coastal salt marshes, seaweed farms and other coastal zones. It places those activities alongside marine ecological-environment planning, integrated management of key sea areas and broader measures to improve climate resilience and ecosystem governance. The report therefore provides a formal national account that blue-carbon protection and restoration are being connected to policy guidance and investment rather than remaining solely a research topic. The BTR does not itself create a unified national blue-carbon crediting methodology, quantify a single national removal amount for the listed ecosystems, authorize individual restoration projects or demonstrate that all social-investment activities generate tradable credits. Its primary role is transparency reporting and policy implementation documentation.",
+    "source": "Government of the People’s Republic of China / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "China’s first BTR was submitted for the 2024 transparency cycle on 31 December 2024 and published by the UNFCCC in early 2025; the report documents active policy guidance and implementation measures.",
+    "instrument_type": [
+      "policy_planning_and_coordination",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement",
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "carbon_finance_and_ecological_compensation",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1655,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "United Kingdom and Crown Dependencies reported in the BTR",
+    "language": "English",
+    "year": 2024,
+    "document_title": "UK's first Biennial Transparency Report submitted to the UN Framework Convention on Climate Change, under the Paris Agreement",
+    "source_url": "https://www.gov.uk/government/publications/uk-biennial-transparency-report-to-the-un-framework-convention-on-climate-change-2024/uks-first-biennial-transparency-report-submitted-to-the-un-framework-convention-on-climate-change-under-the-paris-agreement",
+    "notes": "The United Kingdom's first Biennial Transparency Report consolidates multiple blue-carbon policy, evidence and restoration activities across the UK and Crown Dependencies into a formal Paris Agreement progress report. It records Northern Ireland's development of a blue-carbon action plan, Scotland's Blue Economy Vision and Blue Carbon Forum evidence work, Jersey's prioritization of local blue-carbon sinks and seabed-carbon studies, Guernsey's blue-carbon assessment and marine spatial planning, Isle of Man blue-carbon mapping and management planning, and wider UK commitments to protect, restore and create blue-carbon habitats. It also reports coastal restoration programmes such as ReMeMaRe and the role of national adaptation planning. The report demonstrates that blue carbon has entered multi-jurisdictional policy planning, mapping and restoration practice, but it does not provide a single UK-wide verified removal total, create one uniform crediting methodology, or imply that every mapped seabed carbon stock is an additional anthropogenic removal eligible for carbon markets.",
+    "source": "UK Government / Department for Energy Security and Net Zero",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First UK BTR published and submitted on 27 December 2024; it reports a mixture of active restoration, evidence programmes and policy-development actions across UK jurisdictions.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "shelf_and_marginal_sea_carbon_cycle",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1656,
+    "jurisdiction": "National",
+    "country_or_region": "Oman",
+    "subnational_area": "National coastal mangrove ecosystems",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Oman's First Biennial Transparency Report",
+    "source_url": "https://unfccc.int/sites/default/files/resource/First%20BTR%20Oman%20UNFCCC%20Final.pdf",
+    "notes": "Oman's first Biennial Transparency Report documents active national mangrove restoration and its intended climate-mitigation contribution. The report describes cooperation with FAO on a comprehensive mangrove restoration programme designed to protect and enhance coastal mangrove ecosystems, use their carbon-sequestration potential in support of Oman's net-zero goal, involve fishing communities and improve restoration tracking through advanced monitoring systems such as FAO's SEPAL platform. The BTR also places mangrove activity within the country's broader climate-adaptation and mitigation implementation framework. This creates a formal transparency record linking coastal ecosystem restoration, carbon sequestration, community participation and monitoring. The report does not establish a project-level carbon-credit methodology, does not state that the restoration programme has generated issued credits, and does not provide a verified additional-removal total attributable to a specific mangrove project. Reported targets and expected mitigation benefits therefore should not be treated as certified carbon-market outcomes.",
+    "source": "Sultanate of Oman / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR finalized and submitted in 2025; mangrove restoration cooperation is reported as active, with monitoring and programme implementation continuing.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "ecosystem_restoration_or_conservation_programme",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1657,
+    "jurisdiction": "National",
+    "country_or_region": "Norway",
+    "subnational_area": "International cooperation with Indonesia and Colombia",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Norway's first Biennial Transparency Report under the Paris Agreement",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Norways%20first%20Biennial%20Transparency%20Report%20under%20the%20Paris%20Agreement.pdf",
+    "notes": "Norway's first Biennial Transparency Report documents international support for blue-carbon governance, markets and mangrove restoration through Norway's ocean-related development cooperation. It reports that Norway and Indonesia signed a cooperation framework running to 2028 that includes technical support to develop a robust and high-integrity national blue-carbon market, with intended outcomes including increased and verifiable carbon sequestration in coastal blue-carbon habitats and measurable financial and community benefits from blue-carbon projects. The BTR also reports support in Colombia for integrated mangrove management and mangrove restoration programmes. The record is therefore relevant to international market governance, MRV capacity, finance and ecosystem implementation rather than only general ocean cooperation. The reported Indonesian market is a development objective supported by technical assistance; the BTR does not state that a complete national blue-carbon crediting system was already operational at submission, and it does not issue credits or quantify verified project removals itself.",
+    "source": "Government of Norway / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR submitted for the 2024 transparency cycle; Norway–Indonesia ocean cooperation is reported as running through 2028, while the blue-carbon market component remains a supported development and integrity-building process.",
+    "instrument_type": [
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1658,
+    "jurisdiction": "National",
+    "country_or_region": "Canada",
+    "subnational_area": "International support to SIDS and coastal developing countries",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Canada's First Biennial Transparency Report",
+    "source_url": "https://unfccc.int/sites/default/files/resource/CAN-BTR1-2024-EN.pdf",
+    "notes": "Canada's first Biennial Transparency Report records climate-finance support for ocean and coastal nature-based solutions through the Ocean Risk and Resilience Action Alliance. It reports a CAD 9 million contribution supporting Small Island Developing States and coastal developing countries in developing innovative finance and insurance solutions, including examples in which mangrove restoration may be financed through carbon credits. Under Canada's support, ORRAA selected locally led projects involving feasibility studies, pilot testing and implementation of financing solutions integrated with conservation and blue-carbon activities, capacity building, research, policy engagement and public-private partnerships. The report also describes support for scoping the Sea Change Impact Financing Facility, intended to mobilize large-scale private investment into coastal and ocean ecosystems. These are finance and market-enabling interventions rather than a Canadian blue-carbon credit standard: the BTR does not certify individual projects, guarantee carbon-credit issuance, quantify verified removals or establish additionality and permanence rules for the supported activities.",
+    "source": "Government of Canada / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR for the 2024 transparency cycle; reported international blue-carbon and coastal-finance support was active through ORRAA and related financing-development activities.",
+    "instrument_type": [
+      "demonstration_support",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1659,
+    "jurisdiction": "National",
+    "country_or_region": "Kenya",
+    "subnational_area": "National coastal ecosystems",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Kenya's First Biennial Transparency Report",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Biennial%20Transparency%20Report%20-%20Final%202.pdf",
+    "notes": "Kenya's first Biennial Transparency Report places blue carbon explicitly within the country's adaptation and climate-policy implementation pipeline. The report lists a blue-carbon readiness assessment intended to support full integration of blue-carbon and ocean-climate actions into future NDC implementation, together with marine spatial planning, governance of coastal ecosystems, opportunities for nature-based enterprises such as seaweed farming and mangrove ecotourism, and implementation of the national mangrove management plan through national and county development planning. These measures show that Kenya is building the policy, evidence and institutional conditions for blue-carbon implementation rather than treating coastal ecosystems only as a biodiversity issue. The BTR does not itself establish a national blue-carbon registry or crediting methodology, does not certify seaweed or mangrove removals, and does not mean that every listed adaptation programme was fully implemented at the reporting date. The readiness assessment in particular is an evidence and integration step, not proof of quantified carbon removal.",
+    "source": "Government of Kenya / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR submitted in December 2024; the report includes a mixture of planned and ongoing blue-carbon readiness, coastal planning, mangrove-management and nature-based enterprise actions.",
+    "instrument_type": [
+      "research_strategy",
+      "policy_planning_and_coordination",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1660,
+    "jurisdiction": "National",
+    "country_or_region": "Liberia",
+    "subnational_area": "National coastal mangrove ecosystems",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Liberia. 2024 Biennial Transparency Report (BTR). BTR1. National Communications (NC). NC3",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Liberia%20BTR1NC3_07-07-26.pdf",
+    "notes": "Liberia's first Biennial Transparency Report and third National Communication explicitly recognize coastal-zone protection through mangrove restoration as an adaptation action with mitigation co-benefits. The report identifies significant CO2 sequestration in coastal mangrove biomass and soils and notes that mangrove restoration can also reduce carbon losses associated with coastal erosion and soil disturbance. In parallel, the report identifies planned improvements to future reporting, including stronger integration of land-use activity data with the National Forest Monitoring System, improved uncertainty assessment, a dedicated greenhouse-gas inventory database integrated with the national MRV system and strengthened QA/QC. This makes the document relevant both to implementation of mangrove-based sink enhancement and to the accounting infrastructure needed to track such outcomes. The BTR does not create a project crediting methodology, issue carbon units or provide a separately verified blue-carbon removal total for mangrove restoration; its quantified and qualitative statements remain national transparency reporting.",
+    "source": "Government of Liberia / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR and third National Communication submitted on 7 July 2026; mangrove restoration is reported as a mitigation-co-benefit action and inventory/MRV improvements are identified for subsequent reporting cycles.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1661,
+    "jurisdiction": "National",
+    "country_or_region": "Belize",
+    "subnational_area": "National mangrove and seagrass ecosystems",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Belize's First Biennial Transparency Report",
+    "source_url": "https://unfccc.int/sites/default/files/resource/Belize%27s%20First%20BTR%20%2831%20Dec%202024%29_v2%20Feb%2022%2C%202026.pdf",
+    "notes": "Belize's first Biennial Transparency Report provides a detailed formal progress account for the country's coastal and marine NDC actions. It reiterates the target to enhance the capacity of mangrove and seagrass ecosystems to act as carbon sinks by 2030 and reports the earlier commitment to remove a cumulative 381 ktCO2e between 2021 and 2030 through mangrove restoration. It documents implementation measures supporting marine spatial planning, governance, monitoring and enforcement of coastal resources and also records a planned National Seagrass Management Policy whose objectives include improved protection of seagrass ecosystems to maintain carbon-sink services. The report is unusually explicit about transparency limitations: it states that estimates of expected and achieved GHG reductions from the listed policies are not yet available and that additional reporting capacity is needed for BTR2. Accordingly, the BTR documents targets, governance and implementation status but does not verify that the 381 ktCO2e target has been achieved, issue credits or establish project-level additionality.",
+    "source": "Government of Belize / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First BTR originally submitted on 31 December 2024; the current UNFCCC-hosted file is a revised version dated 22 February 2026. The report notes that quantified achieved reductions for the coastal measures were not yet available.",
+    "instrument_type": [
+      "target_or_commitment",
+      "mapping_inventory_or_monitoring",
+      "policy_planning_and_coordination",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1662,
+    "jurisdiction": "International",
+    "country_or_region": "Seychelles / UNFCCC",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Technical analysis of the first biennial update report of Seychelles submitted on 23 February 2024. Summary report by the team of technical experts",
+    "source_url": "https://unfccc.int/documents/649110",
+    "notes": "This UNFCCC technical-analysis summary report records the independent review of Seychelles' first biennial update report and identifies specific capacity gaps that are directly relevant to coastal blue-carbon accounting. The team of technical experts highlighted the need to build national capacity to quantify greenhouse-gas sequestration by seagrass and mangrove forest ecosystems, strengthen the measurement, reporting and verification system for tracking mitigation actions and policies, and improve the use of international market mechanisms and voluntary cooperative approaches, including accounting for co-benefits from conservation of blue-carbon ecosystems. The findings therefore provide an official international assessment of the country's blue-carbon MRV, accounting and market-readiness needs rather than a new national deployment programme. The report does not establish a project-level carbon-credit methodology, issue internationally transferred mitigation outcomes, authorize mangrove or seagrass restoration, or quantify additional removals attributable to a new intervention. Its ONCE relevance lies in identifying concrete technical and institutional gaps that must be closed before robust blue-carbon sequestration accounting and market participation can be operationalized.",
+    "source": "UNFCCC Secretariat — Team of Technical Experts",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Official UNFCCC technical-analysis summary report published on 21 August 2025; it records assessment findings and capacity needs rather than creating a deployment authorization or crediting decision.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "seagrass_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "carbon_crediting_and_trading",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1663,
+    "jurisdiction": "International",
+    "country_or_region": "United Arab Emirates / UNFCCC",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Technical analysis of the first biennial update report of the United Arab Emirates submitted on 25 June 2024. Summary report by the team of technical experts",
+    "source_url": "https://unfccc.int/documents/649450",
+    "notes": "This UNFCCC technical-analysis summary report independently reviews the United Arab Emirates' first biennial update report and contains a direct finding on mangrove carbon accounting. The reviewed national inventory reported annual LULUCF emissions and removals for several inventory years and, for 2021, explicitly reported CO2 removals from mangroves. The technical experts also found that activity data for land uses and land-use transitions, including wetlands, were not clearly reported and recorded the Party's explanation that data availability, methodological alignment with the country's geographic and ecological conditions, and time constraints limited disaggregation and transparency. The review therefore documents both the existence of national mangrove-removal accounting and material gaps that need to be addressed in subsequent transparency reporting. It is an evidence and quality-assurance document, not a mangrove-restoration authorization. It does not create a carbon-crediting methodology, establish a new sequestration target, validate additionality, issue credits or approve any project. Its ONCE value is the formal international scrutiny of coastal sink inventory data and reporting quality.",
+    "source": "UNFCCC Secretariat — Team of Technical Experts",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Official UNFCCC technical-analysis summary report published on 3 September 2025; the review assesses UAE BUR information and reporting limitations but does not itself establish new national legal obligations.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1664,
+    "jurisdiction": "National",
+    "country_or_region": "United Arab Emirates",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "United Arab Emirates. 2024 Biennial Transparency Report (BTR). BTR1.",
+    "source_url": "https://unfccc.int/documents/652825",
+    "notes": "The United Arab Emirates' first Biennial Transparency Report provides unusually detailed national reporting on coastal blue-carbon restoration, stock assessment and monitoring. It describes the 100 Million Mangrove Planting Initiative, launched in 2021 with a 2030 target, and states that expansion is expected to increase existing mangrove habitat from about 183 to 483 square kilometres. It also reports the National Carbon Sequestration Project, initiated in 2022 to increase carbon storage, and the National Blue Carbon Project, which assessed carbon storage across mangroves, salt marshes, seagrass meadows and algal mats. The report further describes mangrove carbon-sequestration monitoring, including soil or sediment accretion, and coastal restoration activity in Abu Dhabi, including a goal for 4,500 additional hectares of coastal areas under restoration by 2030. The BTR treats mangrove sequestration as a negative-emissions measure while also documenting the evidence base needed for national reporting. It does not itself issue carbon credits, approve a specific restoration permit or establish a project-level additionality and crediting methodology; its principal function is official transparency reporting on active measures and monitoring.",
+    "source": "Government of the United Arab Emirates / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First UAE BTR submitted on 6 November 2025 and published by UNFCCC on 7 November 2025; it reports active national blue-carbon measures and monitoring rather than constituting a new project permit.",
+    "instrument_type": [
+      "target_or_commitment",
+      "mapping_inventory_or_monitoring",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1665,
+    "jurisdiction": "National",
+    "country_or_region": "Costa Rica",
+    "subnational_area": "",
+    "language": "Spanish",
+    "year": 2024,
+    "document_title": "Costa Rica. 2024 Biennial Transparency Report (BTR). BTR1.",
+    "source_url": "https://unfccc.int/documents/645177",
+    "notes": "Costa Rica's first Biennial Transparency Report formally records implementation of the National Blue Carbon Strategy 2023–2030 as part of the country's climate-policy framework. The strategy is described as an integrated framework for the management, conservation, restoration and rehabilitation of blue-carbon ecosystems and wetlands with carbon-capture potential, while also emphasizing resilience and benefits for coastal communities. The BTR links these measures to broader climate action and highlights participation by communities, women and young people in the stewardship of coastal ecosystems. For the Global ONCE database, the report is important because it is an official UNFCCC transparency submission confirming that blue-carbon ecosystem management is embedded in an active national strategy rather than only discussed as a future concept. The report does not, in the cited blue-carbon material, provide a stand-alone quantified additional-removal volume, issue carbon credits, establish a new offset registry or authorize an individual restoration project. Its principal function is to document policy implementation and national progress, while the underlying strategy provides the operational planning framework for restoration and conservation.",
+    "source": "Government of Costa Rica / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Costa Rica submitted and published its first BTR on 31 December 2024; the report records an active 2023–2030 national blue-carbon strategy and related implementation context.",
+    "instrument_type": [
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1666,
+    "jurisdiction": "National",
+    "country_or_region": "Panama",
+    "subnational_area": "",
+    "language": "Spanish",
+    "year": 2024,
+    "document_title": "Panama. Biennial Transparency Report (BTR). BTR1.",
+    "source_url": "https://unfccc.int/documents/641236",
+    "notes": "Panama's first Biennial Transparency Report provides direct evidence that blue-carbon accounting and mangrove-restoration standards have moved from planning into formal national implementation. The report tracks an NDC target requiring national greenhouse-gas inventories to integrate blue carbon using chapter 4 of the 2013 IPCC Wetlands Supplement, with the indicator defined as the annual net emissions balance from coastal wetlands, specifically mangroves. It reports that, since 2022, the inventory has applied the Wetlands Supplement, forest land has been disaggregated to include mangroves and Panama has established an emission factor for carbon accumulated in mangrove ecosystems. The BTR also reports completion of the target to develop a manual of techniques for restoration of degraded mangrove areas, noting that the manual was approved and published in 2021. These are substantive MRV, accounting and technical-standard milestones. The BTR itself does not issue carbon credits, authorize a specific restoration site or claim a separate volume of additional removals; it is an official progress report documenting that the accounting and restoration-governance milestones have been achieved.",
+    "source": "Government of Panama / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "First Panama BTR published on 10 October 2024; it reports achieved blue-carbon inventory and mangrove-restoration-method milestones under the national NDC framework.",
+    "instrument_type": [
+      "target_or_commitment",
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1667,
+    "jurisdiction": "National",
+    "country_or_region": "Colombia",
+    "subnational_area": "",
+    "language": "Spanish",
+    "year": 2024,
+    "document_title": "Colombia. 2024 Biennial Transparency Report (BTR). BTR1.",
+    "source_url": "https://unfccc.int/documents/645256",
+    "notes": "Colombia's first Biennial Transparency Report contains both direct blue-carbon policy tracking and an explicit accounting limitation that is important for interpreting national removal claims. The report identifies information and emission-factor gaps for marine and coastal blue-carbon ecosystems that prevent robust estimation of associated emissions and removals and explains that categories excluded from the NDC reference scenario are not counted in national NDC accounting until the required information is available. At the same time, it tracks coastal ecosystem actions, including a 2030 target for six climate-adaptation and risk-management initiatives supporting sustainable use of mangroves identified as a blue-carbon ecosystem, implementation of the national mangrove management and conservation programme, and coastal planning actions covering mangroves and seagrass. The BTR therefore combines evidence-building, accounting governance and ecosystem implementation. It does not claim that currently excluded blue-carbon removals are already credited toward the NDC, and it does not issue carbon credits or provide project-level deployment authorization. Its value is the transparent statement of both active ecosystem measures and remaining measurement constraints.",
+    "source": "Government of Colombia / UNFCCC",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Colombia submitted BTR1 on 31 December 2024; the UNFCCC document page was published in September 2025. The report records active blue-carbon actions while explicitly identifying unresolved national accounting gaps.",
+    "instrument_type": [
+      "target_or_commitment",
+      "mapping_inventory_or_monitoring",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1668,
+    "jurisdiction": "International",
+    "country_or_region": "Panama / UNFCCC",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Report on the technical expert review of the first biennial transparency report of Panama",
+    "source_url": "https://unfccc.int/documents/646431",
+    "notes": "This UNFCCC technical expert review independently evaluates Panama's first Biennial Transparency Report and provides a formal external confirmation of two ONCE-relevant implementation milestones. The review table records Panama's NDC indicator for the annual net balance of emissions from coastal wetlands, specifically mangroves, using the IPCC Wetlands Supplement and concludes that the target has been achieved because the national greenhouse-gas inventory has been prepared using chapter 4 of the Wetlands Supplement since 2022. It also reviews the target to develop a manual of techniques for restoration of degraded mangrove areas and confirms that the manual was approved and published in April 2021, again treating the target as achieved. This makes the review more than a simple repetition of the BTR: it is an independent transparency-framework assessment of reported implementation status. The report does not create a new mangrove methodology, issue credits, quantify project-level additional removals or grant a restoration permit. Its ONCE significance is external verification of national MRV and technical-governance progress under the Paris Agreement transparency system.",
+    "source": "UNFCCC Secretariat — Technical Expert Review Team",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Official UNFCCC technical expert review report published on 11 April 2025; it independently confirms reported achievement of Panama coastal-wetland accounting and mangrove-restoration-manual targets.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1669,
+    "jurisdiction": "International",
+    "country_or_region": "United Kingdom / UNFCCC",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Report on the technical expert review of the first biennial transparency report of the United Kingdom of Great Britain and Northern Ireland",
+    "source_url": "https://unfccc.int/documents/650491",
+    "notes": "This UNFCCC technical expert review of the United Kingdom's first Biennial Transparency Report contains a distinct official assessment of blue-carbon measures reported across the country's marine and fisheries adaptation framework. The review records actions under the United Kingdom's Third National Adaptation Programme to protect, restore and create blue-carbon habitats and notes the ongoing Manx Blue Carbon Project, which maps and manages marine carbon stores for sequestration and ecosystem resilience. It also records Northern Ireland's Blue Carbon Action Plan, Scotland's wider blue-economy and marine-protection measures, and marine monitoring and policy frameworks relevant to climate-resilient fisheries and coastal ecosystems. The document is therefore an international technical assessment of reported policy implementation rather than a new domestic blue-carbon strategy. It does not set a separate national removal target, establish a carbon-credit methodology, issue credits or authorize an individual restoration activity. Its principal ONCE contribution is independent review evidence that blue-carbon habitat protection, mapping and restoration are embedded in ongoing UK and devolved marine-climate policy and are being tracked within the Paris Agreement transparency framework.",
+    "source": "UNFCCC Secretariat — Technical Expert Review Team",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Official UNFCCC technical expert review report published on 17 October 2025 following the May 2025 review; it assesses reported blue-carbon and marine-resilience measures without creating new domestic authorization.",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1670,
+    "jurisdiction": "International",
+    "country_or_region": "Samoa / UNFCCC",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Report on the technical assessment of the proposed forest reference emission level and forest reference level of Samoa submitted in 2024",
+    "source_url": "https://unfccc.int/documents/648698",
+    "notes": "This UNFCCC technical assessment of Samoa's proposed forest reference emission level and forest reference level is directly relevant to coastal carbon accounting because the assessment team examined how mangroves are classified between forest land and wetlands. The review identified an apparent overlap, and Samoa clarified that mangroves meeting the national forest definition are classified as forest land while wetland areas with mangrove vegetation that do not meet that definition remain classified as wetlands. The assessment therefore addresses a concrete double-counting and land-classification issue that can affect the accuracy and consistency of mangrove carbon estimates. More broadly, the facilitative assessment modified Samoa's proposed 2013–2022 FREL from 316,245 to 278,590 tCO2e per year and its forest-carbon-stock enhancement FRL from –73,036 to –76,896 tCO2e per year and identified future improvements in activity data and geospatial information. The report does not issue REDD+ payments or blue-carbon credits, nor does it authorize mangrove restoration; it provides an official accounting-quality assessment and technical basis for future results-based reporting.",
+    "source": "UNFCCC Secretariat — Technical Assessment Team",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Official UNFCCC technical assessment report published on 8 July 2025; the facilitative process revised Samoa reference levels and clarified mangrove land classification for accounting consistency.",
+    "instrument_type": [
+      "accounting_methodology",
+      "mapping_inventory_or_monitoring",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
   }
 ]
