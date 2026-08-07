@@ -69161,5 +69161,1880 @@
     "carbon_pump_mechanism": [
       "not_specified"
     ]
+  },
+  {
+    "id": 1554,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2003,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003",
+    "source_url": "https://www.legislation.gov.au/C2004A01202/latest",
+    "notes": "The Act establishes statutory regulatory levies for the Commonwealth offshore petroleum and greenhouse-gas regime, including safety investigation, safety-case, well, annual title-administration and environment-plan levies. Its current framework expressly covers Commonwealth waters, designated coastal waters and cross-boundary greenhouse-gas titles. For marine geological CO2 storage, the Act provides the legal basis for recovering regulatory and title-administration costs from relevant offshore titleholders; it does not establish a carbon-credit mechanism, quantify carbon removal, or itself grant an assessment permit, holding lease or injection licence.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Principal Commonwealth levy legislation remains in force and supports administration of offshore greenhouse-gas titles.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "other_or_unspecified"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1555,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2006,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage Act 2006",
+    "source_url": "https://www.legislation.gov.au/C2006A00014/latest",
+    "notes": "This is the principal Commonwealth statute governing offshore petroleum and greenhouse-gas storage in Australian offshore areas. Chapter 3 creates a dedicated title system for greenhouse-gas assessment permits, holding leases and injection licences, provides for declaration of identified greenhouse-gas storage formations, prohibits unauthorised offshore injection and storage, imposes licence conditions, and provides for directions, surrender, cancellation and site-closing obligations. The current Act also accommodates cross-boundary greenhouse-gas titles. It establishes the legal pathway under which offshore geological CO2 storage can be authorised, but the Act itself is not a project-specific injection licence and does not demonstrate that any particular storage project has commenced injection or achieved verified removals.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Principal Commonwealth offshore greenhouse-gas storage statute; current compilation remains in force.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "environmental_impact_assessment",
+      "regulatory_safeguard",
+      "mrv_standard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1556,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2009,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Environment) Regulations 2009",
+    "source_url": "https://www.legislation.gov.au/Series/F1999B00221",
+    "notes": "These regulations formed the Commonwealth offshore environmental-management regime that applied under the Offshore Petroleum and Greenhouse Gas Storage Act 2006 before the 2023 replacement instrument. The framework required regulated offshore activities to operate under accepted environment plans and incorporated consultation, environmental-performance objectives and risk-management requirements; greenhouse-gas-storage-specific amendments were incorporated into the instrument in 2020. The instrument is historically relevant to marine geological CO2 storage because it governed the environmental approval layer for offshore greenhouse-gas activities during part of the pre-2024 regime. It has been repealed and therefore does not provide the current environmental approval pathway.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "ended",
+    "status_note": "Historical offshore environment regulations; replaced by the Offshore Petroleum and Greenhouse Gas Storage (Environment) Regulations 2023.",
+    "instrument_type": [
+      "environmental_impact_assessment",
+      "regulatory_safeguard",
+      "public_consultation"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1557,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2009,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Safety) Regulations 2009",
+    "source_url": "https://www.legislation.gov.au/F2009L04578/latest",
+    "notes": "These regulations provided the former Commonwealth safety-case and facility-safety regime for offshore petroleum and greenhouse-gas activities under the 2006 Act. They governed operator nomination, safety cases, offshore facilities, occupational safety obligations, notifications and reporting and therefore formed part of the regulatory conditions applicable to offshore greenhouse-gas infrastructure. The instrument was a safety and facility-control rule rather than an authorization to inject CO2, a carbon-accounting method or evidence of storage deployment. It ceased to operate when the 2024 Safety Regulations took over the framework in June 2025.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "ended",
+    "status_note": "Former offshore safety regulations; repealed on 12 June 2025 and replaced by the 2024 Safety Regulations.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "mrv_standard"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1558,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2011,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Resource Management and Administration) Regulations 2011",
+    "source_url": "https://www.legislation.gov.au/F2011L00647/latest",
+    "notes": "The regulations established the former detailed resource-management, data and administrative framework under the Commonwealth offshore Act. Their stated objects included ensuring timely and consistent information on exploration for greenhouse-gas storage formations, discovery and appraisal of potential storage formations, greenhouse-gas injection operations and the results of operations, as well as collection, retention and dissemination of greenhouse-gas data. The instrument supported title administration and operational reporting rather than creating a standalone right to inject CO2. It was repealed on 31 March 2026 when the new 2025 Resource Management and Administration Regulations became operative.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "ended",
+    "status_note": "Repealed on 31 March 2026 after long-running application; superseded by the 2025 resource-management regulations.",
+    "instrument_type": [
+      "mrv_standard",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard",
+      "permit_or_authorization"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "technical_standards_and_certification"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1559,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2011,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Greenhouse Gas Injection and Storage) Regulations 2011",
+    "source_url": "https://www.legislation.gov.au/F2011L01106/latest",
+    "notes": "This former specialist instrument prescribed technical information and risk requirements for offshore greenhouse-gas injection and storage. It addressed determination of significant risk of significant adverse impact, declaration and characterization of identified storage formations, project and site-plan information, plume-migration modelling, storage-formation integrity, risk-control and remediation strategies, monitoring of stored greenhouse gases and losses from injection and wells, site closure and consultation. The regulations therefore provided an important MRV, risk and technical-planning layer for marine geological CO2 storage, but they did not themselves approve an individual injection project. They are no longer in force and have been replaced by the 2023 injection-and-storage regulations.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "ended",
+    "status_note": "Historical specialist injection-and-storage regulations; no longer in force after 23 February 2024.",
+    "instrument_type": [
+      "environmental_impact_assessment",
+      "regulatory_safeguard",
+      "mrv_standard",
+      "permit_or_authorization",
+      "public_consultation"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1560,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2019,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage Amendment (Miscellaneous Amendments) Act 2019",
+    "source_url": "https://www.legislation.gov.au/C2019A00092/asmade",
+    "notes": "The amending Act made a substantial package of changes to the Commonwealth offshore statute, with Schedule 1 specifically devoted to greenhouse-gas storage. The amendments modernised and clarified elements of the offshore greenhouse-gas title, operational and compliance framework and were accompanied by broader changes to information protection, ministerial directions, compliance powers and well-integrity oversight. Its policy significance is regulatory: it strengthens and adjusts the legal architecture under which offshore CO2 storage can be assessed and controlled. It does not itself issue an assessment permit or injection licence and does not authorize a named storage project.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Assented to on 28 October 2019; relevant amendments were incorporated into the continuing Commonwealth offshore framework.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1561,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2020,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage Amendment (Cross-boundary Greenhouse Gas Titles and Other Measures) Act 2020",
+    "source_url": "https://www.legislation.gov.au/C2020A00043/asmade",
+    "notes": "The Act amended the Commonwealth offshore regime to create and administer cross-boundary greenhouse-gas titles where a storage formation or title area spans relevant jurisdictional boundaries. Schedule 1 is expressly dedicated to cross-boundary greenhouse-gas storage and provides the statutory architecture for cross-boundary assessment permits, holding leases and injection licences, together with associated administration and transitional provisions. The measure enables coherent permitting of offshore storage formations that cannot be managed within a single title boundary, but it does not itself approve a storage site, authorize injection into a named formation or demonstrate that cross-boundary storage has occurred.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Assented to in 2020; operative cross-boundary greenhouse-gas title provisions form part of the current Commonwealth regime.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "international_coordination"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1562,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2020,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment (Miscellaneous Measures) Act 2020",
+    "source_url": "https://www.legislation.gov.au/Current/C2020A00042",
+    "notes": "This amending Act aligned the offshore regulatory-levy legislation with the new cross-boundary greenhouse-gas title framework. Schedule 1 specifically addresses cross-boundary greenhouse-gas titles and ensures that the regulatory cost-recovery architecture can apply when greenhouse-gas storage titles span relevant offshore boundaries. The instrument is administrative and financial regulation of the permitting system rather than carbon finance: it does not create tradable carbon units, subsidize storage, or itself confer a right to inject or permanently store CO2.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Assented to on 15 May 2020; its cross-boundary levy amendments support the continuing offshore title regime.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "other_or_unspecified"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1563,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2020,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment (Greenhouse Gas Storage) Regulations 2020",
+    "source_url": "https://www.legislation.gov.au/F2020L00400/asmade",
+    "notes": "This amending instrument updated several Commonwealth offshore regulations to implement revised greenhouse-gas storage provisions, including amendments to the environment and resource-management frameworks and associated regulatory levies. Its practical role was to integrate greenhouse-gas storage more fully into environmental, operational, information and administrative regulation under the Offshore Petroleum and Greenhouse Gas Storage Act. As an amending instrument, it completed its legislative function after its amendments were incorporated into principal regulations; it was not a project permit and does not provide current standalone operational rules.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "ended",
+    "status_note": "Amending instrument made in April 2020; its amendments were incorporated into principal regulations and the instrument itself is no longer in force.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "mrv_standard",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1564,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2020,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment (Cross-boundary Greenhouse Gas Storage) Regulations 2020",
+    "source_url": "https://www.legislation.gov.au/F2020L01186/asmade",
+    "notes": "The regulations implemented consequential and administrative changes required by the 2020 cross-boundary greenhouse-gas title legislation. They amended the Commonwealth offshore regulatory framework so that resource-management, administration and related requirements could operate for cross-boundary greenhouse-gas permits, leases and injection licences. The measure supports a unified legal treatment of offshore storage formations that extend across relevant title or jurisdictional boundaries. It was an amending instrument rather than a storage authorization and has completed its standalone legislative function.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "ended",
+    "status_note": "Amending regulations made in September 2020; their operative changes were incorporated into principal instruments.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "international_coordination"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1565,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2020,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment (Cross-boundary Greenhouse Gas Storage) Regulations 2020",
+    "source_url": "https://www.legislation.gov.au/F2020L01177/latest",
+    "notes": "The instrument amended Commonwealth regulatory-levy rules to accommodate cross-boundary greenhouse-gas storage titles created by the 2020 legislative reforms. It ensured that the regulatory cost-recovery system could operate for cross-boundary assessment, holding and injection title administration. The measure concerns fees and regulatory administration rather than the environmental performance or carbon accounting of storage and did not grant any project-specific storage right. The amending instrument is no longer in force as a standalone regulation.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "ended",
+    "status_note": "Amending instrument operated from 18 September 2020 to 2 February 2021; its changes were incorporated into the levy framework.",
+    "instrument_type": [
+      "other_or_unspecified",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1566,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2022,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Regulations 2022",
+    "source_url": "https://www.legislation.gov.au/F2022L01663/latest",
+    "notes": "The regulations prescribe the amounts and operation of Commonwealth offshore regulatory levies, including annual title-administration charges for work-bid and cross-boundary greenhouse-gas assessment permits, greenhouse-gas holding leases and greenhouse-gas injection licences. They also form part of the safety, well and environment-plan cost-recovery system administered under the offshore legislation. Their purpose is regulatory financing and administration of the offshore title system; they are not a carbon-finance instrument, do not issue carbon credits and do not authorize a specific CO2 storage project.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Principal levy regulations registered in 2022 and currently in force, with a 2026 compilation.",
+    "instrument_type": [
+      "other_or_unspecified",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1567,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2023,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Environment) Regulations 2023",
+    "source_url": "https://www.legislation.gov.au/F2023L00998/latest",
+    "notes": "The regulations establish the current Commonwealth environmental-management process for offshore petroleum and greenhouse-gas activities. They require offshore project proposals and environment plans, provide for publication and public comment, and set the regulatory framework for assessing and managing environmental impacts before and during regulated offshore activities. For marine geological CO2 storage they operate as an environmental approval and safeguard layer alongside the title and injection/storage rules. Acceptance of an environment plan is not equivalent to grant of a greenhouse-gas injection licence, and the regulations do not by themselves authorize a specific storage project.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Registered and effective from 10 July 2023; current principal offshore environment regulations.",
+    "instrument_type": [
+      "environmental_impact_assessment",
+      "regulatory_safeguard",
+      "public_consultation",
+      "mrv_standard"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1568,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2023,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Greenhouse Gas Injection and Storage) Regulations 2023",
+    "source_url": "https://www.legislation.gov.au/F2023L01551/latest",
+    "notes": "The regulations are the current specialist Commonwealth rules for offshore greenhouse-gas injection and storage. They prescribe how significant risk of significant adverse impact is determined and support statutory decisions concerning storage formations and greenhouse-gas titles. Together with the principal Act and resource-management rules, they provide technical and risk safeguards for marine geological CO2 storage. They establish regulatory criteria rather than an automatic deployment entitlement: a proponent still requires the relevant title, approvals and project-specific compliance before injection can occur.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Made in November 2023 and currently in force; latest compilation incorporates 2026 consequential amendments.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "environmental_impact_assessment",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1569,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Safety) Regulations 2024",
+    "source_url": "https://www.legislation.gov.au/F2024L01588/latest/text",
+    "notes": "The regulations establish the current offshore safety framework under the Commonwealth Act and expressly address new greenhouse-gas facilities through design-notification and safety-case requirements. They regulate operators, facilities, safety management, notices and reports and therefore form a mandatory technical safeguard for infrastructure used in offshore greenhouse-gas storage operations. The instrument controls facility safety and operational risk; it does not establish a carbon-removal methodology, quantify stored CO2, or substitute for the separate greenhouse-gas title and injection-licence process.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Current Commonwealth offshore safety regulations; operative framework includes specific provisions for new GHG facilities.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "mrv_standard"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1570,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Victoria",
+    "language": "English",
+    "year": 2010,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage Act 2010",
+    "source_url": "https://www.legislation.vic.gov.au/in-force/acts/offshore-petroleum-and-greenhouse-gas-storage-act-2010",
+    "notes": "The Act establishes Victoria's statutory framework for offshore petroleum and greenhouse-gas storage in Victorian coastal waters. For greenhouse gases it creates a title system that includes assessment permits, holding leases and injection licences, together with related powers for storage-formation identification, title administration, transfer and compliance. The regime is directly relevant to marine geological CO2 storage because the State offshore framework applies within Victorian State waters. The Act establishes legal pathways and regulatory controls but does not itself approve a particular CO2 injection project, quantify a removal outcome or create a carbon-crediting mechanism.",
+    "source": "Government of Victoria — Victorian Legislation",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Principal Victorian offshore petroleum and greenhouse-gas storage legislation remains in force.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mrv_standard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1571,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Victoria",
+    "language": "English",
+    "year": 2011,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage Regulations 2011",
+    "source_url": "https://www.legislation.vic.gov.au/repealed-revoked/statutory-rules/offshore-petroleum-and-greenhouse-gas-storage-regulations-2011/004",
+    "notes": "These regulations formed the earlier subsidiary regulatory layer under Victoria's Offshore Petroleum and Greenhouse Gas Storage Act 2010. They supported administration of offshore titles and operations, including the greenhouse-gas storage regime in Victorian coastal waters. They are retained as a historical implementation record because they governed the framework before being revoked on 12 December 2021 by the Offshore Petroleum and Greenhouse Gas Storage Regulations 2021. The regulations no longer authorize or regulate new activities and should not be treated as the current operational rules.",
+    "source": "Government of Victoria — Victorian Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "ended",
+    "status_note": "Revoked on 12 December 2021 and replaced by the Offshore Petroleum and Greenhouse Gas Storage Regulations 2021.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mrv_standard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1572,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Victoria",
+    "language": "English",
+    "year": 2021,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage Regulations 2021",
+    "source_url": "https://www.legislation.vic.gov.au/in-force/statutory-rules/offshore-petroleum-and-greenhouse-gas-storage-regulations-2021",
+    "notes": "These regulations provide the current subsidiary rules supporting Victoria's Offshore Petroleum and Greenhouse Gas Storage Act 2010. They operate within the State offshore title and regulatory framework for petroleum and greenhouse-gas activities in Victorian coastal waters and support administration, reporting and compliance for greenhouse-gas titles and operations. The authorised version history shows the regulations remain in force, with a current version effective from 7 May 2026. They regulate the framework but do not themselves issue an injection licence or authorize a specific CO2 storage project.",
+    "source": "Government of Victoria — Victorian Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "In force; current authorised version effective from 7 May 2026.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mrv_standard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1573,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Victoria",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Financial capability policy for petroleum and greenhouse gas applications",
+    "source_url": "https://resources.vic.gov.au/legislation-and-regulations/guidelines-and-codes-of-practice/financial-capability-policy-for-petroleum-and-greenhouse-gas-applications",
+    "notes": "The policy explains how the Victorian Minister for Energy and Resources or delegate assesses whether applicants have sufficient financial capability to undertake petroleum and greenhouse-gas exploration, injection, storage, rehabilitation and closure obligations. It expressly applies under the Offshore Petroleum and Greenhouse Gas Storage Act 2010 to work-bid and cash-bid greenhouse-gas assessment permits and to greenhouse-gas injection-licence applications, including applications by assessment-permit, holding-lease and petroleum-production-licence holders. The assessment considers the applicant's capacity to fund the full lifecycle of proposed work, including environmental protection, rehabilitation and closure. The policy is an application-assessment standard rather than a project approval and does not itself confer a storage title or injection licence.",
+    "source": "Government of Victoria — Resources Victoria",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Current Victorian application-assessment policy for petroleum and greenhouse-gas titles.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1574,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Queensland",
+    "language": "English",
+    "year": 2009,
+    "document_title": "Greenhouse Gas Storage Act 2009",
+    "source_url": "https://www.legislation.qld.gov.au/view/whole/html/inforce/current/act-2009-003",
+    "notes": "The Act establishes Queensland's statutory regime for greenhouse-gas geological storage and creates greenhouse-gas authorities, including exploration and storage tenure, associated pipeline access and safety and enforcement arrangements. Section 6 expressly applies the Act to Queensland coastal waters as if those waters were part of the State, while excluding the adjacent area governed by the Petroleum (Submerged Lands) Act 1982. The marine relevance is therefore explicit but geographically limited to State coastal waters. The Act establishes authorization and regulatory pathways for geological storage; it does not by itself approve a specific offshore injection project or quantify stored CO2.",
+    "source": "Queensland Government — Queensland Legislation",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "In force; expressly applies to Queensland coastal waters, subject to the statutory exclusion of the adjacent area.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1575,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Queensland",
+    "language": "English",
+    "year": 2021,
+    "document_title": "Greenhouse Gas Storage Regulation 2021",
+    "source_url": "https://www.legislation.qld.gov.au/view/html/inforce/current/sl-2021-0130/lh",
+    "notes": "The regulation implements the Greenhouse Gas Storage Act 2009 by prescribing information and administrative requirements for greenhouse-gas permits, leases, work programs and development plans. It requires matters such as geological models, assessments of potential storage sites, proposed activities and resource-conflict information, and it also prescribes security and information-management requirements. Because the parent Act expressly extends to Queensland coastal waters, these subsidiary requirements can govern marine geological CO2 storage within that State-water jurisdiction. The regulation is a regulatory framework and does not itself award a GHG lease or authorize injection at a specific site.",
+    "source": "Queensland Government — Queensland Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "In force; current reprint includes amendments commencing 19 June 2025.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mrv_standard",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1576,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Queensland",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Mineral and Energy Resources and Other Legislation Amendment Regulation 2025",
+    "source_url": "https://www.legislation.qld.gov.au/view/whole/html/asmade/sl-2025-0048",
+    "notes": "This amending regulation updates several Queensland resource regulations and includes a dedicated amendment to the Greenhouse Gas Storage Regulation 2021. Among other changes, it replaces the prescribed financial-security amounts for greenhouse-gas permits, greenhouse-gas leases and greenhouse-gas data-acquisition authorities. Because the underlying Greenhouse Gas Storage Act 2009 expressly applies to Queensland coastal waters, the amendment also affects the financial-security architecture for GHG authorities that may operate within that marine State-water jurisdiction. It does not grant a storage lease, select a storage formation or authorize a specific injection operation.",
+    "source": "Queensland Government — Queensland Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Commenced on 19 June 2025.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "permit_or_authorization"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1577,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Western Australia",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Petroleum Legislation Amendment Act 2024",
+    "source_url": "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a147432.html",
+    "notes": "The Act reforms Western Australia's petroleum legislation to establish a statutory framework for greenhouse-gas transport and permanent underground storage. Its amendments extend across the State's petroleum legislation, including the Petroleum (Submerged Lands) Act 1982, and introduce greenhouse-gas acreage release and licensing pathways, rights in identified storage formations, transport through pipelines, site closure and long-term liability arrangements. The marine component is direct because the amended Submerged Lands Act governs the offshore State jurisdiction. Most substantive greenhouse-gas provisions commenced on 28 May 2026 under a formal commencement proclamation. The Act creates the legal framework but does not itself approve a particular injection site or project.",
+    "source": "Government of Western Australia — Parliamentary Counsel's Office",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Assented to on 14 May 2024; the new greenhouse-gas storage and transport framework took effect on 28 May 2026.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1578,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Western Australia",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Petroleum Legislation Amendment Act 2024 Commencement Proclamation 2026",
+    "source_url": "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_s55813.html",
+    "notes": "The proclamation activates the remaining substantive provisions of the Petroleum Legislation Amendment Act 2024, subject to the specific provisions excluded in the proclamation. It was published on 27 May 2026 and causes the relevant greenhouse-gas transport and storage reforms, including reforms to the State's submerged-lands offshore framework, to commence on the following day. Its practical role is commencement and legal activation rather than the creation of a separate project approval. It therefore marks the point at which the new Western Australian offshore greenhouse-gas storage framework became operational but does not itself grant an exploration permit, retention lease or injection licence.",
+    "source": "Government of Western Australia — Parliamentary Counsel's Office",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published 27 May 2026; relevant substantive amendments commenced on 28 May 2026.",
+    "instrument_type": [
+      "policy_planning_and_coordination",
+      "other_or_unspecified"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1579,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Western Australia",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Petroleum and Greenhouse Gas Storage (Submerged Lands) (Greenhouse Gas Injection and Storage) Regulations 2026",
+    "source_url": "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_s55280.html",
+    "notes": "These regulations are the dedicated offshore subsidiary rules for greenhouse-gas injection and permanent storage under Western Australia's Petroleum and Greenhouse Gas Storage (Submerged Lands) Act 1982. Their stated objects include ensuring that greenhouse-gas injection and permanent storage operations are properly carried out and regulated. They provide the technical and administrative layer for operations under the new offshore title framework and became current on 28 May 2026. The regulations govern how authorized activities are conducted and assessed; they do not themselves award a particular injection licence or establish that any specific storage project has commenced injection.",
+    "source": "Government of Western Australia — Parliamentary Counsel's Office",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published 27 May 2026; substantive provisions current from 28 May 2026.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mrv_standard",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1580,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Western Australia",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Criteria for assessment: Petroleum, geothermal energy and greenhouse gas exploration permits",
+    "source_url": "https://www.wa.gov.au/government/publications/criteria-assessment-petroleum-geothermal-energy-and-greenhouse-gas-exploration-permits-0",
+    "notes": "The guideline sets assessment criteria for applications for petroleum, geothermal-energy and greenhouse-gas exploration permits under Western Australia's petroleum statutes, including the Petroleum and Greenhouse Gas Storage (Submerged Lands) Act 1982. It therefore provides an application-assessment standard for offshore greenhouse-gas exploration acreage as well as the onshore framework. The document supports transparent evaluation of permit applicants and work proposals after commencement of the 2024 legislative reforms. It is guidance for deciding whether an exploration permit should be granted; it is not itself an exploration permit, a declaration of a storage formation or authorization to inject CO2.",
+    "source": "Government of Western Australia — Department of Mines, Petroleum and Exploration",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Final guidance updated on 10 June 2026 following commencement of the reformed greenhouse-gas framework.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "technical_standards_and_certification",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1581,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Western Australia",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Application for declaration of identified Greenhouse Gas Storage",
+    "source_url": "https://www.wa.gov.au/government/publications/application-declaration-of-identified-greenhouse-gas-storage",
+    "notes": "This guideline explains the application process for ministerial declaration of an identified greenhouse-gas storage formation under Western Australia's petroleum legislation. It expressly applies to both the Petroleum, Geothermal Energy and Greenhouse Gas Storage Act 1967 and the Petroleum and Greenhouse Gas Storage (Submerged Lands) Act 1982. A ministerial declaration of an identified storage formation is a prerequisite before an applicant can seek a greenhouse-gas retention lease or injection licence. The document therefore operationalizes a key screening step for offshore geological CO2 storage, but the guidance itself does not declare a formation, grant a retention lease or authorize injection.",
+    "source": "Government of Western Australia — Department of Mines, Petroleum and Exploration",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Final guidance updated on 9 June 2026.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "technical_standards_and_certification",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1582,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Western Australia",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Response to public submissions – Greenhouse Gas (GHG) Regulations",
+    "source_url": "https://www.wa.gov.au/government/publications/response-public-submissions-greenhouse-gas-ghg-regulations",
+    "notes": "This formal response document records Western Australia's consideration of stakeholder submissions on the draft greenhouse-gas injection and storage regulations that accompanied implementation of the Petroleum Legislation Amendment Act 2024. The consultation covered both the landward petroleum statute and the Petroleum and Greenhouse Gas Storage (Submerged Lands) framework, so the response directly addresses the offshore regulatory package for permanent underground storage of greenhouse-gas substances. Submissions were grouped by theme and the regulations were revised where appropriate before finalization. The document is evidence of completed regulatory consultation and policy development; it is not a binding storage rule or a project authorization.",
+    "source": "Government of Western Australia — Department of Mines, Petroleum and Exploration",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Consultation response published in May 2026; the associated final regulations subsequently commenced on 28 May 2026.",
+    "instrument_type": [
+      "public_consultation",
+      "policy_planning_and_coordination",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1583,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Western Australia",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Draft Annual Pipeline Performance Report for pipeline licensees – guideline and templates",
+    "source_url": "https://www.wa.gov.au/government/publications/draft-annual-pipeline-performance-report-pipeline-licensees-guideline-and-templates",
+    "notes": "This consultation package proposed a standardized annual pipeline performance report and associated templates for Western Australian pipeline licensees. The package included reporting under the Petroleum and Greenhouse Gas Storage (Submerged Lands) pipeline framework, making it relevant to offshore transport infrastructure that can support greenhouse-gas storage projects. Its policy function was to define a repeatable annual reporting and performance-information structure and to seek stakeholder feedback before finalization. The consultation closed in January 2026. Because the material was issued as a draft consultation package, it should not be treated as a final reporting standard or as authorization for a CO2 pipeline or storage project.",
+    "source": "Government of Western Australia — Department of Mines, Petroleum and Exploration",
+    "document_type": "consultation",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Draft consultation closed on 30 January 2026; the record represents the consultation stage rather than an adopted final guideline.",
+    "instrument_type": [
+      "mrv_standard",
+      "public_consultation",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1584,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Western Australia",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Mines and Petroleum Regulations Amendment Regulations 2026",
+    "source_url": "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_s55076.html",
+    "notes": "These amending regulations implement consequential changes required for Western Australia's reformed petroleum and greenhouse-gas storage framework. The instrument directly amends multiple petroleum regulations, including the Submerged Lands environment, pipeline and resource-management regimes, by inserting greenhouse-gas activities and updating statutory references following the Petroleum Legislation Amendment Act 2024. Its marine relevance is explicit because dedicated parts amend regulations made under the State's submerged-lands offshore legislation. The instrument integrates greenhouse-gas storage into the existing offshore regulatory architecture but does not itself grant a greenhouse-gas title or authorize injection at a specific storage formation.",
+    "source": "Government of Western Australia — Parliamentary Counsel's Office",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published 27 May 2026; relevant amendments commenced with the new greenhouse-gas framework on 28 May 2026.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "mrv_standard",
+      "permit_or_authorization"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1585,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Western Australia",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Environment Regulations Amendment (Petroleum Legislation) Regulations 2026",
+    "source_url": "https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_s55635.html",
+    "notes": "This instrument updates Western Australia's environmental regulatory references to align them with the new petroleum and greenhouse-gas storage legislation. It expressly incorporates references to the Petroleum and Greenhouse Gas Storage (Submerged Lands) (Environment) Regulations 2012 and the corresponding Submerged Lands resource-management rules, thereby integrating offshore greenhouse-gas activities into the broader environmental regulatory framework. The amendments commenced in conjunction with key provisions of the Petroleum Legislation Amendment Act 2024. The instrument strengthens regulatory alignment and environmental oversight but does not itself approve a storage formation, injection licence or individual offshore project.",
+    "source": "Government of Western Australia — Parliamentary Counsel's Office",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published 27 May 2026; substantive amendments commenced with the greenhouse-gas legislative reforms on 28 May 2026.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1586,
+    "jurisdiction": "International",
+    "country_or_region": "Belgium–Norway",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Memorandum of Understanding (MoU) between the Minister for Environment of the Flemish Region and the Federal Minister for the North Sea of Belgium and the Minister of Energy and Climate of the Walloon Region and the Minister of Energy of Norway on Cross-border Transportation of CO2 with the Purpose of Permanent Geological Storage",
+    "source_url": "https://www.regjeringen.no/globalassets/departementene/ed/bilder-nyhetsaker/henrik/mou-cross-border-co2-no-be_final.pdf",
+    "notes": "The memorandum establishes a bilateral administrative framework for cross-border transport of captured CO2 from Belgium to Norway for permanent geological storage, supporting implementation of the London Protocol Article 6 requirements and related permitting, reporting and supervisory coordination. It is designed to remove legal and administrative barriers to cross-border CCS chains and clarify cooperation between competent authorities. The MoU is expressly non-binding and does not create rights or obligations under international law. It enables regulatory cooperation but does not itself grant a transport permit, storage permit or injection authorization for any specific offshore project.",
+    "source": "Governments of Belgium and Norway",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Signed on 15 April 2024 and operating as a non-binding cross-border CCS administrative arrangement.",
+    "instrument_type": [
+      "international_coordination",
+      "permit_or_authorization",
+      "policy_planning_and_coordination",
+      "mrv_standard"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1587,
+    "jurisdiction": "International",
+    "country_or_region": "Denmark–Norway",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Memorandum of Understanding (MoU) between Ministry of Climate, Energy and Utilities of Denmark and Ministry of Energy of Norway on Cross-border Transportation of CO2 with the Purpose of Permanent Geological Storage",
+    "source_url": "https://www.regjeringen.no/globalassets/departementene/ed/bilder-nyhetsaker/henrik/mou-cross-border-co2-no-dk_final.pdf",
+    "notes": "The memorandum creates a bilateral cooperation arrangement for cross-border transport of captured CO2 between Denmark and Norway for permanent geological storage. It supports implementation of the London Protocol Article 6 framework and coordinates the authorities responsible for permitting, supervision, reporting and exchange of information across a transboundary CCS chain. The arrangement is policy-enabling rather than a commercial or project-specific approval. It is non-binding and does not itself authorize shipment, pipeline transport, storage-site operation or injection at any particular offshore reservoir.",
+    "source": "Governments of Denmark and Norway",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Signed on 15 April 2024 as a non-binding bilateral arrangement for cross-border CO2 transport and storage.",
+    "instrument_type": [
+      "international_coordination",
+      "permit_or_authorization",
+      "policy_planning_and_coordination",
+      "mrv_standard"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1588,
+    "jurisdiction": "International",
+    "country_or_region": "Sweden–Norway",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Memorandum of Understanding (MoU) between Ministry of Climate and the Environment in Sweden and Ministry of Energy of Norway on Cross-border Transportation of CO2 with the Purpose of Permanent Geological Storage",
+    "source_url": "https://www.government.se/contentassets/5859a16494ee4a2d8de11cdf8ba9d014/mou-cross-border-co2-no-se_-se-final.pdf",
+    "notes": "The memorandum establishes non-binding cooperation between Sweden and Norway for cross-border transport of CO2 intended for permanent geological storage. It is part of the bilateral arrangements used to facilitate compliance with international rules governing export of CO2 streams for sub-seabed storage and to coordinate competent authorities, permitting and information exchange. Its policy effect is to enable a transboundary CCS value chain while retaining the need for all project-level approvals under domestic and international law. It does not itself authorize transport, approve a storage site or permit injection.",
+    "source": "Governments of Sweden and Norway",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Concluded in April 2024 as a non-binding bilateral arrangement supporting cross-border CO2 transport and permanent storage.",
+    "instrument_type": [
+      "international_coordination",
+      "permit_or_authorization",
+      "policy_planning_and_coordination",
+      "mrv_standard"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1589,
+    "jurisdiction": "International",
+    "country_or_region": "Denmark–Sweden",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Memorandum of Understanding (MoU) between Ministry of Climate, Energy and Utilities of Denmark and Ministry of Climate and Enterprise of Sweden on Cross-border Transportation of CO2 with the Purpose of Permanent Geological Storage",
+    "source_url": "https://www.government.se/contentassets/5859a16494ee4a2d8de11cdf8ba9d014/mou-cross-border-co2-se-dk_se-final.pdf",
+    "notes": "The memorandum establishes a non-binding Denmark–Sweden framework for cross-border transport of captured CO2 for permanent geological storage. It supports the international legal arrangements needed for transboundary CCS, promotes administrative cooperation and helps coordinate permitting, reporting and competent-authority responsibilities. The instrument facilitates future transport-and-storage chains but leaves individual projects subject to national licensing, environmental assessment and other applicable requirements. It therefore should not be interpreted as a transport authorization, storage permit or approval for a particular injection operation.",
+    "source": "Governments of Denmark and Sweden",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Signed on 15 April 2024 as a non-binding bilateral cross-border CCS arrangement.",
+    "instrument_type": [
+      "international_coordination",
+      "permit_or_authorization",
+      "policy_planning_and_coordination",
+      "mrv_standard"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1590,
+    "jurisdiction": "National",
+    "country_or_region": "Norway",
+    "subnational_area": "",
+    "language": "Norwegian",
+    "year": 2026,
+    "document_title": "Høring - forslag til endringer i lagringsforskriften",
+    "source_url": "https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-lagringsforskriften/id3151621/",
+    "notes": "The Ministry of Energy consultation proposes amendments to Norway's regulation on the use of subsea reservoirs on the continental shelf for CO2 storage and on CO2 transport on the continental shelf. The proposal is intended to simplify parts of the regulatory framework and make technical adaptations based on experience with the developing CCS sector. Because the underlying storage regulation governs subsea reservoirs and offshore CO2 transport, the consultation is directly relevant to marine geological CO2 storage. The consultation closed on 5 June 2026 and remains under consideration; the proposed amendments are not yet binding rules and do not constitute authorization for any specific storage project.",
+    "source": "Norway Ministry of Energy",
+    "document_type": "consultation",
+    "legal_force": "non_binding",
+    "implementation_status": "under_review",
+    "status_note": "Consultation launched on 9 March 2026; deadline 5 June 2026; government page lists the matter as under consideration.",
+    "instrument_type": [
+      "public_consultation",
+      "policy_planning_and_coordination",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1591,
+    "jurisdiction": "National",
+    "country_or_region": "Norway",
+    "subnational_area": "",
+    "language": "Norwegian",
+    "year": 2025,
+    "document_title": "Forskrift om endring i forskrift 27. juni 1997 nr. 653 til lov om petroleumsvirksomhet, forskrift 5. desember 2014 nr. 1517 om utnyttelse av undersjøiske reservoarer på kontinentalsokkelen til lagring av CO2 og om transport av CO2 på kontinentalsokkelen og forskrift 12. juni 2020 nr. 1192 til havenergilova",
+    "source_url": "https://lovdata.no/LTI/forskrift/2025-05-27-870",
+    "notes": "This amending regulation modifies several Norwegian offshore energy instruments, including the 2014 regulation governing use of subsea reservoirs on the continental shelf for CO2 storage and transport of CO2 on the continental shelf. It forms part of the legal coordination of offshore activities with wider marine-environment and international obligations and updates the regulatory treatment of activities that may have significant effects beyond national jurisdiction. The amendment is legally binding and entered into force for Norway on 17 January 2026. It changes the regulatory framework applicable to offshore storage and transport but does not itself award acreage, approve a storage plan or authorize injection at a particular reservoir.",
+    "source": "Norway — Lovdata / Ministry of Energy",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Adopted on 27 May 2025; relevant provisions entered into force for Norway on 17 January 2026.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "environmental_impact_assessment",
+      "international_coordination"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1592,
+    "jurisdiction": "National",
+    "country_or_region": "Qatar",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2021,
+    "document_title": "Qatar National Environment and Climate Change Strategy 2030",
+    "source_url": "https://envsustainability.mecc.gov.qa/en",
+    "notes": "Qatar's national environment and climate strategy provides the high-level policy framework for environmental and climate action through 2030. Official implementation material under its greenhouse-gas priority identifies further carbon capture and storage deployment and investment in nature-based solutions, including blue-carbon projects, as components of the mitigation portfolio. The blue-carbon element makes the strategy relevant to coastal and marine carbon-sink enhancement, while the CCS element is broader and is not treated here as evidence of a particular marine storage project. The strategy is enabling and programmatic: it does not establish a blue-carbon crediting methodology, quantify a verified ocean carbon-removal outcome or itself issue a deployment permit.",
+    "source": "Qatar Ministry of Environment and Climate Change",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Launched in October 2021 and remains the national environment and climate strategy to 2030.",
+    "instrument_type": [
+      "target_or_commitment",
+      "policy_planning_and_coordination",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1593,
+    "jurisdiction": "National",
+    "country_or_region": "Norway",
+    "subnational_area": "",
+    "language": "Norwegian",
+    "year": 2025,
+    "document_title": "Meddelelse om ikrafttredelse av forskrift 27. mai 2025 nr. 870 om endring i forskrift 27. juni 1997 nr. 653 til lov om petroleumsvirksomhet, forskrift 5. desember 2014 nr. 1517 om utnyttelse av undersjøiske reservoarer på kontinentalsokkelen til lagring av CO2 og om transport av CO2 på kontinentalsokkelen og forskrift 12. juni 2020 nr. 1192 til havenergilova",
+    "source_url": "https://lovdata.no/forskrift/2025-12-02-2375",
+    "notes": "This formal commencement notice fixes 17 January 2026 as the effective date for Regulation FOR-2025-05-27-870. The underlying amendment changes, among other instruments, Norway's 2014 regulation on use of subsea reservoirs on the continental shelf for permanent CO2 storage and on transport of CO2 on the continental shelf. The notice therefore has a distinct legal function in the offshore carbon-storage regulatory chain: it activates the previously adopted amendment on a specified date. It does not itself alter the substantive storage requirements beyond bringing the amendment into force, allocate offshore acreage, approve a storage development plan or authorize injection at a specific site.",
+    "source": "Norway — Lovdata / Ministry of Energy",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Formal commencement notice published on 2 December 2025; the underlying amendment entered into force on 17 January 2026.",
+    "instrument_type": [
+      "other_or_unspecified"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1594,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "Commonwealth offshore waters",
+    "language": "English",
+    "year": 2021,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage Amendment (Titles Administration and Other Measures) Act 2021",
+    "source_url": "https://www.legislation.gov.au/C2021A00096/latest/text",
+    "notes": "This amending Act materially strengthens administration of offshore petroleum and greenhouse-gas titles under the Offshore Petroleum and Greenhouse Gas Storage Act 2006. Its schedules create a statutory approval regime for changes in control of registered titleholders, expand trailing-liability arrangements, revise application and decision-making processes, strengthen information-gathering powers and modernise administrative handling of offshore titles. These controls apply to greenhouse-gas assessment permits, holding leases and injection licences as part of the Commonwealth offshore carbon-storage framework. The Act is therefore a governance and safeguard instrument rather than a project approval: it does not identify a storage formation, allocate acreage or authorize injection, and its relevance lies in ownership control, regulatory accountability and continuing obligations around offshore titleholders.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Assented to on 2 September 2021; the substantive title-administration measures commenced in stages and remain incorporated in the current OPGGS Act framework.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1595,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "Commonwealth offshore waters",
+    "language": "English",
+    "year": 2021,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment (Titles Administration) Regulations 2021",
+    "source_url": "https://www.legislation.gov.au/F2021L01747/latest",
+    "notes": "These regulations implemented parts of the 2021 titles-administration reforms by amending the Commonwealth offshore resource-management, environment and safety regulations. The instrument prescribed an application fee for approval of a change in control of a registered titleholder and made consequential provisions supporting the expanded trailing-liability regime. Because the affected title architecture includes greenhouse-gas assessment permits, holding leases and injection licences, the instrument formed part of the regulatory safeguards for offshore geological CO2 storage. The instrument is historical rather than current: the Federal Register records it as no longer in force, with its final operative period ending on 7 September 2022. It did not itself issue a greenhouse-gas title or authorize injection at any storage formation.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "ended",
+    "status_note": "Registered on 9 December 2021; no longer in force after 7 September 2022. Its effects were part of the transition to the revised titles-administration framework.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "other_or_unspecified"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1596,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "Commonwealth offshore waters",
+    "language": "English",
+    "year": 2021,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment Act 2021",
+    "source_url": "https://www.legislation.gov.au/C2021A00097/latest",
+    "notes": "This Act amends the Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Act 2003 as part of the Commonwealth offshore titles-administration reform package. The levy framework finances regulatory administration of offshore titles, including greenhouse-gas titles, and operates alongside the Offshore Petroleum and Greenhouse Gas Storage Act 2006 and the National Offshore Petroleum Titles Administrator system. Its policy effect is administrative and cost-recovery oriented rather than technological: it supports the functioning of the offshore permitting and title-management regime but does not set a carbon-credit methodology, establish a verified removal quantity, identify a storage formation or grant permission to inject CO2. It is retained because it is a separate binding Act directly governing the administration of the same offshore greenhouse-gas title system.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Assented to on 3 September 2021 and listed by the Federal Register of Legislation as in force.",
+    "instrument_type": [
+      "other_or_unspecified",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1597,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "Commonwealth offshore waters",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment (Safety and Other Measures) Act 2024",
+    "source_url": "https://www.legislation.gov.au/C2024A00043",
+    "notes": "This Act strengthens the Commonwealth offshore safety and remedial-direction framework and makes additional amendments to the Offshore Petroleum and Greenhouse Gas Storage Act 2006. The amendments expressly operate across greenhouse-gas assessment permits, greenhouse-gas holding leases and greenhouse-gas injection licences, including remedial directions concerning title areas and post-activity obligations. The Act also refines the statutory description of the spatial extent of an eligible greenhouse-gas storage formation by reference to expected migration pathways, which is directly relevant to delineation and regulation of subseabed CO2 storage. Its role is regulatory and precautionary: it strengthens safety, remediation and title-area governance but does not itself approve a particular storage formation or grant an injection licence.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "law",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Assented to on 11 June 2024; the Federal Register lists the Act as in force, with different schedules commencing according to the statutory commencement table.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "permit_or_authorization",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1598,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "Commonwealth offshore waters",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Offshore Petroleum and Greenhouse Gas Storage (Regulatory Levies) Amendment (Annual Titles Administration Levy) Regulations 2024",
+    "source_url": "https://www.legislation.gov.au/F2024L01421/asmade",
+    "notes": "These regulations update the annual titles-administration levy and related application and service fees used to fund the National Offshore Petroleum Titles Administrator. The explanatory statement states that the instrument implements NOPTA's cost-recovery settings for 2025. The underlying levy system expressly applies to offshore greenhouse-gas titles, including work-bid and cross-boundary greenhouse-gas assessment permits, greenhouse-gas holding leases and greenhouse-gas injection licences. The measure therefore forms part of the administrative infrastructure of the Commonwealth offshore CO2-storage licensing system. It is a cost-recovery rule only: it does not establish environmental performance criteria, determine the suitability of a storage formation, issue a title or authorize CO2 injection.",
+    "source": "Australian Government — Federal Register of Legislation",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Registered on 8 November 2024 and commenced on 1 January 2025; its levy changes are incorporated in the current Regulatory Levies Regulations 2022.",
+    "instrument_type": [
+      "other_or_unspecified",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
   }
 ]
