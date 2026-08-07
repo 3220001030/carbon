@@ -356,7 +356,7 @@
     "year": 2022,
     "document_title": "LC 44/LP 17 Statement on Marine Geoengineering",
     "source_url": "https://www.imo.org/en/MediaCentre/PressBriefings/pages/Marine-geoengineering.aspx/",
-    "notes": "The technology was identified as a priority for legal and technical assessment. The statement stresses that marine geoengineering cannot substitute for emissions reduction and applies a precautionary approach.",
+    "notes": "The 2022 London Convention/London Protocol statement identified several emerging marine-geoengineering approaches for priority legal and technical assessment, including ocean alkalinity enhancement and biomass cultivation or sequestration, and it also considered related techniques such as artificial upwelling. The Parties stressed a precautionary approach, the need to protect the marine environment, and that marine geoengineering cannot substitute for rapid emissions reduction. The statement is an assessment and governance signal rather than a deployment authorization, carbon-credit methodology, or finding that the listed approaches are ready for commercial-scale use.",
     "source": "International Maritime Organization (IMO) — London Convention/Protocol",
     "document_type": "strategy_plan_roadmap",
     "legal_force": "non_binding",
@@ -376,89 +376,19 @@
       "carbon_pump_mechanisms_and_integration"
     ],
     "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
-      "ocean_alkalinity_enhancement"
-    ],
-    "standards_policy_market_theme": [],
-    "carbon_pump_mechanism": [
-      "CCP",
-      "SCP"
-    ]
-  },
-  {
-    "id": 10,
-    "jurisdiction": "International",
-    "country_or_region": "International",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2022,
-    "document_title": "LC 44/LP 17 Statement on Marine Geoengineering",
-    "source_url": "https://www.imo.org/en/MediaCentre/PressBriefings/pages/Marine-geoengineering.aspx/",
-    "notes": "Biomass cultivation and carbon sequestration were identified as priority technologies for assessment. The statement stresses that marine geoengineering cannot substitute for emissions reduction and applies a precautionary approach.",
-    "source": "International Maritime Organization (IMO) — London Convention/Protocol",
-    "document_type": "strategy_plan_roadmap",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Adopted statement",
-    "instrument_type": [
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "enabling_supportive",
-    "once_primary_type": "negative_emissions_engineering",
-    "once_types": [
-      "negative_emissions_engineering",
-      "theory_and_research"
-    ],
-    "theory_research_theme": [
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [
+      "ocean_negative_emissions_geoengineering",
       "fishery_carbon_sink_engineering"
     ],
     "engineering_pathway": [
-      "macroalgae_aquaculture_and_carbon_sink"
-    ],
-    "standards_policy_market_theme": [],
-    "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
-    ]
-  },
-  {
-    "id": 11,
-    "jurisdiction": "International",
-    "country_or_region": "International",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2022,
-    "document_title": "LC 44/LP 17 Statement on Marine Geoengineering",
-    "source_url": "https://www.imo.org/en/MediaCentre/PressBriefings/pages/Marine-geoengineering.aspx/",
-    "notes": "The pathway was expressly mentioned as part of macroalgae or biomass-based carbon sequestration. The statement stresses that marine geoengineering cannot substitute for emissions reduction and applies a precautionary approach.",
-    "source": "International Maritime Organization (IMO) — London Convention/Protocol",
-    "document_type": "strategy_plan_roadmap",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Adopted statement",
-    "instrument_type": [
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "enabling_supportive",
-    "once_primary_type": "negative_emissions_engineering",
-    "once_types": [
-      "negative_emissions_engineering"
-    ],
-    "theory_research_theme": [],
-    "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
+      "ocean_alkalinity_enhancement",
+      "macroalgae_aquaculture_and_carbon_sink",
       "artificial_upwelling"
     ],
     "standards_policy_market_theme": [],
     "carbon_pump_mechanism": [
+      "CCP",
+      "SCP",
+      "MCP",
       "BCP"
     ]
   },
@@ -508,44 +438,6 @@
     ]
   },
   {
-    "id": 13,
-    "jurisdiction": "International",
-    "country_or_region": "International",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2023,
-    "document_title": "LC 45/LP 18 Statement on Marine Geoengineering",
-    "source_url": "https://www.imo.org/en/mediacentre/meetingsummaries/pages/lc-45-lp-18.aspx",
-    "notes": "Parties considered that the priority technologies could cause widespread, long-lasting or severe adverse effects and involve substantial uncertainty concerning the environment, human health and other ocean uses.",
-    "source": "International Maritime Organization (IMO) — London Convention/Protocol",
-    "document_type": "strategy_plan_roadmap",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Adopted statement",
-    "instrument_type": [
-      "regulatory_safeguard",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "precautionary_restrictive",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading",
-      "theory_and_research"
-    ],
-    "theory_research_theme": [
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "environmental_risk_and_sustainability_assessment"
-    ],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "environmental_social_and_ecological_safeguards"
-    ],
-    "carbon_pump_mechanism": [
-      "not_specified"
-    ]
-  },
-  {
     "id": 14,
     "jurisdiction": "International",
     "country_or_region": "International",
@@ -573,47 +465,13 @@
       "ocean_negative_emissions_geoengineering"
     ],
     "engineering_pathway": [
-      "ocean_alkalinity_enhancement"
+      "ocean_alkalinity_enhancement",
+      "biomass_sinking_and_burial"
     ],
     "standards_policy_market_theme": [],
     "carbon_pump_mechanism": [
       "CCP",
       "SCP"
-    ]
-  },
-  {
-    "id": 15,
-    "jurisdiction": "International",
-    "country_or_region": "International",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2024,
-    "document_title": "LC 46/LP 19 Statement and Work Programme on Marine Geoengineering",
-    "source_url": "https://www.imo.org/en/mediacentre/meetingsummaries/pages/lc-46-lp-19.aspx",
-    "notes": "The technology was listed for continued work on definitions and legal and technical analysis, with protection of the marine environment treated as the overriding priority.",
-    "source": "International Maritime Organization (IMO) — London Convention/Protocol",
-    "document_type": "strategy_plan_roadmap",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Adopted statement/work programme",
-    "instrument_type": [
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "enabling_supportive",
-    "once_primary_type": "negative_emissions_engineering",
-    "once_types": [
-      "negative_emissions_engineering"
-    ],
-    "theory_research_theme": [],
-    "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
-      "biomass_sinking_and_burial"
-    ],
-    "standards_policy_market_theme": [],
-    "carbon_pump_mechanism": [
-      "not_specified"
     ]
   },
   {
@@ -1056,249 +914,15 @@
       "carbon_pump_mechanisms_and_integration"
     ],
     "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
-      "ocean_alkalinity_enhancement"
-    ],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv",
-      "technical_standards_and_certification"
-    ],
-    "carbon_pump_mechanism": [
-      "CCP",
-      "SCP"
-    ]
-  },
-  {
-    "id": 27,
-    "jurisdiction": "National",
-    "country_or_region": "United States",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2024,
-    "document_title": "National Marine Carbon Dioxide Removal Research Strategy",
-    "source_url": "https://prod-01-alb-www-noaa.woc.noaa.gov/news-release/white-house-noaa-and-other-federal-partners-release-national-strategy-for-marine-CO2-removal-research",
-    "notes": "The U.S. federal interagency research strategy explicitly includes this technology and calls for research on safety, effectiveness, risks, trade-offs and monitoring. It does not constitute authorization for deployment.",
-    "source": "White House / NOAA and federal partners",
-    "document_type": "report_or_assessment",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Active federal research strategy",
-    "instrument_type": [
-      "mrv_standard",
-      "research_strategy",
-      "mapping_inventory_or_monitoring",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "theory_and_research",
-    "once_types": [
-      "theory_and_research",
-      "negative_emissions_engineering",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "integrated_once_research_and_coordination",
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "monitoring_observation_and_modeling"
-    ],
-    "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
-      "direct_ocean_capture"
-    ],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv",
-      "technical_standards_and_certification"
-    ],
-    "carbon_pump_mechanism": [
-      "not_specified"
-    ]
-  },
-  {
-    "id": 28,
-    "jurisdiction": "National",
-    "country_or_region": "United States",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2024,
-    "document_title": "National Marine Carbon Dioxide Removal Research Strategy",
-    "source_url": "https://prod-01-alb-www-noaa.woc.noaa.gov/news-release/white-house-noaa-and-other-federal-partners-release-national-strategy-for-marine-CO2-removal-research",
-    "notes": "The U.S. federal interagency research strategy explicitly includes this technology and calls for research on safety, effectiveness, risks, trade-offs and monitoring. It does not constitute authorization for deployment.",
-    "source": "White House / NOAA and federal partners",
-    "document_type": "report_or_assessment",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Active federal research strategy",
-    "instrument_type": [
-      "mrv_standard",
-      "research_strategy",
-      "mapping_inventory_or_monitoring",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "theory_and_research",
-    "once_types": [
-      "theory_and_research",
-      "negative_emissions_engineering",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "integrated_once_research_and_coordination",
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "monitoring_observation_and_modeling"
-    ],
-    "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
-      "artificial_downwelling"
-    ],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv",
-      "technical_standards_and_certification"
-    ],
-    "carbon_pump_mechanism": [
-      "not_specified"
-    ]
-  },
-  {
-    "id": 29,
-    "jurisdiction": "National",
-    "country_or_region": "United States",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2024,
-    "document_title": "National Marine Carbon Dioxide Removal Research Strategy",
-    "source_url": "https://prod-01-alb-www-noaa.woc.noaa.gov/news-release/white-house-noaa-and-other-federal-partners-release-national-strategy-for-marine-CO2-removal-research",
-    "notes": "The U.S. federal interagency research strategy explicitly includes this technology and calls for research on safety, effectiveness, risks, trade-offs and monitoring. It does not constitute authorization for deployment.",
-    "source": "White House / NOAA and federal partners",
-    "document_type": "report_or_assessment",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Active federal research strategy",
-    "instrument_type": [
-      "mrv_standard",
-      "research_strategy",
-      "mapping_inventory_or_monitoring",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "theory_and_research",
-    "once_types": [
-      "theory_and_research",
-      "negative_emissions_engineering",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "integrated_once_research_and_coordination",
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "monitoring_observation_and_modeling",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
-      "artificial_upwelling"
-    ],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv",
-      "technical_standards_and_certification"
-    ],
-    "carbon_pump_mechanism": [
-      "BCP"
-    ]
-  },
-  {
-    "id": 30,
-    "jurisdiction": "National",
-    "country_or_region": "United States",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2024,
-    "document_title": "National Marine Carbon Dioxide Removal Research Strategy",
-    "source_url": "https://prod-01-alb-www-noaa.woc.noaa.gov/news-release/white-house-noaa-and-other-federal-partners-release-national-strategy-for-marine-CO2-removal-research",
-    "notes": "The U.S. federal interagency research strategy explicitly includes this technology and calls for research on safety, effectiveness, risks, trade-offs and monitoring. It does not constitute authorization for deployment.",
-    "source": "White House / NOAA and federal partners",
-    "document_type": "report_or_assessment",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Active federal research strategy",
-    "instrument_type": [
-      "mrv_standard",
-      "research_strategy",
-      "mapping_inventory_or_monitoring",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "theory_and_research",
-    "once_types": [
-      "theory_and_research",
-      "negative_emissions_engineering",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "integrated_once_research_and_coordination",
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "monitoring_observation_and_modeling",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
-      "ocean_fertilization"
-    ],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv",
-      "technical_standards_and_certification"
-    ],
-    "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
-    ]
-  },
-  {
-    "id": 31,
-    "jurisdiction": "National",
-    "country_or_region": "United States",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2024,
-    "document_title": "National Marine Carbon Dioxide Removal Research Strategy",
-    "source_url": "https://prod-01-alb-www-noaa.woc.noaa.gov/news-release/white-house-noaa-and-other-federal-partners-release-national-strategy-for-marine-CO2-removal-research",
-    "notes": "The U.S. federal interagency research strategy explicitly includes this technology and calls for research on safety, effectiveness, risks, trade-offs and monitoring. It does not constitute authorization for deployment.",
-    "source": "White House / NOAA and federal partners",
-    "document_type": "report_or_assessment",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Active federal research strategy",
-    "instrument_type": [
-      "mrv_standard",
-      "research_strategy",
-      "mapping_inventory_or_monitoring",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "theory_and_research",
-    "once_types": [
-      "theory_and_research",
-      "negative_emissions_engineering",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "integrated_once_research_and_coordination",
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "monitoring_observation_and_modeling",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [
+      "ocean_negative_emissions_geoengineering",
       "fishery_carbon_sink_engineering"
     ],
     "engineering_pathway": [
+      "ocean_alkalinity_enhancement",
+      "direct_ocean_capture",
+      "artificial_downwelling",
+      "artificial_upwelling",
+      "ocean_fertilization",
       "macroalgae_aquaculture_and_carbon_sink"
     ],
     "standards_policy_market_theme": [
@@ -1306,8 +930,10 @@
       "technical_standards_and_certification"
     ],
     "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
+      "CCP",
+      "SCP",
+      "BCP",
+      "MCP"
     ]
   },
   {
@@ -1319,12 +945,12 @@
     "year": 2023,
     "document_title": "Strategy for NOAA Carbon Dioxide Removal Research",
     "source_url": "https://oceanacidification.noaa.gov/oap_pubs/strategy-for-noaa-carbon-dioxide-removal-cdr-research-a-white-paper-documenting-a-potential-noaa-cdr-science-strategy-as-an-element-of-noaas-climate-interventions-portfolio/",
-    "notes": "The NOAA white paper reviews marine and terrestrial CDR options and relevant agency capabilities. It does not endorse a specific technology and is primarily intended to support research strategy and implementation planning.",
+    "notes": "This NOAA Special Report provides a potential agency-wide carbon dioxide removal science strategy spanning marine, coastal and terrestrial approaches. Developed by a cross-NOAA task team, it identifies roles for observations, modeling, ecosystem and environmental-impact assessment, technology evaluation and decision support, and was intended to guide discussions and future implementation planning if Congress directs NOAA to expand CDR research. The report explicitly does not endorse any specific CDR technique or application and does not itself authorize field deployment, establish carbon-crediting rules or create a binding regulatory standard. It serves primarily as an evidence-building and research coordination framework and helped inform subsequent federal mCDR research investments.",
     "source": "National Oceanic and Atmospheric Administration (NOAA)",
     "document_type": "report_or_assessment",
     "legal_force": "non_binding",
     "implementation_status": "in_force_or_active",
-    "status_note": "Agency research white paper",
+    "status_note": "NOAA Special Report published in 2023; research-strategy reference, not deployment authorization",
     "instrument_type": [
       "research_strategy",
       "mapping_inventory_or_monitoring",
@@ -1386,101 +1012,8 @@
       "ocean_negative_emissions_geoengineering"
     ],
     "engineering_pathway": [
-      "ocean_alkalinity_enhancement"
-    ],
-    "standards_policy_market_theme": [
-      "technical_standards_and_certification",
-      "environmental_social_and_ecological_safeguards",
-      "law_regulation_and_permitting"
-    ],
-    "carbon_pump_mechanism": [
-      "CCP",
-      "SCP"
-    ]
-  },
-  {
-    "id": 34,
-    "jurisdiction": "National",
-    "country_or_region": "United States",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2026,
-    "document_title": "EPA Geoengineering and Marine CDR Regulatory Framework",
-    "source_url": "https://www.epa.gov/geoengineering/government-action",
-    "notes": "EPA explains that activities involving the placement of material into ocean waters may require authorization under the Marine Protection, Research, and Sanctuaries Act or the Clean Water Act, together with environmental review, public comment and interagency coordination.",
-    "source": "U.S. Environmental Protection Agency (EPA)",
-    "document_type": "guidance_or_standard",
-    "legal_force": "mixed",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Active regulatory guidance",
-    "instrument_type": [
-      "permit_or_authorization",
-      "environmental_impact_assessment",
-      "public_consultation"
-    ],
-    "policy_orientation": "authorizing_permissive",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading",
-      "theory_and_research",
-      "negative_emissions_engineering"
-    ],
-    "theory_research_theme": [
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "environmental_risk_and_sustainability_assessment",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
-      "ocean_fertilization"
-    ],
-    "standards_policy_market_theme": [
-      "technical_standards_and_certification",
-      "environmental_social_and_ecological_safeguards",
-      "law_regulation_and_permitting"
-    ],
-    "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
-    ]
-  },
-  {
-    "id": 35,
-    "jurisdiction": "National",
-    "country_or_region": "United States",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2026,
-    "document_title": "EPA Geoengineering and Marine CDR Regulatory Framework",
-    "source_url": "https://www.epa.gov/geoengineering/government-action",
-    "notes": "EPA explains that activities involving the placement of material into ocean waters may require authorization under the Marine Protection, Research, and Sanctuaries Act or the Clean Water Act, together with environmental review, public comment and interagency coordination.",
-    "source": "U.S. Environmental Protection Agency (EPA)",
-    "document_type": "guidance_or_standard",
-    "legal_force": "mixed",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Active regulatory guidance",
-    "instrument_type": [
-      "permit_or_authorization",
-      "environmental_impact_assessment",
-      "public_consultation"
-    ],
-    "policy_orientation": "authorizing_permissive",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading",
-      "theory_and_research",
-      "negative_emissions_engineering"
-    ],
-    "theory_research_theme": [
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "environmental_risk_and_sustainability_assessment"
-    ],
-    "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
+      "ocean_alkalinity_enhancement",
+      "ocean_fertilization",
       "biomass_sinking_and_burial"
     ],
     "standards_policy_market_theme": [
@@ -1489,7 +1022,10 @@
       "law_regulation_and_permitting"
     ],
     "carbon_pump_mechanism": [
-      "not_specified"
+      "CCP",
+      "SCP",
+      "MCP",
+      "BCP"
     ]
   },
   {
@@ -1943,7 +1479,7 @@
     "year": 2025,
     "document_title": "Long-Term Strategy for Negative Emissions — Methods Under Assessment",
     "source_url": "https://www.bmwk.de/Redaktion/DE/Dossier/negativemissionen.html",
-    "notes": "Ocean alkalinity enhancement was included among the options assessed during development of the national long-term negative-emissions strategy. The webpage documents the strategy process and technology list; it does not authorize deployment.",
+    "notes": "Germany's long-term negative-emissions strategy process assessed a portfolio of marine options including ocean alkalinity enhancement, marine-algae cultivation with possible downstream storage, enhancement of vegetated coastal ecosystems such as salt marshes, seagrass, mangroves and kelp forests, and artificial upwelling linked to the biological carbon pump. The source documents a national strategy-development and technology-assessment process; it does not itself authorize marine deployment, issue project permits, establish carbon credits, or demonstrate quantified removal at scale.",
     "source": "Federal Ministry for Economic Affairs and Climate Action (BMWK/BMWE)",
     "document_type": "report_or_assessment",
     "legal_force": "non_binding",
@@ -1963,144 +1499,23 @@
     "theory_research_theme": [
       "ocean_negative_emissions_science_and_technology_assessment",
       "monitoring_observation_and_modeling",
-      "carbon_pump_mechanisms_and_integration"
+      "carbon_pump_mechanisms_and_integration",
+      "coastal_wetland_carbon_cycle_and_storage"
     ],
     "engineering_family": [
       "ocean_negative_emissions_geoengineering"
     ],
     "engineering_pathway": [
-      "ocean_alkalinity_enhancement"
-    ],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv"
-    ],
-    "carbon_pump_mechanism": [
-      "CCP",
-      "SCP"
-    ]
-  },
-  {
-    "id": 48,
-    "jurisdiction": "National",
-    "country_or_region": "Germany",
-    "subnational_area": "",
-    "language": "German",
-    "year": 2025,
-    "document_title": "Long-Term Strategy for Negative Emissions — Methods Under Assessment",
-    "source_url": "https://www.bmwk.de/Redaktion/DE/Dossier/negativemissionen.html",
-    "notes": "Marine algae cultivation, followed by BECCS or deep-sea sinking, was included as an assessed pathway. The webpage documents the strategy process and technology list; it does not authorize deployment.",
-    "source": "Federal Ministry for Economic Affairs and Climate Action (BMWK/BMWE)",
-    "document_type": "report_or_assessment",
-    "legal_force": "non_binding",
-    "implementation_status": "planned",
-    "status_note": "Strategy under development",
-    "instrument_type": [
-      "target_or_commitment",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "negative_emissions_engineering",
-    "once_types": [
-      "negative_emissions_engineering",
-      "theory_and_research",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "monitoring_observation_and_modeling"
-    ],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv"
-    ],
-    "carbon_pump_mechanism": [
-      "not_specified"
-    ]
-  },
-  {
-    "id": 49,
-    "jurisdiction": "National",
-    "country_or_region": "Germany",
-    "subnational_area": "",
-    "language": "German",
-    "year": 2025,
-    "document_title": "Long-Term Strategy for Negative Emissions — Methods Under Assessment",
-    "source_url": "https://www.bmwk.de/Redaktion/DE/Dossier/negativemissionen.html",
-    "notes": "Enhancement of salt marshes, seagrass, mangroves and kelp forests was included among negative-emissions approaches. The webpage documents the strategy process and technology list; it does not authorize deployment.",
-    "source": "Federal Ministry for Economic Affairs and Climate Action (BMWK/BMWE)",
-    "document_type": "report_or_assessment",
-    "legal_force": "non_binding",
-    "implementation_status": "planned",
-    "status_note": "Strategy under development",
-    "instrument_type": [
-      "target_or_commitment",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "negative_emissions_engineering",
-    "once_types": [
-      "negative_emissions_engineering",
-      "theory_and_research",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "coastal_wetland_carbon_cycle_and_storage",
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "monitoring_observation_and_modeling",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv"
-    ],
-    "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
-    ]
-  },
-  {
-    "id": 50,
-    "jurisdiction": "National",
-    "country_or_region": "Germany",
-    "subnational_area": "",
-    "language": "German",
-    "year": 2025,
-    "document_title": "Long-Term Strategy for Negative Emissions — Methods Under Assessment",
-    "source_url": "https://www.bmwk.de/Redaktion/DE/Dossier/negativemissionen.html",
-    "notes": "Artificial upwelling was included in the negative-emissions technology portfolio and linked to the biological carbon pump. The webpage documents the strategy process and technology list; it does not authorize deployment.",
-    "source": "Federal Ministry for Economic Affairs and Climate Action (BMWK/BMWE)",
-    "document_type": "report_or_assessment",
-    "legal_force": "non_binding",
-    "implementation_status": "planned",
-    "status_note": "Strategy under development",
-    "instrument_type": [
-      "target_or_commitment",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "negative_emissions_engineering",
-    "once_types": [
-      "negative_emissions_engineering",
-      "theory_and_research",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "monitoring_observation_and_modeling",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
+      "ocean_alkalinity_enhancement",
       "artificial_upwelling"
     ],
     "standards_policy_market_theme": [
       "measurement_monitoring_and_mrv"
     ],
     "carbon_pump_mechanism": [
+      "CCP",
+      "SCP",
+      "MCP",
       "BCP"
     ]
   },
@@ -2430,55 +1845,6 @@
     ]
   },
   {
-    "id": 59,
-    "jurisdiction": "National",
-    "country_or_region": "Japan",
-    "subnational_area": "",
-    "language": "Japanese",
-    "year": 2024,
-    "document_title": "National Greenhouse Gas Inventory Inclusion of Seagrass and Macroalgal Beds",
-    "source_url": "https://www.env.go.jp/earth/ondanka/blue-carbon-jp/initiatives.html",
-    "notes": "Japan included removals from this type of vegetated coastal ecosystem in its 2024 greenhouse-gas inventory submission to the United Nations. The government states that it was the first country to report both seagrass and macroalgal beds.",
-    "source": "Ministry of the Environment, Japan",
-    "document_type": "guidance_or_standard",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Implemented in national inventory",
-    "instrument_type": [
-      "mrv_standard",
-      "accounting_methodology"
-    ],
-    "policy_orientation": "evidence_building",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading",
-      "theory_and_research",
-      "negative_emissions_engineering"
-    ],
-    "theory_research_theme": [
-      "coastal_wetland_carbon_cycle_and_storage",
-      "monitoring_observation_and_modeling",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [
-      "fishery_carbon_sink_engineering",
-      "ecological_restoration_and_sink_enhancement"
-    ],
-    "engineering_pathway": [
-      "macroalgae_aquaculture_and_carbon_sink",
-      "seagrass_conservation_restoration_and_sink_enhancement"
-    ],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv",
-      "carbon_accounting_and_methodology",
-      "technical_standards_and_certification"
-    ],
-    "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
-    ]
-  },
-  {
     "id": 60,
     "jurisdiction": "National",
     "country_or_region": "Japan",
@@ -2644,97 +2010,13 @@
       "carbon_pump_mechanisms_and_integration"
     ],
     "engineering_family": [
-      "ecological_restoration_and_sink_enhancement"
-    ],
-    "engineering_pathway": [
-      "coastal_wetland_restoration_and_sink_enhancement",
-      "salt_marsh_and_tidal_wetland_restoration"
-    ],
-    "standards_policy_market_theme": [],
-    "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
-    ]
-  },
-  {
-    "id": 64,
-    "jurisdiction": "National",
-    "country_or_region": "Republic of Korea",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2021,
-    "document_title": "2050 Carbon Neutrality Roadmap for the Marine and Fisheries Sector",
-    "source_url": "https://www.mof.go.kr/doc/en/selectDoc.do?bbsSeq=90&docSeq=49964&menuSeq=485",
-    "notes": "The marine and fisheries sector roadmap sets a 2050 net-emissions target of minus 3.24 million tonnes and relies heavily on blue-carbon uptake, including restoration, expansion and research measures for this pathway.",
-    "source": "Ministry of Oceans and Fisheries, Republic of Korea",
-    "document_type": "strategy_plan_roadmap",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Adopted sector roadmap",
-    "instrument_type": [
-      "target_or_commitment",
-      "research_strategy",
-      "ecosystem_restoration_or_conservation_programme",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "enabling_supportive",
-    "once_primary_type": "negative_emissions_engineering",
-    "once_types": [
-      "negative_emissions_engineering",
-      "theory_and_research"
-    ],
-    "theory_research_theme": [
-      "integrated_once_research_and_coordination",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [
-      "fishery_carbon_sink_engineering"
-    ],
-    "engineering_pathway": [
-      "macroalgae_aquaculture_and_carbon_sink"
-    ],
-    "standards_policy_market_theme": [],
-    "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
-    ]
-  },
-  {
-    "id": 65,
-    "jurisdiction": "National",
-    "country_or_region": "Republic of Korea",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2021,
-    "document_title": "2050 Carbon Neutrality Roadmap for the Marine and Fisheries Sector",
-    "source_url": "https://www.mof.go.kr/doc/en/selectDoc.do?bbsSeq=90&docSeq=49964&menuSeq=485",
-    "notes": "The marine and fisheries sector roadmap sets a 2050 net-emissions target of minus 3.24 million tonnes and relies heavily on blue-carbon uptake, including restoration, expansion and research measures for this pathway.",
-    "source": "Ministry of Oceans and Fisheries, Republic of Korea",
-    "document_type": "strategy_plan_roadmap",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Adopted sector roadmap",
-    "instrument_type": [
-      "target_or_commitment",
-      "research_strategy",
-      "ecosystem_restoration_or_conservation_programme",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "enabling_supportive",
-    "once_primary_type": "negative_emissions_engineering",
-    "once_types": [
-      "negative_emissions_engineering",
-      "theory_and_research"
-    ],
-    "theory_research_theme": [
-      "integrated_once_research_and_coordination",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
       "fishery_carbon_sink_engineering",
       "ocean_negative_emissions_geoengineering"
     ],
     "engineering_pathway": [
+      "coastal_wetland_restoration_and_sink_enhancement",
+      "salt_marsh_and_tidal_wetland_restoration",
       "macroalgae_aquaculture_and_carbon_sink",
       "microalgae_carbon_mitigation",
       "shellfish_aquaculture_and_carbon_sink"
@@ -3240,52 +2522,11 @@
     ],
     "theory_research_theme": [],
     "engineering_family": [
-      "ecological_restoration_and_sink_enhancement"
-    ],
-    "engineering_pathway": [
-      "seagrass_conservation_restoration_and_sink_enhancement"
-    ],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv",
-      "technical_standards_and_certification",
-      "carbon_crediting_and_trading"
-    ],
-    "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
-    ]
-  },
-  {
-    "id": 78,
-    "jurisdiction": "Subnational",
-    "country_or_region": "China",
-    "subnational_area": "Dalian, Liaoning",
-    "language": "Chinese",
-    "year": 2024,
-    "document_title": "National Carbon-Peaking Pilot (Dalian) Implementation Plan",
-    "source_url": "https://www.ndrc.gov.cn/fggz/hjyzy/tdftzh/202408/t20240822_1392543.html",
-    "notes": "Dalian's pilot plan proposes seagrass restoration and blue-carbon enhancement demonstrations, carbon-sink fishery pilots, a blue-carbon database and development of tradable blue-carbon products.",
-    "source": "National Development and Reform Commission / Dalian Municipal Government",
-    "document_type": "strategy_plan_roadmap",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Adopted pilot implementation plan",
-    "instrument_type": [
-      "demonstration_support",
-      "mrv_standard",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "enabling_supportive",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading",
-      "negative_emissions_engineering"
-    ],
-    "theory_research_theme": [],
-    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
       "fishery_carbon_sink_engineering"
     ],
     "engineering_pathway": [
+      "seagrass_conservation_restoration_and_sink_enhancement",
       "integrated_shellfish_algae_aquaculture"
     ],
     "standards_policy_market_theme": [
@@ -3295,44 +2536,8 @@
     ],
     "carbon_pump_mechanism": [
       "MCP",
+      "BCP",
       "CCP"
-    ]
-  },
-  {
-    "id": 79,
-    "jurisdiction": "Subnational",
-    "country_or_region": "China",
-    "subnational_area": "Dalian, Liaoning",
-    "language": "Chinese",
-    "year": 2024,
-    "document_title": "National Carbon-Peaking Pilot (Dalian) Implementation Plan",
-    "source_url": "https://www.ndrc.gov.cn/fggz/hjyzy/tdftzh/202408/t20240822_1392543.html",
-    "notes": "Dalian's pilot plan proposes seagrass restoration and blue-carbon enhancement demonstrations, carbon-sink fishery pilots, a blue-carbon database and development of tradable blue-carbon products.",
-    "source": "National Development and Reform Commission / Dalian Municipal Government",
-    "document_type": "strategy_plan_roadmap",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Adopted pilot implementation plan",
-    "instrument_type": [
-      "demonstration_support",
-      "mrv_standard",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "enabling_supportive",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv",
-      "technical_standards_and_certification",
-      "carbon_crediting_and_trading"
-    ],
-    "carbon_pump_mechanism": [
-      "not_specified"
     ]
   },
   {
@@ -3818,47 +3023,12 @@
     "policy_orientation": "mixed_or_conditional",
     "once_primary_type": "standards_policy_and_carbon_trading",
     "once_types": [
-      "standards_policy_and_carbon_trading"
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
     ],
     "theory_research_theme": [
       "coastal_wetland_carbon_cycle_and_storage"
     ],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "carbon_accounting_and_methodology"
-    ],
-    "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
-    ]
-  },
-  {
-    "id": 93,
-    "jurisdiction": "National",
-    "country_or_region": "New Zealand",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2025,
-    "document_title": "Second Emissions Reduction Plan — Sector Policies and Plans",
-    "source_url": "https://environment.govt.nz/publications/new-zealands-second-emissions-reduction-plan/sector-policies-and-plans/",
-    "notes": "The second emissions-reduction plan identifies this technology or pathway as a potential carbon-removal option. Engineered variants remain at the evidence-building and policy-research stage.",
-    "source": "Ministry for the Environment, New Zealand",
-    "document_type": "strategy_plan_roadmap",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Adopted national plan",
-    "instrument_type": [
-      "accounting_methodology",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading",
-      "negative_emissions_engineering"
-    ],
-    "theory_research_theme": [],
     "engineering_family": [
       "ocean_negative_emissions_geoengineering"
     ],
@@ -3871,40 +3041,6 @@
     "carbon_pump_mechanism": [
       "MCP",
       "BCP"
-    ]
-  },
-  {
-    "id": 94,
-    "jurisdiction": "National",
-    "country_or_region": "New Zealand",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2025,
-    "document_title": "Second Emissions Reduction Plan — Sector Policies and Plans",
-    "source_url": "https://environment.govt.nz/publications/new-zealands-second-emissions-reduction-plan/sector-policies-and-plans/",
-    "notes": "The second emissions-reduction plan identifies this technology or pathway as a potential carbon-removal option. Engineered variants remain at the evidence-building and policy-research stage.",
-    "source": "Ministry for the Environment, New Zealand",
-    "document_type": "strategy_plan_roadmap",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Adopted national plan",
-    "instrument_type": [
-      "accounting_methodology",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "carbon_accounting_and_methodology"
-    ],
-    "carbon_pump_mechanism": [
-      "not_specified"
     ]
   },
   {
@@ -3959,7 +3095,7 @@
     "year": 2026,
     "document_title": "CRCF Certification Methodologies — Future Permanent Removal Pathways",
     "source_url": "https://climate.ec.europa.eu/eu-action/carbon-removals-and-carbon-farming/certification-methodologies_en",
-    "notes": "The European Commission identifies ocean alkalinity enhancement as a possible future pathway for permanent carbon removal. The 2026 delegated rules currently cover only DACCS, BioCCS and biochar, and no EU certification methodology for OAE has yet been adopted.",
+    "notes": "The European Commission identifies ocean alkalinity enhancement and direct capture of carbon dioxide from seawater followed by durable storage as possible future permanent-removal pathways under the broader EU Carbon Removals and Carbon Farming Certification framework. As of 2026, adopted delegated certification methodologies cover other pathways, while no EU certification methodology has yet been adopted for either ocean alkalinity enhancement or direct ocean capture. Their inclusion therefore signals future methodology development rather than present eligibility for certified EU removal units.",
     "source": "European Commission, Directorate-General for Climate Action",
     "document_type": "guidance_or_standard",
     "legal_force": "non_binding",
@@ -3980,7 +3116,8 @@
       "ocean_negative_emissions_geoengineering"
     ],
     "engineering_pathway": [
-      "ocean_alkalinity_enhancement"
+      "ocean_alkalinity_enhancement",
+      "direct_ocean_capture"
     ],
     "standards_policy_market_theme": [
       "carbon_accounting_and_methodology",
@@ -3990,47 +3127,6 @@
     "carbon_pump_mechanism": [
       "CCP",
       "SCP"
-    ]
-  },
-  {
-    "id": 97,
-    "jurisdiction": "International",
-    "country_or_region": "European Union",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2026,
-    "document_title": "CRCF Certification Methodologies — Future Permanent Removal Pathways",
-    "source_url": "https://climate.ec.europa.eu/eu-action/carbon-removals-and-carbon-farming/certification-methodologies_en",
-    "notes": "The European Commission identifies direct capture from seawater followed by durable storage as a possible future permanent-removal pathway. No CRCF certification methodology for this approach had been adopted as of 2026.",
-    "source": "European Commission, Directorate-General for Climate Action",
-    "document_type": "guidance_or_standard",
-    "legal_force": "non_binding",
-    "implementation_status": "planned",
-    "status_note": "Under methodology consideration; not yet certifiable under CRCF",
-    "instrument_type": [
-      "crediting_mechanism",
-      "accounting_methodology"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading",
-      "negative_emissions_engineering"
-    ],
-    "theory_research_theme": [],
-    "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
-      "direct_ocean_capture"
-    ],
-    "standards_policy_market_theme": [
-      "carbon_accounting_and_methodology",
-      "technical_standards_and_certification",
-      "carbon_crediting_and_trading"
-    ],
-    "carbon_pump_mechanism": [
-      "not_specified"
     ]
   },
   {
@@ -4090,61 +3186,22 @@
     "year": 2025,
     "document_title": "Netherlands Carbon Dioxide Removal Roadmap",
     "source_url": "https://www.government.nl/documents/2025/03/14/netherlands-carbon-dioxide-removal-roadmap",
-    "notes": "The roadmap concludes that direct ocean capture could contribute to future carbon removal, describes electrochemical seawater decarbonization, low-to-medium technology readiness and Dutch SeaO2 and Brineworks demonstrations, and emphasizes that potential and costs remain highly uncertain.",
+    "notes": "The Netherlands carbon dioxide removal roadmap assesses marine options with different levels of support. It concludes that direct ocean capture could contribute to future removals and discusses Dutch electrochemical seawater-decarbonization demonstrations, while emphasizing low-to-medium technology readiness and major uncertainty about potential, cost and scale. By contrast, it does not further pursue ocean alkalinity enhancement through material addition or nutrient/iron fertilization because of lower readiness, ecosystem-risk concerns and relevant international restrictions. The roadmap is a policy-planning and assessment document; it does not itself provide a deployment permit or a marine carbon-crediting methodology.",
     "source": "Ministry of Climate Policy and Green Growth, Netherlands",
     "document_type": "report_or_assessment",
     "legal_force": "non_binding",
     "implementation_status": "in_force_or_active",
-    "status_note": "Adopted national roadmap",
+    "status_note": "Adopted national roadmap; Screened but not prioritized for national deployment policy",
     "instrument_type": [
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "negative_emissions_engineering",
-    "once_types": [
-      "negative_emissions_engineering",
-      "theory_and_research"
-    ],
-    "theory_research_theme": [
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "environmental_risk_and_sustainability_assessment"
-    ],
-    "engineering_family": [
-      "ocean_negative_emissions_geoengineering"
-    ],
-    "engineering_pathway": [
-      "direct_ocean_capture"
-    ],
-    "standards_policy_market_theme": [],
-    "carbon_pump_mechanism": [
-      "not_specified"
-    ]
-  },
-  {
-    "id": 100,
-    "jurisdiction": "National",
-    "country_or_region": "Netherlands",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2025,
-    "document_title": "Netherlands Carbon Dioxide Removal Roadmap",
-    "source_url": "https://www.government.nl/documents/2025/03/14/netherlands-carbon-dioxide-removal-roadmap",
-    "notes": "The roadmap does not further pursue addition of alkaline materials or nutrient and iron fertilization because of low technology readiness and potentially substantial ecosystem risks, and it notes CBD restrictions on iron fertilization.",
-    "source": "Ministry of Climate Policy and Green Growth, Netherlands",
-    "document_type": "report_or_assessment",
-    "legal_force": "non_binding",
-    "implementation_status": "ended",
-    "status_note": "Screened but not prioritized for national deployment policy",
-    "instrument_type": [
-      "regulatory_safeguard",
-      "policy_planning_and_coordination"
+      "policy_planning_and_coordination",
+      "regulatory_safeguard"
     ],
     "policy_orientation": "mixed_or_conditional",
     "once_primary_type": "standards_policy_and_carbon_trading",
     "once_types": [
-      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
       "theory_and_research",
-      "negative_emissions_engineering"
+      "standards_policy_and_carbon_trading"
     ],
     "theory_research_theme": [
       "ocean_negative_emissions_science_and_technology_assessment",
@@ -4155,6 +3212,7 @@
       "ocean_negative_emissions_geoengineering"
     ],
     "engineering_pathway": [
+      "direct_ocean_capture",
       "ocean_alkalinity_enhancement",
       "ocean_fertilization"
     ],
@@ -5385,66 +4443,25 @@
     "year": 2025,
     "document_title": "Sri Lanka Nationally Determined Contributions 3.0 (2026–2035) — Blue Carbon NDC 4",
     "source_url": "https://unfccc.int/sites/default/files/2025-09/Sri%20Lankas%20Nationally%20Determined%20Contributions%203.0%20%282026-2035%29%20submitted%2022.09.2025%20%281%29.pdf",
-    "notes": "Blue Carbon NDC 4 requires restoration of 150 hectares of degraded mangroves annually from 2026 to 2035 and reduction of estimated mangrove-conversion losses of 0.5% per year. Mangrove planting is used to quantify the NDC's net-removal contribution.",
+    "notes": "Sri Lanka's Blue Carbon NDC 4 combines multiple coastal blue-carbon actions in one national commitment. It requires restoration of 150 hectares of degraded mangroves annually from 2026 to 2035 and seeks to reduce estimated mangrove-conversion losses of 0.5% per year, with mangrove planting used in quantifying the NDC's net-removal contribution. It also establishes indicators for identifying, mapping, conserving and restoring seagrass beds and salt marshes; those ecosystems are included in the implementation framework even though current data are insufficient to quantify their removals at the same level as mangroves. The NDC therefore contains an implemented/committed restoration target alongside MRV and data-development needs for other blue-carbon habitats.",
     "source": "Ministry of Environment, Sri Lanka / UNFCCC",
     "document_type": "ndc_or_climate_commitment",
     "legal_force": "mixed",
     "implementation_status": "in_force_or_active",
-    "status_note": "Active NDC for 2026–2035",
+    "status_note": "Active NDC for 2026–2035; Active NDC for 2026–2035; removal quantity not yet quantified",
     "instrument_type": [
       "target_or_commitment",
       "accounting_methodology",
       "ecosystem_restoration_or_conservation_programme",
-      "policy_planning_and_coordination"
+      "policy_planning_and_coordination",
+      "mapping_inventory_or_monitoring"
     ],
     "policy_orientation": "enabling_supportive",
     "once_primary_type": "negative_emissions_engineering",
     "once_types": [
       "negative_emissions_engineering",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [],
-    "engineering_family": [
-      "ecological_restoration_and_sink_enhancement"
-    ],
-    "engineering_pathway": [
-      "mangrove_conservation_restoration_and_sink_enhancement"
-    ],
-    "standards_policy_market_theme": [
-      "carbon_accounting_and_methodology"
-    ],
-    "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
-    ]
-  },
-  {
-    "id": 130,
-    "jurisdiction": "National",
-    "country_or_region": "Sri Lanka",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2025,
-    "document_title": "Sri Lanka Nationally Determined Contributions 3.0 (2026–2035) — Blue Carbon NDC 4",
-    "source_url": "https://unfccc.int/sites/default/files/2025-09/Sri%20Lankas%20Nationally%20Determined%20Contributions%203.0%20%282026-2035%29%20submitted%2022.09.2025%20%281%29.pdf",
-    "notes": "Blue Carbon NDC 4 sets indicators for identifying, mapping, conserving and restoring seagrass beds. Because data are insufficient, it does not currently quantify removals, and this record is therefore separated from the quantified mangrove target.",
-    "source": "Ministry of Environment, Sri Lanka / UNFCCC",
-    "document_type": "ndc_or_climate_commitment",
-    "legal_force": "mixed",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Active NDC for 2026–2035; removal quantity not yet quantified",
-    "instrument_type": [
-      "target_or_commitment",
-      "mapping_inventory_or_monitoring",
-      "ecosystem_restoration_or_conservation_programme",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "negative_emissions_engineering",
-    "once_types": [
-      "negative_emissions_engineering",
-      "theory_and_research",
-      "standards_policy_and_carbon_trading"
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
     ],
     "theory_research_theme": [
       "coastal_wetland_carbon_cycle_and_storage",
@@ -5455,56 +4472,13 @@
       "ecological_restoration_and_sink_enhancement"
     ],
     "engineering_pathway": [
-      "seagrass_conservation_restoration_and_sink_enhancement"
-    ],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv"
-    ],
-    "carbon_pump_mechanism": [
-      "MCP",
-      "BCP"
-    ]
-  },
-  {
-    "id": 131,
-    "jurisdiction": "National",
-    "country_or_region": "Sri Lanka",
-    "subnational_area": "",
-    "language": "English",
-    "year": 2025,
-    "document_title": "Sri Lanka Nationally Determined Contributions 3.0 (2026–2035) — Blue Carbon NDC 4",
-    "source_url": "https://unfccc.int/sites/default/files/2025-09/Sri%20Lankas%20Nationally%20Determined%20Contributions%203.0%20%282026-2035%29%20submitted%2022.09.2025%20%281%29.pdf",
-    "notes": "Blue Carbon NDC 4 sets indicators for identifying, mapping, conserving and restoring salt marshes. It does not yet quantify salt-marsh removals, so the record is treated as a separate ecosystem pathway at the MRV-readiness stage.",
-    "source": "Ministry of Environment, Sri Lanka / UNFCCC",
-    "document_type": "ndc_or_climate_commitment",
-    "legal_force": "mixed",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Active NDC for 2026–2035; removal quantity not yet quantified",
-    "instrument_type": [
-      "target_or_commitment",
-      "mapping_inventory_or_monitoring",
-      "ecosystem_restoration_or_conservation_programme",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "mixed_or_conditional",
-    "once_primary_type": "negative_emissions_engineering",
-    "once_types": [
-      "negative_emissions_engineering",
-      "theory_and_research",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "monitoring_observation_and_modeling",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [
-      "ecological_restoration_and_sink_enhancement"
-    ],
-    "engineering_pathway": [
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "seagrass_conservation_restoration_and_sink_enhancement",
       "coastal_wetland_restoration_and_sink_enhancement",
       "salt_marsh_and_tidal_wetland_restoration"
     ],
     "standards_policy_market_theme": [
+      "carbon_accounting_and_methodology",
       "measurement_monitoring_and_mrv"
     ],
     "carbon_pump_mechanism": [
@@ -10569,12 +9543,12 @@
     "year": 2020,
     "document_title": "OceanNETs — Ocean-based Negative Emission Technologies",
     "source_url": "https://cordis.europa.eu/project/id/869357",
-    "notes": "OceanNETs was a Horizon 2020 research and innovation project assessing the effectiveness, sustainability, ecological risks, costs, public acceptance and governance of ocean negative-emissions technologies and conducting experiments and scenario studies on pathways such as OAE and macroalgae. It ended in 2025 and produced research and policy recommendations but not deployment authorization or a uniform regulatory standard.",
+    "notes": "OceanNETs was a Horizon 2020 research and innovation project coordinated by GEOMAR that assessed the feasibility, effectiveness, permanence, sustainability, ecological and social risks, costs, governance and public acceptance of ocean-based negative-emission technologies. CORDIS records a total project cost of EUR 7,310,895, with the project running from 1 July 2020 to 30 June 2025. Work included experiments, modeling and scenario analysis for approaches such as ocean alkalinity enhancement and macroalgae-based carbon removal, alongside cross-cutting assessment of monitoring and governance. The project is completed and produced scientific evidence and policy recommendations; it did not create deployment authorization, a binding MRV standard or an EU carbon-crediting methodology.",
     "source": "European Commission — CORDIS",
     "document_type": "funding_or_programme",
     "legal_force": "non_binding",
     "implementation_status": "ended",
-    "status_note": "Horizon 2020 project completed on 30 June 2025",
+    "status_note": "Horizon 2020 project completed on 30 June 2025; total project cost EUR 7,310,895",
     "instrument_type": [
       "research_and_development_funding",
       "demonstration_support",
@@ -10624,12 +9598,12 @@
     "year": 2023,
     "document_title": "SEAO2-CDR — Strategies for the Evaluation and Assessment of Ocean-based Carbon Dioxide Removal",
     "source_url": "https://cordis.europa.eu/project/id/101081362",
-    "notes": "SEAO2-CDR is a Horizon Europe project developing evaluation pathways and methods for marine carbon dioxide removal, including verification, monitoring, economics, environmental impacts, ethics and governance, in cooperation with industry and regulators. It remains in the research and method-development phase and has not created binding MRV rules, a crediting methodology or deployment permits.",
+    "notes": "SEAO2-CDR is a Horizon Europe Research and Innovation Action developing evaluation pathways and methodologies for ocean-based carbon dioxide removal. CORDIS records a total cost and EU contribution of EUR 4,443,275, an EC signature date of 17 May 2023, and a project period from 1 June 2023 to 31 May 2027. The project combines technical, economic, legal, political, social and ethical research; develops monitoring, reporting and verification strategies; examines environmental trade-offs and techno-economic viability; and develops governance and business frameworks intended to inform possible future scale-up. It remains a research and method-development programme and has not created binding MRV rules, a carbon-crediting methodology or deployment permits.",
     "source": "European Commission — CORDIS",
     "document_type": "funding_or_programme",
     "legal_force": "non_binding",
     "implementation_status": "in_force_or_active",
-    "status_note": "Active Horizon Europe project, 1 June 2023–31 May 2027",
+    "status_note": "Active Horizon Europe project, 1 June 2023–31 May 2027; EUR 4,443,275 total cost/EU contribution",
     "instrument_type": [
       "research_and_development_funding",
       "research_strategy",
@@ -10672,12 +9646,12 @@
     "year": 2021,
     "document_title": "CDRmare — Marine Carbon Sinks in Decarbonisation Pathways",
     "source_url": "https://cdrmare.de/en/die-mission/",
-    "notes": "CDRmare is a German Marine Research Alliance mission funded by federal ministries and northern coastal states to study marine carbon removal and storage, including OAE, vegetated coastal sinks, artificial upwelling and subseabed geological storage, and to develop interdisciplinary assessment, monitoring, attribution and accounting approaches. It is in its second funding period and remains research and experimentation rather than commercial deployment authorization.",
+    "notes": "CDRmare is a research mission of the German Marine Research Alliance investigating whether and how the ocean can contribute to targeted atmospheric CO2 removal and durable storage. Its initial funding period began in August 2021 with approximately EUR 26 million from Germany's Federal Ministry of Education and Research and involved about 200 researchers across 22 research institutions, authorities and companies. Research covers ocean alkalinity enhancement, vegetated coastal carbon sinks, artificial upwelling, subseabed geological CO2 storage, monitoring and attribution, environmental risks, Earth-system effects, and societal, ethical and legal questions. The mission continues through a later funding phase, but its activities remain research, controlled experimentation and assessment rather than commercial deployment authorization or issuance of carbon credits.",
     "source": "German Marine Research Alliance (DAM) / Federal Ministry of Research, Technology and Space",
     "document_type": "funding_or_programme",
     "legal_force": "non_binding",
     "implementation_status": "in_force_or_active",
-    "status_note": "Active research mission; second funding phase runs through July 2027",
+    "status_note": "Active German marine CDR research mission; initial phase funded at about EUR 26 million from August 2021",
     "instrument_type": [
       "research_and_development_funding",
       "demonstration_support",
@@ -17235,12 +16209,12 @@
     "year": 2022,
     "document_title": "Ocean-ICU Improving Carbon Understanding",
     "source_url": "https://cordis.europa.eu/project/id/101083922",
-    "notes": "OceanICU measures and models the ocean carbon sink, with emphasis on biological-pump processes involving higher-trophic-level behavior and the relationship between human pressures such as fisheries, energy and mineral extraction and ocean carbon storage, and develops tools for the IPCC, global stocktake and management. It is evidence and model development, not engineering deployment or crediting.",
+    "notes": "OceanICU is a Horizon Europe project focused on improving understanding and quantification of the ocean carbon sink and the processes that control carbon uptake, storage and export. CORDIS records an EC signature date of 24 October 2022, a project period from 1 November 2022 to 31 October 2027, and a total cost/EU contribution of EUR 13,094,052.25. The project combines observations, experiments and modeling to improve understanding of biological-carbon-pump processes and human influences on ocean carbon storage, and aims to provide evidence useful to climate assessment, the global stocktake and ocean management. Its primary function is carbon-cycle science and evidence building; it is not an engineered CDR deployment programme, permitting decision or carbon-crediting standard.",
     "source": "European Commission — CORDIS",
     "document_type": "funding_or_programme",
     "legal_force": "non_binding",
     "implementation_status": "in_force_or_active",
-    "status_note": "Horizon Europe project active from 1 November 2022 to 31 October 2027",
+    "status_note": "Active Horizon Europe project, 1 November 2022–31 October 2027; EUR 13,094,052.25 total cost/EU contribution",
     "instrument_type": [
       "research_and_development_funding",
       "mapping_inventory_or_monitoring",
@@ -24017,15 +22991,15 @@
     "country_or_region": "United States",
     "subnational_area": "",
     "language": "English",
-    "year": 2022,
+    "year": 2021,
     "document_title": "A Research Strategy for Ocean-based Carbon Dioxide Removal and Sequestration",
     "source_url": "https://www.nationalacademies.org/read/26278",
-    "notes": "This National Academies consensus study evaluates ocean nutrient fertilization, artificial upwelling and downwelling, seaweed cultivation, coastal ecosystem recovery, ocean alkalinity enhancement and electrochemical approaches. It recommends a coordinated research portfolio covering carbon accounting, environmental monitoring, governance, public engagement, data access and codes of conduct. The report does not authorize field deployment, establish a carbon-credit methodology or conclude that any pathway is ready for climate-scale use.",
+    "notes": "This National Academies consensus study, publicly released on 8 December 2021, evaluates six broad ocean-based carbon dioxide removal approaches: nutrient fertilization; artificial upwelling and downwelling; seaweed cultivation; marine and coastal ecosystem recovery; ocean alkalinity enhancement; and electrochemical processes. It recommends a USD 125 million cross-cutting research programme over ten years for shared scientific, economic, social, governance and public-engagement questions, while also giving separate pathway-specific research-cost estimates of about USD 290 million for nutrient fertilization, USD 25 million for artificial upwelling/downwelling, USD 130 million for seaweed cultivation, USD 220 million for ecosystem recovery, USD 125–200 million for ocean alkalinity enhancement and USD 350 million for electrochemical processes. These figures are research recommendations rather than a single appropriated federal budget. The report calls for responsible research, permitting and governance work, monitoring and carbon accounting, but it does not authorize deployment, establish carbon credits or conclude that any pathway is ready for climate-scale use. National Academies bibliographic pages commonly list the volume as a 2022 publication, while the formal news release and report highlights are dated December 2021.",
     "source": "National Academies of Sciences, Engineering, and Medicine",
     "document_type": "report_or_assessment",
     "legal_force": "non_binding",
     "implementation_status": "in_force_or_active",
-    "status_note": "Published as a peer-reviewed consensus study in 2022 and remains an active research reference.",
+    "status_note": "Consensus study publicly released 8 December 2021; National Academies bibliographic metadata also lists the volume as 2022",
     "instrument_type": [
       "research_strategy",
       "mapping_inventory_or_monitoring",
@@ -77495,6 +76469,220 @@
       "technical_standards_and_certification",
       "policy_planning_and_governance"
     ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1749,
+    "jurisdiction": "National",
+    "country_or_region": "United States",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2023,
+    "document_title": "Ocean Climate Action Plan",
+    "source_url": "https://www.noaa.gov/sites/default/files/2023-03/Ocean-Climate-Action-Plan_Final.pdf",
+    "notes": "The Ocean Climate Action Plan is a U.S. federal interagency roadmap developed by the Ocean Policy Committee to coordinate ocean, coastal and Great Lakes climate mitigation and adaptation actions. For marine carbon dioxide removal, it sets a 2030 objective to build sufficient knowledge about the efficacy and trade-offs of different mCDR methods to guide deployment decisions and calls for a robust regulatory framework for research and possible later deployment that protects human health, the marine environment and affected communities. The plan also includes dedicated sections on sequestration of captured CO2 in sub-seabed geologic formations and on blue carbon and nature-based solutions. It coordinates research, governance, regulatory-development and restoration priorities but is not itself a statute, permit or carbon-credit methodology. The plan does not appropriate a single dedicated USD 6 billion mCDR budget; funding discussed around OCAP implementation comes from multiple federal programmes and broader infrastructure and climate legislation. Current federal NOAA and ocean-policy resources continue to list the 2023 plan as an official strategic document, although implementation priorities can change across administrations.",
+    "source": "Ocean Policy Committee, Executive Office of the President / NOAA",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published in March 2023; still listed in current federal ocean-policy and NOAA strategic-plan resources",
+    "instrument_type": [
+      "target_or_commitment",
+      "research_strategy",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard",
+      "policy_planning_and_coordination",
+      "international_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement",
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1750,
+    "jurisdiction": "National",
+    "country_or_region": "United States",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2023,
+    "document_title": "NOAA/NOPP Marine Carbon Dioxide Removal Research Partnership — USD 24.3 Million Awards",
+    "source_url": "https://oceanacidification.noaa.gov/fy23-nopp-mcdr-awards/",
+    "notes": "In September 2023, NOAA's Ocean Acidification Program, acting on behalf of the National Oceanographic Partnership Program, announced USD 24.3 million for 17 marine carbon dioxide removal research projects involving partners from 47 institutions. NOAA reported that USD 14.36 million from the Inflation Reduction Act supported ten projects, while an additional USD 10 million came from NOAA programmes and appropriations together with the Department of Energy, Office of Naval Research, National Science Foundation and ClimateWorks Foundation for seven more projects. The portfolio covers macroalgal cultivation, ocean alkalinity enhancement, enhanced weathering, electrochemical approaches, iron fertilization, field trials, modeling, monitoring, community engagement and ecological-risk research. Its purpose is to reduce uncertainty about efficacy, co-benefits, risks and the science needed for future regulatory frameworks. These are research awards and controlled studies, not a general authorization for commercial mCDR deployment and not a carbon-crediting mechanism.",
+    "source": "National Oceanic and Atmospheric Administration (NOAA) / National Oceanographic Partnership Program (NOPP)",
+    "document_type": "funding_or_programme",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "USD 24.3 million portfolio announced 7 September 2023; 17 mCDR research projects, with programme activity continuing after award",
+    "instrument_type": [
+      "research_and_development_funding",
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "community_or_social_safeguard",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "fishery_carbon_sink_engineering",
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink",
+      "coastal_wetland_restoration_and_sink_enhancement",
+      "ocean_alkalinity_enhancement",
+      "ocean_fertilization",
+      "wastewater_effluent_alkalinization"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "SCP"
+    ]
+  },
+  {
+    "id": 1751,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2023,
+    "document_title": "Carbon to Sea Initiative — Ocean Alkalinity Enhancement Research and Development Programme",
+    "source_url": "https://carbontosea.org/50-million-carbon-to-sea-initiative-will-accelerate-research-into-ocean-alkalinity-enhancement-a-promising-carbon-dioxide-removal-approach-to-combat-climate-change/",
+    "notes": "Carbon to Sea launched in June 2023 as a philanthropic non-profit research and development initiative focused on ocean alkalinity enhancement. At launch it reported raising more than USD 50 million from philanthropic funders and committing USD 23 million in grants to a network of researchers. The programme evaluates multiple OAE pathways, funds laboratory and field research, supports locally operated research sites, develops measurement and verification capabilities, investigates environmental safety and scalability, and seeks to help develop responsible regulatory frameworks and expand the scientific community working on OAE. It is a non-state research-funding programme rather than a U.S. government policy, statutory authorization, carbon-credit standard or blanket permission for ocean deployment. Its inclusion in this database reflects its formal, well-funded Global ONCE research and governance role, not governmental legal force.",
+    "source": "Carbon to Sea Initiative",
+    "document_type": "funding_or_programme",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Non-profit initiative launched 7 June 2023 with more than USD 50 million raised; programme remains active",
+    "instrument_type": [
+      "research_and_development_funding",
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "ocean_alkalinity_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "SCP"
+    ]
+  },
+  {
+    "id": 1752,
+    "jurisdiction": "National",
+    "country_or_region": "Canada",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2023,
+    "document_title": "Transforming Climate Action: Addressing the Missing Ocean",
+    "source_url": "https://www.cfref-apogee.gc.ca/results-resultats/abstracts-resumes/competition_3/Dalhousie_University-eng.aspx",
+    "notes": "Transforming Climate Action: Addressing the Missing Ocean is a major Canada First Research Excellence Fund research initiative led by Dalhousie University with Memorial University of Newfoundland, Université du Québec à Rimouski and Université Laval. The federal CFREF award is CAD 154,414,655, and Dalhousie reported that the grant helps activate a broader research programme approaching CAD 400 million with partner contributions. The initiative focuses on reducing uncertainty in the North Atlantic carbon sink and ocean carbon pump, improving observations and climate prediction, co-designing and evaluating novel ocean-based climate-mitigation approaches, advancing the science and technology of ocean-based carbon dioxide removal, and integrating Indigenous knowledge, justice, equity and community participation into adaptation and governance research. It is a multi-year research and innovation programme, not a deployment permit, carbon-crediting methodology or finding that any specific ocean CDR pathway is ready for commercial scale.",
+    "source": "Government of Canada — Canada First Research Excellence Fund / Dalhousie University",
+    "document_type": "funding_or_programme",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "CFREF award announced in 2023 at CAD 154,414,655; multi-year programme remains active",
+    "instrument_type": [
+      "research_and_development_funding",
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "research_strategy",
+      "community_or_social_safeguard",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "marine_ecosystem_and_element_cycles",
+      "carbon_pump_mechanisms_and_integration",
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [],
     "carbon_pump_mechanism": [
       "not_specified"
     ]
