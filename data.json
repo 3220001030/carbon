@@ -56988,5 +56988,1394 @@
     "carbon_pump_mechanism": [
       "BCP"
     ]
+  },
+  {
+    "id": 1286,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "New South Wales",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Explanation of Intended Effect: Improving Coastal Management and Supporting Blue Carbon and Ecosystem Restoration Projects",
+    "source_url": "https://www.planningportal.nsw.gov.au/sites/default/files/documents/2026/EIE%20improving%20coastal%20management%20and%20supporting%20blue%20carbon%20and%20ecosystem%20restoration%20projects.pdf",
+    "notes": "The May 2026 explanation of intended effect proposes amendments to the New South Wales planning system to create clearer and more proportionate approval pathways for blue-carbon and broader ecosystem-restoration projects. It specifically addresses projects that restore tidal flows to previously drained land so that mangrove, saltmarsh and other tidal ecosystems can re-establish, while retaining environmental assessment, coastal-wetland protection and safeguards for potentially higher-impact proposals. The package also proposes clearer treatment of wetland migration pathways, minor mapping errors, routine vegetation management and coastal protection works. The document is a consultation-stage policy proposal rather than a final statutory amendment. It does not itself approve any restoration project, quantify additional carbon removals, establish a carbon-credit methodology, guarantee project eligibility under the Australian Carbon Credit Unit scheme, or replace project-specific development, biodiversity, water, cultural-heritage or environmental approvals.",
+    "source": "New South Wales Department of Planning, Housing and Infrastructure",
+    "document_type": "consultation",
+    "legal_force": "non_binding",
+    "implementation_status": "under_review",
+    "status_note": "Consultation completed; proposed planning amendments remain under government consideration and are not yet final law.",
+    "instrument_type": [
+      "public_consultation",
+      "permit_or_authorization",
+      "environmental_impact_assessment",
+      "regulatory_safeguard",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_wetland_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1287,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Recommendations for Responsible Assessment of Engineered Marine Carbon Dioxide Removal Approaches",
+    "source_url": "https://oceanconservancy.org/wp-content/uploads/2026/05/eNGO-consensus-statement-v2.pdf",
+    "notes": "This May 2026 civil-society consensus statement sets out precautionary recommendations for research, field experimentation, oversight and decision-making concerning engineered marine carbon dioxide removal. It calls for early and compensated participation by Indigenous Peoples, coastal communities and other knowledge holders; stage-gated experimentation; transparent environmental and social risk assessment; independent monitoring, reporting and verification; full life-cycle accounting of implementation emissions; durability assessment; open-access data; conflict-of-interest controls; and clear separation between research evidence and commercial claims. It also emphasizes that marine CDR must not substitute for rapid emissions reductions or divert climate finance from proven mitigation and adaptation measures. The statement is non-binding guidance and does not endorse any technology, authorize field trials, establish an internationally accepted MRV protocol, validate carbon credits, or demonstrate that any engineered approach currently achieves safe, durable and net-negative removal at climate-relevant scale.",
+    "source": "Ocean Conservancy and participating environmental non-governmental organizations",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published as active non-binding civil-society guidance for responsible assessment of engineered marine CDR.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "mrv_standard",
+      "community_or_social_safeguard",
+      "public_consultation",
+      "international_coordination"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1288,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Means of Implementation for Ocean-based Climate Action",
+    "source_url": "https://unfccc.int/documents/659377",
+    "notes": "This presentation prepared for the 2026 UNFCCC Ocean and Climate Change Dialogue explains how Global Environment Facility financing windows and enabling activities can support ocean-based climate action. It identifies conservation and restoration of high-impact blue-carbon ecosystems, blue-carbon accounting and transparency, coastal and wetland restoration, integrated coastal planning, monitoring frameworks, community livelihoods, Article 6 readiness, carbon-pricing frameworks, robust methodologies, verification, blue bonds, blended finance, guarantees and capacity development as interconnected means of implementation. The document is useful as an official UNFCCC-hosted overview of financing and policy pathways rather than a standalone funding decision. It does not award a grant, create a new carbon market, approve a project, establish a binding accounting methodology, certify a blue-carbon credit, or provide verified estimates of additional carbon removal. Access to finance remains dependent on the rules, priorities, safeguards and approval procedures of the relevant GEF programme and implementing entities.",
+    "source": "Global Environment Facility presentation hosted by the United Nations Framework Convention on Climate Change",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Presented during the 2026 Ocean and Climate Change Dialogue as an active policy and financing reference.",
+    "instrument_type": [
+      "research_and_development_funding",
+      "mapping_inventory_or_monitoring",
+      "policy_planning_and_coordination",
+      "international_coordination",
+      "community_or_social_safeguard"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1289,
+    "jurisdiction": "National",
+    "country_or_region": "United States",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Our Coasts, Resiliency, and Carbon Dioxide Removal: A Practitioner-Informed Roadmap for Enhancing Coastal Resilience and CDR Potential Along the U.S. Coastline",
+    "source_url": "https://carbonremovalstandards.org/wp-content/uploads/2026/03/Our-Coasts-Resiliency-and-Carbon-Dioxide-Removal-CRSI.pdf",
+    "notes": "This practitioner-informed roadmap examines opportunities to integrate carbon dioxide removal into established U.S. coastal-resilience activities, including living shorelines, ecosystem restoration and stormwater-management infrastructure. It highlights the possibility of combining alkaline materials or other abiotic marine CDR components with projects already using sediment, rock, shell, drainage systems and long-term shoreline stewardship, while also recognizing natural carbon storage in tidal marshes and other vegetated habitats. The roadmap identifies enabling policy, permitting, procurement, monitoring and community-engagement conditions and stresses the need for robust life-cycle accounting and measurement before any carbon benefit is claimed. It is an exploratory implementation roadmap rather than federal or state regulatory guidance. It does not approve material placement, prescribe engineering specifications for a particular site, establish environmental safety thresholds, create a crediting methodology, verify net carbon removal, or conclude that adding alkalinity-enhancing materials will be appropriate in every coastal setting.",
+    "source": "Carbon Removal Standards Initiative",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published as a current practitioner roadmap; implementation remains subject to site-specific research, permitting and monitoring.",
+    "instrument_type": [
+      "research_strategy",
+      "demonstration_support",
+      "policy_planning_and_coordination",
+      "regulatory_safeguard",
+      "community_or_social_safeguard"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "salt_marsh_and_tidal_wetland_restoration",
+      "ocean_alkalinity_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "SCP"
+    ]
+  },
+  {
+    "id": 1290,
+    "jurisdiction": "Subnational",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "Scotland",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Marine and Coastal Restoration Plan",
+    "source_url": "https://www.gov.scot/publications/marine-coastal-restoration-plan/",
+    "notes": "The Scottish Government's first dedicated Marine and Coastal Restoration Plan sets out a five-year framework for accelerating active restoration of marine and coastal habitats and species. It is organized around restoration opportunities and priorities, the regulatory environment, funding and finance, supply-chain and community enabling conditions, and evidence and monitoring. The plan explicitly recognizes that restored habitats such as seagrass meadows and saltmarsh can absorb and store carbon and contribute to climate mitigation and adaptation, while also providing biodiversity, fisheries, shoreline-resilience and community benefits. It supports better spatial prioritization, community-led activity, investment and improved coordination rather than prescribing a national restoration quota. The plan does not designate specific project sites, grant marine licences, create a blue-carbon crediting methodology, guarantee finance, or quantify additional and durable carbon removal. Individual projects remain subject to relevant environmental assessment, marine licensing, land rights, monitoring and other statutory requirements.",
+    "source": "Scottish Government Marine Directorate",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published on 12 December 2025 and active as Scotland's first five-year marine and coastal restoration plan.",
+    "instrument_type": [
+      "target_or_commitment",
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "ecosystem_restoration_or_conservation_programme",
+      "policy_planning_and_coordination",
+      "community_or_social_safeguard"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "seagrass_conservation_restoration_and_sink_enhancement",
+      "salt_marsh_and_tidal_wetland_restoration"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_finance_and_ecological_compensation",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1291,
+    "jurisdiction": "Subnational",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "Scotland",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Marine and Coastal Restoration Plan: Strategic Environmental Assessment Post-Adoption Statement",
+    "source_url": "https://www.gov.scot/publications/marine-coastal-restoration-plan-strategic-environmental-assessment-post-adoption-statement/",
+    "notes": "The post-adoption statement completes the Strategic Environmental Assessment process for Scotland's Marine and Coastal Restoration Plan. It explains how environmental considerations, the earlier environmental report, consultation responses, reasonable alternatives and monitoring requirements were taken into account when the final plan was adopted. The statement provides an auditable link between the draft assessment and the final policy across themes including restoration priorities, regulation, finance, communities, evidence and monitoring. Carbon-related relevance arises because the plan supports restoration of habitats capable of absorbing and storing carbon and the assessment considers climatic factors alongside biodiversity, water, soils, cultural heritage, landscape, population and material assets. This is an assessment and accountability document rather than a project authorization. It does not approve a restoration site, validate a carbon baseline, quantify net removals, establish a crediting method or remove the need for project-level environmental assessment and monitoring.",
+    "source": "Scottish Government Marine Directorate",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "The statutory post-adoption assessment statement was published on 23 March 2026, completing this stage of the SEA process.",
+    "instrument_type": [
+      "environmental_impact_assessment",
+      "regulatory_safeguard",
+      "public_consultation",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "seagrass_conservation_restoration_and_sink_enhancement",
+      "salt_marsh_and_tidal_wetland_restoration"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1292,
+    "jurisdiction": "Subnational",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "Scotland",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Draft Marine and Coastal Restoration Plan: Strategic Environmental Assessment Environmental Report",
+    "source_url": "https://www.gov.scot/publications/draft-marine-coastal-restoration-plan-strategic-environmental-assessment-environmental-report/",
+    "notes": "The July 2025 environmental report provides the high-level Strategic Environmental Assessment of Scotland's draft Marine and Coastal Restoration Plan. It examines potential positive, negative and cumulative effects across biodiversity, soil, water, climatic factors, cultural heritage, landscape and seascape, population and human health, and material assets. The assessment recognizes potential climate benefits from restoring carbon-absorbing and carbon-storing habitats, but also records uncertainty, implementation-dependent outcomes, risks such as invasive non-native species and activity displacement, and the need to use existing indicators and monitoring programmes where proportionate. It was produced to support consultation and policy development, not to demonstrate verified carbon removal. The report does not authorize projects, identify guaranteed restoration sites, establish carbon-credit eligibility, determine additionality or permanence, or replace subsequent project-level environmental assessment. It has been superseded procedurally by the final plan and the 2026 post-adoption statement, but remains an independent evidence record.",
+    "source": "Scottish Government Marine Directorate",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Published for consultation on 29 July 2025; the assessment stage is complete and has been followed by the final plan and post-adoption statement.",
+    "instrument_type": [
+      "environmental_impact_assessment",
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring",
+      "public_consultation"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "seagrass_conservation_restoration_and_sink_enhancement",
+      "salt_marsh_and_tidal_wetland_restoration"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1293,
+    "jurisdiction": "Subnational",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "Scotland",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Draft Marine and Coastal Restoration Plan: Consultation",
+    "source_url": "https://www.gov.scot/publications/draft-marine-coastal-restoration-plan-consultation/",
+    "notes": "The consultation paper presented Scotland's proposed first Marine and Coastal Restoration Plan and sought views on actions under five themes: restoration opportunities and priorities, the regulatory environment, funding and finance, supply chains and communities, and evidence and monitoring. It explicitly included seagrass and saltmarsh restoration among possible active-restoration activities and recognized that habitats which absorb and store carbon can contribute to climate mitigation and adaptation. The consultation also explored protection mechanisms, monitoring requirements, financing barriers, community leadership and coordination with wider marine policy. It was a draft policy and public-engagement instrument, not the final plan. The consultation closed on 19 October 2025 and the final plan was subsequently published in December 2025. The document did not approve a project, create a restoration obligation, establish a carbon-credit methodology, quantify additional carbon removal or settle the precise design of future regulatory protections.",
+    "source": "Scottish Government Marine Directorate",
+    "document_type": "consultation",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Consultation ran from 29 July to 19 October 2025 and was superseded by the adopted Marine and Coastal Restoration Plan.",
+    "instrument_type": [
+      "public_consultation",
+      "policy_planning_and_coordination",
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring",
+      "community_or_social_safeguard",
+      "demonstration_support"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "seagrass_conservation_restoration_and_sink_enhancement",
+      "salt_marsh_and_tidal_wetland_restoration"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance",
+      "law_regulation_and_permitting",
+      "carbon_finance_and_ecological_compensation",
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1294,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf and territorial seas",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Announcement of United Kingdom Carbon Dioxide Appraisal and Storage Licensing Round #2 — Version 2",
+    "source_url": "https://www.nstauthority.co.uk/media/4b5fzo5i/nsta-public-notice-carbon-storage-licensing-round-2-updated-6-february-2026.pdf",
+    "notes": "The updated public notice formally invited applications for Carbon Dioxide Appraisal and Storage Licences across fourteen offered areas in Scottish and English offshore waters. It explains the statutory basis of the licensing round, application boundaries, work-programme expectations, environmental and defence considerations, technical evaluation and the relationship between a carbon-storage licence and later approvals. A licence grants exclusive rights to explore and appraise a potential storage area, but actual injection and permanent storage require a separate storage permit, seabed rights and other regulatory consents. Applications closed on 24 March 2026 and are subject to evaluation, consultation and environmental review. The notice therefore opens an authorizing pathway but does not itself award a licence, approve drilling, authorize construction or injection, certify storage capacity, demonstrate containment, or establish verified carbon removals. Version 2 is recorded separately because it is a formally updated 2026 notice.",
+    "source": "North Sea Transition Authority",
+    "document_type": "permit_or_project_decision",
+    "legal_force": "mixed",
+    "implementation_status": "under_review",
+    "status_note": "Version 2 was published on 6 February 2026; applications have closed and licence awards remain under evaluation.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1295,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf",
+    "language": "English",
+    "year": 2026,
+    "document_title": "2nd Offshore Carbon Dioxide Storage Licensing Round Marine Conservation Zone Assessment",
+    "source_url": "https://assets.publishing.service.gov.uk/media/6a5e313b8b7e4fa537e693cb/2nd_CS_Round_MCZ_Assessment_Report.pdf",
+    "notes": "This July 2026 assessment evaluates whether activities that could follow the second offshore carbon dioxide storage licensing round may affect designated Marine Conservation Zones and their protected features or supporting ecological and geomorphological processes. It screens applied-for areas, identifies relevant conservation sites, considers plausible exploration and appraisal activities, and determines where further assessment or mitigation may be needed. The assessment operates at licensing-plan level and is intended to inform regulatory decisions before any area is awarded. It does not provide project-specific engineering designs, approve seismic surveys or wells, grant a carbon-storage licence, authorize injection, or conclude that later development will have no environmental effects. Licensees would still need activity-specific environmental assessment, marine licences, well consents, storage permits and mitigation conditions. The document is therefore a precautionary safeguard and evidence record rather than evidence of achieved or permitted carbon storage.",
+    "source": "United Kingdom Department for Energy Security and Net Zero",
+    "document_type": "report_or_assessment",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Published in July 2026 as a completed plan-level Marine Conservation Zone assessment for the licensing round.",
+    "instrument_type": [
+      "environmental_impact_assessment",
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "environmental_social_and_ecological_safeguards",
+      "law_regulation_and_permitting",
+      "measurement_monitoring_and_mrv"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1296,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "Southern North Sea",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Consent to Drill Carbon Storage Appraisal Well under Carbon Storage Licence CS006",
+    "source_url": "https://www.nstauthority.co.uk/news-publications/nsta-grants-consent-for-carbon-storage-appraisal-well/",
+    "notes": "The North Sea Transition Authority granted consent for a carbon-storage appraisal well under licence CS006 in the Southern North Sea. The well is intended to acquire subsurface data for a possible expansion or build-out associated with the Endurance storage system, with drilling and a comprehensive data-acquisition and analysis programme scheduled to take approximately ninety days. The consent has a two-year term and represents a concrete regulatory authorization for appraisal activity. It does not authorize commercial carbon dioxide injection, approve a final storage development, certify storage capacity or containment, or demonstrate any completed carbon removal. Data generated by the well must still support site characterization, risk assessment and any later storage-permit application. Additional environmental, operational, well-integrity, health-and-safety and reporting requirements continue to apply under the relevant licence and consent framework.",
+    "source": "North Sea Transition Authority",
+    "document_type": "permit_or_project_decision",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Drilling consent was granted on 6 March 2026 for a two-year term; the appraisal programme is an active authorization, not an injection permit.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard",
+      "mrv_standard"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1297,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "Endurance storage site, Southern North Sea",
+    "language": "English",
+    "year": 2024,
+    "document_title": "Endurance Carbon Storage Permit",
+    "source_url": "https://www.nstauthority.co.uk/news-publications/nsta-awards-endurance-first-ever-uk-carbon-storage-permit/",
+    "notes": "The North Sea Transition Authority awarded the United Kingdom's first offshore carbon-storage permit to the Endurance project in December 2024. The permit allows the operator to progress infrastructure installation and preparations for future injection at a site off Teesside, subject to the permit's operational, monitoring, containment, environmental and financial conditions. The announced permitted injection rate is up to four million tonnes of carbon dioxide per year and the indicative total is up to one hundred million tonnes over approximately twenty-five years. These figures describe authorized capacity and project plans, not verified storage already achieved. The permit followed assessment of leakage risk, storage-site suitability, environmental and human-health protection, technical competence and financial soundness. First injection remained prospective at the time of award, so this record must not be interpreted as evidence that carbon dioxide has already been injected, permanently contained or credited.",
+    "source": "North Sea Transition Authority",
+    "document_type": "permit_or_project_decision",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Storage permit awarded on 10 December 2024; infrastructure preparation is authorized and injection remains subject to permit conditions and project delivery.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mrv_standard",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "environmental_risk_and_sustainability_assessment",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1298,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "Liverpool Bay and East Irish Sea",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Three Carbon Storage Permits for Liverpool Bay CCS / HyNet",
+    "source_url": "https://www.nstauthority.co.uk/news-publications/2bn-hynet-carbon-storage-project-will-provide-massive-jobs-and-net-zero-boost/",
+    "notes": "The North Sea Transition Authority awarded three offshore carbon-storage permits to Liverpool Bay CCS Limited for the transportation and storage system serving the HyNet industrial cluster. The permits allow preparation of three stores in the East Irish Sea and are linked to a planned initial injection rate of approximately 4.5 million tonnes of carbon dioxide per year, with an announced design total of about 109 million tonnes over twenty-five years. The project intends to use a combination of new and repurposed infrastructure and remains subject to the technical, environmental, monitoring, leakage-control and financial requirements embedded in the permits and wider regulatory framework. The stated volumes are permitted or planned capacity, not evidence of carbon dioxide already stored. At the time of award, initial injection was still targeted for a future date. The permits do not by themselves validate carbon credits or demonstrate permanent containment of any injected quantity.",
+    "source": "North Sea Transition Authority",
+    "document_type": "permit_or_project_decision",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Three storage permits were awarded on 24 April 2025; project preparation is authorized and future injection remains conditional on delivery and compliance.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mrv_standard",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "environmental_risk_and_sustainability_assessment",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "measurement_monitoring_and_mrv",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1299,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "Northern Territory and Commonwealth waters in the Joseph Bonaparte Gulf",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Bonaparte Carbon Capture and Storage Project — EPBC 2026/10480",
+    "source_url": "https://epbcpublicportal.environment.gov.au/all-notices/project-decision/?id=e4d677a9-533c-f111-88b4-7c1e5262e9e4",
+    "notes": "The federal referral concerns a proposed large-scale carbon dioxide transport and geological-storage system extending from Middle Arm near Darwin to a saline aquifer approximately two kilometres below the seabed in Commonwealth waters of the Joseph Bonaparte Gulf. The concept includes an onshore inlet station, an offshore pipeline of roughly 260 kilometres, subsea power and communications infrastructure, manifolds and up to six injection wells, with phased capacity proposed for a multi-decade operating period. The EPBC portal status indicates that an assessment approach has been determined, meaning the proposal remains within environmental assessment rather than having received final approval. Project documents provide design aspirations and modelled storage potential, not verified capacity or removal. The referral does not authorize construction, injection, imported carbon dioxide, operation, carbon-credit issuance or permanent storage. Separate Northern Territory, Commonwealth offshore, pipeline, greenhouse-gas storage, cultural-heritage and other approvals remain relevant.",
+    "source": "Australian Government EPBC Act Public Portal",
+    "document_type": "permit_or_project_decision",
+    "legal_force": "mixed",
+    "implementation_status": "under_review",
+    "status_note": "Federal assessment approach determined; no final EPBC approval or authorization to construct and inject has been issued.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "environmental_impact_assessment",
+      "public_consultation",
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "measurement_monitoring_and_mrv"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1300,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "Browse Basin and Commonwealth waters off Western Australia",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Browse Carbon Capture and Storage Project — EPBC 2026/10569",
+    "source_url": "https://epbcpublicportal.environment.gov.au/all-referrals/project-referral-summary/project-decision/?id=581bcf40-e17b-f111-ab0e-7ced8d326d41",
+    "notes": "The federal referral covers a proposed offshore carbon capture and storage system associated with the Browse gas development. The concept would separate reservoir carbon dioxide on floating production facilities, transport it through subsea flowlines and inject it into the Calliance Storage Formation in Commonwealth waters, with multiple injection wells and seismic or other monitoring of plume behaviour. Public project material describes expected injection rates and potential reductions in project Scope 1 emissions, but these are forecasts based on design assumptions rather than verified storage outcomes. The EPBC portal lists the project as awaiting a delegate decision. Accordingly, this record represents an environmental referral and proposed engineering pathway, not a final federal approval, storage permit or authorization to inject. It does not establish a carbon-credit methodology, prove additionality or permanence, or confirm that environmental and containment risks have been resolved.",
+    "source": "Australian Government EPBC Act Public Portal",
+    "document_type": "permit_or_project_decision",
+    "legal_force": "mixed",
+    "implementation_status": "under_review",
+    "status_note": "Referral lodged in 2026 and awaiting a delegate decision; no final EPBC approval or injection authorization is recorded.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "environmental_impact_assessment",
+      "public_consultation",
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "measurement_monitoring_and_mrv"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1301,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "Middle Arm Peninsula, Northern Territory",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Ichthys Carbon Capture and Storage Project — EPBC 2025/10366",
+    "source_url": "https://epbcpublicportal.environment.gov.au/all-referrals/project-referral-summary/?id=b86858c6-7bc6-f011-8543-6045bde730ee",
+    "notes": "The federal referral concerns onshore carbon dioxide transport and tie-in infrastructure on the Middle Arm Peninsula. It proposes pipelines connecting the Ichthys LNG facility, a future Bonaparte CCS inlet station and the Darwin LNG boundary, together with tie-in stations, power and communications equipment and associated construction and pre-commissioning activities. The infrastructure is intended to enable future transfer of captured carbon dioxide to separately assessed offshore storage projects. The EPBC portal lists the proposal as awaiting a delegate decision. The referral is therefore not an approval of the onshore works and, importantly, is not an authorization for offshore injection or geological storage. It does not certify the performance of the linked Bonaparte or Bayu-Undan storage systems, establish carbon credits, or verify any removed or avoided quantity. Cumulative impacts and interfaces with the AGRU preparedness and offshore storage proposals require consideration through separate assessment processes.",
+    "source": "Australian Government EPBC Act Public Portal",
+    "document_type": "permit_or_project_decision",
+    "legal_force": "mixed",
+    "implementation_status": "under_review",
+    "status_note": "Federal referral remains awaiting a delegate decision; the proposal is enabling transport infrastructure rather than an offshore storage authorization.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "environmental_impact_assessment",
+      "public_consultation",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1302,
+    "jurisdiction": "National",
+    "country_or_region": "Australia",
+    "subnational_area": "Bladin Point, Northern Territory",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Ichthys LNG Acid Gas Removal Unit Upgrade and CCS Preparedness Project — EPBC 2025/10273 Referral Decision",
+    "source_url": "https://epbcpublicportal.environment.gov.au/all-referrals/project-referral-summary/project-decision/?id=67a0fc15-ce99-f011-b41c-000d3a6a36ce&refentity=incident&refid=3d42b231-b7fc-f011-8406-7c1e5262e9e4&refrel=mara_projectdecision_project_Incident",
+    "notes": "The federal referral decision covers preparatory works at the existing Ichthys LNG facility, including upgrades to acid-gas removal units, carbon dioxide compression, dehydration, export metering, an in-plant export-pipeline section and associated power and control systems. The Commonwealth decision determined that the referred onshore preparatory action was not a controlled action under the EPBC Act. This decision is legally relevant to the specified scope but must not be treated as a general approval of the wider carbon capture and storage system. Hot commissioning, operational capture and export, connecting pipelines and offshore transport and geological storage are outside the referred action or subject to separate referrals and approvals. The decision does not authorize offshore injection, validate the containment performance of a storage formation, quantify net removal, or establish eligibility for carbon credits. Northern Territory environmental assessment and other statutory approvals continue independently.",
+    "source": "Australian Government EPBC Act Public Portal",
+    "document_type": "permit_or_project_decision",
+    "legal_force": "binding",
+    "implementation_status": "planned",
+    "status_note": "Referral decision made in 2025 for the limited onshore preparedness scope; connected operation and offshore storage remain separately regulated.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1303,
+    "jurisdiction": "Subnational",
+    "country_or_region": "Australia",
+    "subnational_area": "Northern Territory",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Approved Notice of Decision — Ichthys LNG AGRU Upgrades and CCS Preparedness Project",
+    "source_url": "https://ntepa.nt.gov.au/__data/assets/pdf_file/0003/1622604/approved-notice-of-decision-ichthys-lng-agru-and-ccs-preparedness-project-inpex.pdf",
+    "notes": "The Northern Territory Environment Protection Authority's July 2026 notice approves the final terms of reference for an environmental impact statement for the Ichthys LNG acid-gas-removal upgrade and CCS-preparedness proposal. The decision follows public and government consultation and requires the environmental assessment to address cumulative interactions with the associated Ichthys and Bonaparte CCS proposals, planned and unplanned carbon dioxide releases, pipeline-rupture risks, human health, atmospheric processes, air quality, marine ecosystems and the relationship with continued LNG operations. This is a procedural environmental-assessment decision, not approval to construct, commission or operate the capture and export system. It does not authorize carbon dioxide transport or offshore injection, establish acceptable leakage levels, verify carbon removal, or approve the linked storage projects. A full environmental impact statement and subsequent statutory decisions are still required before the proposal may proceed beyond the assessed stages.",
+    "source": "Northern Territory Environment Protection Authority",
+    "document_type": "permit_or_project_decision",
+    "legal_force": "binding",
+    "implementation_status": "under_review",
+    "status_note": "Final terms of reference approved on 3 July 2026; environmental impact assessment is continuing and no project approval has been issued.",
+    "instrument_type": [
+      "environmental_impact_assessment",
+      "public_consultation",
+      "regulatory_safeguard",
+      "permit_or_authorization"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "environmental_risk_and_sustainability_assessment",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "environmental_social_and_ecological_safeguards",
+      "law_regulation_and_permitting",
+      "measurement_monitoring_and_mrv"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1304,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Climate Technology Progress Report 2026 — Beyond the Blue Horizon: Scoping and Work Programme",
+    "source_url": "https://unfccc.int/ttclear/misc_/StaticFiles/gnwoerk_static/tn_meetings/f0ddab750b734c9c9d2c13214eecae72/bce21109ea2f49a3888f51acb3c51965.pdf",
+    "notes": "This April 2026 presentation sets out the scope and production work programme for the planned Climate Technology Progress Report 2026, provisionally titled Beyond the Blue Horizon. The proposed report will examine technologies for protecting and enhancing natural ocean carbon systems, strengthening ocean-carbon monitoring, intelligence and data infrastructure, and advancing emerging marine carbon dioxide removal approaches, with a dedicated regional focus on small island developing States. The work is intended to provide a scientifically credible and policy-relevant assessment for technology development and transfer under the UNFCCC Technology Mechanism. This document is a scoping presentation rather than the completed report. It contains the planned chapter structure, review milestones and launch timetable but does not provide final findings, rank technologies, authorize deployment, establish MRV or crediting rules, or conclude that any marine CDR approach is environmentally safe, durable, equitable or ready for scale.",
+    "source": "UNFCCC Technology Executive Committee and UNEP Copenhagen Climate Centre",
+    "document_type": "strategy_plan_roadmap",
+    "legal_force": "non_binding",
+    "implementation_status": "planned",
+    "status_note": "Scoping and work programme presented in April 2026; the final report was scheduled for later in 2026 and was not yet contained in this document.",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "marine_ecosystem_and_element_cycles",
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "environmental_risk_and_sustainability_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ]
+  },
+  {
+    "id": 1305,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf",
+    "language": "English",
+    "year": 2026,
+    "document_title": "UKCS Well Applications and Consents Guide 2026",
+    "source_url": "https://www.nstauthority.co.uk/media/4hejqh5s/nsta-wons-guide-2026.pdf",
+    "notes": "The 2026 guide explains how operators apply through the Well Operations Notification System for North Sea Transition Authority consent to conduct well activities on the United Kingdom Continental Shelf, including wells under carbon dioxide appraisal and storage licences. It describes application timing, well categories, supporting information, consent conditions, completion reporting, abandonment and preparatory works. The guide makes clear that consent is required before specified activities begin and that consented operations must comply with licence and activity-specific conditions. For carbon storage, the procedural framework supports appraisal, site characterization and later monitoring, but the guidance itself is not a licence or well consent. It does not authorize a particular well, permit carbon dioxide injection, approve a storage development, validate capacity or containment, or replace environmental, health-and-safety and marine approvals. Its principal database function is to document the procedural and reporting standard applied to carbon-storage well operations.",
+    "source": "North Sea Transition Authority",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published as current 2026 procedural guidance; binding obligations arise through legislation, licences and individual consents.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring",
+      "mrv_standard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1306,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Guidance on the Application for a Carbon Dioxide Appraisal and Storage Licence — December 2025",
+    "source_url": "https://www.nstauthority.co.uk/media/jkrpz4tt/guidance-on-the-application-for-a-carbon-dioxide-appraisal-and-storage-licence-december-2025.pdf",
+    "notes": "The December 2025 guidance describes the process and technical marking scheme for applications for a Carbon Dioxide Appraisal and Storage Licence. It addresses eligible application areas, applicant competence and financial capability, exploration-operator arrangements, work programmes, site and storage-complex understanding, capacity and injectivity estimates, preliminary containment risks, data availability, environmental context, stakeholder and seabed-user considerations and net-zero planning. The document distinguishes a licence from a storage permit: a licence enables exclusive exploration and appraisal rights, whereas injection and permanent storage require a later storage permit and additional approvals. The guidance has no binding legal effect and does not guarantee that an application will be accepted. It does not grant acreage, authorize seismic acquisition or drilling, approve injection, certify a storage resource, demonstrate safe containment, or establish carbon-credit eligibility. It is nevertheless a formal regulatory standard for evaluating licence applications.",
+    "source": "North Sea Transition Authority",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Updated guidance published in December 2025 and used for current carbon-storage licence application processes.",
+    "instrument_type": [
+      "permit_or_authorization",
+      "environmental_impact_assessment",
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "environmental_social_and_ecological_safeguards",
+      "technical_standards_and_certification",
+      "measurement_monitoring_and_mrv"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1307,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Guidance on Retention, Reporting and Disclosure of Carbon Storage Information and Samples",
+    "source_url": "https://www.nstauthority.co.uk/media/r4jft5s3/guidance-on-retention_-reporting-and-disclosure-of-carbon-storage-information-and-samples.pdf",
+    "notes": "This May 2026 guidance operationalizes the United Kingdom framework for retaining, reporting and potentially disclosing carbon-storage information and samples. It covers well engineering and geological information, physical samples, survey data, injection and production information, storage-resource estimates, computerized models, geotechnical material submitted with permit applications, storage-formation and site information, installations and monitoring information. It explains reporting routes, formats, timelines, minimum retention periods and protected periods under the Energy Act 2023 and the 2025 retention and disclosure regulations. The guidance supports regulatory oversight, long-term stewardship, transparency and reuse of subsurface evidence. It is not itself a storage licence, permit, monitoring approval or disclosure decision, and it does not verify a project's capacity, leakage performance or stored quantity. Although the guidance is non-binding, many underlying retention and reporting duties are legally binding through legislation and regulatory notices.",
+    "source": "North Sea Transition Authority",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published in May 2026 as active guidance supporting binding statutory retention, reporting and disclosure duties.",
+    "instrument_type": [
+      "mrv_standard",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1308,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Guidance on Information and Samples Plans and Coordinators for Carbon Storage",
+    "source_url": "https://www.nstauthority.co.uk/media/dexfus5r/guidance-on-information-and-samples-plans-and-coordinators.pdf",
+    "notes": "This May 2026 guidance explains the Energy Act 2023 requirements for information and samples plans and information and samples coordinators in connection with carbon dioxide appraisal and storage licences. It describes the licence events that trigger a plan, the allocation of responsibility, the retention, reporting, storage or transfer of information and samples, the process for agreeing and revising plans, and the coordinator's role in monitoring compliance and acting as the primary regulatory contact. The framework is designed to prevent loss of valuable well, survey, model, monitoring and storage-site evidence when licences are transferred, expire, are surrendered or otherwise change. The document provides regulatory expectations but is not a project approval, licence or storage permit. It does not authorize injection, determine disclosure of a specific dataset, certify MRV results, or validate carbon storage. Binding duties arise from the Energy Act and associated regulations rather than from the guidance alone.",
+    "source": "North Sea Transition Authority",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published in May 2026 as active implementation guidance for statutory information and samples planning duties.",
+    "instrument_type": [
+      "mrv_standard",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1309,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Guidance for Carbon Storage Metering and Measurement Plans",
+    "source_url": "https://www.nstauthority.co.uk/media/cxlf3wra/guidance-for-carbon-storage-metering-and-measurement-plans-july-2026.pdf",
+    "notes": "The July 2026 guidance sets out North Sea Transition Authority expectations for metering and measurement plans that may be required by an offshore carbon-storage permit before injection begins. It covers systems used to quantify carbon dioxide transported offshore and injected into individual wells, measurement methods, composition and phase behaviour, uncertainty, calibration and re-verification, continuous performance diagnostics, reconciliation of different meters, treatment of discrepancies and mismeasurement, data governance and emissions-related metering. The plan is intended to support regulatory stewardship and credible operational accounting throughout project development and operation. The guidance is deliberately non-prescriptive and has no binding legal effect by itself; the applicable storage permit determines whether a plan is required and what must be approved. The document does not certify any operator's meters, approve injection, establish a carbon-credit methodology, or verify a stored quantity.",
+    "source": "North Sea Transition Authority",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published in July 2026 as active operational guidance; project-specific obligations depend on storage-permit conditions.",
+    "instrument_type": [
+      "mrv_standard",
+      "accounting_methodology",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1310,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Guidance for Carbon Storage Commissioning Plans",
+    "source_url": "https://www.nstauthority.co.uk/media/5tghhhgn/guidance-for-carbon-storage-commissioning-plans-july-2026.pdf",
+    "notes": "The July 2026 guidance describes the expected content of a commissioning plan that may be required under an offshore carbon-storage permit before carbon dioxide injection starts. It addresses management and governance arrangements, contractor control, readiness and handover criteria, management of change, well commissioning, verification of well integrity and barriers, establishment of baseline conditions, injectivity testing, surface and subsea facilities, transport-network interfaces, carbon dioxide sources and composition, monitoring, emergency arrangements and consistency with the storage-site management and metering plans. The guidance is intended to reduce operational and containment risks during transition from construction to injection. It is non-binding and does not itself approve a commissioning programme, storage facility, well or injection start. Operators must still obtain all regulatory approvals and satisfy project-specific permit conditions. The document provides expectations for safe preparation, not evidence that commissioning, injection or permanent storage has occurred.",
+    "source": "North Sea Transition Authority",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published in July 2026 as active operational guidance; commissioning remains subject to project-specific storage permits and approvals.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "permit_or_authorization",
+      "mrv_standard",
+      "demonstration_support"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "environmental_social_and_ecological_safeguards",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1311,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf",
+    "language": "English",
+    "year": 2026,
+    "document_title": "Guidance on the Content of an Offshore Carbon Storage Site Management Plan",
+    "source_url": "https://www.nstauthority.co.uk/media/a5mj3p0z/guidance-on-the-content-of-an-offshore-carbon-storage-site-management-plan-july-2026.pdf",
+    "notes": "The July 2026 guidance sets out expectations for an offshore storage-site management plan during the operational phase of a carbon dioxide appraisal and storage licence. It covers the integrated management of surface and injection facilities, wells and the storage unit; expected plume and pressure behaviour; key uncertainties and assumptions; operating envelopes; injection strategy; well integrity; monitoring and surveillance; significant irregularities and leakage prevention; risk registers; corrective action interfaces; data review; management of change; periodic updating and regulatory stewardship. The plan is intended to connect subsurface characterization, containment-risk assessment, facility design and operational decision-making. The guidance has no binding legal effect by itself and is not a substitute for legislation or permit conditions. It does not approve any site, determine that leakage risk is acceptable, authorize injection, verify permanence, or certify a stored quantity. A storage permit may require a project-specific plan acceptable to the regulator.",
+    "source": "North Sea Transition Authority",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published in July 2026 as active operational guidance; a binding project-specific plan may be required through a storage permit.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "mrv_standard",
+      "permit_or_authorization"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "environmental_social_and_ecological_safeguards",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1312,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf",
+    "language": "English",
+    "year": 2025,
+    "document_title": "Carbon Storage Stewardship Expectations",
+    "source_url": "https://www.nstauthority.co.uk/news-publications/carbon-storage-stewardship-expectations/",
+    "notes": "The North Sea Transition Authority's Carbon Storage Stewardship Expectations establish a structured best-practice framework for licence holders across five areas: containment-risk assessment, appraisal and subsurface characterization, data acquisition and use for appraisal and monitoring, technology development and deployment, and stakeholder engagement. Each expectation explains the regulatory purpose and provides a roadmap for demonstrating responsible performance across the licence lifecycle. The framework is designed to improve evidence quality, timely appraisal, containment assurance, technology planning, transparency and coordination with affected seabed users and communities. It does not replace legislation, licence clauses, environmental assessment, storage-permit requirements or individual regulatory decisions. Publication of the expectations does not approve a storage site, authorize drilling or injection, guarantee project progression, certify monitoring results or establish a carbon-credit standard. Compliance consequences depend on the underlying licence and statutory powers, while the expectations themselves primarily communicate regulator practice and good performance.",
+    "source": "North Sea Transition Authority",
+    "document_type": "guidance_or_standard",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published on 30 September 2025 as active stewardship guidance for carbon-storage licence holders.",
+    "instrument_type": [
+      "regulatory_safeguard",
+      "mapping_inventory_or_monitoring",
+      "mrv_standard",
+      "research_strategy",
+      "community_or_social_safeguard"
+    ],
+    "policy_orientation": "mixed_or_conditional",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "environmental_risk_and_sustainability_assessment",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "environmental_social_and_ecological_safeguards",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1313,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf",
+    "language": "English",
+    "year": 2025,
+    "document_title": "The Oil and Gas Authority (Carbon Storage) (Retention of Information and Samples) Regulations 2025",
+    "source_url": "https://www.legislation.gov.uk/uksi/2025/498/contents",
+    "notes": "These regulations establish binding duties for relevant persons to retain specified carbon-storage information and samples generated or acquired under carbon dioxide appraisal and storage licences. Covered material includes well and wellbore information, geological and engineering samples, geophysical and other survey information, injection and production information, storage-resource estimates, computerized models, storage-formation and site information, installation information and monitoring evidence. The rules support regulatory continuity, future disclosure, independent scrutiny and safe long-term stewardship by preventing the loss or premature disposal of technically important records. They came into force in May 2025 and are implemented alongside Energy Act 2023 reporting powers and North Sea Transition Authority guidance. The regulations govern information custody rather than project authorization: they do not grant a licence or storage permit, approve injection, determine that a site is safe, verify stored carbon dioxide, or establish carbon-credit accounting.",
+    "source": "United Kingdom Parliament / Secretary of State",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Made in April 2025 and in force from 13 May 2025.",
+    "instrument_type": [
+      "mrv_standard",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
+  },
+  {
+    "id": 1314,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "UK Continental Shelf",
+    "language": "English",
+    "year": 2025,
+    "document_title": "The Oil and Gas Authority (Carbon Storage and Offshore Petroleum) (Specified Periods for Disclosure of Protected Material) Regulations 2025",
+    "source_url": "https://www.legislation.gov.uk/uksi/2025/1379/contents",
+    "notes": "These regulations specify when protected carbon-storage and offshore-petroleum information and samples may become eligible for disclosure by the North Sea Transition Authority. For carbon storage, the framework assigns immediate or delayed disclosure periods to categories such as surveys, wells, injection and production information, storage resources, computerized models, permit-application material, storage-formation and site information, installations, monitoring evidence and physical samples. The rules balance commercial confidentiality with the public-interest value of timely access to technical evidence and complement the Energy Act 2023 and the 2025 retention regulations. They were made in December 2025 and came into force in January 2026. The regulations do not require every item to be disclosed automatically at the first eligible date, and they do not approve projects, authorize injection, certify storage performance, validate MRV results or create carbon credits. Their function is governance of protected information rather than authorization of negative-emissions engineering.",
+    "source": "United Kingdom Parliament / Secretary of State",
+    "document_type": "regulation",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Made on 19 December 2025 and in force from 9 January 2026.",
+    "instrument_type": [
+      "mrv_standard",
+      "mapping_inventory_or_monitoring",
+      "regulatory_safeguard"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ]
   }
 ]
