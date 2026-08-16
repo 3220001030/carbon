@@ -4877,7 +4877,7 @@
       "ocean_negative_emissions_geoengineering"
     ],
     "engineering_pathway": [
-      "microalgae_carbon_mitigation"
+      "microalgae_carbon_fixation"
     ],
     "standards_policy_market_theme": [],
     "carbon_pump_mechanism": [
@@ -16373,7 +16373,7 @@
       "ocean_negative_emissions_geoengineering"
     ],
     "engineering_pathway": [
-      "microalgae_carbon_mitigation",
+      "microalgae_carbon_fixation",
       "biomass_sinking_and_burial"
     ],
     "standards_policy_market_theme": [
@@ -20760,7 +20760,7 @@
     "year": 2022,
     "document_title": "威海市人民政府办公室关于修改威海市蓝碳经济发展行动方案（2021—2025年）的通知",
     "source_url": "https://www.weihai.gov.cn/art/2022/1/14/art_59451_3126085.html",
-    "notes": "This 2022 notice formally modified and reissued Weihai's 2021–2025 Blue Carbon Economy Development Action Plan, replacing the original 2021 notice. The amended plan continued the city's integrated programme for blue-carbon science, carbon-sink survey and evaluation, methodology and standards development, shellfish-algae carbon-sink research and marine negative-emissions technology demonstration. The document therefore provides the operative historical version for most of the plan period and shows how Weihai institutionalized blue carbon across research, engineering and market-governance functions. The plan period ended in 2025, and the notice itself did not create a site-specific deployment authorization, a stand-alone credit issuance rule or a verified quantity of marine carbon removals.",
+    "notes": "This 2022 notice formally modified and reissued Weihai's 2021–2025 Blue Carbon Economy Development Action Plan, replacing the original 2021 notice. The operative plan explicitly links ONCE research, MRV/methodology and marine sink enhancement to concrete actions: coastal-wetland, seagrass and coastal salt-marsh restoration for carbon enhancement; optimization of kelp, wakame and oyster carbon-fixing aquaculture; marine-ranch and mariculture ecological sink enhancement; and exploration of land–sea coordinated ecological enhancement, artificial upwelling in seaweed-farming areas, fertilization in oligotrophic waters and seabed carbon storage. The same plan also promotes Sanggou Bay multi-trophic aquaculture as a green-aquaculture measure, but that separate clause does not explicitly call the IMTA mode a carbon-removal action; therefore this record is not additionally coded as IMTA merely to increase pathway counts. The plan period ended in 2025 and the document does not itself prove verified net atmospheric CO2 removal or issue carbon credits.",
     "source": "People's Government of Weihai Municipality",
     "document_type": "strategy_plan_roadmap",
     "policy_practice_type": "policy",
@@ -20771,6 +20771,8 @@
       "target_or_commitment",
       "research_strategy",
       "demonstration_support",
+      "ecosystem_restoration_or_conservation_programme",
+      "standards_development",
       "policy_planning_and_coordination"
     ],
     "policy_orientation": "enabling_supportive",
@@ -20782,14 +20784,28 @@
     ],
     "theory_research_theme": [
       "ocean_negative_emissions_science_and_technology_assessment",
+      "coastal_wetland_carbon_cycle_and_storage",
+      "carbon_pump_mechanisms_and_integration",
       "integrated_once_research_and_coordination"
     ],
     "engineering_family": [
-      "fishery_carbon_sink_engineering"
+      "ecological_restoration_and_sink_enhancement",
+      "fishery_carbon_sink_engineering",
+      "ocean_negative_emissions_geoengineering",
+      "other_negative_emissions_engineering"
     ],
     "engineering_pathway": [
+      "coastal_wetland_restoration_and_sink_enhancement",
+      "seagrass_conservation_restoration_and_sink_enhancement",
+      "salt_marsh_and_tidal_wetland_restoration",
+      "coastal_blue_carbon_restoration_and_sink_enhancement",
       "macroalgae_aquaculture_and_carbon_sink",
-      "shellfish_aquaculture_and_carbon_sink"
+      "shellfish_aquaculture_and_carbon_sink",
+      "marine_ranch_sink_enhancement",
+      "land_sea_coordinated_negative_emissions",
+      "artificial_upwelling",
+      "ocean_fertilization",
+      "marine_geological_co2_storage"
     ],
     "standards_policy_market_theme": [
       "measurement_monitoring_and_mrv",
@@ -20800,10 +20816,11 @@
     ],
     "carbon_pump_mechanism": [
       "BCP",
-      "CCP"
+      "CCP",
+      "MCP"
     ],
     "filter_tier": "TIER1_CORE",
-    "filter_reason": "修订后的蓝碳行动方案明确延续贝类/藻类碳汇研究、方法学与海洋负排放示范；按严格路径口径分别编码贝类和大型藻类，不把并列研究自动编码为贝藻综合养殖。",
+    "filter_reason": "修订后行动方案在“海洋增汇行动”中逐项明确滨海湿地/海草床/盐沼恢复增汇、固碳贝藻养殖、海洋牧场/海水养殖生态增汇，以及陆海统筹、人工上升流、贫营养海区施肥和海底碳封存工程；据官方原文纠正此前仅标贝类/大型海藻的欠编码。方案另行提到IMTA绿色养殖但未在该条中明确作为增汇工程，故不强行补IMTA标签。",
     "keep_core": true,
     "keep_core_plus_enabling": true,
     "official_once_endorsement": "none",
@@ -20811,7 +20828,7 @@
     "once_policy_inclusion_basis": "strict_ONCE_core_definition",
     "once_policy_scope": "strict_core",
     "dedicated_once_only": true,
-    "dedicated_once_selection_basis": "anthropogenic_aquaculture_or_algal_sink_enhancement"
+    "dedicated_once_selection_basis": "formal_blue_carbon_action_plan_with_explicit_multi_pathway_anthropogenic_sink_enhancement_and_ONCE_engineering"
   },
   {
     "id": 1631,
@@ -27682,16 +27699,16 @@
     "country_or_region": "International",
     "subnational_area": "",
     "language": "English",
-    "year": 2025,
+    "year": 2023,
     "document_title": "ISO/TC 8/WG 15 — Ocean Negative Carbon Emissions and Carbon Neutrality",
     "source_url": "https://www.iso.org/committee/45776.html",
-    "notes": "ISO/TC 8 currently lists WG 15 as the working group on 'Ocean Negative Carbon Emissions and Carbon Neutrality'. Global ONCE's official COP30 outcome materials state that the programme led the establishment of this working group to advance international standardization for ONCE. This record captures the standing international standardization mechanism itself, which is distinct from individual draft standards such as ISO/DIS 25283-1 already recorded elsewhere. The working group does not itself certify projects, issue carbon credits or authorize marine interventions.",
+    "notes": "ISO/TC 8 currently lists WG 15 as the working group on 'Ocean Negative Carbon Emissions and Carbon Neutrality'. The Global ONCE representative-milestone compilation dates establishment of the ONCE-led ISO working group to 2023. The public ISO committee page confirms the group's current existence but does not display its creation date; therefore 2023 is retained as the ONCE milestone date with that provenance made explicit. This record captures the standing international standardization mechanism itself, distinct from individual draft standards such as ISO/DIS 25283-1. The working group does not itself certify projects, issue credits or authorize interventions.",
     "source": "International Organization for Standardization (ISO) — ISO/TC 8",
     "document_type": "guidance_or_standard",
     "policy_practice_type": "policy",
     "legal_force": "non_binding",
     "implementation_status": "in_force_or_active",
-    "status_note": "Active ISO/TC 8 working group; listed by ISO as WG 15 on Ocean Negative Carbon Emissions and Carbon Neutrality.",
+    "status_note": "ONCE milestone compilation dates establishment to 2023; ISO currently lists WG 15 as an active working group.",
     "instrument_type": [
       "standards_development",
       "international_coordination",
@@ -28004,16 +28021,16 @@
     "country_or_region": "International",
     "subnational_area": "North Pacific / ICES-PICES community",
     "language": "English",
-    "year": 2021,
+    "year": 2020,
     "document_title": "Joint PICES/ICES Working Group on Ocean Negative Carbon Emissions (WG46/WGONCE)",
     "source_url": "https://www.ices.dk/Pages/WGONCE.aspx",
-    "notes": "The Joint PICES/ICES Working Group on Ocean Negative Carbon Emissions was formally established in 2021 to identify knowledge gaps, discuss theoretical foundations, implementation guidance, benefits, risks and future applications for enhancing ocean negative carbon emissions. The working group linked scientific, assessment and management communities and directly contributed to the proposal and development of the UN Ocean Decade Global ONCE programme. PICES lists WG46 as disbanded after its term; the database therefore records the working group as a completed international scientific-governance practice, not as a binding regulation or authorization. A later proposal for a successor PICES WG-OCN was not accepted in the December 2024 governing vote and is therefore not added as an active working group.",
+    "notes": "The Joint PICES/ICES Working Group on Ocean Negative Carbon Emissions (WG46/WGONCE) was approved for the PICES-2020–PICES-2023 term. PICES' official committee page lists WG46 with that term; formal member assignment followed in 2021, so this round corrects the earlier database year 2021 to 2020. The WG's official final/reporting materials explicitly identify wastewater alkalinity addition as a future research direction/product for enhancing ocean negative emissions, so the existing wastewater-effluent-alkalinization pathway tag is retained rather than removed. The group is recorded as a completed international science-governance practice, not as a permit or proof of certified CDR.",
     "source": "International Council for the Exploration of the Sea (ICES) / North Pacific Marine Science Organization (PICES)",
     "document_type": "funding_or_programme",
     "policy_practice_type": "practice",
     "legal_force": "non_binding",
     "implementation_status": "ended",
-    "status_note": "Established in 2021; WG46/WGONCE completed its term and is listed by PICES as disbanded.",
+    "status_note": "Approved/established for the PICES-2020–PICES-2023 term; formal member assignment followed in 2021; now disbanded.",
     "instrument_type": [
       "research_strategy",
       "international_coordination",
@@ -28052,7 +28069,7 @@
       "SCP"
     ],
     "filter_tier": "TIER1_CORE",
-    "filter_reason": "PICES/ICES官方联合工作组名称和任务直接以Ocean Negative Carbon Emissions为对象，并形成Global ONCE的重要国际科学—治理前身。",
+    "filter_reason": "PICES/ICES官方将WG46列为2020–2023年Ocean Negative Carbon Emissions联合工作组，且正式报告明确提出污水碱度增加为ONCE未来研究方向；本轮仅纠正起始年份，不删除有来源支持的WAE标签。",
     "keep_core": true,
     "keep_core_plus_enabling": true,
     "official_once_endorsement": "framework",
@@ -30377,118 +30394,6 @@
     "once_policy_scope": "strict_core",
     "dedicated_once_only": true,
     "dedicated_once_selection_basis": "statutory_spatial_plan_with_explicit_marine_sink_enhancement_pilots"
-  },
-  {
-    "id": 2059,
-    "jurisdiction": "National",
-    "country_or_region": "Japan",
-    "subnational_area": "",
-    "language": "Japanese",
-    "year": 2026,
-    "document_title": "Green-Laser Blue Carbon Measurement Manual — Standardized Mapping of Seaweed-Bed Area for CO2 Uptake Calculation",
-    "source_url": "https://www.mlit.go.jp/report/press/port06_hh_000334.html",
-    "notes": "MLIT’s 31 March 2026 manual establishes measurement criteria for accurately mapping seaweed-bed distribution and area with green laser systems; data can feed BDAS to calculate CO2 uptake. It is coded as blue-carbon MRV for sink enhancement, not as macroalgae aquaculture, and is not itself a crediting methodology.",
-    "source": "Japan Ministry of Land, Infrastructure, Transport and Tourism (MLIT) — Ports and Harbours Bureau",
-    "document_type": "guidance_or_standard",
-    "policy_practice_type": "policy",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Released 31 March 2026; intended for future updating.",
-    "instrument_type": [
-      "mrv_standard",
-      "standards_development",
-      "mapping_inventory_or_monitoring"
-    ],
-    "policy_orientation": "evidence_building",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading",
-      "theory_and_research",
-      "negative_emissions_engineering"
-    ],
-    "theory_research_theme": [
-      "monitoring_observation_and_modeling",
-      "coastal_wetland_carbon_cycle_and_storage"
-    ],
-    "engineering_family": [
-      "ecological_restoration_and_sink_enhancement"
-    ],
-    "engineering_pathway": [
-      "coastal_blue_carbon_restoration_and_sink_enhancement"
-    ],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv",
-      "carbon_accounting_and_methodology",
-      "technical_standards_and_certification"
-    ],
-    "carbon_pump_mechanism": [
-      "BCP"
-    ],
-    "filter_tier": "TIER2_ENABLING",
-    "filter_reason": "藻场绿色激光测量手册主要提供分布/面积测量与CO2吸收量计算输入，本身不建立增汇基线、额外性或净移除判定；保留为蓝色基础设施MRV使能层。",
-    "keep_core": false,
-    "keep_core_plus_enabling": true,
-    "official_once_endorsement": "none",
-    "keep_once_policy": true,
-    "once_policy_inclusion_basis": "blue_infrastructure_seaweed_bed_measurement_MRV_without_project_additionality",
-    "once_policy_scope": "official_framework",
-    "dedicated_once_only": true,
-    "dedicated_once_selection_basis": "blue_infrastructure_seaweed_bed_measurement_MRV_without_project_additionality"
-  },
-  {
-    "id": 2060,
-    "jurisdiction": "National",
-    "country_or_region": "Japan",
-    "subnational_area": "",
-    "language": "Japanese",
-    "year": 2026,
-    "document_title": "Blue carbon Data Archive System (BDAS) — National WebGIS for Blue-Infrastructure Seaweed-Bed Measurement",
-    "source_url": "https://www.mlit.go.jp/report/press/port06_hh_000335.html",
-    "notes": "MLIT began public use of BDAS in June 2026 to evaluate blue-infrastructure effects by processing remote-sensing and environmental-model data and calculating/visualizing seaweed-bed distribution and area on WebGIS. It is MRV/data infrastructure, not proof of additionality, permanence, credit issuance or macroalgae aquaculture.",
-    "source": "Japan Ministry of Land, Infrastructure, Transport and Tourism (MLIT) — Ports and Harbours Bureau / Port and Airport Research Institute",
-    "document_type": "report_or_assessment",
-    "policy_practice_type": "practice",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "Public WebGIS use announced 5 June 2026.",
-    "instrument_type": [
-      "mapping_inventory_or_monitoring",
-      "mrv_standard"
-    ],
-    "policy_orientation": "evidence_building",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading",
-      "theory_and_research",
-      "negative_emissions_engineering"
-    ],
-    "theory_research_theme": [
-      "monitoring_observation_and_modeling",
-      "coastal_wetland_carbon_cycle_and_storage"
-    ],
-    "engineering_family": [
-      "ecological_restoration_and_sink_enhancement"
-    ],
-    "engineering_pathway": [
-      "coastal_blue_carbon_restoration_and_sink_enhancement"
-    ],
-    "standards_policy_market_theme": [
-      "measurement_monitoring_and_mrv",
-      "carbon_accounting_and_methodology"
-    ],
-    "carbon_pump_mechanism": [
-      "BCP"
-    ],
-    "filter_tier": "TIER2_ENABLING",
-    "filter_reason": "BDAS主要是藻场分布/面积WebGIS与蓝色基础设施效果监测平台，本身不证明新增碳汇、额外性或持久净移除；保留为MRV/数据使能层。",
-    "keep_core": false,
-    "keep_core_plus_enabling": true,
-    "official_once_endorsement": "none",
-    "keep_once_policy": true,
-    "once_policy_inclusion_basis": "blue_infrastructure_data_MRV_without_project_additionality",
-    "once_policy_scope": "official_framework",
-    "dedicated_once_only": true,
-    "dedicated_once_selection_basis": "blue_infrastructure_data_MRV_without_project_additionality"
   },
   {
     "id": 2061,
@@ -34936,7 +34841,7 @@
       "ocean_negative_emissions_geoengineering"
     ],
     "engineering_pathway": [
-      "microalgae_carbon_mitigation"
+      "microalgae_carbon_fixation"
     ],
     "standards_policy_market_theme": [
       "measurement_monitoring_and_mrv",
@@ -35729,7 +35634,7 @@
     "engineering_pathway": [
       "ocean_alkalinity_enhancement",
       "macroalgae_aquaculture_and_carbon_sink",
-      "microalgae_carbon_mitigation",
+      "microalgae_carbon_fixation",
       "direct_ocean_capture"
     ],
     "standards_policy_market_theme": [
@@ -36421,7 +36326,7 @@
     "year": 2026,
     "document_title": "东平镇微藻规模化培育与海洋碳汇开发三方合作项目",
     "source_url": "https://www.yangjiang.gov.cn/yj/ywdt/xqdt/content/post_970402.html",
-    "notes": "阳江官方信息与当地公开报道显示，东平镇绿色低碳产业平台在2026年推进三方合作，合作内容明确包括微藻规模化培育、海洋碳汇开发、低碳示范基地建设和微藻减碳技术研究，并希望形成“固碳—产业—增收”链条。该行动已进入项目合作/平台实施阶段，因此对微藻固碳政策实践具有直接关联。但公开材料同时强调功能性产品和产业开发，尚未给出长期碳储存路径、项目基线、额外性、独立MRV或净负排放结果；因此本条仅按TIER2_ENABLING收录为microalgae_carbon_fixation相关实践，不升级为更严格的microalgae_carbon_mitigation/CDR工程。",
+    "notes": "阳江官方信息与当地公开报道显示，东平镇绿色低碳产业平台在2026年推进三方合作，合作内容明确包括微藻规模化培育、海洋碳汇开发、低碳示范基地建设和微藻减碳技术研究，并希望形成“固碳—产业—增收”链条。该行动已进入项目合作/平台实施阶段，因此对微藻固碳政策实践具有直接关联。但公开材料同时强调功能性产品和产业开发，尚未给出长期碳储存路径、项目基线、额外性、独立MRV或净负排放结果；因此本条仅按TIER2_ENABLING收录为microalgae_carbon_fixation相关实践，不升级为更严格的microalgae_carbon_fixation/CDR工程。",
     "source": "阳江市人民政府 / 阳东区东平镇",
     "document_type": "funding_or_programme",
     "policy_practice_type": "practice",
@@ -36774,5 +36679,1754 @@
     "once_policy_scope": "strict_core",
     "dedicated_once_only": true,
     "dedicated_once_selection_basis": "statutory_annual_implementation_plan_with_20_sea_forest_carbon_trading_pilot_sites"
+  },
+  {
+    "id": 2175,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Xiamen, Fujian",
+    "language": "Chinese",
+    "year": 2023,
+    "document_title": "《厦门经济特区海洋经济促进规定》——海洋碳汇监测核算、交易规则与增汇试点",
+    "source_url": "https://www.xmrd.gov.cn/xwzx/qwfb/202312/t20231228_5587192.htm",
+    "notes": "厦门市人大常委会于2023年12月26日通过《厦门经济特区海洋经济促进规定》，自2024年3月1日起施行。第十六条直接要求市政府探索建立海洋生态系统碳汇监测核算体系，开展碳汇摸底调查，制定观测方案、核算标准和交易规则，并在海水养殖、海洋微生物、滨海湿地、红树林和海草床等方面开展增汇试点。本条仅对法规明确点名且能够对应现有ONCE工程路径的海洋微生物、滨海湿地、红树林、海草床编码；“海水养殖”因未在该条进一步限定为贝类/大型海藻，不强行拆分为具体渔业路径。",
+    "source": "厦门市人民代表大会常务委员会",
+    "document_type": "law",
+    "policy_practice_type": "policy",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "2023年12月26日通过并公布，自2024年3月1日起施行。",
+    "instrument_type": [
+      "mrv_standard",
+      "standards_development",
+      "carbon_market_or_crediting",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "marine_microbial_sink_enhancement",
+      "coastal_wetland_restoration_and_sink_enhancement",
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "seagrass_conservation_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "carbon_crediting_and_trading",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "地方性法规直接规定海洋碳汇MRV、交易规则及海洋微生物/滨海湿地/红树林/海草床等增汇试点，属于明确的人为增汇政策，不是一般生态保护。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_explicit_anthropogenic_coastal_sink_restoration_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "binding_local_law_explicitly_mandating_marine_carbon_sink_MRV_trading_and_sink_enhancement_pilots"
+  },
+  {
+    "id": 2176,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Ningde, Fujian",
+    "language": "Chinese",
+    "year": 2021,
+    "document_title": "加快建设“海上宁德”推进海洋经济高质量发展三年行动方案——海水养殖、滨海湿地/红树林与海洋微生物增汇试点",
+    "source_url": "https://www.ningde.gov.cn/zfxxgkzl/zfxxgkml/fggzhgf/xzgfxwj/202111/t20211121_1554436.htm",
+    "notes": "宁德市人民政府印发的三年行动方案明确提出开展海水养殖增汇、滨海湿地和红树林增汇、海洋微生物增汇等试点工程，提高海洋固碳增汇能力。为避免路径过度编码，本条不把笼统“海水养殖增汇”自行拆成贝类或大型海藻；仅对原文可直接对应的滨海湿地、红树林和海洋微生物增汇路径编码。",
+    "source": "宁德市人民政府",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2021年印发的三年行动方案；作为已完成规划期政策记录保留。",
+    "instrument_type": [
+      "demonstration_support",
+      "policy_planning_and_coordination",
+      "research_strategy"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "coastal_wetland_restoration_and_sink_enhancement",
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "marine_microbial_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "市级正式行动方案直接部署多类海洋增汇试点工程，属于明确人为增汇政策。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_explicit_anthropogenic_marine_sink_enhancement_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "formal_city_action_plan_explicitly_deploying_marine_sink_enhancement_pilots"
+  },
+  {
+    "id": 2177,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Zhangzhou, Fujian",
+    "language": "Chinese",
+    "year": 2024,
+    "document_title": "《漳州市推进海洋经济高质量发展三年行动方案（2024—2026年）》——海洋增汇试点与海水养殖碳汇交易目标",
+    "source_url": "https://3g.zhangzhou.gov.cn/cms/html/zzsrmzf/2024-10-12/2130572030.html",
+    "notes": "漳州市人民政府行动方案明确开展海水养殖增汇、滨海湿地和红树林增汇、海洋微生物增汇等试点工程，并提出到2026年力争完成海水养殖碳汇成交量5000吨以上、支持渔业碳汇资源库建设。该记录既有工程试点也有市场化目标。严格编码时不把未细分物种的“海水养殖”强行映射为贝类或大型海藻，仅编码原文明确的滨海湿地、红树林和海洋微生物增汇。",
+    "source": "漳州市人民政府",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "规划期2024—2026年，当前仍在实施期。",
+    "instrument_type": [
+      "target_or_commitment",
+      "demonstration_support",
+      "carbon_market_or_crediting",
+      "mapping_inventory_or_monitoring",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement",
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "coastal_wetland_restoration_and_sink_enhancement",
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "marine_microbial_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "carbon_crediting_and_trading",
+      "economic_value_accounting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "正式市级行动方案直接部署海洋增汇试点并设海水养殖碳汇交易量目标，超出泛蓝碳表述。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_explicit_anthropogenic_marine_sink_enhancement_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "formal_city_plan_with_explicit_sink_enhancement_pilots_and_aquaculture_carbon_trading_target"
+  },
+  {
+    "id": 2178,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Liaoning Province",
+    "language": "Chinese",
+    "year": 2024,
+    "document_title": "辽宁省农业农村厅关于省政协十三届二次会议“推进渔业碳汇助力绿色低碳发展”提案答复",
+    "source_url": "https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jyta/szxta/szxssjechy2024n/2024120914424228134/index.shtml",
+    "notes": "辽宁省农业农村厅在针对“推进渔业碳汇”的正式政协提案答复中，将扩大贝藻类养殖规模作为首项措施，明确指出贝藻养殖发挥碳汇功能并可直接或间接降低大气CO2浓度；同时部署在沿海六市推广多营养层级综合养殖技术模式。因整份答复的政策问题与措施结构均以推进渔业碳汇为主线，本条将贝类、大型海藻及IMTA编码为渔业增汇政策，但注明答复未提供项目级额外性、持久性或净CDR核证结果。",
+    "source": "辽宁省农业农村厅",
+    "document_type": "report_or_assessment",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "2024年正式政协提案答复，所述渔业碳汇推进措施持续实施。",
+    "instrument_type": [
+      "policy_planning_and_coordination",
+      "demonstration_support",
+      "research_strategy"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink",
+      "macroalgae_aquaculture_and_carbon_sink",
+      "integrated_multi_trophic_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "正式政府提案答复以渔业碳汇为政策对象，明确扩展贝藻养殖并推广多营养层级综合养殖。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "formal_government_reply_explicitly_advancing_shellfish_macroalgae_and_IMTA_within_fishery_carbon_sink_policy"
+  },
+  {
+    "id": 2179,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Liaoning Province",
+    "language": "Chinese",
+    "year": 2024,
+    "document_title": "《2024年全省农业生态环境保护和污染防治工作要点》——贝藻增养殖与渔业碳汇潜力",
+    "source_url": "https://nync.ln.gov.cn/nync/index/zwgk/zszdgkwj/2024012615484233863/index.shtml",
+    "notes": "辽宁省农业农村厅2024年度工作要点在农业农村减排固碳任务中明确发展滩涂和浅海贝藻类增养殖、推进国家级海洋牧场示范区建设、构建立体生态养殖系统并增加渔业碳汇潜力。对本库而言，直接纳入贝类和大型海藻养殖碳汇；海洋牧场在该句与“增加渔业碳汇潜力”直接相连，因此同时编码海洋牧场增汇。文件未把一般渔业扩产自动等同于CDR。",
+    "source": "辽宁省农业农村厅",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2024年度工作要点，年度实施期已结束，作为历史政策实施记录保留。",
+    "instrument_type": [
+      "policy_planning_and_coordination",
+      "demonstration_support"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink",
+      "macroalgae_aquaculture_and_carbon_sink",
+      "marine_ranch_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "年度政府工作要点把贝藻增养殖、海洋牧场/立体养殖与增加渔业碳汇潜力直接关联。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "annual_government_work_plan_explicitly_linking_shellfish_macroalgae_and_marine_ranch_actions_to_fishery_carbon_sink"
+  },
+  {
+    "id": 2180,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Liaoning Province",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "《2025年全省农业生态环境保护和污染防治工作要点》——贝藻增养殖、立体生态养殖与渔业增汇",
+    "source_url": "https://nync.ln.gov.cn/nync/index/zwgk/zszdgkwj/2025021314530032560/index.shtml",
+    "notes": "辽宁省农业农村厅2025年度工作要点在“推进渔业减排增汇”中，一方面部署多营养层次综合养殖等生态健康养殖模式并明确其减排作用，另一方面直接要求发展滩涂和浅海贝藻类增养殖、推进国家级海洋牧场示范区、构建立体生态养殖系统，以增加渔业碳汇潜力。为保持严格ONCE路径边界，本条仅编码原文与“增加渔业碳汇潜力”直接相连的贝类、大型海藻和海洋牧场增汇；不因同一条款出现多营养层次综合养殖就额外编码IMTA碳汇路径。",
+    "source": "辽宁省农业农村厅",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2025年度工作要点，年度实施期已结束，作为历史政策实施记录保留。",
+    "instrument_type": [
+      "policy_planning_and_coordination",
+      "demonstration_support"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink",
+      "macroalgae_aquaculture_and_carbon_sink",
+      "marine_ranch_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "年度工作要点直接把贝藻增养殖、海洋牧场/立体生态养殖系统与增加渔业碳汇潜力关联；多营养层次综合养殖在原文主要对应减排/生态健康养殖，故不扩张为IMTA碳汇。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "annual_government_work_plan_explicitly_deploying_IMTA_shellfish_macroalgae_and_marine_ranch_for_fishery_sink_enhancement"
+  },
+  {
+    "id": 2181,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Liaoning Province",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "《2026年全省农业生态环境保护和污染防治工作要点》——浅海贝藻增养殖与碳汇渔业",
+    "source_url": "https://nync.ln.gov.cn/nync/index/zwgk/zszdgkwj/2026021013252541483/index.shtml",
+    "notes": "辽宁省农业农村厅2026年度工作要点在“推进渔业减排固碳”中明确积极推进碳汇渔业并发展滩涂和浅海贝藻类增养殖，同时发展多营养层级立体养殖等生态健康养殖。为保持严格路径边界，本条仅将原文与“碳汇渔业”直接连用的贝类和大型海藻编码为碳汇路径；多营养层级养殖在该年度文件中主要作为生态健康养殖措施，未单独声明其增汇效果，因此不额外编码IMTA。",
+    "source": "辽宁省农业农村厅",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "2026年度工作要点，当前实施中。",
+    "instrument_type": [
+      "policy_planning_and_coordination",
+      "demonstration_support"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink",
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "当前年度政府工作要点直接要求推进碳汇渔业并发展浅海贝藻增养殖。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "current_annual_government_work_plan_explicitly_deploying_shellfish_and_macroalgae_for_fishery_carbon_sink"
+  },
+  {
+    "id": 2182,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Shenshan Special Cooperation Zone, Shenzhen, Guangdong",
+    "language": "Chinese",
+    "year": 2024,
+    "document_title": "深汕特别合作区首次海洋碳汇摸底调查——贝类碳汇核算与多营养级贝藻混养增汇优化",
+    "source_url": "https://meeb.sz.gov.cn/gkmlpt/content/11/11644/post_11644474.html",
+    "notes": "深圳市生态环境部门发布的2024年深汕海洋碳汇摸底调查显示，2023年当地海水贝类产量9827吨，据此估算可移出碳汇约822.36吨；相关部门进一步提出持续优化养殖结构、研究多营养级贝藻混合养殖模式并提高藻类养殖比重，预计渔业碳汇量可增加56.4%。该记录的纳入依据不是一般摸底监测，而是调查结果直接转化为贝藻混养增汇的结构优化行动。估算量和56.4%提升均为官方报道中的项目/政策估计，不等于独立核证的净大气CO2移除。",
+    "source": "深圳市生态环境局 / 深汕特别合作区相关部门",
+    "document_type": "report_or_assessment",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "implementation_in_progress",
+    "status_note": "2024年完成首次海洋碳汇摸底调查，并提出后续养殖结构增汇优化措施。",
+    "instrument_type": [
+      "mapping_inventory_or_monitoring",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink",
+      "macroalgae_aquaculture_and_carbon_sink",
+      "integrated_shellfish_algae_aquaculture",
+      "integrated_multi_trophic_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "economic_value_accounting"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "政府调查不仅核算贝类碳汇，还明确提出多营养级贝藻混养结构优化并量化预期增汇幅度，属于直接渔业增汇实践链条。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "government_carbon_sink_inventory_directly_linked_to_shellfish_algae_IMTA_sink_enhancement_optimization"
+  },
+  {
+    "id": 2183,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Shengsi County, Zhoushan, Zhejiang",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "舟山市重大产业科技攻关项目“贻贝养殖生态系统蓝碳增汇关键技术研发”验收——人工上升流增汇示范",
+    "source_url": "https://zoceanc.zju.edu.cn/2026/0608/c54901a3176158/page.htm",
+    "notes": "2026年6月，2023年度舟山市重大产业科技攻关项目“贻贝养殖生态系统蓝碳增汇关键技术研发”通过验收。项目由企业联合浙江大学及舟山海洋研究中心开展，经过三年监测与试验，以人工上升流装置促进贻贝养殖；公开验收报道给出的示范结果为亩产量提升16.25%、碳汇能力提升33.94%，并建议继续完善装置、推动产业推广。该项目直接把人工上升流与贝类养殖增汇结合，因此同时编码两个工程路径；项目报告的“碳汇能力”提升不自动等于经过独立MRV认证的净CDR量。",
+    "source": "舟山市科技项目 / 浙江大学舟山海洋研究中心",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2023年度市级重大产业科技攻关项目于2026年6月4日通过验收。",
+    "instrument_type": [
+      "research_and_development_funding",
+      "demonstration_support",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering",
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink",
+      "artificial_upwelling"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "政府支持并已验收的增汇技术项目，直接以贻贝养殖蓝碳增汇为目标并实测人工上升流增汇效果。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_core_definition",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "government_funded_completed_field_project_explicitly_combining_mussel_sink_enhancement_and_artificial_upwelling"
+  },
+  {
+    "id": 2184,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Shandong Province",
+    "language": "Chinese",
+    "year": 2023,
+    "document_title": "山东省自然资源厅对省十四届人大代表第20230624号建议答复——推进海域二氧化碳地质封存等海洋负排放技术",
+    "source_url": "https://www.sdein.gov.cn/ztbd/jytabl/202306/t20230621_4355579.html",
+    "notes": "山东省自然资源部门对《关于尽快推进山东沿岸海洋碳汇……》建议的正式答复明确表示，下一步将积极推进海域二氧化碳地质封存等海洋负排放技术，并围绕海域碳封存场地调查和评价开展调研、加强顶层规划设计。这里的纳入依据是答复将“海域二氧化碳地质封存”明确界定为拟推进的海洋负排放技术，而不是泛化收录所有海上点源CCS。该答复属于政策规划与前期场地研究，不代表具体封存项目已获许可或形成净负排放。",
+    "source": "山东省自然资源厅",
+    "document_type": "report_or_assessment",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "2023年正式人大建议答复，提出推进海域CO2地质封存等海洋负排放技术和场地调查评价。",
+    "instrument_type": [
+      "research_strategy",
+      "mapping_inventory_or_monitoring",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "SCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "省级正式政策答复直接把海域二氧化碳地质封存列为拟推进的“海洋负排放技术”，并部署场地调查评价。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_core_definition",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "formal_government_policy_reply_explicitly_advancing_marine_geological_CO2_storage_as_ocean_negative_emission_technology"
+  },
+  {
+    "id": 2185,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Xiamen, Fujian",
+    "language": "Chinese",
+    "year": 2024,
+    "document_title": "《厦门市金融支持绿色低碳经济发展实施方案》——海洋增汇交易及投融资试点",
+    "source_url": "https://www.ccn.ac.cn/policies-and-regulations/green-finance/2615.html",
+    "notes": "厦门市地方金融管理局等四部门印发的厦金管〔2024〕17号实施方案经市政府同意，明确深化红树林、贝藻类等海洋碳汇方法学研究，并探索开展海水养殖增汇、滨海湿地和红树林增汇、海洋微生物增汇等海洋碳汇交易及投融资试点。该条属于直接针对海洋增汇的金融/市场政策，不是一般绿色金融。由于“贝藻类”在方法学研究中被明确点名，编码贝类和大型海藻；同时编码滨海湿地、红树林和海洋微生物增汇。",
+    "source": "厦门市地方金融管理局 / 中国人民银行厦门市分行 / 国家金融监督管理总局厦门监管局 / 中国证监会厦门监管局",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "厦金管〔2024〕17号，2024年8月2日印发，经厦门市政府同意实施。",
+    "instrument_type": [
+      "carbon_finance_or_green_finance",
+      "carbon_market_or_crediting",
+      "accounting_methodology",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering",
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink",
+      "macroalgae_aquaculture_and_carbon_sink",
+      "coastal_wetland_restoration_and_sink_enhancement",
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "marine_microbial_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "carbon_crediting_and_trading",
+      "carbon_finance_and_ecological_compensation",
+      "carbon_accounting_and_methodology",
+      "economic_value_accounting"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "正式金融政策直接针对贝藻/湿地/红树林/微生物海洋增汇的方法学、交易与投融资试点，不是泛绿色金融。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_and_anthropogenic_coastal_sink_enhancement",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "formal_green_finance_policy_explicitly_financing_and_trading_named_marine_sink_enhancement_pathways"
+  },
+  {
+    "id": 2186,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Fujian Province",
+    "language": "Chinese",
+    "year": 2022,
+    "document_title": "《深化生态省建设打造美丽福建行动纲要（2021—2035年）》——多营养层级贝藻增汇与红树林/滨海湿地增汇试点",
+    "source_url": "https://zfgb.fujian.gov.cn/10066",
+    "notes": "福建省政府闽政〔2022〕26号行动纲要在“提升海洋蓝碳能力”中明确建设海洋碳汇研发平台、开展海洋增汇和交易试点；要求开展多营养层级立体生态养殖，提升贝类藻类固碳能力、增加渔业碳汇，并在连江等地开展海水养殖增汇试点，在泉州湾河口、九龙江河口、漳江口等地实施红树林和滨海湿地增汇试点，同时建设监测评估和交易能力。这里把贝类、大型海藻、IMTA、红树林和滨海湿地作为原文直接关联“增汇/增加渔业碳汇”的路径编码；一般海湾污染治理、海洋牧场资源恢复等不因同处文件而纳入。",
+    "source": "福建省人民政府",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "闽政〔2022〕26号，行动纲要覆盖2021—2035年，当前仍在实施期。",
+    "instrument_type": [
+      "target_or_commitment",
+      "demonstration_support",
+      "mrv_standard",
+      "carbon_market_or_crediting",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering",
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink",
+      "macroalgae_aquaculture_and_carbon_sink",
+      "integrated_multi_trophic_aquaculture_and_carbon_sink",
+      "mangrove_conservation_restoration_and_sink_enhancement",
+      "coastal_wetland_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_crediting_and_trading",
+      "technical_standards_and_certification",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "省级长期行动纲要把多营养层级贝藻养殖与“增加渔业碳汇”直接关联，并部署红树林/滨海湿地增汇试点及MRV/交易体系。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_and_anthropogenic_coastal_sink_enhancement",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "formal_provincial_action_program_explicitly_deploying_IMTA_shellfish_macroalgae_and_coastal_sink_enhancement"
+  },
+  {
+    "id": 2187,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Weihai / Sanggou Bay, Shandong",
+    "language": "Chinese",
+    "year": 2021,
+    "document_title": "威海碳汇渔业“扩容”实践——桑沟湾14万亩多营养层次综合养殖增汇",
+    "source_url": "https://www.weihai.gov.cn/art/2021/12/5/art_58817_2735725.html",
+    "notes": "威海市政府门户2021年实施报道明确把桑沟湾多营养层次综合养殖模式作为碳汇渔业“扩容”措施，称推广规模达到14万亩，并预估年固碳量在11万吨以上；报道同时把该模式与增加渔业碳汇储量直接联系。该记录作为已实施IMTA碳汇实践证据纳入，而不是一般绿色养殖。政府报道中的面积和固碳量属于当时公开估算，不能等同于经独立MRV核证的耐久净大气CO2移除量或可交易碳信用。",
+    "source": "威海市人民政府门户 / 威海新闻网",
+    "document_type": "report_or_assessment",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2021年12月政府门户公开的阶段性实施报道；记录当时已推广的桑沟湾IMTA碳汇实践及政府估算，不代表当前规模或核证移除量。",
+    "instrument_type": [
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "integrated_multi_trophic_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "政府实施报道把14万亩桑沟湾多营养层次综合养殖明确作为碳汇渔业扩容/增加碳汇储量措施，并给出固碳估算，直接对应IMTA增汇实践。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "official_implemented_IMTA_carbon_sink_practice_with_reported_area_and_estimated_fixation"
+  },
+  {
+    "id": 2188,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Fujian Province — Zhangzhou",
+    "language": "Chinese",
+    "year": 2023,
+    "document_title": "福建省牡蛎碳汇监测评估示范基地——养殖牡蛎生物固碳、温室气体与沉积固碳综合MRV",
+    "source_url": "https://hyyyj.fujian.gov.cn/xxgk/hydt/jcdt/202401/t20240103_6371469.htm",
+    "notes": "福建省海洋与渔业局官方信息显示，福建省水产研究所渔业碳汇团队于2023年12月28日在漳州市广成水产养殖有限公司挂牌“福建省牡蛎碳汇监测评估示范基地”。团队构建的监测评估方案同时覆盖养殖牡蛎生物固碳、温室气体排放通量和沉积固碳，并明确将提升牡蛎生态系统碳汇能力、拓展双壳贝类碳汇市场应用作为后续方向。该记录是贝类养殖碳汇MRV与示范实践，不把普通牡蛎养殖自动视为CDR，也不声称基地已产生核证碳信用。",
+    "source": "福建省海洋与渔业局 / 福建省水产研究所",
+    "document_type": "report_or_assessment",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "implementation_in_progress",
+    "status_note": "示范基地于2023年12月28日挂牌，福建省海洋与渔业局于2024年1月3日公开；作为持续监测评估与产学研示范平台记录。",
+    "instrument_type": [
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "mrv_standard",
+      "research_strategy"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "省级海洋渔业主管部门明确挂牌牡蛎碳汇监测评估示范基地，并形成覆盖生物固碳、温室气体和沉积固碳的MRV方案，直接服务贝类养殖碳汇评估与增汇。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "provincial_shellfish_carbon_sink_MRV_demonstration_base"
+  },
+  {
+    "id": 2189,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Shanghai",
+    "language": "Chinese",
+    "year": 2022,
+    "document_title": "《上海市科技支撑碳达峰碳中和实施方案》——滨海湿地人工增汇与海洋固碳技术研发示范",
+    "source_url": "https://www.shanghai.gov.cn/nw12344/20221026/388d17b8e1124bafa318814de7e39575.html",
+    "notes": "上海市科技支撑“双碳”实施方案在“负碳技术能力提升科技创新行动”中明确要求推进人工增汇关键技术研发和示范，并在生态碳汇技术专栏中部署湿地和海洋碳汇核算与预测、基于生态培育和修复的滨海湿地增汇技术以及海洋固碳关键技术。本库仅按其中明确的滨海湿地人为增汇研发示范部分纳入，不把方案中的一般城市绿地、农田、普通CCUS或微藻下游利用内容扩张编码为ONCE工程。",
+    "source": "上海市科学技术委员会等 / 上海市人民政府",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "2022年10月正式发布，面向2030年前科技支撑“双碳”任务；包含人工增汇研发、示范与MRV部署。",
+    "instrument_type": [
+      "research_strategy",
+      "research_and_development_funding",
+      "demonstration_support",
+      "mrv_standard",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "monitoring_observation_and_modeling",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_wetland_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "市级科技实施方案明确部署“人工增汇关键技术研发和示范”并点名“基于生态培育和修复的滨海湿地等增汇技术”，属于人为滨海湿地增汇科技政策，而非泛湿地保护。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_explicit_anthropogenic_coastal_sink_restoration_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "formal_science_policy_explicitly_funding_and_demonstrating_anthropogenic_coastal_wetland_sink_enhancement"
+  },
+  {
+    "id": 2190,
+    "jurisdiction": "National",
+    "country_or_region": "United Kingdom",
+    "subnational_area": "Scotland — St Fergus / Acorn offshore geological storage site",
+    "language": "English",
+    "year": 2021,
+    "document_title": "UK Net Zero Strategy — Direct Air Capture Coupled to Acorn Offshore Geological CO2 Storage",
+    "source_url": "https://www.gov.uk/government/publications/net-zero-strategy/3-reducing-emissions-across-the-economy",
+    "notes": "The UK Net Zero Strategy records a proposed Storegga–Carbon Engineering direct-air-capture project in Scotland in which atmospheric CO2 would be transported to the Acorn CCS system at St Fergus and stored permanently in an offshore geological storage site deep below the seabed. The strategy also describes Scottish policy support for negative-emissions technologies and an Emerging Energy Technologies Fund. This record is retained only because the policy example explicitly couples atmospheric carbon removal with offshore geological storage; generic industrial point-source CCS at Acorn is outside the ONCE inclusion basis. The proposal described in the 2021 strategy was prospective, so this record does not claim the DAC plant became operational on the timetable stated there.",
+    "source": "UK Government / BEIS; Scottish Government policy example",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "Published as part of the 2021 UK Net Zero Strategy; retained as a historical/current policy framework example. Project timing in the strategy was prospective and is not treated as proof of present operation.",
+    "instrument_type": [
+      "target_or_commitment",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering",
+      "other_negative_emissions_engineering"
+    ],
+    "engineering_pathway": [
+      "marine_geological_co2_storage",
+      "land_sea_coordinated_negative_emissions"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "国家净零战略中的具体负排放政策示例明确将大气DAC与海底下方离岸地质永久封存耦合；仅按“负排放捕集—陆海输送—海洋地质封存”链条纳入，不纳入普通点源CCS。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_core_definition",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "national_NET_policy_example_explicitly_coupling_atmospheric_DAC_to_offshore_geological_storage"
+  },
+  {
+    "id": 2191,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Weihai / Rongcheng, Shandong",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "威海市海洋发展局政协提案答复——海带全生命周期碳汇监测、标准化试点与交易方法学",
+    "source_url": "https://www.weihai.gov.cn/module/download/downfile.jsp?classid=0&filename=cb9a87d028e14ce78f6ae7c6311c7183.pdf&showname=%E5%A8%81%E6%B5%B7%E5%8F%91%E5%AD%97%E3%80%942025%E3%80%9563%E5%8F%B7%EF%BC%88%E6%94%BF%E5%8D%8F26%E5%8F%B7%EF%BC%89.pdf",
+    "notes": "威海市海洋发展局2025年政协提案答复记录了大型藻类养殖碳汇从研发到MRV/标准化的实施链条：围绕“大型藻类养殖碳储量计算方法”立项技术研发项目，已发布1项团体标准、完成1项山东省标准化示范项目验收和2项配套项目；完成全国首个海带全生命周期碳汇能力监测项目和威海市藻类养殖碳汇标准化试点验收，并与清华大学团队完成海带养殖碳汇方法学研发。答复还提出继续开展海带养殖碳普惠方法学/项目开发并探索省内海洋碳汇交易。该记录证明政府推动的MRV、标准化和项目开发实践，不等于已经产生国家碳市场核证信用。",
+    "source": "威海市海洋发展局",
+    "document_type": "report_or_assessment",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "威海市海洋发展局于2025年6月10日公开答复，记录已完成的海带碳汇监测、标准化验收和方法学研发，并部署下一阶段碳普惠项目与交易准备。",
+    "instrument_type": [
+      "demonstration_support",
+      "mapping_inventory_or_monitoring",
+      "mrv_standard",
+      "standards_development",
+      "carbon_market_or_crediting",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_accounting_and_methodology",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "海洋主管部门正式答复明确记录海带全生命周期碳汇监测、标准化试点验收、碳储量计算标准和碳汇方法学研发，直接服务大型海藻养殖碳汇MRV与交易项目开发。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "official_implemented_macroalgae_carbon_sink_MRV_standardization_and_methodology_programme"
+  },
+  {
+    "id": 2192,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "SCOR international working-group network",
+    "language": "English",
+    "year": 2008,
+    "document_title": "SCOR Working Group 134 — The Microbial Carbon Pump in the Ocean",
+    "source_url": "https://scor-int.org/Annual%20Meetings/2013EC/Tab%202.pdf",
+    "notes": "按Global ONCE代表性里程碑口径，2008年国际海洋科学研究委员会（SCOR）专门设立微型生物碳泵（MCP）科学工作组（SCOR WG134），由焦念志等国际科学家推动MCP机制、海洋碳储存及其全球协同研究。本数据库将该事件年份固定为2008年，并以其作为ONCE理论与国际科学组织谱系的重要前置里程碑。后续SCOR工作组材料用于补充工作组运行、成员及成果信息，不改变本库采用的2008年里程碑年份。",
+    "source": "Scientific Committee on Oceanic Research (SCOR) / Global ONCE milestone compilation",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "按Global ONCE代表性里程碑口径，SCOR于2008年专门设立MCP科学工作组；本库事件年份固定为2008年。",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "carbon_pump_mechanisms_and_integration",
+      "integrated_once_research_and_coordination",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "MCP"
+    ],
+    "filter_tier": "TIER2_ENABLING",
+    "filter_reason": "2008年SCOR专门设立MCP国际科学工作组，是ONCE理论与国际科学治理谱系的重要前置里程碑；工作组本身不是负排放工程部署或监管政策，故保持TIER2_ENABLING。",
+    "keep_core": false,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "framework",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
+    "once_policy_scope": "official_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "official_SCOR_MCP_working_group_in_ONCE_milestone_lineage",
+    "once_official_reference_url": "https://once.xmu.edu.cn/"
+  },
+  {
+    "id": 2193,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "ASLO / SCOR international scientific community",
+    "language": "English",
+    "year": 2011,
+    "document_title": "ASLO–SCOR Microbial Carbon Pump Workshop and ASLO Aquatic Sciences MCP Special Session",
+    "source_url": "https://scor-int.org/Annual%20Meetings/2013EC/Tab%202.pdf",
+    "notes": "SCOR's WG134 final report records an ASLO Emerging Issues workshop report, an ASLO–SCOR Workshop on the Microbial Carbon Pump, and ASLO Aquatic Sciences Meeting Special Session 55 on the MCP in February 2011. These events document international disciplinary uptake of MCP as a coordinated research agenda. The ONCE timeline describes 2011 as MCP being selected as an ASLO frontier scientific issue; this database uses the directly verifiable workshop/special-session formulation and does not treat the event as a formal government policy or as evidence of engineered CO2 removal.",
+    "source": "Scientific Committee on Oceanic Research (SCOR) / Association for the Sciences of Limnology and Oceanography (ASLO)",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "International MCP workshop/special-session activity held and reported in 2011.",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "carbon_pump_mechanisms_and_integration",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "MCP"
+    ],
+    "filter_tier": "TIER2_ENABLING",
+    "filter_reason": "属于MCP国际科学议程形成过程，与ONCE理论谱系直接相关，但不等于ONCE工程、监管或碳市场政策。",
+    "keep_core": false,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "framework",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
+    "once_policy_scope": "official_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "verified_ASLO_SCOR_MCP_science_milestone_in_ONCE_lineage",
+    "once_official_reference_url": "https://once.xmu.edu.cn/"
+  },
+  {
+    "id": 2194,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "IMBeR international scientific community",
+    "language": "English",
+    "year": 2013,
+    "document_title": "IMBeR IMBIZO III Workshop — Biological Pump and Microbial Carbon Pump Carbon Sequestration",
+    "source_url": "https://imber.info/imbizo-iii/the-workshops/",
+    "notes": "IMBeR's official IMBIZO III programme in 2013 included a workshop explicitly examining carbon sequestration through the biological pump and the Microbial Carbon Pump. The user-provided ONCE timeline summarizes 2013 as MCP being selected as one of IMBeR's three strategic directions. A separate IMBeR 2012–2013 annual report states that a SCOR WG134 proposal to create a new SIC! activity focused on DOC production, transformation and storage was not accepted as a new standalone activity. To avoid overstating institutional status, this record captures only the directly verified 2013 IMBIZO III MCP/BP workshop and does not encode the stronger 'one of three strategic directions' claim as an established IMBeR decision.",
+    "source": "Integrated Marine Biosphere Research (IMBeR)",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "IMBIZO III workshop held in January 2013; recorded here as a verified science-programme milestone.",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "carbon_pump_mechanisms_and_integration",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER2_ENABLING",
+    "filter_reason": "IMBeR官方可验证的是2013年MCP/BCP碳封存专题工作坊；不把更强的“战略方向”表述未经核实地写成正式政策事实。",
+    "keep_core": false,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "framework",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
+    "once_policy_scope": "official_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "verified_IMBeR_MCP_BCP_workshop_in_ONCE_milestone_lineage",
+    "once_official_reference_url": "https://once.xmu.edu.cn/"
+  },
+  {
+    "id": 2195,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "PICES / ICES international marine-science community",
+    "language": "English",
+    "year": 2015,
+    "document_title": "Joint PICES–ICES Working Group 33 — Climate Change and Biologically-driven Ocean Carbon Sequestration",
+    "source_url": "https://meetings.pices.int/meetings/Annual/2018/PICES/Agenda/2018-WG-33.pdf",
+    "notes": "PICES records the term of Joint PICES–ICES WG33 on Climate Change and Biologically-driven Ocean Carbon Sequestration as October 2015–October 2018, co-chaired by Nianzhi Jiao, Richard Rivkin and Louis Legendre. The group connected biological carbon sequestration, long-lived dissolved organic carbon and climate-change assessment and became a direct institutional precursor to later ONCE governance. It is retained as a scientific-governance practice, not as a regulatory authorization or a claim of verified additional CDR.",
+    "source": "North Pacific Marine Science Organization (PICES) / International Council for the Exploration of the Sea (ICES)",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Joint WG33 term: October 2015–October 2018.",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "carbon_pump_mechanisms_and_integration",
+      "integrated_once_research_and_coordination",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER2_ENABLING",
+    "filter_reason": "PICES/ICES正式联合碳封存工作组，是ONCE形成前的直接国际科学治理谱系，但并非具体负排放工程政策。",
+    "keep_core": false,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "framework",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
+    "once_policy_scope": "official_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "PICES_ICES_WG33_direct_precursor_to_ONCE",
+    "once_official_reference_url": "https://once.xmu.edu.cn/info/1235/1231.htm"
+  },
+  {
+    "id": 2196,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "Gordon Research Conferences — Ocean Biogeochemistry",
+    "language": "English",
+    "year": 2016,
+    "document_title": "2016 Gordon Research Conference on Ocean Biogeochemistry — ONCE Scientific-Network Precursor",
+    "source_url": "https://once.xmu.edu.cn/info/1237/1250.htm",
+    "notes": "Global ONCE's official archive identifies Nianzhi Jiao as chair of the 2016 Gordon Research Conference on Ocean Biogeochemistry and treats the conference series as part of the international network that later supported ONCE. This record captures the verified international scientific-network milestone shown in the user-provided timeline. It is an enabling research-coordination practice, not a policy instrument, field deployment authorization or carbon-credit methodology.",
+    "source": "Gordon Research Conferences / Global ONCE",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2016 Ocean Biogeochemistry GRC completed; retained as a historical ONCE-network precursor.",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "carbon_pump_mechanisms_and_integration",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER2_ENABLING",
+    "filter_reason": "ONCE官方里程碑谱系中的国际海洋生物地球化学科学平台，作为支撑性实践保留，不升级为核心工程政策。",
+    "keep_core": false,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "framework",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
+    "once_policy_scope": "official_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "GRC_ocean_biogeochemistry_ONCE_network_precursor",
+    "once_official_reference_url": "https://once.xmu.edu.cn/info/1237/1250.htm"
+  },
+  {
+    "id": 2197,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "IOC-UNESCO international ocean-carbon research community",
+    "language": "English",
+    "year": 2018,
+    "document_title": "IOC Working Group on Integrated Ocean Carbon Research (IOC-R) — Formation of Coordinated International Ocean-Carbon Research Group",
+    "source_url": "https://www.unesco.org/en/articles/unesco-cautions-ocean-risks-losing-its-ability-absorb-carbon-exacerbating-global-warming",
+    "notes": "UNESCO states that five international ocean-climate research and coordination programmes had been working together since 2018 in the IOC Working Group on Integrated Ocean Carbon Research (IOC-R). The user-provided timeline labels a UNESCO international working-group milestone at 2016, but targeted searches did not find a primary IOC/UNESCO source supporting that 2016 date. In the strict library, the verified IOC-R formation/coordination milestone is therefore recorded from 2018 rather than fabricating a 2016 event. This group is broader than ONCE and is retained only as an official framework precursor connecting ocean-carbon science and later CDR assessment.",
+    "source": "Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO)",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "UNESCO reports the five programmes working together in IOC-R since 2018.",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "integrated_once_research_and_coordination",
+      "monitoring_observation_and_modeling",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP",
+      "MCP",
+      "SCP"
+    ],
+    "filter_tier": "TIER2_ENABLING",
+    "filter_reason": "IOC-R是更宽的国际海洋碳研究协调机制；仅因其与ONCE里程碑及后续CDR评估的直接框架关系作为支撑层保留。",
+    "keep_core": false,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "framework",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
+    "once_policy_scope": "official_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "verified_IOC_UNESCO_ocean_carbon_working_group_framework_precursor",
+    "once_official_reference_url": "https://once.xmu.edu.cn/"
+  },
+  {
+    "id": 2198,
+    "jurisdiction": "International",
+    "country_or_region": "China / International",
+    "subnational_area": "Global ONCE initiating network",
+    "language": "Chinese",
+    "year": 2017,
+    "document_title": "2017海洋负排放（ONCE）国际大科学计划倡议",
+    "source_url": "https://cnir.xmu.edu.cn/info/1036/2101.htm",
+    "notes": "厦门大学碳中和创新研究中心在2022年福建省科技厅调研报道中明确回溯：2017年发起海洋负排放（ONCE）国际大科学计划倡议，目标是汇聚国内外力量，协同攻关海洋负排放重大理论与关键技术。该条对应用户时间轴中的2017里程碑，并作为ONCE从理论谱系转向专门国际大科学计划的直接组织实践纳入。它本身不是具体工程许可、碳信用核发或某一技术路线的实测净移除结果。",
+    "source": "厦门大学碳中和创新研究中心 / Global ONCE",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "2017年首次发起ONCE国际大科学计划倡议；后续发展为联合国海洋十年框架下Global ONCE Programme。",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "integrated_once_research_and_coordination",
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP",
+      "MCP",
+      "SCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "明确以Ocean Negative Carbon Emissions（ONCE）为对象的国际大科学计划发起行动，是ONCE自身制度化起点。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "direct",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_core_and_Global_ONCE_direct_reference",
+    "once_policy_scope": "strict_core_plus_official_direct_or_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "direct_2017_Global_ONCE_programme_initiative",
+    "once_official_reference_url": "https://once.xmu.edu.cn/"
+  },
+  {
+    "id": 2199,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "IPCC Special Report on the Ocean and Cryosphere in a Changing Climate (SROCC)",
+    "language": "English",
+    "year": 2019,
+    "document_title": "IPCC SROCC (2019) — Assessment Recognition of MCP and ONCE-related Ocean Carbon-Sequestration Concepts",
+    "source_url": "https://www.ipcc.ch/site/assets/uploads/sites/3/2019/12/SROCC_SOD_EntireReport_GovAndExpRevCommentsResponses.pdf",
+    "notes": "IPCC's SROCC review-response record confirms that the term 'microbial carbon pump' is used in Chapter 5. Global ONCE's official geo-engineering page further states that its clean-energy artificial-upwelling/mariculture carbon-sequestration concept was included in SROCC (2019). The ONCE milestone compilation therefore treats SROCC as a major international assessment milestone. This record is deliberately coded as an assessment/framework milestone rather than an IPCC endorsement of commercial deployment, a permit, or a finding that any ONCE pathway already achieves durable net CDR.",
+    "source": "Intergovernmental Panel on Climate Change (IPCC) / Global ONCE",
+    "document_type": "report_or_assessment",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "SROCC published in 2019; retained as a historical international assessment milestone.",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "carbon_pump_mechanisms_and_integration",
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "integrated_once_research_and_coordination"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER2_ENABLING",
+    "filter_reason": "IPCC正式评估中出现MCP并被ONCE官方列为相关方案进入国际评估的重要里程碑；不把国际评估误当成技术授权。",
+    "keep_core": false,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "framework",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
+    "once_policy_scope": "official_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "IPCC_SROCC_assessment_milestone_explicitly_linked_to_ONCE_lineage",
+    "once_official_reference_url": "https://once.xmu.edu.cn/Research/Geo_Engineering.htm"
+  },
+  {
+    "id": 2200,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "IOC-UNESCO / five international ocean-climate research programmes",
+    "language": "English",
+    "year": 2021,
+    "document_title": "Integrated Ocean Carbon Research — Summary and Vision for Coordinated Ocean Carbon Research and Observations for the Next Decade",
+    "source_url": "https://www.unesco.org/en/articles/unesco-cautions-ocean-risks-losing-its-ability-absorb-carbon-exacerbating-global-warming",
+    "notes": "IOC-UNESCO published the 2021 Integrated Ocean Carbon Research (IOC-R) report to synthesize ocean-carbon knowledge and set a coordinated research and observation vision for the next decade. UNESCO explicitly states that the report considers how humanity alters the ocean carbon cycle, including through carbon dioxide removal schemes, and is intended to inform mitigation and adaptation decisions. The ONCE milestone source identifies this report as incorporating MCP theory and related negative-emissions concepts. It remains a broad ocean-carbon assessment, so natural-sink science is not independently used as an ONCE inclusion basis and no specific engineering pathway is force-coded.",
+    "source": "Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO)",
+    "document_type": "report_or_assessment",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Published by IOC-UNESCO in April 2021; historical predecessor to the 2026 IOC-R implementation-oriented report.",
+    "instrument_type": [
+      "research_strategy",
+      "mapping_inventory_or_monitoring",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "integrated_once_research_and_coordination",
+      "monitoring_observation_and_modeling",
+      "carbon_pump_mechanisms_and_integration",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP",
+      "MCP",
+      "SCP"
+    ],
+    "filter_tier": "TIER2_ENABLING",
+    "filter_reason": "IOC-UNESCO正式海洋碳综合研究报告包含CDR研究议题并被ONCE里程碑直接引用，但报告总体范围宽于ONCE，故置于支撑层。",
+    "keep_core": false,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "framework",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
+    "once_policy_scope": "official_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "IOC_R_2021_ocean_carbon_assessment_directly_in_ONCE_milestone_lineage",
+    "once_official_reference_url": "https://once.xmu.edu.cn/"
+  },
+  {
+    "id": 2201,
+    "jurisdiction": "International",
+    "country_or_region": "China / Europe",
+    "subnational_area": "Chinese Academy of Sciences–European Academy of Sciences frontier cooperation",
+    "language": "English",
+    "year": 2022,
+    "document_title": "Ocean-based Climate Action — China–Europe Academy Joint Assessment",
+    "source_url": "https://imber.info/event/forum-on-the-progress-analysis-of-china-europe-ocean-science-technology/",
+    "notes": "The Chinese Academy of Sciences (CAS) and the European Academy of Sciences (EurASc) jointly sponsored the China–Europe frontier forum, and the 2022 forum record lists the report 'Ocean-based climate action' by Jean-Pierre Gattuso, Nianzhi Jiao and co-authors. The ONCE milestone compilation treats this as a China–Europe academy-level ocean-climate-action milestone. Because the report assesses a portfolio of ocean-based measures broader than ONCE, it is retained as an enabling science-policy framework and is not automatically mapped to every engineering pathway it discusses.",
+    "source": "Chinese Academy of Sciences (CAS) / European Academy of Sciences (EurASc) / IMBeR",
+    "document_type": "report_or_assessment",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Joint China–Europe ocean-based climate-action assessment published in 2022.",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "integrated_once_research_and_coordination",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ],
+    "filter_tier": "TIER2_ENABLING",
+    "filter_reason": "中欧科学院层面的海洋气候行动综合评估与ONCE核心成员直接相关，但覆盖19类更宽海洋气候措施，不能整体当作ONCE工程政策。",
+    "keep_core": false,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "framework",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
+    "once_policy_scope": "official_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "China_Europe_academy_ocean_based_climate_action_milestone_linked_to_ONCE",
+    "once_official_reference_url": "https://once.xmu.edu.cn/"
+  },
+  {
+    "id": 2202,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "",
+    "language": "Chinese",
+    "year": 2023,
+    "document_title": "国务院批复建设海洋负排放国际大科学计划（ONCE）",
+    "source_url": "https://www.fujian.gov.cn/xwdt/fjyw/202409/t20240925_6528570.htm",
+    "notes": "Global ONCE《代表性里程碑（2026.7.31）》记录，2023年10月21日海洋负排放国际大科学计划获党中央、国务院批准。福建省人民政府门户网站此后独立确认“海洋负排放国际大科学计划获国务院批复建设”。该条按国家层面重大国际大科学计划批准/建设政策纳入核心库。公开网页未附批复全文，因此本记录只确认批准建设事实，不自行扩写批复中的具体预算、工程规模、技术授权或碳信用安排。",
+    "source": "国务院批复建设事实（福建省人民政府公开确认） / Global ONCE代表性里程碑",
+    "document_type": "permit_or_project_decision",
+    "policy_practice_type": "policy",
+    "legal_force": "mixed",
+    "implementation_status": "in_force_or_active",
+    "status_note": "ONCE里程碑材料记载批准日期为2023年10月21日；福建省政府公开确认该计划获国务院批复建设。",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "integrated_once_research_and_coordination",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP",
+      "MCP",
+      "SCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "国家层面对ONCE国际大科学计划的直接批准建设决定，是最强的ONCE专门政策制度化证据之一。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "direct",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_core_and_Global_ONCE_direct_reference",
+    "once_policy_scope": "strict_core_plus_official_direct_or_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "State_Council_approval_to_build_Global_ONCE_programme",
+    "once_official_reference_url": "https://once.xmu.edu.cn/"
+  },
+  {
+    "id": 2203,
+    "jurisdiction": "National",
+    "country_or_region": "China",
+    "subnational_area": "Global ONCE domestic implementation mechanism",
+    "language": "Chinese",
+    "year": 2024,
+    "document_title": "ONCE国内实施方案与整体实施方案——国内专责工作组审议通过",
+    "source_url": "https://news.xmu.edu.cn/info/1003/525492.htm",
+    "notes": "用户提供的Global ONCE《代表性里程碑（2026.7.31）》明确记录：制定ONCE国内实施方案和整体实施方案，并于2024年3月通过ONCE国内专责工作组审议。厦门大学2026年科技部国际合作司调研报道进一步确认ONCE整体实施方案持续修订完善，并涉及整体任务布局、阶段性建设、组织运行、任务管理和经费管理。该条记录的是ONCE国家/国内实施治理机制本身，不把内部方案存在这一事实扩张为对任一海洋负排放技术的 blanket deployment authorization。",
+    "source": "Global ONCE代表性里程碑 / 厦门大学国际海洋科学中心建设指挥部",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "implementation_in_progress",
+    "status_note": "里程碑材料记录2024年3月国内专责工作组审议通过；2026年官方校内材料显示整体实施方案仍在持续修订完善。",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "integrated_once_research_and_coordination",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP",
+      "MCP",
+      "SCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "ONCE自身经国内专责工作组审议的实施方案，是直接的计划实施与治理制度记录。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "direct",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_core_and_Global_ONCE_direct_reference",
+    "once_policy_scope": "strict_core_plus_official_direct_or_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "formal_Global_ONCE_domestic_and_overall_implementation_plans",
+    "once_official_reference_url": "https://once.xmu.edu.cn/"
+  },
+  {
+    "id": 2204,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "Global coastal wetlands / INTECOL Wetlands 2025",
+    "language": "Chinese",
+    "year": 2025,
+    "document_title": "《陆海联动——联合国海洋十年ONCE计划下的滨海湿地碳汇倡议》",
+    "source_url": "https://www.cgs.gov.cn/ywdt/dwdt/202507/t20250709_839501.html",
+    "notes": "中国地质调查局官方报道确认，2025年国际湿地大会期间正式发布《陆海联动——联合国海洋十年ONCE计划下的滨海湿地碳汇倡议》，提出科学协同、全球联盟、技术共享、传统融合、示范引领五大行动框架，并获得15个国家32位科学家现场签署支持。报道还明确提出依托滨海湿地修复、海洋碱化等工程实践推进ONCE储碳工程。该条按直接ONCE滨海湿地增汇治理倡议纳入；倡议本身不是碳信用方法学，也不能把所有一般湿地保护项目自动纳入ONCE。",
+    "source": "中国地质调查局青岛海洋地质研究所 / Global ONCE",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "2025年7月在国际湿地大会正式发布，并开放全球科学家支持。",
+    "instrument_type": [
+      "ecosystem_restoration_or_conservation_programme",
+      "research_strategy",
+      "demonstration_support",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "coastal_wetland_carbon_cycle_and_storage",
+      "integrated_once_research_and_coordination",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_wetland_restoration_and_sink_enhancement",
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP",
+      "MCP",
+      "SCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "倡议名称、行动框架和示范方向直接以联合国海洋十年ONCE滨海湿地碳汇增汇为对象，不是泛湿地保护。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "direct",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_core_and_Global_ONCE_direct_reference",
+    "once_policy_scope": "strict_core_plus_official_direct_or_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "direct_Global_ONCE_coastal_wetland_carbon_sink_initiative",
+    "once_official_reference_url": "https://cnir.xmu.edu.cn/info/1033/5953.htm"
+  },
+  {
+    "id": 2205,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "ASM Microbe 2026 / Global ONCE microbial-climate policy interface",
+    "language": "Chinese",
+    "year": 2026,
+    "document_title": "《重塑气候行动的微生物宣言》——ONCE推动微生物海洋碳汇纳入NDC与全球碳市场",
+    "source_url": "https://asm.org/events/asm-microbe/home",
+    "notes": "Global ONCE《代表性里程碑（2026.7.31）》记录，2026年6月7日ONCE在ASM Microbe作特邀主旨报告并牵头发布《重塑气候行动的微生物宣言》，推动基于微生物技术的海洋碳汇从理论验证走向规模化部署，并呼吁将相关成果纳入各国NDCs及全球碳市场体系。ASM官方页面可独立确认ASM Microbe 2026在华盛顿举行，但公开检索未发现可直接核验该宣言全文的ASM独立页面，因此该记录明确把宣言名称和政策主张归因于ONCE里程碑材料，而不把会议存在本身当作宣言内容的独立验证。该条属于直接ONCE政策倡议，不等于NDC已经采纳或碳市场已经接受相关方法学。",
+    "source": "Global ONCE代表性里程碑 / American Society for Microbiology (ASM) conference record",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "ONCE里程碑材料记录2026年6月7日发布；ASM官方确认2026大会举办，但宣言全文的独立公开页面尚未检出。",
+    "instrument_type": [
+      "research_strategy",
+      "international_coordination",
+      "policy_planning_and_coordination",
+      "carbon_market_or_crediting"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "carbon_pump_mechanisms_and_integration",
+      "integrated_once_research_and_coordination",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "other_negative_emissions_engineering"
+    ],
+    "engineering_pathway": [
+      "marine_microbial_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "international_governance_and_coordination",
+      "policy_planning_and_governance",
+      "carbon_crediting_and_trading"
+    ],
+    "carbon_pump_mechanism": [
+      "MCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "ONCE官方里程碑直接提出微生物海洋碳汇规模化部署及NDC/全球碳市场政策嵌入，属于明确的人为增汇政策倡议。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "direct",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_core_and_Global_ONCE_direct_reference",
+    "once_policy_scope": "strict_core_plus_official_direct_or_framework",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "direct_ONCE_microbial_climate_action_manifesto_and_policy_integration_call",
+    "once_official_reference_url": "https://once.xmu.edu.cn/"
   }
 ]

@@ -397,7 +397,6 @@ const FILTERS = [
   "standards_policy_market_theme",
   "carbon_pump_mechanism",
   "document_type",
-  "policy_practice_type",
   "legal_force",
   "implementation_status",
   "instrument_type",
@@ -513,7 +512,7 @@ const CONTROLLED_LABELS_ZH = {
   "land_sea_coordinated_negative_emissions": "陆海统筹负排放",
   "wastewater_effluent_alkalinization": "污水处理厂尾水碱化负排放",
   "ocean_alkalinity_enhancement": "海洋碱度增强",
-  "microalgae_carbon_mitigation": "微藻碳减排工程",
+  "microalgae_carbon_mitigation": "微藻固碳与增汇",
   "marine_geological_co2_storage": "海洋二氧化碳地质封存",
   "ocean_fertilization": "海洋施肥",
   "artificial_upwelling": "人工上升流",
@@ -537,7 +536,24 @@ const CONTROLLED_LABELS_ZH = {
   "BCP": "生物碳泵（BCP）",
   "CCP": "碳酸盐泵（CCP）",
   "SCP": "溶解度泵（SCP）",
-  "not_specified": "未具体说明"
+  "not_specified": "未具体说明",
+  "memorandum_or_agreement": "谅解备忘录或合作协议",
+  "implementation_in_progress": "实施推进中",
+  "carbon_finance_or_green_finance": "碳金融或绿色金融",
+  "carbon_market_or_crediting": "碳市场或碳信用",
+  "standards_development": "标准制定",
+  "electrochemical_ocean_alkalinity_enhancement": "电化学海洋碱度增强",
+  "integrated_multi_trophic_aquaculture_and_carbon_sink": "多营养层级综合养殖增汇",
+  "marine_microbial_sink_enhancement": "海洋微生物增汇",
+  "marine_ranch_sink_enhancement": "海洋牧场增汇",
+  "microalgae_carbon_fixation": "微藻固碳与增汇",
+  "river_alkalinity_enhancement_to_ocean": "河流碱度增强入海增汇",
+  "direct": "ONCE直接关联",
+  "framework": "ONCE框架关联",
+  "none": "无ONCE官方关联标记",
+  "TIER1_CORE": "一级核心",
+  "TIER2_ENABLING": "二级支撑",
+
 };
 const CONTROLLED_LABELS_EN = {
   "policy": "Policy",
@@ -619,7 +635,7 @@ const CONTROLLED_LABELS_EN = {
   "land_sea_coordinated_negative_emissions": "Land-sea coordinated negative emissions",
   "wastewater_effluent_alkalinization": "Wastewater-effluent alkalinization",
   "ocean_alkalinity_enhancement": "Ocean alkalinity enhancement",
-  "microalgae_carbon_mitigation": "Microalgae carbon-mitigation engineering",
+  "microalgae_carbon_mitigation": "Microalgae carbon fixation and sink enhancement",
   "marine_geological_co2_storage": "Marine geological CO₂ storage",
   "ocean_fertilization": "Ocean fertilization",
   "artificial_upwelling": "Artificial upwelling",
@@ -643,7 +659,24 @@ const CONTROLLED_LABELS_EN = {
   "BCP": "Biological carbon pump (BCP)",
   "CCP": "Carbonate counter pump (CCP)",
   "SCP": "Solubility carbon pump (SCP)",
-  "not_specified": "Not specified"
+  "not_specified": "Not specified",
+  "memorandum_or_agreement": "Memorandum or cooperation agreement",
+  "implementation_in_progress": "Implementation in progress",
+  "carbon_finance_or_green_finance": "Carbon finance or green finance",
+  "carbon_market_or_crediting": "Carbon market or crediting",
+  "standards_development": "Standards development",
+  "electrochemical_ocean_alkalinity_enhancement": "Electrochemical ocean alkalinity enhancement",
+  "integrated_multi_trophic_aquaculture_and_carbon_sink": "Integrated multi-trophic aquaculture sink enhancement",
+  "marine_microbial_sink_enhancement": "Marine microbial sink enhancement",
+  "marine_ranch_sink_enhancement": "Marine-ranch sink enhancement",
+  "microalgae_carbon_fixation": "Microalgae carbon fixation and sink enhancement",
+  "river_alkalinity_enhancement_to_ocean": "River alkalinity enhancement with ocean storage",
+  "direct": "Direct ONCE linkage",
+  "framework": "ONCE framework linkage",
+  "none": "No official ONCE linkage flag",
+  "TIER1_CORE": "Tier 1 core",
+  "TIER2_ENABLING": "Tier 2 enabling",
+
 };
 const I18N = {
   zh: {
@@ -914,8 +947,19 @@ function humanizeCode(value){
   const raw=norm(value); if(!raw) return lang==="zh"?"（空）":"(Empty)";
   return raw.replace(/_/g," ").replace(/\bco2\b/ig,"CO₂").replace(/\bmrv\b/ig,"MRV").replace(/^./,c=>c.toUpperCase());
 }
+
+const CONTROLLED_VALUE_ALIASES = {
+  "microalgae_carbon_mitigation": "microalgae_carbon_fixation"
+};
+
+function normalizeControlledCode(value){
+  const raw = norm(value);
+  return CONTROLLED_VALUE_ALIASES[raw] || raw;
+}
+
 function displayControlledValue(value){
-  const raw=norm(value); if(!raw||raw==="（空）") return lang==="zh"?"（空）":"(Empty)";
+  const raw0=norm(value); if(!raw0||raw0==="（空）") return lang==="zh"?"（空）":"(Empty)";
+  const raw=normalizeControlledCode(raw0);
   if(lang === "zh") return CONTROLLED_LABELS_ZH[raw] || maybeTranslate(raw) || raw;
   return CONTROLLED_LABELS_EN[raw] || humanizeCode(VALUE_MAP_EN[raw] || raw);
 }
@@ -928,11 +972,11 @@ function displayField(value){
   const vals=valuesOf(value); return vals.length?vals.map(displayControlledValue).join(lang==="zh"?"；":"; "):"—";
 }
 function getFilterRawValues(r,key){
-  const vals=valuesOf(r?.[key]); return vals.length?Array.from(new Set(vals)):["（空）"];
+  const vals=valuesOf(r?.[key]).map(normalizeControlledCode); return vals.length?Array.from(new Set(vals)):["（空）"];
 }
 function getFilterRawValue(r,key){ return getFilterRawValues(r,key)[0]||"（空）"; }
 function getFilterDisplayValue(key,rawValue){ return displayControlledValue(rawValue); }
-function normalizeSelectionValue(key,value){ return norm(value); }
+function normalizeSelectionValue(key,value){ return normalizeControlledCode(value); }
 function normalizeAllSelections(){
   for(const key of FILTERS){ const current=Array.from(selections.get(key)||[]); selections.set(key,new Set(current.map(v=>normalizeSelectionValue(key,v)).filter(Boolean))); }
 }
@@ -1004,7 +1048,6 @@ const REQUIRED_ONCE_FIELDS = [
   "notes",
   "source",
   "document_type",
-  "policy_practice_type",
   "legal_force",
   "implementation_status",
   "status_note",
