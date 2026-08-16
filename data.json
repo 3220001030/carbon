@@ -37671,14 +37671,14 @@
     "language": "English",
     "year": 2008,
     "document_title": "SCOR Working Group 134 — The Microbial Carbon Pump in the Ocean",
-    "source_url": "https://scor-int.org/Annual%20Meetings/2013EC/Tab%202.pdf",
-    "notes": "按Global ONCE代表性里程碑口径，2008年国际海洋科学研究委员会（SCOR）专门设立微型生物碳泵（MCP）科学工作组（SCOR WG134），由焦念志等国际科学家推动MCP机制、海洋碳储存及其全球协同研究。本数据库将该事件年份固定为2008年，并以其作为ONCE理论与国际科学组织谱系的重要前置里程碑。后续SCOR工作组材料用于补充工作组运行、成员及成果信息，不改变本库采用的2008年里程碑年份。",
+    "source_url": "https://scor-int.org/Annual%20Meetings/2008GM/Microbial_Carbon_Pump.pdf",
+    "notes": "SCOR 2008年度会议材料收录了“The Microbial Carbon Pump in the Ocean”工作组提案；SCOR后续官方工作组材料明确将WG134标注为“approved 2008”。因此本库将2008固定为SCOR WG134获批/设立年份。WG134的第一次正式工作组会议则于2009年10月27—30日在厦门举行，两者作为不同历史节点分别记录，避免把“设立年份”和“首次会议年份”混淆。该工作组是MCP国际科学组织化的重要节点，但并非负排放工程许可或碳信用政策。",
     "source": "Scientific Committee on Oceanic Research (SCOR) / Global ONCE milestone compilation",
     "document_type": "funding_or_programme",
     "policy_practice_type": "practice",
     "legal_force": "non_binding",
     "implementation_status": "ended",
-    "status_note": "按Global ONCE代表性里程碑口径，SCOR于2008年专门设立MCP科学工作组；本库事件年份固定为2008年。",
+    "status_note": "SCOR WG134于2008年获批/设立；首次正式工作组会议发生于2009年。",
     "instrument_type": [
       "research_strategy",
       "international_coordination",
@@ -37704,7 +37704,7 @@
       "MCP"
     ],
     "filter_tier": "TIER2_ENABLING",
-    "filter_reason": "2008年SCOR专门设立MCP国际科学工作组，是ONCE理论与国际科学治理谱系的重要前置里程碑；工作组本身不是负排放工程部署或监管政策，故保持TIER2_ENABLING。",
+    "filter_reason": "SCOR官方后续材料明确标注WG134为approved 2008，与Global ONCE里程碑口径一致；作为MCP国际科学组织化前置里程碑纳入TIER2_ENABLING。",
     "keep_core": false,
     "keep_core_plus_enabling": true,
     "official_once_endorsement": "framework",
@@ -37713,105 +37713,6 @@
     "once_policy_scope": "official_framework",
     "dedicated_once_only": true,
     "dedicated_once_selection_basis": "official_SCOR_MCP_working_group_in_ONCE_milestone_lineage",
-    "once_official_reference_url": "https://once.xmu.edu.cn/"
-  },
-  {
-    "id": 2193,
-    "jurisdiction": "International",
-    "country_or_region": "International",
-    "subnational_area": "ASLO / SCOR international scientific community",
-    "language": "English",
-    "year": 2011,
-    "document_title": "ASLO–SCOR Microbial Carbon Pump Workshop and ASLO Aquatic Sciences MCP Special Session",
-    "source_url": "https://scor-int.org/Annual%20Meetings/2013EC/Tab%202.pdf",
-    "notes": "SCOR's WG134 final report records an ASLO Emerging Issues workshop report, an ASLO–SCOR Workshop on the Microbial Carbon Pump, and ASLO Aquatic Sciences Meeting Special Session 55 on the MCP in February 2011. These events document international disciplinary uptake of MCP as a coordinated research agenda. The ONCE timeline describes 2011 as MCP being selected as an ASLO frontier scientific issue; this database uses the directly verifiable workshop/special-session formulation and does not treat the event as a formal government policy or as evidence of engineered CO2 removal.",
-    "source": "Scientific Committee on Oceanic Research (SCOR) / Association for the Sciences of Limnology and Oceanography (ASLO)",
-    "document_type": "funding_or_programme",
-    "policy_practice_type": "practice",
-    "legal_force": "non_binding",
-    "implementation_status": "ended",
-    "status_note": "International MCP workshop/special-session activity held and reported in 2011.",
-    "instrument_type": [
-      "research_strategy",
-      "international_coordination"
-    ],
-    "policy_orientation": "evidence_building",
-    "once_primary_type": "theory_and_research",
-    "once_types": [
-      "theory_and_research"
-    ],
-    "theory_research_theme": [
-      "carbon_pump_mechanisms_and_integration",
-      "integrated_once_research_and_coordination"
-    ],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "international_governance_and_coordination"
-    ],
-    "carbon_pump_mechanism": [
-      "MCP"
-    ],
-    "filter_tier": "TIER2_ENABLING",
-    "filter_reason": "属于MCP国际科学议程形成过程，与ONCE理论谱系直接相关，但不等于ONCE工程、监管或碳市场政策。",
-    "keep_core": false,
-    "keep_core_plus_enabling": true,
-    "official_once_endorsement": "framework",
-    "keep_once_policy": true,
-    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
-    "once_policy_scope": "official_framework",
-    "dedicated_once_only": true,
-    "dedicated_once_selection_basis": "verified_ASLO_SCOR_MCP_science_milestone_in_ONCE_lineage",
-    "once_official_reference_url": "https://once.xmu.edu.cn/"
-  },
-  {
-    "id": 2194,
-    "jurisdiction": "International",
-    "country_or_region": "International",
-    "subnational_area": "IMBeR international scientific community",
-    "language": "English",
-    "year": 2013,
-    "document_title": "IMBeR IMBIZO III Workshop — Biological Pump and Microbial Carbon Pump Carbon Sequestration",
-    "source_url": "https://imber.info/imbizo-iii/the-workshops/",
-    "notes": "IMBeR's official IMBIZO III programme in 2013 included a workshop explicitly examining carbon sequestration through the biological pump and the Microbial Carbon Pump. The user-provided ONCE timeline summarizes 2013 as MCP being selected as one of IMBeR's three strategic directions. A separate IMBeR 2012–2013 annual report states that a SCOR WG134 proposal to create a new SIC! activity focused on DOC production, transformation and storage was not accepted as a new standalone activity. To avoid overstating institutional status, this record captures only the directly verified 2013 IMBIZO III MCP/BP workshop and does not encode the stronger 'one of three strategic directions' claim as an established IMBeR decision.",
-    "source": "Integrated Marine Biosphere Research (IMBeR)",
-    "document_type": "funding_or_programme",
-    "policy_practice_type": "practice",
-    "legal_force": "non_binding",
-    "implementation_status": "ended",
-    "status_note": "IMBIZO III workshop held in January 2013; recorded here as a verified science-programme milestone.",
-    "instrument_type": [
-      "research_strategy",
-      "international_coordination"
-    ],
-    "policy_orientation": "evidence_building",
-    "once_primary_type": "theory_and_research",
-    "once_types": [
-      "theory_and_research"
-    ],
-    "theory_research_theme": [
-      "carbon_pump_mechanisms_and_integration",
-      "integrated_once_research_and_coordination"
-    ],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "international_governance_and_coordination"
-    ],
-    "carbon_pump_mechanism": [
-      "BCP",
-      "MCP"
-    ],
-    "filter_tier": "TIER2_ENABLING",
-    "filter_reason": "IMBeR官方可验证的是2013年MCP/BCP碳封存专题工作坊；不把更强的“战略方向”表述未经核实地写成正式政策事实。",
-    "keep_core": false,
-    "keep_core_plus_enabling": true,
-    "official_once_endorsement": "framework",
-    "keep_once_policy": true,
-    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
-    "once_policy_scope": "official_framework",
-    "dedicated_once_only": true,
-    "dedicated_once_selection_basis": "verified_IMBeR_MCP_BCP_workshop_in_ONCE_milestone_lineage",
     "once_official_reference_url": "https://once.xmu.edu.cn/"
   },
   {
@@ -37868,111 +37769,6 @@
     "once_official_reference_url": "https://once.xmu.edu.cn/info/1235/1231.htm"
   },
   {
-    "id": 2196,
-    "jurisdiction": "International",
-    "country_or_region": "International",
-    "subnational_area": "Gordon Research Conferences — Ocean Biogeochemistry",
-    "language": "English",
-    "year": 2016,
-    "document_title": "2016 Gordon Research Conference on Ocean Biogeochemistry — ONCE Scientific-Network Precursor",
-    "source_url": "https://once.xmu.edu.cn/info/1237/1250.htm",
-    "notes": "Global ONCE's official archive identifies Nianzhi Jiao as chair of the 2016 Gordon Research Conference on Ocean Biogeochemistry and treats the conference series as part of the international network that later supported ONCE. This record captures the verified international scientific-network milestone shown in the user-provided timeline. It is an enabling research-coordination practice, not a policy instrument, field deployment authorization or carbon-credit methodology.",
-    "source": "Gordon Research Conferences / Global ONCE",
-    "document_type": "funding_or_programme",
-    "policy_practice_type": "practice",
-    "legal_force": "non_binding",
-    "implementation_status": "ended",
-    "status_note": "2016 Ocean Biogeochemistry GRC completed; retained as a historical ONCE-network precursor.",
-    "instrument_type": [
-      "research_strategy",
-      "international_coordination"
-    ],
-    "policy_orientation": "evidence_building",
-    "once_primary_type": "theory_and_research",
-    "once_types": [
-      "theory_and_research"
-    ],
-    "theory_research_theme": [
-      "carbon_pump_mechanisms_and_integration",
-      "integrated_once_research_and_coordination"
-    ],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "international_governance_and_coordination"
-    ],
-    "carbon_pump_mechanism": [
-      "BCP",
-      "MCP"
-    ],
-    "filter_tier": "TIER2_ENABLING",
-    "filter_reason": "ONCE官方里程碑谱系中的国际海洋生物地球化学科学平台，作为支撑性实践保留，不升级为核心工程政策。",
-    "keep_core": false,
-    "keep_core_plus_enabling": true,
-    "official_once_endorsement": "framework",
-    "keep_once_policy": true,
-    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
-    "once_policy_scope": "official_framework",
-    "dedicated_once_only": true,
-    "dedicated_once_selection_basis": "GRC_ocean_biogeochemistry_ONCE_network_precursor",
-    "once_official_reference_url": "https://once.xmu.edu.cn/info/1237/1250.htm"
-  },
-  {
-    "id": 2197,
-    "jurisdiction": "International",
-    "country_or_region": "International",
-    "subnational_area": "IOC-UNESCO international ocean-carbon research community",
-    "language": "English",
-    "year": 2018,
-    "document_title": "IOC Working Group on Integrated Ocean Carbon Research (IOC-R) — Formation of Coordinated International Ocean-Carbon Research Group",
-    "source_url": "https://www.unesco.org/en/articles/unesco-cautions-ocean-risks-losing-its-ability-absorb-carbon-exacerbating-global-warming",
-    "notes": "UNESCO states that five international ocean-climate research and coordination programmes had been working together since 2018 in the IOC Working Group on Integrated Ocean Carbon Research (IOC-R). The user-provided timeline labels a UNESCO international working-group milestone at 2016, but targeted searches did not find a primary IOC/UNESCO source supporting that 2016 date. In the strict library, the verified IOC-R formation/coordination milestone is therefore recorded from 2018 rather than fabricating a 2016 event. This group is broader than ONCE and is retained only as an official framework precursor connecting ocean-carbon science and later CDR assessment.",
-    "source": "Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO)",
-    "document_type": "funding_or_programme",
-    "policy_practice_type": "practice",
-    "legal_force": "non_binding",
-    "implementation_status": "in_force_or_active",
-    "status_note": "UNESCO reports the five programmes working together in IOC-R since 2018.",
-    "instrument_type": [
-      "research_strategy",
-      "international_coordination",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "evidence_building",
-    "once_primary_type": "theory_and_research",
-    "once_types": [
-      "theory_and_research",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "integrated_once_research_and_coordination",
-      "monitoring_observation_and_modeling",
-      "carbon_pump_mechanisms_and_integration"
-    ],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "international_governance_and_coordination"
-    ],
-    "carbon_pump_mechanism": [
-      "BCP",
-      "CCP",
-      "MCP",
-      "SCP"
-    ],
-    "filter_tier": "TIER2_ENABLING",
-    "filter_reason": "IOC-R是更宽的国际海洋碳研究协调机制；仅因其与ONCE里程碑及后续CDR评估的直接框架关系作为支撑层保留。",
-    "keep_core": false,
-    "keep_core_plus_enabling": true,
-    "official_once_endorsement": "framework",
-    "keep_once_policy": true,
-    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
-    "once_policy_scope": "official_framework",
-    "dedicated_once_only": true,
-    "dedicated_once_selection_basis": "verified_IOC_UNESCO_ocean_carbon_working_group_framework_precursor",
-    "once_official_reference_url": "https://once.xmu.edu.cn/"
-  },
-  {
     "id": 2198,
     "jurisdiction": "International",
     "country_or_region": "China / International",
@@ -38027,170 +37823,6 @@
     "once_policy_scope": "strict_core_plus_official_direct_or_framework",
     "dedicated_once_only": true,
     "dedicated_once_selection_basis": "direct_2017_Global_ONCE_programme_initiative",
-    "once_official_reference_url": "https://once.xmu.edu.cn/"
-  },
-  {
-    "id": 2199,
-    "jurisdiction": "International",
-    "country_or_region": "International",
-    "subnational_area": "IPCC Special Report on the Ocean and Cryosphere in a Changing Climate (SROCC)",
-    "language": "English",
-    "year": 2019,
-    "document_title": "IPCC SROCC (2019) — Assessment Recognition of MCP and ONCE-related Ocean Carbon-Sequestration Concepts",
-    "source_url": "https://www.ipcc.ch/site/assets/uploads/sites/3/2019/12/SROCC_SOD_EntireReport_GovAndExpRevCommentsResponses.pdf",
-    "notes": "IPCC's SROCC review-response record confirms that the term 'microbial carbon pump' is used in Chapter 5. Global ONCE's official geo-engineering page further states that its clean-energy artificial-upwelling/mariculture carbon-sequestration concept was included in SROCC (2019). The ONCE milestone compilation therefore treats SROCC as a major international assessment milestone. This record is deliberately coded as an assessment/framework milestone rather than an IPCC endorsement of commercial deployment, a permit, or a finding that any ONCE pathway already achieves durable net CDR.",
-    "source": "Intergovernmental Panel on Climate Change (IPCC) / Global ONCE",
-    "document_type": "report_or_assessment",
-    "policy_practice_type": "policy",
-    "legal_force": "non_binding",
-    "implementation_status": "ended",
-    "status_note": "SROCC published in 2019; retained as a historical international assessment milestone.",
-    "instrument_type": [
-      "research_strategy",
-      "international_coordination",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "evidence_building",
-    "once_primary_type": "theory_and_research",
-    "once_types": [
-      "theory_and_research",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "carbon_pump_mechanisms_and_integration",
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "integrated_once_research_and_coordination"
-    ],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "international_governance_and_coordination"
-    ],
-    "carbon_pump_mechanism": [
-      "BCP",
-      "MCP"
-    ],
-    "filter_tier": "TIER2_ENABLING",
-    "filter_reason": "IPCC正式评估中出现MCP并被ONCE官方列为相关方案进入国际评估的重要里程碑；不把国际评估误当成技术授权。",
-    "keep_core": false,
-    "keep_core_plus_enabling": true,
-    "official_once_endorsement": "framework",
-    "keep_once_policy": true,
-    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
-    "once_policy_scope": "official_framework",
-    "dedicated_once_only": true,
-    "dedicated_once_selection_basis": "IPCC_SROCC_assessment_milestone_explicitly_linked_to_ONCE_lineage",
-    "once_official_reference_url": "https://once.xmu.edu.cn/Research/Geo_Engineering.htm"
-  },
-  {
-    "id": 2200,
-    "jurisdiction": "International",
-    "country_or_region": "International",
-    "subnational_area": "IOC-UNESCO / five international ocean-climate research programmes",
-    "language": "English",
-    "year": 2021,
-    "document_title": "Integrated Ocean Carbon Research — Summary and Vision for Coordinated Ocean Carbon Research and Observations for the Next Decade",
-    "source_url": "https://www.unesco.org/en/articles/unesco-cautions-ocean-risks-losing-its-ability-absorb-carbon-exacerbating-global-warming",
-    "notes": "IOC-UNESCO published the 2021 Integrated Ocean Carbon Research (IOC-R) report to synthesize ocean-carbon knowledge and set a coordinated research and observation vision for the next decade. UNESCO explicitly states that the report considers how humanity alters the ocean carbon cycle, including through carbon dioxide removal schemes, and is intended to inform mitigation and adaptation decisions. The ONCE milestone source identifies this report as incorporating MCP theory and related negative-emissions concepts. It remains a broad ocean-carbon assessment, so natural-sink science is not independently used as an ONCE inclusion basis and no specific engineering pathway is force-coded.",
-    "source": "Intergovernmental Oceanographic Commission of UNESCO (IOC-UNESCO)",
-    "document_type": "report_or_assessment",
-    "policy_practice_type": "policy",
-    "legal_force": "non_binding",
-    "implementation_status": "ended",
-    "status_note": "Published by IOC-UNESCO in April 2021; historical predecessor to the 2026 IOC-R implementation-oriented report.",
-    "instrument_type": [
-      "research_strategy",
-      "mapping_inventory_or_monitoring",
-      "international_coordination",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "evidence_building",
-    "once_primary_type": "theory_and_research",
-    "once_types": [
-      "theory_and_research",
-      "standards_policy_and_carbon_trading"
-    ],
-    "theory_research_theme": [
-      "integrated_once_research_and_coordination",
-      "monitoring_observation_and_modeling",
-      "carbon_pump_mechanisms_and_integration",
-      "ocean_negative_emissions_science_and_technology_assessment"
-    ],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "international_governance_and_coordination",
-      "policy_planning_and_governance"
-    ],
-    "carbon_pump_mechanism": [
-      "BCP",
-      "CCP",
-      "MCP",
-      "SCP"
-    ],
-    "filter_tier": "TIER2_ENABLING",
-    "filter_reason": "IOC-UNESCO正式海洋碳综合研究报告包含CDR研究议题并被ONCE里程碑直接引用，但报告总体范围宽于ONCE，故置于支撑层。",
-    "keep_core": false,
-    "keep_core_plus_enabling": true,
-    "official_once_endorsement": "framework",
-    "keep_once_policy": true,
-    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
-    "once_policy_scope": "official_framework",
-    "dedicated_once_only": true,
-    "dedicated_once_selection_basis": "IOC_R_2021_ocean_carbon_assessment_directly_in_ONCE_milestone_lineage",
-    "once_official_reference_url": "https://once.xmu.edu.cn/"
-  },
-  {
-    "id": 2201,
-    "jurisdiction": "International",
-    "country_or_region": "China / Europe",
-    "subnational_area": "Chinese Academy of Sciences–European Academy of Sciences frontier cooperation",
-    "language": "English",
-    "year": 2022,
-    "document_title": "Ocean-based Climate Action — China–Europe Academy Joint Assessment",
-    "source_url": "https://imber.info/event/forum-on-the-progress-analysis-of-china-europe-ocean-science-technology/",
-    "notes": "The Chinese Academy of Sciences (CAS) and the European Academy of Sciences (EurASc) jointly sponsored the China–Europe frontier forum, and the 2022 forum record lists the report 'Ocean-based climate action' by Jean-Pierre Gattuso, Nianzhi Jiao and co-authors. The ONCE milestone compilation treats this as a China–Europe academy-level ocean-climate-action milestone. Because the report assesses a portfolio of ocean-based measures broader than ONCE, it is retained as an enabling science-policy framework and is not automatically mapped to every engineering pathway it discusses.",
-    "source": "Chinese Academy of Sciences (CAS) / European Academy of Sciences (EurASc) / IMBeR",
-    "document_type": "report_or_assessment",
-    "policy_practice_type": "policy",
-    "legal_force": "non_binding",
-    "implementation_status": "ended",
-    "status_note": "Joint China–Europe ocean-based climate-action assessment published in 2022.",
-    "instrument_type": [
-      "research_strategy",
-      "international_coordination",
-      "policy_planning_and_coordination"
-    ],
-    "policy_orientation": "evidence_building",
-    "once_primary_type": "standards_policy_and_carbon_trading",
-    "once_types": [
-      "standards_policy_and_carbon_trading",
-      "theory_and_research"
-    ],
-    "theory_research_theme": [
-      "ocean_negative_emissions_science_and_technology_assessment",
-      "integrated_once_research_and_coordination",
-      "environmental_risk_and_sustainability_assessment"
-    ],
-    "engineering_family": [],
-    "engineering_pathway": [],
-    "standards_policy_market_theme": [
-      "international_governance_and_coordination",
-      "policy_planning_and_governance"
-    ],
-    "carbon_pump_mechanism": [
-      "not_specified"
-    ],
-    "filter_tier": "TIER2_ENABLING",
-    "filter_reason": "中欧科学院层面的海洋气候行动综合评估与ONCE核心成员直接相关，但覆盖19类更宽海洋气候措施，不能整体当作ONCE工程政策。",
-    "keep_core": false,
-    "keep_core_plus_enabling": true,
-    "official_once_endorsement": "framework",
-    "keep_once_policy": true,
-    "once_policy_inclusion_basis": "Global_ONCE_framework_reference",
-    "once_policy_scope": "official_framework",
-    "dedicated_once_only": true,
-    "dedicated_once_selection_basis": "China_Europe_academy_ocean_based_climate_action_milestone_linked_to_ONCE",
     "once_official_reference_url": "https://once.xmu.edu.cn/"
   },
   {
@@ -38317,10 +37949,10 @@
     "notes": "中国地质调查局官方报道确认，2025年国际湿地大会期间正式发布《陆海联动——联合国海洋十年ONCE计划下的滨海湿地碳汇倡议》，提出科学协同、全球联盟、技术共享、传统融合、示范引领五大行动框架，并获得15个国家32位科学家现场签署支持。报道还明确提出依托滨海湿地修复、海洋碱化等工程实践推进ONCE储碳工程。该条按直接ONCE滨海湿地增汇治理倡议纳入；倡议本身不是碳信用方法学，也不能把所有一般湿地保护项目自动纳入ONCE。",
     "source": "中国地质调查局青岛海洋地质研究所 / Global ONCE",
     "document_type": "strategy_plan_roadmap",
-    "policy_practice_type": "policy",
+    "policy_practice_type": "practice",
     "legal_force": "non_binding",
     "implementation_status": "in_force_or_active",
-    "status_note": "2025年7月在国际湿地大会正式发布，并开放全球科学家支持。",
+    "status_note": "Global ONCE框架下公开发布的滨海湿地碳汇倡议；属于ONCE治理/行动实践，不作为政府政策或法律文件编码。",
     "instrument_type": [
       "ecosystem_restoration_or_conservation_programme",
       "research_strategy",
@@ -38358,12 +37990,12 @@
       "SCP"
     ],
     "filter_tier": "TIER1_CORE",
-    "filter_reason": "倡议名称、行动框架和示范方向直接以联合国海洋十年ONCE滨海湿地碳汇增汇为对象，不是泛湿地保护。",
+    "filter_reason": "倡议名称直接属于联合国海洋十年Global ONCE计划并面向滨海湿地碳汇行动；作为ONCE治理实践保留，但不把其表述为正式政府政策。",
     "keep_core": true,
     "keep_core_plus_enabling": true,
     "official_once_endorsement": "direct",
     "keep_once_policy": true,
-    "once_policy_inclusion_basis": "strict_core_and_Global_ONCE_direct_reference",
+    "once_policy_inclusion_basis": "explicit_Global_ONCE_governance_practice",
     "once_policy_scope": "strict_core_plus_official_direct_or_framework",
     "dedicated_once_only": true,
     "dedicated_once_selection_basis": "direct_Global_ONCE_coastal_wetland_carbon_sink_initiative",
@@ -38381,10 +38013,10 @@
     "notes": "Global ONCE《代表性里程碑（2026.7.31）》记录，2026年6月7日ONCE在ASM Microbe作特邀主旨报告并牵头发布《重塑气候行动的微生物宣言》，推动基于微生物技术的海洋碳汇从理论验证走向规模化部署，并呼吁将相关成果纳入各国NDCs及全球碳市场体系。ASM官方页面可独立确认ASM Microbe 2026在华盛顿举行，但公开检索未发现可直接核验该宣言全文的ASM独立页面，因此该记录明确把宣言名称和政策主张归因于ONCE里程碑材料，而不把会议存在本身当作宣言内容的独立验证。该条属于直接ONCE政策倡议，不等于NDC已经采纳或碳市场已经接受相关方法学。",
     "source": "Global ONCE代表性里程碑 / American Society for Microbiology (ASM) conference record",
     "document_type": "strategy_plan_roadmap",
-    "policy_practice_type": "policy",
+    "policy_practice_type": "practice",
     "legal_force": "non_binding",
     "implementation_status": "in_force_or_active",
-    "status_note": "ONCE里程碑材料记录2026年6月7日发布；ASM官方确认2026大会举办，但宣言全文的独立公开页面尚未检出。",
+    "status_note": "Global ONCE牵头/参与发布的微生物气候行动宣言；属于ONCE科学—治理行动实践，不作为已被国家NDC或碳市场采纳的政策编码。",
     "instrument_type": [
       "research_strategy",
       "international_coordination",
@@ -38418,15 +38050,137 @@
       "MCP"
     ],
     "filter_tier": "TIER1_CORE",
-    "filter_reason": "ONCE官方里程碑直接提出微生物海洋碳汇规模化部署及NDC/全球碳市场政策嵌入，属于明确的人为增汇政策倡议。",
+    "filter_reason": "宣言直接由ONCE里程碑材料记录，目标涉及微生物海洋碳汇及政策/市场接口；保留为ONCE治理实践，不等同于NDC或碳市场正式政策。",
     "keep_core": true,
     "keep_core_plus_enabling": true,
     "official_once_endorsement": "direct",
     "keep_once_policy": true,
-    "once_policy_inclusion_basis": "strict_core_and_Global_ONCE_direct_reference",
+    "once_policy_inclusion_basis": "explicit_Global_ONCE_governance_practice",
     "once_policy_scope": "strict_core_plus_official_direct_or_framework",
     "dedicated_once_only": true,
     "dedicated_once_selection_basis": "direct_ONCE_microbial_climate_action_manifesto_and_policy_integration_call",
     "once_official_reference_url": "https://once.xmu.edu.cn/"
+  },
+  {
+    "id": 2211,
+    "jurisdiction": "International",
+    "country_or_region": "International",
+    "subnational_area": "Jeju, Republic of Korea / Bonn, Germany",
+    "language": "English",
+    "year": 2012,
+    "document_title": "2012 London Convention/Protocol Marine Geoengineering and Ocean Fertilization Governance Process",
+    "source_url": "https://www.imo.org/en/OurWork/Environment/Pages/2012.aspx",
+    "notes": "IMO官方2012年度记录显示，5月在济州举行的London Convention/Protocol科学组会议设立Marine Geo-engineering工作组并推进通用placement assessment framework；7月在波恩召开的第四次Ocean Fertilization跨会期工作组继续审议，并讨论澳大利亚提出的London Protocol修正文本。该连续政策过程直接衔接2013年LP.4(8)，因此合并为一条2012治理记录，避免把同一政策形成过程拆成多条虚增数量。",
+    "source": "International Maritime Organization (IMO) — London Convention/Protocol",
+    "document_type": "cop_or_party_decision",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2012 scientific-group and intersessional governance work feeding into the 2013 marine-geoengineering amendment.",
+    "instrument_type": [
+      "environmental_impact_assessment",
+      "regulatory_safeguard",
+      "international_coordination",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "ocean_fertilization"
+    ],
+    "standards_policy_market_theme": [
+      "environmental_social_and_ecological_safeguards",
+      "international_governance_and_coordination",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "London Convention/Protocol在2012年直接就海洋施肥和marine geoengineering形成评估与法律控制方案，属mCDR核心治理。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_core_definition",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "direct_2012_LC_LP_ocean_fertilization_marine_geoengineering_governance"
+  },
+  {
+    "id": 2212,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Shandong Province",
+    "language": "Chinese",
+    "year": 2012,
+    "document_title": "《山东省“十二五”控制温室气体排放工作实施方案》——增加海洋碳汇与碳汇渔业",
+    "source_url": "https://gb.shandong.gov.cn/art/2012/12/13/art_100623_23056.html",
+    "notes": "山东省政府鲁政发〔2012〕43号在“努力增加碳汇”中设置“增加海洋碳汇”，明确发展碳汇渔业、建设碳汇渔业实验室，实施人工渔礁、海洋牧场、增殖放流、海底森林修复等工程，推广鱼藻共生和贝藻复合养殖，扩大滩涂贝类和海藻增养殖面积，并探索藻类、贝类固碳；同时部署滨海湿地固碳示范和海底碳封存、海洋生物固碳技术研发。这是2012年非常早且路径具体的省级海洋增汇政策，不能因年代较早而漏掉。",
+    "source": "山东省人民政府",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "鲁政发〔2012〕43号，2012年印发实施，属于“十二五”历史政策。",
+    "instrument_type": [
+      "target_or_commitment",
+      "demonstration_support",
+      "research_and_development_funding",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering",
+      "ecological_restoration_and_sink_enhancement",
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink",
+      "shellfish_aquaculture_and_carbon_sink",
+      "integrated_shellfish_algae_aquaculture",
+      "marine_ranch_sink_enhancement",
+      "coastal_wetland_restoration_and_sink_enhancement",
+      "marine_geological_co2_storage"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP",
+      "MCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "该政策不是仅凭“海洋碳汇”四字纳入；原文具体部署碳汇渔业、海洋牧场、贝藻复合养殖、扩大贝类和海藻增养殖、滨海湿地固碳示范，并推进海底碳封存/海洋生物固碳研发，直接落入本库已接受的ONCE工程路径，因此保留。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_pathway_specific_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2012_Shandong_formal_GHG_plan_with_explicit_marine_sink_enhancement"
   }
 ]
