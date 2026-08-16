@@ -38182,5 +38182,1365 @@
     "once_policy_scope": "strict_core",
     "dedicated_once_only": true,
     "dedicated_once_selection_basis": "2012_Shandong_formal_GHG_plan_with_explicit_marine_sink_enhancement"
+  },
+  {
+    "jurisdiction": "International",
+    "country_or_region": "Germany / India / Southern Ocean",
+    "subnational_area": "South-western Atlantic sector of the Southern Ocean",
+    "language": "English",
+    "year": 2009,
+    "document_title": "LOHAFEX Indo-German Ocean Iron Fertilization Experiment",
+    "source_url": "https://www.awi.de/en/about-us/service/press/single-view/lohafex-ein-deutsch-indisches-kooperationsprojekt-wie-wirkt-sich-eisenduengung-auf-oekologie-und-kohlenstoffaufnahmepotential-des-suedlichen-ozeans-aus.html",
+    "notes": "The Alfred Wegener Institute and India's National Institute of Oceanography carried out the LOHAFEX ocean iron-fertilization experiment in the Southern Ocean in 2009. AWI described the experiment as research intended to improve understanding of ocean fertilization and its potential role in reducing atmospheric CO2, and stated that it was conducted in the research context allowed under the 2008 London Convention and CBD precautionary decisions. A subsequent AWI report records fertilization of a roughly 300 km² ocean patch with dissolved iron and monitoring of carbon uptake and export. The experiment found only modest carbon export, so this record documents a direct ONCE/ocean-fertilization practice, not proof of effective or durable CDR.",
+    "source": "Alfred Wegener Institute (AWI) / National Institute of Oceanography, India",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "Field ocean-iron-fertilization experiment conducted January–March 2009; completed.",
+    "instrument_type": [
+      "research_strategy",
+      "demonstration_support",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "environmental_risk_and_sustainability_assessment",
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "ocean_fertilization"
+    ],
+    "standards_policy_market_theme": [
+      "environmental_social_and_ecological_safeguards"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "实际实施的海洋施铁/海洋施肥现场实验，直接属于ONCE/mCDR工程路径；不以一般海洋碳循环研究作为纳入依据。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_core_definition",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "implemented_2009_ocean_iron_fertilization_field_experiment",
+    "id": 2221
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Zhejiang Province / Cangnan and other coastal areas",
+    "language": "Chinese",
+    "year": 2010,
+    "document_title": "浙江省现代渔业园区建设工程——浅海碳汇渔业与苍南海上牧场式碳汇渔业园区",
+    "source_url": "https://yyj.moa.gov.cn/gzdt/201904/t20190418_6193710.htm",
+    "notes": "农业农村部渔业渔政管理局2011年官方总结明确记载，浙江省自2010年以来全面组织实施现代渔业园区建设工程，沿海区域重点发展“浅海碳汇”渔业园区；在苍南，利用浅海贝藻立体养殖、加工产业配套与生态效益结合的模式，已建立海上牧场式碳汇渔业园区。官方材料同时记录省级园区创建点、财政和业主投入及考核验收等实施事实。本条年份取整个省级实施工程的启动年2010，而不是把2011年官方总结发布日期误作启动年。",
+    "source": "农业农村部渔业渔政管理局 / 浙江省渔业系统",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "浙江现代渔业园区建设工程自2010年启动；2011年官方总结已报告浅海碳汇渔业园区建设成效。",
+    "instrument_type": [
+      "demonstration_support",
+      "research_and_development_funding",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink",
+      "shellfish_aquaculture_and_carbon_sink",
+      "integrated_shellfish_algae_aquaculture",
+      "marine_ranch_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "省级已实施园区工程明确建设浅海碳汇渔业园区，并有贝藻立体养殖和海上牧场式碳汇渔业实例，属于具体人为渔业增汇实践。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "implemented_Zhejiang_coastal_carbon_sink_fishery_park_programme_started_2010",
+    "id": 2222
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Changhai County, Dalian, Liaoning",
+    "language": "Chinese",
+    "year": 2011,
+    "document_title": "《大连市海洋牧场先导区（长海）建设规划（2011—2020年）》——碳汇渔业区建设",
+    "source_url": "https://nync.ln.gov.cn/nync/zfxxgk/fdzdgknr/jyta/szxta/szxsejschy2021n/0B47313412F9446D9B26D99467B9C54E/index.shtml",
+    "notes": "辽宁省农业农村厅官方答复追溯确认，2011年长海县人民政府、大连市发展改革委、大连市海洋与渔业局、大连市财政局联合发布《大连市海洋牧场先导区（长海）建设规划（2011—2020年）》。农业部渔业管理部门2011年同期官方报道进一步说明，该规划用于推进和指导“碳汇渔业区”建设，并以海洋牧场全域化发展为核心。本条只编码海洋牧场—碳汇渔业这一明确政策对象，不把规划中的一般产业发展内容纳入ONCE。",
+    "source": "长海县人民政府 / 大连市发展和改革委员会 / 大连市海洋与渔业局 / 大连市财政局",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2011年由地方政府及相关部门联合发布，规划期2011—2020年。",
+    "instrument_type": [
+      "target_or_commitment",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "marine_ranch_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "正式联合发布的地方规划明确以海洋牧场建设推进“碳汇渔业区”，属于具体渔业增汇政策，不是泛海洋碳汇表述。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "formal_2011_Dalian_marine_ranch_plan_explicit_carbon_sink_fishery_zone",
+    "id": 2223
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "Canada",
+    "subnational_area": "Haida Gwaii, British Columbia / Northeast Pacific",
+    "language": "English",
+    "year": 2012,
+    "document_title": "Haida Gwaii 2012 Ocean Iron Fertilization Events",
+    "source_url": "https://www.cbd.int/climate/doc/Canada-notif-2015-016-geoengineering-en.pdf",
+    "notes": "Canada's official submission to the Convention on Biological Diversity reports that three iron-fertilization events took place in 2012 near Haida Gwaii, British Columbia, and states that their effects on carbon cycling and ecosystem responses remained uncertain. Canada also specified that the events were not authorized by the Government of Canada and were under investigation. This record is therefore retained as an actual ocean-fertilization deployment and a governance-relevant ONCE practice, not as an authorized policy, approved research permit, or evidence of durable CO2 removal.",
+    "source": "Government of Canada submission to the Convention on Biological Diversity (CBD)",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "mixed",
+    "implementation_status": "ended",
+    "status_note": "Three ocean iron-fertilization events occurred in 2012; Canada stated they were unauthorized and investigated.",
+    "instrument_type": [
+      "demonstration_support",
+      "regulatory_safeguard",
+      "environmental_impact_assessment"
+    ],
+    "policy_orientation": "precautionary_restrictive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "environmental_risk_and_sustainability_assessment"
+    ],
+    "engineering_family": [
+      "ocean_negative_emissions_geoengineering"
+    ],
+    "engineering_pathway": [
+      "ocean_fertilization"
+    ],
+    "standards_policy_market_theme": [
+      "environmental_social_and_ecological_safeguards",
+      "law_regulation_and_permitting"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "2012年实际发生的海洋施铁事件，属于直接海洋施肥工程实践；即使未经授权，也仍是需要纳入治理分析的真实ONCE实践。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_core_definition",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "actual_2012_Haida_Gwaii_ocean_iron_fertilization_events",
+    "id": 2224
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Rongcheng, Weihai, Shandong",
+    "language": "Chinese",
+    "year": 2014,
+    "document_title": "荣成东楮岛唐启升院士工作站——碳汇渔业理论、技术研发与推广",
+    "source_url": "https://hyyy.weihai.gov.cn/art/2021/11/30/art_23162_2731863.html",
+    "notes": "威海市海洋发展部门官方材料追溯确认，荣成东楮岛唐启升院士工作站于2014年9月成立，经山东省委组织部、省科技厅、省财政厅等五部门联合下文批准。工作站以发展低碳海洋经济为中心，开展碳汇渔业和蓝色食物理论机理及应用技术研究与推广，并促进近海自然生物碳汇恢复和保护。本条纳入的是经政府部门批准设立、持续开展碳汇渔业应用研发与推广的机构化实践，不是一般学术团队记录。",
+    "source": "威海市海洋发展局 / 山东省有关部门 / 荣成东楮岛唐启升院士工作站",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "2014年9月经山东省有关部门批准成立；后续持续开展碳汇渔业研究与应用推广。",
+    "instrument_type": [
+      "research_strategy",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "theory_and_research",
+    "once_types": [
+      "theory_and_research",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment",
+      "carbon_pump_mechanisms_and_integration"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "政府部门正式批准设立、且任务直接为碳汇渔业机理、应用技术研发和推广的机构化实践；不因一般海洋碳汇研究而纳入。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "government_approved_2014_carbon_sink_fishery_R&D_and_extension_workstation",
+    "id": 2225
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Guangdong Province",
+    "language": "Chinese",
+    "year": 2017,
+    "document_title": "《广东省海洋经济发展“十三五”规划》——陆海统筹增汇、海洋碳汇渔业与MCP生态工程",
+    "source_url": "https://www.yidaiyilu.gov.cn/wcm.files/upload/CMSydylgw/201706/201706081010040.pdf",
+    "notes": "广东省海洋渔业厅、广东省发展改革委2017年编制发布的海洋经济“十三五”规划将海洋碳汇列入技术任务，明确提出发展陆海统筹调控营养盐输入提高海洋碳汇技术、发展现代海洋碳汇渔业经济低碳化技术，并研发基于海洋微型生物碳泵（MCP）和经典生物泵等模型的海洋碳汇生态工程。这些内容直接落到陆海统筹负排放、渔业增汇和MCP工程化研发，不以规划中一般海洋生态保护内容作为纳入依据。",
+    "source": "广东省海洋渔业厅 / 广东省发展和改革委员会",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2017年发布的广东省海洋经济“十三五”专项规划，规划期已结束。",
+    "instrument_type": [
+      "research_strategy",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "carbon_pump_mechanisms_and_integration",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering",
+      "other_negative_emissions_engineering"
+    ],
+    "engineering_pathway": [
+      "land_sea_coordinated_negative_emissions",
+      "marine_microbial_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "MCP",
+      "BCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "省级正式规划直接部署陆海营养盐调控增汇、现代海洋碳汇渔业和基于MCP/生物泵的海洋碳汇生态工程，ONCE特异性明确。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_pathway_specific_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2017_Guangdong_formal_plan_explicit_land_sea_MCP_and_fishery_sink_engineering",
+    "id": 2226
+  },
+  {
+    "id": 2227,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Qingdao, Shandong",
+    "language": "Chinese",
+    "year": 2010,
+    "document_title": "《加快建设人工鱼礁发展海洋牧场的议案办理工作实施方案》——以人工鱼礁推动碳汇渔业发展",
+    "source_url": "https://www.qingdao.gov.cn/zwgk/zdgk/fgwj/zcwj/zfgb/n2010_16/202010/t20201025_1751758.shtml",
+    "notes": "青岛市政府办公厅青政办字〔2010〕146号于2010年8月31日发布。方案不是一般海洋牧场规划：其“工作目标”明确提出，通过人工鱼礁建设使海洋生态环境逐渐改善，并使“碳汇渔业长足发展”；同时安排2010—2012年建设5处增殖休闲型人工鱼礁、2013—2015年建设3处生态公益型人工鱼礁。本库仅依据“人工鱼礁/海洋牧场—碳汇渔业”这一直接连接纳入，不把休闲渔业、普通资源增殖等内容扩大解释为ONCE。",
+    "source": "青岛市人民政府办公厅",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "青政办字〔2010〕146号，2010年8月31日发布；实施安排覆盖2010—2015年。",
+    "instrument_type": [
+      "target_or_commitment",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "marine_ranch_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "正式实施方案直接把人工鱼礁/海洋牧场建设与“碳汇渔业长足发展”设为同一工作目标，属于明确人为渔业增汇政策。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_pathway_specific_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2010_Qingdao_formal_artificial_reef_marine_ranch_plan_explicitly_targeting_carbon_sink_fisheries"
+  },
+  {
+    "id": 2228,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Wenzhou, Zhejiang",
+    "language": "Chinese",
+    "year": 2013,
+    "document_title": "《温州市低碳城市试点工作实施方案》——8万亩碳汇藻类养殖与碳汇渔业示范基地",
+    "source_url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web1825/site/attach/0/131017102845117.pdf",
+    "notes": "温政发〔2013〕84号由温州市人民政府于2013年10月15日印发，并注明方案已经国家发展改革委批准。在“推进海洋碳汇能力建设”任务中，方案明确要求建立一定规模的碳汇渔业示范基地，建设人工鱼礁和海洋牧场等项目，并实施8万亩“碳汇藻类养殖项目”，目标到2015年海洋藻类养殖面积达到8万亩。本库不把同一文件中的普通海洋保护区、一般湿地保护内容自动纳入ONCE；只编码上述明确人为增汇项目。",
+    "source": "温州市人民政府",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "温政发〔2013〕84号，2013年10月15日印发；主要量化任务指向2015年。",
+    "instrument_type": [
+      "target_or_commitment",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink",
+      "marine_ranch_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "正式低碳城市实施方案明确部署8万亩碳汇藻类养殖、碳汇渔业示范基地和海洋牧场项目，具有量化的人为海洋增汇行动。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_pathway_specific_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2013_Wenzhou_formal_low_carbon_plan_with_quantified_carbon_sink_algae_aquaculture_and_fishery_demonstration"
+  },
+  {
+    "id": 2229,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Zhoushan, Zhejiang",
+    "language": "Chinese",
+    "year": 2013,
+    "document_title": "舟山中街山列岛、马鞍列岛海藻栽培与碳汇渔业试验",
+    "source_url": "https://yyj.moa.gov.cn/zyhb/201904/t20190428_6250344.htm",
+    "notes": "农业农村部渔业渔政管理局转载浙江省海洋与渔业局2013年官方材料，明确记录舟山市近年在中街山列岛、马鞍列岛等海域“实施海藻栽培，开展碳汇渔业试验”，以探索养殖生产和生态修复双赢。这是一项已经实施的海藻栽培—碳汇渔业试验，而不是根据一般海藻养殖面积推定碳汇。公开材料没有给出独立MRV核证的净CO2移除量，因此本库不作移除量推断。",
+    "source": "浙江省海洋与渔业局 / 农业农村部渔业渔政管理局",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2013年8月13日官方报道确认相关海域已经实施海藻栽培并开展碳汇渔业试验。",
+    "instrument_type": [
+      "demonstration_support",
+      "research_strategy"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "官方材料直接记录已实施的海藻栽培和碳汇渔业试验，属于具体大型海藻/渔业增汇实践。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "implemented_2013_Zhoushan_seaweed_cultivation_carbon_sink_fishery_trials"
+  },
+  {
+    "id": 2230,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Shenzhen, Guangdong",
+    "language": "Chinese",
+    "year": 2014,
+    "document_title": "《深圳市海洋产业发展规划（2013—2020年）》——陆海统筹、碳汇渔业与MCP海洋碳汇生态工程",
+    "source_url": "https://www.sz.gov.cn/zfgb/2014/gb865/content/post_4998282.html",
+    "notes": "深圳市人民政府2014年正式印发的海洋产业规划在“海洋碳汇”技术方向中明确提出：发展陆海统筹调控营养盐输入提高海洋碳汇技术，发展现代海洋碳汇渔业经济低碳化技术，建立多模式海洋有机碳储库情景模型，并研发基于海洋微型生物碳泵（MCP）和经典生物泵模型的海洋碳汇生态工程。本条因此直接落入ONCE的陆海统筹和MCP工程化路径，并非因为规划泛泛提到“海洋碳汇”而纳入。",
+    "source": "深圳市人民政府",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2014年1月深圳市政府公报发布，规划期为2013—2020年。",
+    "instrument_type": [
+      "research_strategy",
+      "research_and_development_funding",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [
+      "carbon_pump_mechanisms_and_integration",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering",
+      "other_negative_emissions_engineering"
+    ],
+    "engineering_pathway": [
+      "land_sea_coordinated_negative_emissions",
+      "marine_microbial_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "MCP",
+      "BCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "正式地方产业规划直接提出基于MCP/经典生物泵的海洋碳汇生态工程及陆海营养盐调控增汇技术，ONCE特异性很强。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_pathway_specific_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2014_Shenzhen_formal_plan_explicit_MCP_ecological_engineering_and_land_sea_sink_enhancement"
+  },
+  {
+    "id": 2231,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Shandong Province",
+    "language": "Chinese",
+    "year": 2014,
+    "document_title": "《关于推进“海上粮仓”建设的实施意见》——发展碳汇渔业与生态增养殖",
+    "source_url": "https://gb.shandong.gov.cn/art/2015/2/6/art_100623_23409.html",
+    "notes": "山东省人民政府办公厅鲁政办发〔2014〕49号于2014年12月印发。文件明确提出“鼓励发展碳汇渔业，开拓低碳经济发展新领域”，同时部署海洋经济生物底播增殖、人工鱼礁等工程；文件另一部分明确推广藻、贝（鱼）、参（鲍）生态立体养殖模式，并建设海洋牧场。为避免过度编码，本条仅在工程族层面标记为渔业碳汇工程，不把相邻条款中的藻、贝或多营养层级养殖自动拆分成具体ONCE工程路径。",
+    "source": "山东省人民政府办公厅",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "鲁政办发〔2014〕49号，2014年12月印发；主要目标期至2020年。",
+    "instrument_type": [
+      "target_or_commitment",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "省级正式实施意见明确以“发展碳汇渔业”为低碳经济任务；纳入依据是这一明确人为渔业增汇政策目标，而不是泛“海上粮仓”或一般养殖政策。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_core_definition_and_fishery_carbon_sink_scope",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2014_Shandong_formal_implementation_opinion_explicitly_encouraging_carbon_sink_fisheries"
+  },
+  {
+    "id": 2232,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Sanmen County, Zhejiang",
+    "language": "Chinese",
+    "year": 2014,
+    "document_title": "浙江三门“洁水养殖”实施——碳汇渔业及浅海藻类、贝类养殖示范",
+    "source_url": "https://yyj.moa.gov.cn/scyz/201905/t20190516_6307721.htm",
+    "notes": "农业农村部渔业渔政管理局转载浙江省海洋与渔业局2014年官方材料，记录三门县海洋与渔业局按照现代生态渔业区域规划，在园区和养殖基地实施包括“碳汇渔业”在内的生态养殖，并在田湾岛、蛇蟠洋、旗门港等发展藻类养殖、贝类养殖等浅海养殖，通过新型养殖模式开展示范创建。该材料同时包含一般洁水、尾水治理等内容；本库只纳入明确的碳汇渔业及其同一实施体系中的浅海藻类/贝类养殖，不把普通污染治理等同于负排放。",
+    "source": "浙江省海洋与渔业局 / 三门县海洋与渔业局 / 农业农村部渔业渔政管理局",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2014年4月4日官方报道确认相关碳汇渔业和浅海生态养殖示范已在实施。",
+    "instrument_type": [
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink",
+      "shellfish_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "地方主管部门实际实施“碳汇渔业”等生态养殖，并明确部署浅海藻类和贝类养殖示范；属于具体渔业增汇实践，而非一般尾水治理记录。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "implemented_2014_Sanmen_carbon_sink_fishery_with_algae_and_shellfish_aquaculture_demonstration"
+  },
+  {
+    "id": 2233,
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Weihai, Shandong",
+    "language": "Chinese",
+    "year": 2015,
+    "document_title": "《关于促进现代海洋渔业持续健康发展的实施意见》——海藻碳汇产业、贝藻碳汇平台与交易中心探索",
+    "source_url": "https://www.weihai.gov.cn/art/2015/1/13/art_103284_15744.html",
+    "notes": "威海市人民政府2015年实施意见专设“着力发展海洋碳汇产业”：依托海洋科技企业创建海藻产业技术创新战略联盟，以此推进海洋碳汇产业发展和实践创新；并以桑沟湾贝藻碳汇实验室、褚岛海草床生态系统碳汇观测站为基础，争取建立永久性海洋碳汇观测站，探索打造国家海洋碳汇交易中心。本条将海藻产业联盟编码为大型海藻碳汇路径，并将贝藻碳汇实验室相关MRV/交易支撑编码为贝藻综合养殖增汇；褚岛海草床仅为碳汇观测站，未明确修复或人为增汇，因此不编码为海草床修复增汇路径。",
+    "source": "威海市人民政府",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2015年1月13日发布；文件阶段性目标主要至2017年。",
+    "instrument_type": [
+      "research_strategy",
+      "mapping_inventory_or_monitoring",
+      "carbon_market_or_crediting",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink",
+      "integrated_shellfish_algae_aquaculture"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "carbon_crediting_and_trading",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "市级正式政策直接发展海洋碳汇产业，并以海藻创新联盟、贝藻碳汇实验室、永久观测站和交易中心为实施支撑，具有明确渔业增汇和MRV/市场指向。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_pathway_specific_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2015_Weihai_formal_policy_for_seaweed_and_shellfish_algae_carbon_sink_industry_MRV_and_market"
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Weifang, Shandong",
+    "language": "Chinese",
+    "year": 2011,
+    "document_title": "潍坊市现代渔业转型升级实施——海洋牧场、浅海扇贝与贝类底播碳汇渔业",
+    "source_url": "https://yyj.moa.gov.cn/zhxx/201904/t20190419_6200484.htm",
+    "notes": "农业农村部渔业渔政管理局2011年官方材料明确记录，潍坊当年把“加快海洋牧场建设，大力发展碳汇渔业”列为现代渔业转型升级任务，并给出具体年度实施量：争取投入700万元建设人工鱼礁，投石1万立方、混凝土构件礁1万空方；同时积极发展30万亩浅海扇贝养殖和30万亩贝类底播增殖。本条因此按已经部署并推进的年度碳汇渔业实践纳入，不把同一报道中的远洋捕捞、休闲渔业等普通产业内容计入ONCE。",
+    "source": "农业农村部渔业渔政管理局 / 潍坊市渔业主管部门",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2011年度潍坊现代渔业转型升级工作中明确部署并推进海洋牧场和碳汇渔业建设。",
+    "instrument_type": [
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "marine_ranch_sink_enhancement",
+      "shellfish_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "官方年度实施材料把海洋牧场建设、人工鱼礁和大规模扇贝/贝类养殖直接置于“发展碳汇渔业”任务下，属于具体人为渔业增汇实践。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "implemented_2011_Weifang_marine_ranch_and_shellfish_carbon_sink_fishery",
+    "id": 2234
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Zhoushan, Zhejiang",
+    "language": "Chinese",
+    "year": 2012,
+    "document_title": "东极新型海洋牧场暨碳汇渔业试验区建设——贝藻培育与海洋牧场实施",
+    "source_url": "https://yyj.moa.gov.cn/zhxx/201904/t20190419_6201125.htm",
+    "notes": "农业农村部渔业渔政管理局2012年官方材料明确记录，舟山市海洋与渔业局当年开展“东极新型海洋牧场示范区暨碳汇渔业试验区”建设和管理工作，并实施贝藻培育、鱼苗人工放流，探索发展碳汇渔业。同一材料还记录马鞍列岛、白沙海洋牧场示范区的礁体投放和效果评估。本条只编码东极试验区中与碳汇直接关联的海洋牧场和贝藻培育，不把一般渔场振兴或远洋渔业内容纳入。",
+    "source": "农业农村部渔业渔政管理局 / 浙江省舟山市海洋与渔业局",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2012年官方材料确认东极碳汇渔业试验区正在开展建设、管理和贝藻培育。",
+    "instrument_type": [
+      "demonstration_support",
+      "research_strategy"
+    ],
+    "policy_orientation": "evidence_building",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "marine_ranch_sink_enhancement",
+      "shellfish_aquaculture_and_carbon_sink",
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "明确建设“碳汇渔业试验区”，且实际实施海洋牧场、贝藻培育和资源投放，属于直接ONCE渔业增汇试验实践。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "implemented_2012_Dongji_marine_ranch_carbon_sink_fishery_experimental_zone",
+    "id": 2235
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Qidong, Jiangsu",
+    "language": "Chinese",
+    "year": 2012,
+    "document_title": "启东市现代渔业低碳化实践——贝类底播、紫菜养殖碳汇渔业",
+    "source_url": "https://yyj.moa.gov.cn/zhxx/201904/t20190419_6201120.htm",
+    "notes": "农业农村部渔业渔政管理局2012年官方材料在“现代渔业低碳化”部分明确记录，启东加快发展以贝类、藻类养殖为主的碳汇渔业，重点发展贝类底播养殖以及紫菜浅海插杆式、浮流式养殖，并加大近海渔业资源人工增殖放流资金投入，以达到增碳汇目的。这里按贝类和大型海藻的具体养殖增汇实践纳入，不把普通渔船更新等减排内容计入ONCE工程路径。",
+    "source": "农业农村部渔业渔政管理局 / 启东市渔业主管部门",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2012年官方材料确认启东已将贝类底播和紫菜养殖作为碳汇渔业重点发展方式。",
+    "instrument_type": [
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink",
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "官方材料明确把贝类底播和紫菜养殖界定为“碳汇渔业”重点实施方式，直接落入已接受的贝类和大型海藻ONCE路径。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "implemented_2012_Qidong_shellfish_and_nori_carbon_sink_fisheries",
+    "id": 2236
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Ningbo, Zhejiang",
+    "language": "Chinese",
+    "year": 2016,
+    "document_title": "《宁波市海洋生态环境治理修复若干规定》——将碳汇渔业列为法定治理修复措施",
+    "source_url": "https://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzdfzwgz/201607/t20160712_141395.html",
+    "notes": "宁波市人民政府令第231号《宁波市海洋生态环境治理修复若干规定》于2016年通过并自8月1日起施行。第六条明确将“开展生态养殖、碳汇渔业”列为海洋生态环境治理修复可以采取的措施之一，同时另列人工鱼礁和海洋牧场。本条的纳入依据仅是规章对“碳汇渔业”这一直接人为增汇类别的明确制度化，不因为其中一般湿地恢复、清淤等措施而扩张其他ONCE路径。",
+    "source": "宁波市人民政府 / 司法部中国政府法制信息",
+    "document_type": "regulation",
+    "policy_practice_type": "policy",
+    "legal_force": "binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "宁波市人民政府令第231号，2016年6月17日发布，2016年8月1日起施行；现行公开法规资料仍列示有效。",
+    "instrument_type": [
+      "regulation",
+      "policy_planning_and_coordination",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "authorizing_permissive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "地方政府规章明确把“碳汇渔业”列为法定海洋治理修复措施；这是直接制度化的ONCE渔业增汇政策，而非泛海洋碳汇表述。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_core_definition_and_fishery_carbon_sink_scope",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2016_Ningbo_binding_regulation_explicitly_listing_carbon_sink_fisheries",
+    "id": 2237
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Hainan Province / Xisha-Zhongsha-Nansha suitable waters",
+    "language": "Chinese",
+    "year": 2016,
+    "document_title": "《海南省人民政府关于促进现代渔业发展的意见》——支持碳汇渔业与贝类底播养殖",
+    "source_url": "https://www.hainan.gov.cn/hainan/szfwj/201612/377b5546e58049e58c65c282b88473cc.shtml?ddtab=true",
+    "notes": "海南省人民政府2016年《关于促进现代渔业发展的意见》明确提出“支持发展碳汇渔业”，并紧接着鼓励在西沙、中沙、南沙合适区域适度开展名优品种贝类底播养殖，以促进南海生态保护和渔业经济发展。因此本条只编码贝类养殖碳汇；文件中的其他现代渔业措施不自动纳入ONCE。",
+    "source": "海南省人民政府",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2016年12月发布的省级现代渔业政策，作为历史政策记录。",
+    "instrument_type": [
+      "target_or_commitment",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "省政府正式政策直接支持“碳汇渔业”，且明确以贝类底播养殖作为紧邻实施方式，属于具体贝类渔业增汇政策。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_pathway_specific_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2016_Hainan_formal_policy_supporting_carbon_sink_fisheries_and_shellfish_bottom_culture",
+    "id": 2238
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Haizhou Bay, Lianyungang, Jiangsu",
+    "language": "Chinese",
+    "year": 2016,
+    "document_title": "《江苏省海州湾海洋生物资源养护与生态环境修复规划（2016—2020）》——贝藻组合碳汇渔业与海洋牧场",
+    "source_url": "https://www.lyg.gov.cn/zglygzfmhwz/upload/374a7bd2-324e-481c-ad38-5e865e9a6f12.pdf",
+    "notes": "连政发〔2016〕30号由连云港市人民政府于2016年3月28日印发。规划明确提出加大贝藻场建设、提高海洋碳汇能力；在海洋牧场核心区设置3000亩贝类吊养区和2000亩大型藻类养殖区，并明确指出大型海藻养殖与贝类场相结合是海洋碳汇渔业发展的主要形式。规划还给出2016年度实际实施进度，包括600亩贻贝/牡蛎吊养和400亩藻类吊养等。因此本条同时编码贝类、大型海藻、贝藻综合养殖和海洋牧场增汇。",
+    "source": "连云港市人民政府 / 连云港市海洋与渔业局",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "连政发〔2016〕30号，2016年3月28日印发，规划期2016—2020年。",
+    "instrument_type": [
+      "target_or_commitment",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink",
+      "macroalgae_aquaculture_and_carbon_sink",
+      "integrated_shellfish_algae_aquaculture",
+      "marine_ranch_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "正式政府规划明确把大型海藻+贝类组合界定为海洋碳汇渔业主要形式，并配置具体养殖面积和年度实施量，属于高度路径特异的ONCE政策。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_pathway_specific_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2016_Lianyungang_formal_marine_ranch_plan_with_explicit_shellfish_algae_carbon_sink_fishery",
+    "id": 2239
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Shengsi County, Zhoushan, Zhejiang",
+    "language": "Chinese",
+    "year": 2016,
+    "document_title": "嵊泗县“碳汇工厂”海洋牧场建设实践——2016年以来人工鱼礁与藻礁带投入",
+    "source_url": "https://www.mof.gov.cn/zhengwuxinxi/xinwenlianbo/zhejiangcaizhengxinxilianbo/202109/t20210915_3753126.htm",
+    "notes": "财政部2021年官方报道追溯嵊泗县碳汇渔业实践：县里实施绿色渔业实验基地三年行动计划，大力实施“碳汇工厂”海洋牧场建设；2016年以来累计投入5114余万元，建设人工鱼礁4.875万空方、藻礁带2500米，并持续开展资源增殖放流。报道同时指出当地已形成以贻贝为代表的碳汇养殖产业。为保持年份证据严谨，本条2016路径只编码有明确“2016年以来”建设事实的碳汇型海洋牧场，不把后来才量化的贻贝产量反推成2016年度贝类移除量。",
+    "source": "中华人民共和国财政部 / 浙江省舟山市嵊泗县财政",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "implementation_in_progress",
+    "status_note": "财政部2021年官方材料确认该碳汇型海洋牧场建设至少自2016年以来持续实施。",
+    "instrument_type": [
+      "demonstration_support",
+      "ecosystem_restoration_or_conservation_programme",
+      "research_and_development_funding"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "marine_ranch_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "财政部材料明确称其为“碳汇工厂”海洋牧场，并给出自2016年以来的财政投入、人工鱼礁和藻礁带建设量，属于真实持续实施的ONCE实践。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "implemented_since_2016_Shengsi_carbon_sink_factory_marine_ranch",
+    "id": 2240
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Hainan Province",
+    "language": "Chinese",
+    "year": 2017,
+    "document_title": "《海南省人民政府办公厅关于推进农村一二三产业融合发展的实施意见》——优先保障碳汇渔业项目用海",
+    "source_url": "https://www.hainan.gov.cn/hainan/szfbgtwj/201704/32a31b08285d40ff8155d3d6d738c665.shtml",
+    "notes": "海南省人民政府办公厅2017年实施意见明确提出“优先支持深水网箱养殖和碳汇渔业项目用海，保障其陆域配套服务建设用地”。本条纳入的不是农村产业融合的一般政策，而是其中对“碳汇渔业项目”给予海域和陆域要素保障的直接政策支持。由于文件在该条款中没有进一步指定贝类、藻类或海洋牧场技术，本库不强行拆分具体工程路径。",
+    "source": "海南省人民政府办公厅",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "2017年4月发布的省政府办公厅实施意见；作为历史政策记录。",
+    "instrument_type": [
+      "permit_or_authorization",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [
+      "law_regulation_and_permitting",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "not_specified"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "省级正式政策直接给予“碳汇渔业项目”用海和配套用地优先保障，是面向具体ONCE项目的要素配置政策，而非泛海洋碳汇表述。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_core_definition_and_fishery_carbon_sink_scope",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2017_Hainan_policy_priority_sea_use_support_for_carbon_sink_fishery_projects",
+    "id": 2241
+  },
+  {
+    "jurisdiction": "National",
+    "country_or_region": "South Korea",
+    "subnational_area": "Republic of Korea coastal waters",
+    "language": "English",
+    "year": 2009,
+    "document_title": "Korea Sea Forest Creation Programme — Large-Seaweed Restoration for Carbon-Sink Expansion",
+    "source_url": "https://www.mof.go.kr/doc/ko/selectDoc.do?bbsSeq=10&docSeq=24044&menuSeq=971",
+    "notes": "The Republic of Korea's Ministry of Oceans and Fisheries states that the national Sea Forest Creation Programme has been implemented since 2009 through seaweed transplantation, improvement of natural rock substrates and other active restoration measures. In its official programme summary, MOF identifies expansion of carbon sinks as one of the programme purposes, alongside preventing barren-ground expansion and restoring coastal ecosystems. FIRA separately reports 47 marine forests created in 2009–2013 and links ocean reforestation to the high greenhouse-gas absorption capacity of natural seaweed beds. This record is therefore included because it is an implemented, government-run anthropogenic marine sink-enhancement programme, not merely because seaweed forests are natural carbon stocks. The database does not equate the programme area with independently verified durable CO2 removal.",
+    "source": "Ministry of Oceans and Fisheries, Republic of Korea / Korea Fisheries Resources Agency (FIRA)",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "in_force_or_active",
+    "status_note": "National sea-forest creation programme implemented since 2009 and continuing through later national fisheries-resource plans.",
+    "instrument_type": [
+      "ecosystem_restoration_or_conservation_programme",
+      "demonstration_support",
+      "mapping_inventory_or_monitoring"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling"
+    ],
+    "engineering_family": [
+      "ecological_restoration_and_sink_enhancement"
+    ],
+    "engineering_pathway": [
+      "coastal_blue_carbon_restoration_and_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "韩国海洋水产部官方项目说明明确：2009年起实施海藻移植等海中造林，并把“扩充碳吸收源”列为项目目的；因此属于直接人为海洋增汇实践，而不是仅凭天然海藻场碳储量纳入。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_pathway_specific_practice",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "government_run_since_2009_seaweed_forest_restoration_explicitly_for_carbon_sink_expansion",
+    "id": 2242
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Huangdao / Qingdao, Shandong",
+    "language": "Chinese",
+    "year": 2010,
+    "document_title": "青岛石岭子人工鱼礁项目——2010年启动的碳汇渔业海洋牧场实践",
+    "source_url": "https://paper.people.com.cn/rmrbhwb/html/2013-01/31/content_1193719.htm",
+    "notes": "《人民日报海外版》2013年对我国早期碳汇渔业实践的专题报道明确记录：青岛鲁海丰集团石岭子人工鱼礁项目自2010年4月开始建设，累计投入约2.2亿元，投放石块、混凝土构件和处理后的旧渔船造礁，并发展深水养殖；报道将其直接置于黄岛“发展碳汇渔业、实施海陆统筹”的实践框架下，并称项目实施后鱼虾贝藻资源恢复、碳汇渔业做法初显成效。本条只编码人工鱼礁/海洋牧场这一明确人为增汇实践，不把报道中出现的鱼虾贝藻资源增加分别拆成贝类、大型海藻等路径，也不把媒体所称成效当作独立MRV核证的净CO2移除量。",
+    "source": "人民日报海外版 / 青岛鲁海丰集团项目公开实践",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "项目于2010年4月启动建设；2013年权威媒体回溯报道其碳汇渔业实践成效。",
+    "instrument_type": [
+      "demonstration_support",
+      "ecosystem_restoration_or_conservation_programme"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "marine_ranch_sink_enhancement"
+    ],
+    "standards_policy_market_theme": [],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "项目自2010年实际建设人工鱼礁并被明确作为“碳汇渔业”实践报道，属于具体海洋牧场增汇行动；不是依据普通人工鱼礁生态修复功能推定为ONCE。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "implemented_since_2010_Shilingzi_artificial_reef_project_explicitly_documented_as_carbon_sink_fishery",
+    "id": 2243
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Huangqi Peninsula, Lianjiang County, Fujian",
+    "language": "Chinese",
+    "year": 2011,
+    "document_title": "连江县黄岐半岛全国首个碳汇渔业养殖基地建设实践",
+    "source_url": "https://www.fzlj.gov.cn/xjwz/zwgk/ldzc/zjh/hdbd_63088/202206/t20220608_4376120.htm",
+    "notes": "连江县政府2022年官方材料回溯确认：早在2011年，黄岐半岛北部海域就规划建设全国首个碳汇渔业养殖基地。福建省政府2023年专题材料也独立确认这一时间和“全国首个碳汇渔业养殖基地”的定位，并将其作为连江长期海洋碳汇实践和后来全国首宗海洋渔业碳汇交易的重要前置基础。由于2011年原始公开材料未在该项目描述中逐项列明海带、贝类或具体混养方式，本条只编码渔业碳汇工程族，不把连江县后来形成的大型藻类、贝类产业规模反推为2011年项目的具体工程路径。",
+    "source": "连江县人民政府 / 福建省人民政府门户网站",
+    "document_type": "funding_or_programme",
+    "policy_practice_type": "practice",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "官方后续材料一致追溯确认该碳汇渔业养殖基地于2011年规划建设。",
+    "instrument_type": [
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [],
+    "standards_policy_market_theme": [],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "地方政府和省政府官方材料均明确追溯为2011年建设的“全国首个碳汇渔业养殖基地”，属于直接碳汇渔业工程实践；不依赖一般海水养殖的潜在碳汇属性作为纳入依据。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "current_ONCE_scope_including_fishery_carbon_sink",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "officially_documented_2011_first_carbon_sink_aquaculture_base_in_Lianjiang",
+    "id": 2244
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Fenghua, Ningbo, Zhejiang",
+    "language": "Chinese",
+    "year": 2011,
+    "document_title": "《奉化市海洋与渔业“十二五”发展规划》（专家评审通过、报批阶段）——藻类碳汇渔业示范区",
+    "source_url": "https://yyj.moa.gov.cn/fzgh/201904/t20190419_6208827.htm",
+    "notes": "农业农村部渔业渔政管理局2011年官方信息记录，《奉化市海洋与渔业“十二五”发展规划》已通过专家评审，并按程序报批。规划明确把“藻类碳汇渔业示范区”列为七大重点建设区块之一，并提出13类41个重点建设项目。由于该页面记录的是专家评审通过、尚待正式报批的政策形成阶段，本条标记为under_review，不能表述为已经正式颁布实施的规划；但其对大型藻类碳汇示范区的工程指向十分明确，因此作为直接ONCE政策过程纳入，而不是用来凑2011年份。",
+    "source": "农业农村部渔业渔政管理局 / 奉化市海洋与渔业规划编制部门",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "under_review",
+    "status_note": "2011年已通过专家评审，官方页面明确称将按程序报批；未据此页面推断其已正式生效。",
+    "instrument_type": [
+      "policy_planning_and_coordination",
+      "demonstration_support"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "negative_emissions_engineering",
+    "once_types": [
+      "negative_emissions_engineering",
+      "standards_policy_and_carbon_trading"
+    ],
+    "theory_research_theme": [],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "规划草案/报批文本明确设立“藻类碳汇渔业示范区”，直接落入大型海藻增汇路径；以under_review状态纳入政策过程，不把专家评审等同于正式颁布。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_pathway_specific_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2011_Fenghua_plan_under_review_explicit_algal_carbon_sink_fishery_demonstration_zone",
+    "id": 2245
+  },
+  {
+    "jurisdiction": "Subnational",
+    "country_or_region": "China",
+    "subnational_area": "Zhoushan, Zhejiang",
+    "language": "Chinese",
+    "year": 2018,
+    "document_title": "《国家绿色渔业实验基地建设三年行动计划（2018—2020年）》——贝类/藻类碳汇、评估标准与交易试点",
+    "source_url": "https://zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web2237/site/attach/0/37f236339f9d4faf9daf7465c62db891.pdf",
+    "notes": "舟政发〔2018〕50号由舟山市人民政府于2018年12月29日正式印发，并经市政府第29次常务会议审议通过。行动计划在“碳汇渔业”任务中明确要求：在既有舟山碳汇渔业实验区基础上开展研究，制定海洋碳汇渔业评估标准体系，联合有关机构开展碳汇市场交易试点、推进碳补偿和碳交易，并在实施安排中明确推进岛礁碳汇、贝类碳汇、藻类碳汇。本条只把原文明确点名的贝类、藻类编码为具体工程路径；“岛礁碳汇”因缺少可对应的现有严格工程路径而不强行映射。",
+    "source": "舟山市人民政府",
+    "document_type": "strategy_plan_roadmap",
+    "policy_practice_type": "policy",
+    "legal_force": "non_binding",
+    "implementation_status": "ended",
+    "status_note": "舟政发〔2018〕50号，2018年12月29日正式印发；计划期2018—2020年。",
+    "instrument_type": [
+      "accounting_methodology",
+      "mrv_standard",
+      "crediting_mechanism",
+      "demonstration_support",
+      "policy_planning_and_coordination"
+    ],
+    "policy_orientation": "enabling_supportive",
+    "once_primary_type": "standards_policy_and_carbon_trading",
+    "once_types": [
+      "standards_policy_and_carbon_trading",
+      "negative_emissions_engineering",
+      "theory_and_research"
+    ],
+    "theory_research_theme": [
+      "monitoring_observation_and_modeling",
+      "ocean_negative_emissions_science_and_technology_assessment"
+    ],
+    "engineering_family": [
+      "fishery_carbon_sink_engineering"
+    ],
+    "engineering_pathway": [
+      "shellfish_aquaculture_and_carbon_sink",
+      "macroalgae_aquaculture_and_carbon_sink"
+    ],
+    "standards_policy_market_theme": [
+      "measurement_monitoring_and_mrv",
+      "technical_standards_and_certification",
+      "carbon_crediting_and_trading",
+      "policy_planning_and_governance"
+    ],
+    "carbon_pump_mechanism": [
+      "BCP",
+      "CCP"
+    ],
+    "filter_tier": "TIER1_CORE",
+    "filter_reason": "正式市政府行动计划直接规定贝类/藻类碳汇、碳汇评估标准体系、碳市场交易试点与碳补偿，同时具有具体渔业增汇路径和制度化MRV/交易安排，属于高强度ONCE政策。",
+    "keep_core": true,
+    "keep_core_plus_enabling": true,
+    "official_once_endorsement": "none",
+    "keep_once_policy": true,
+    "once_policy_inclusion_basis": "strict_ONCE_pathway_specific_policy",
+    "once_policy_scope": "strict_core",
+    "dedicated_once_only": true,
+    "dedicated_once_selection_basis": "2018_Zhoushan_formal_action_plan_explicit_shellfish_algae_carbon_sink_MRV_and_market_pilots",
+    "id": 2246
   }
 ]
